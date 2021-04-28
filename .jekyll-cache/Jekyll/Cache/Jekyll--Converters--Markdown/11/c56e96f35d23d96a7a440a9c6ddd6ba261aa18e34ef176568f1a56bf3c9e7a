@@ -1,83 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-
-  <link rel="apple-touch-icon" sizes="180x180" href="/tufte-jekyll/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/tufte-jekyll/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/tufte-jekyll/favicon-16x16.png">
-  <link rel="mask-icon" href="/tufte-jekyll/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>What am I up to now?</title>
-  <meta name="description" content="Economics Pre-PhD Researcher">
-
-  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
-  
-    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-  
-
-  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-  
-    <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    extensions: [
-      "MathMenu.js",
-      "MathZoom.js",
-      "AssistiveMML.js",
-      "a11y/accessibility-menu.js"
-    ],
-    jax: ["input/TeX", "output/CommonHTML"],
-    TeX: {
-      extensions: [
-        "AMSmath.js",
-        "AMSsymbols.js",
-        "noErrors.js",
-        "noUndefined.js",
-      ]
-    }
-  });
-</script>
-
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
- <!--   <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-  
-
-  <link rel="stylesheet" type="text/css" href="/tufte-jekyll/css/tufte.css">
-  <!-- <link rel="stylesheet" type="text/css" href="/tufte-jekyll/css/print.css" media="print"> -->
-
-  <link rel="canonical" href="/tufte-jekyll/now/">
-
-  <link rel="alternate" type="application/rss+xml" title="Joseph Levine" href="/tufte-jekyll/feed.xml" />
-</head>
-
-  <body>
-    <!--- Header and nav template site-wide -->
-<header>
-    <nav class="group">
-      <h2>Joseph Levine</h2>
-  <nav class="sans">
-    <a href="/tufte-jekyll/">Welcome</a>
-    <a href="/tufte-jekyll/CV.pdf">CV</a>
-    <a href="/tufte-jekyll/research">Research</a>
-    <a href="/tufte-jekyll/now">Now</a>
-    <a href="/tufte-jekyll/hi">Say Hi</a>
-	</nav>
-</header>
-
-    <article class="group">
-      <h1>What am I up to now?</h1>
-<p class="subtitle"></p>
-
-
-<h2 id="april-2021">April, 2021</h2>
+I"`n<h2 id="april-2021">April, 2021</h2>
 
 <p>I’ve been living in Freetown, Sierra Leone, since January. Life here is idyllic, if your version of idyllic allows for daily power outages, the occasional dog bite, and a rooster outside your window at 4:50am<label for="margin-figure-id" class="margin-toggle">⊕</label><input type="checkbox" id="margin-figure-id" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/tufte-jekyll/assets/img/dennis.jpg" /><br />This is Dennis. It’s not clear why Dennis lives here, as we have no chickens.</span>. My favorite things about this city are the fresh pineapple, the view from my balcony the morning after a rainstorm, and the row of bars<label for="smoothie" class="margin-toggle sidenote-number"></label><input type="checkbox" id="smoothie" class="margin-toggle" /><span class="sidenote">Smoothie and otherwise </span> along the beach.</p>
 
@@ -93,8 +14,6 @@
 
 <h2 id="reading-">Reading <a name="books"></a></h2>
 
-<h3 id="books-which-i-enjoyed-this-month">Books which I enjoyed this month</h3>
-
 <p><em>How to talk about books you haven’t read, by Pierre Bayard.</em></p>
 
 <blockquote>
@@ -102,7 +21,7 @@
 </blockquote>
 
 <blockquote>
-  <p>There are many different ways to not-read, however, and Bayard surveys a half dozen of them with examples from books he hasn’t read.<label for="ground" class="margin-toggle sidenote-number"></label><input type="checkbox" id="ground" class="margin-toggle" /><span class="sidenote">And one movie — Bill Murray’s <em>Groundhog Day</em> provides the structure for one chapter on reading to impress women. </span> One form of not-reading is to force fit a book into your worldview.<label for="freud" class="margin-toggle sidenote-number"></label><input type="checkbox" id="freud" class="margin-toggle" /><span class="sidenote">What Bayard calls your <q>internal book</q> after Freud, the original post-modern psychoanalyst. </span> In excerpts from an anthropological text, an American professor explains the plot of <em>Hamlet</em> to a Tiv village in Nigeria. This does not go well: the villagers cannot distinguish between a ghost and a zombi; they protest that Gertrude’s speedy remarriage is only common sense<label for="marriage" class="margin-toggle sidenote-number"></label><input type="checkbox" id="marriage" class="margin-toggle" /><span class="sidenote"><q>Who will hoe your farms for you if you have no husband?</q> </span>; they get bogged down in genealogical details. For their internal versions of <em>Hamlet</em>, it is vitally important to know whether the late King Hamlet and Claudius have the same father.</p>
+  <p>There are many different ways to not-read, however, and Bayard surveys a half dozen of them with examples from books he hasn’t read.<label for="ground" class="margin-toggle sidenote-number"></label><input type="checkbox" id="ground" class="margin-toggle" /><span class="sidenote">And one movie — Bill Murray’s <em>Groundhog Day</em> provides the structure for one chapter on reading to impress women. </span> One form of not-reading is to force fit a book into your worldview.<label for="freud" class="margin-toggle sidenote-number"></label><input type="checkbox" id="freud" class="margin-toggle" /><span class="sidenote">What Bayard calls your <q>internal book<q> after Freud, the original post-modern psychoanalyst. &lt;/span&gt; In excerpts from an anthropological text, an American professor explains the plot of <em>Hamlet</em> to a Tiv village in Nigeria. This does not go well: the villagers cannot distinguish between a ghost and a zombi; they protest that Gertrude’s speedy remarriage is only common sense<label for="marriage" class="margin-toggle sidenote-number"></label><input type="checkbox" id="marriage" class="margin-toggle" /><span class="sidenote"><quot>Who will hoe your farms for you if you have no husband?</quot> </span>; they get bogged down in genealogical details. For their internal versions of <em>Hamlet</em>, it is vitally important to know whether the late King Hamlet and Claudius have the same father.</q></q></span></p>
 </blockquote>
 
 <blockquote>
@@ -126,7 +45,7 @@
 </blockquote>
 
 <blockquote>
-  <p>If philosophy textbooks were written like this, I fear I would have been a philosophy major. This is a silly thing to write, because the most famous philosophy books <em>are</em> written like <em>The Grasshopper</em>. It’s a retelling of Aesop’s <a href="http://read.gov/aesop/052.html">five-sentence fable</a><label for="gov" class="margin-toggle sidenote-number"></label><input type="checkbox" id="gov" class="margin-toggle" /><span class="sidenote">Does anyone have an explanation for why the US government hosts a collection of Aesop’s fables? This one feels especially dystopian. </span> in the form of Plato’s dialogues, attempting to refute Wittgenstein’s assertion that games are indefinable. The format provides a lot of the charm, but Suits’ <a href="https://en.wikipedia.org/wiki/Lusory_attitude">lusory attitude</a> is what made this one of my favorite books of 2021. Unlike philosophy textbooks, the book is hilarious<label for="bug" class="margin-toggle sidenote-number"></label><input type="checkbox" id="bug" class="margin-toggle" /><span class="sidenote">Like the eponymous character, this is both a feature and a bug. </span>. Upon returning from the dead to illustrate a point about the terminal values of game players, the Grasshopper declares that “dying was the most exasperating thing that has happened to me in my entire life.”<label for="xasp" class="margin-toggle sidenote-number"></label><input type="checkbox" id="xasp" class="margin-toggle" /><span class="sidenote">Pg. 162 </span></p>
+  <p>If philosophy textbooks were written like this, I fear I would have been a philosophy major. This is a silly thing to write, because the most famous philosophy books <em>are</em> written like <em>The Grasshopper</em>. It’s a retelling of Aesop’s <a href="http://read.gov/aesop/052.html">five-sentence fable</a><label for="gov" class="margin-toggle sidenote-number"></label><input type="checkbox" id="gov" class="margin-toggle" /><span class="sidenote">Does anyone have an explanation for why the US government hosts a collection of Aesop’s fables? For this one especially, it feels slightly dystopian. </span> in the form of Plato’s dialogues, attempting to refute Wittgenstein’s assertion that games are indefinable. The format provides a lot of the charm, but Suits’ <a href="https://en.wikipedia.org/wiki/Lusory_attitude">lusory attitude</a> is what made this one of my favorite books of 2021. Unlike philosophy textbooks, the book is hilarious<label for="bug" class="margin-toggle sidenote-number"></label><input type="checkbox" id="bug" class="margin-toggle" /><span class="sidenote">Like the eponymous character, this is both a feature and a bug. </span>. Upon returning from the dead to illustrate a point about the terminal values of game players, the Grasshopper declares that “dying was the most exasperating thing that has happened to me in my entire life.”<label for="xasp" class="margin-toggle sidenote-number"></label><input type="checkbox" id="xasp" class="margin-toggle" /><span class="sidenote">Pg. 162 </span></p>
 </blockquote>
 
 <p><em>In defense of direct action, by Ivar Harding (pseudonym)</em> and <em>How to blow up a pipeline, by Andreas Malm</em>.</p>
@@ -203,9 +122,9 @@
 
 <p>Once, about 20 minutes into a 36 hour shift at my firehouse, I realized I had left my headphones at home. The next hour felt like this:</p>
 
-<iframe width="420" height="315" src="https://youtube.com/embed/H9F0RzKBowc?start=80&amp;end=93" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="420" height="315" src="https://youtu.be/embed/H9F0RzKBowc?t=78" frameborder="0" allowfullscreen=""></iframe>
 
-<p>Thankfully, later that night we went to a housefire down the block from my parents house, and I was able to drop in and grab a pair of earbuds<label for="ambo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="ambo" class="margin-toggle" /><span class="sidenote">After my ambulance was no longer needed. </span>. But the prospect of going that long without anything to listen to was not fun.</p>
+<p>Thankfully, later that night we went to a housefire down the block from my parents house, and I was able to drop in and grab a pair of earbuds<label for="ambo" class="margin-toggle sidenote-number"></label><input type="checkbox" id="ambo" class="margin-toggle" /><span class="sidenote">Only after my ambulance was no longer needed, of course. </span>. But the prospect of going that long without anything to listen to was not fun.</p>
 
 <p>I brought three pairs of headphones to Freetown, as a precaution. Headphones are available for sale here, of course, but I have unfortunately become an audiophile and a snob<label for="snob" class="margin-toggle sidenote-number"></label><input type="checkbox" id="snob" class="margin-toggle" /><span class="sidenote">Only in headphones, though. I shocked a French roommate once by putting Kraft singles on my pasta, because it was the only cheese we had. </span>. Two of the pairs are still going strong. My wired earbuds lost the treble on the left side in early April, which was a blow. Things will only start to look bad when I’m down to my last pair.</p>
 
@@ -214,7 +133,7 @@
 <p><em>Live, Nik Bärtsch</em></p>
 
 <blockquote>
-  <p>I’ve never understood how jazz composers choose the names for some of their pieces. It’s not a universal problem: many standards from <em>The Real Book</em> fit their names perfectly.<label for="real" class="margin-toggle sidenote-number"></label><input type="checkbox" id="real" class="margin-toggle" /><span class="sidenote"><q>Desert Air</q>, <q>Black Orpheus</q>, <q>Giant Steps</q> all fit their names perfectly. A short and fascinating history of <em>The Real Book</em> was featured in <a href="https://99percentinvisible.org/episode/the-real-book/">99 Percent Invisible</a> recently. </span> But for a lot of “art jazz”, the track names on an album can apparently be randomized. Wayne Shorter’s <em>Speak No Evil</em> comes to mind, but is definitely not the worst offender. My favorite part of my two trips to <em>Jazz at Lincoln Center</em> was that artists, more often than not, would introduce a piece with their motivation and intuition for it, rather than just the title.</p>
+  <p>I’ve never understood how jazz composers choose the names for some of their pieces. It’s not a universal problem: many standards from <em>The Real Book</em> fit their names perfectly.<label for="real" class="margin-toggle sidenote-number"></label><input type="checkbox" id="real" class="margin-toggle" /><span class="sidenote"><quot>Desert Air</quot>, <quot>Black Orpheus</quot>, <quot>Giant Steps</quot> all fit their names perfectly. A short and fascinating history of <em>The Real Book</em> was featured in <a href="https://99percentinvisible.org/episode/the-real-book/">99 Percent Invisible</a> recently. </span> But for a lot of “art jazz”, the track names on an album can apparently be randomized. Wayne Shorter’s <em>Speak No Evil</em> comes to mind, but is definitely not the worst offender. My favorite part of my two trips to <em>Jazz at Lincoln Center</em> was that artists, more often than not, would introduce a piece with their motivation and intuition for it, rather than just the title.</p>
 </blockquote>
 
 <blockquote>
@@ -222,7 +141,7 @@
 </blockquote>
 
 <blockquote>
-  <p>The album is complex and funkish without ever being overwhelming. I listened to <em>Live</em> right after listening to Sam Brady Long’s <em>Satie, Dilated</em>, in which Long reconfigures the Gymnopédies at 1/5th speeds.<label for="satie" class="margin-toggle sidenote-number"></label><input type="checkbox" id="satie" class="margin-toggle" /><span class="sidenote">As expected, this was great to fall asleep to. </span> Coming off of that that, I was worried that an album branded as “minimalist Alpine jazz” would be too static or dull. But the minimalism is mostly present in Bärtsch’s keyboard; the backing players, especially Björn Meyer on bass, keep the album flowing quickly.</p>
+  <p>The album is complex and funkish without ever being overwhelming. I listened to <em>Live</em> right after listening to Sam Brady Long’s <em>Satie, Dilated</em>, in which Long reconfigures the Gymnopédies at 1/5th speeds.<label for="satie" class="margin-toggle sidenote-number"></label><input type="checkbox" id="satie" class="margin-toggle" /><span class="sidenote">As expected, excellent to fall asleep to. </span> Coming off of that that, I was worried that an album branded as “minimalist Alpine jazz” would be too static or dull. But the minimalism is mostly present in Bärtsch’s keyboard; the backing players, especially Björn Meyer on bass, keep the album flowing quickly.</p>
 </blockquote>
 
 <blockquote>
@@ -241,17 +160,12 @@
 
 <p>Here are some other albums I listened to for the first time this month. I really enjoyed each one; if this makes you think of any recommendations, please send them along!</p>
 <blockquote>
-  <p><em>Civilian</em>, Wye Oak</p>
-
-  <p><em>Good Hope</em>, Dave Holland, Zakir Hussain<label for="zakir" class="margin-toggle sidenote-number"></label><input type="checkbox" id="zakir" class="margin-toggle" /><span class="sidenote">My Spotify top artist of 2020. </span>, and Chris Potter</p>
-
-  <p><em>Fetch the Bolt Cutters</em>, Fiona Apple</p>
-
-  <p><em>Begin Again</em>, Fred Hersch (with the WDR Big Band)</p>
-
-  <p><em>Homecoming: The Live Album</em>, Beyoncé</p>
-
-  <p><em>Soundtrack to Color Out of Space</em>, Colin Stetson</p>
+  <p><em>Civilian</em>, Wye Oak
+<em>Good Hope</em>, Dave Holland, Zakir Hussain<label for="zakir" class="margin-toggle sidenote-number"></label><input type="checkbox" id="zakir" class="margin-toggle" /><span class="sidenote">My Spotify top artist of 2020. </span>, and Chris Potter
+<em>Fetch the Bolt Cutters</em>, Fiona Apple
+<em>Begin Again</em>, Fred Hersch (with the WDR Big Band)
+<em>Homecoming: The Live Album</em>, Beyoncé
+<em>Soundtrack to Color Out of Space</em>, Colin Stetson</p>
 </blockquote>
 
 <h2 id="writing-">Writing <a name="writing"></a></h2>
@@ -264,7 +178,7 @@
 
 <h2 id="eating-">Eating <a name="food"></a></h2>
 
-<p>While I was living in India, I had a secret. It’s the kind of secret that will make your Indian friends stop being your friends. I successfully lived in Kolkata, Bangalore, and Lucknow for <em>months</em> with no one ever discovering that I don’t like mango.</p>
+<p>While I was living in India, I had a secret. It’s the kind of secret that will lose you friends in India. I successfully lived in Kolkata, Bangalore, and Lucknow for <em>months</em> with no one ever discovering that I don’t like mango.</p>
 
 <p>I don’t hate mango, per se. It’s fine, I guess. It goes great in smoothies! But I just can’t muster any enthusiasm for the fruit. In Freetown, my ambivalence doesn’t matter, though, because the pineapple here is amazing.</p>
 
@@ -273,13 +187,4 @@
 <p>Anyone in the pineapple business has it rough; I won’t hold this against them. Pineapples take almost two years to reach maturity, and those leaves are damn pointy. By now, I’m pretty sure that half of the women running fruit stands along western Freetown’s main road recognize me as an easy mark to offload past-ripe produce onto. I’m a willing dupe: I’m still chasing that pineapple high. And at some point I’m going to figure out how to choose a decent one for myself.</p>
 
 <h2 id="previously">Previously</h2>
-
-
-    </article>
-    <span class="print-footer">What am I up to now? - Joseph Levine</span>
-    <footer>
-  <hr class="slender">
-</footer>
-
-  </body>
-</html>
+:ET
