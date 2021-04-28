@@ -5,8 +5,8 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>/tufte-jekyll/</link>
     <atom:link href="/tufte-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 19:03:34 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 19:03:34 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Apr 2021 11:44:12 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Apr 2021 11:44:12 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -275,10 +275,7 @@ using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are n
 
 &lt;p&gt;Example of the proper way to write an url inside a &lt;em&gt;Liquid&lt;/em&gt; full-width image tag.&lt;/p&gt;
 
-&lt;p&gt;This code: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{% fullwidth &quot;assets/img/rhino.png&quot; &quot;Tuftes pet rhino (via &amp;lt;a href=\&quot;//www.edwardtufte.com/tufte/\&quot;&amp;gt;Edward Tufte&amp;lt;/a&amp;gt;)&quot;  %}&lt;/code&gt;&lt;/p&gt;
-
 &lt;p&gt;produces the following image with a title. Notice that I have had to escape the double quotes in the HTML with a backslash. Also, the example above leaves out the single quote in ‘Tufte’s” because of the topsy-turvy way that you have to escape the escapes in code sections that are used for illustrative purposes in this text. Bottom line is that there are occasionally some odd interactions between the Markdown parser, custom &lt;em&gt;Liquid&lt;/em&gt; tags and HTML.&lt;/p&gt;
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/tufte-jekyll/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Mon, 13 Apr 2020 17:04:01 +0000</pubDate>
         <link>/tufte-jekyll/articles/20/Edge-Cases</link>
