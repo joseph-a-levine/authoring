@@ -87,17 +87,17 @@ Once, about 20 minutes into a 36 hour shift at my firehouse, I realized I had le
 
 <iframe width="420" height="315" src="https://youtube.com/embed/H9F0RzKBowc?start=80&end=93" frameborder="0" allowfullscreen></iframe>
 
-Thankfully, later that night we went to a housefire down the block from my parents house, and I was able to drop in and grab a pair of earbuds{% sidenote "ambo" "After my ambulance was no longer needed." %}. But the prospect of going that long without anything to listen to was not fun.
+Thankfully, later that night we went to a housefire down the block from my parents house, and I was able to drop in and grab a pair of earbuds.{% sidenote "ambo" "After my ambulance was no longer needed." %} But the prospect of going that long without anything to listen to was not fun.
 
-I brought three pairs of headphones to Freetown, as a precaution. Headphones are available for sale here, of course, but I have unfortunately become an audiophile and a snob{% sidenote "snob" "Only in headphones, though. I shocked a French roommate once by putting Kraft singles on my pasta, because it was the only cheese we had." %}. Two of the pairs are still going strong. My wired earbuds lost the treble on the left side in early April, which was a blow. Things will only start to look bad when I'm down to my last pair.
+I brought three pairs of headphones to Freetown, as a precaution. Headphones are available for sale here, of course, but I have unfortunately become an audiophile and a snob.{% sidenote "snob" "Only in headphones, though. I shocked a French roommate once by putting Kraft singles on my pasta, because it was the only cheese we had." %} Two of the pairs are still going strong. My wired earbuds lost the treble on the left side in early April, which was a blow. Things will only start to look bad when I'm down to my last pair.
 
 Here are some things I've listened to and enjoyed recently.
 
 *Live, Nik Bärtsch*
 
-> I've never understood how jazz composers choose the names for some of their pieces. It's not a universal problem: many standards from *The Real Book* fit their names perfectly.{% sidenote "real" "<q>Desert Air</q>, <q>Black Orpheus</q>, <q>Giant Steps</q> all fit their names perfectly. A short and fascinating history of *The Real Book* was featured in [99 Percent Invisible](https://99percentinvisible.org/episode/the-real-book/) recently." %} But for a lot of "art jazz", the track names on an album can apparently be randomized. Wayne Shorter's *Speak No Evil* comes to mind, but is definitely not the worst offender. My favorite part of my two trips to *Jazz at Lincoln Center* was that artists, more often than not, would introduce a piece with their motivation and intuition for it, rather than just the title.
+> I've never understood how jazz composers choose the names for some of their pieces. It's not a universal problem: many standards from *The Real Book* fit their names perfectly.{% sidenote "real" "<q>Desert Air</q>, <q>Black Orpheus</q>, <q>Giant Steps</q> all fit their names perfectly. A short and fascinating history of *The Real Book* was featured in [99 Percent Invisible](https://99percentinvisible.org/episode/the-real-book/) recently." %} But for a lot of "art jazz", the track names on an album can apparently be randomized. Wayne Shorter's *Speak No Evil* comes to mind, but is definitely not the worst offender. My favorite part of my two trips to *Jazz at Lincoln Center* was that artists, more often than not, would introduce a piece with their motivation and intuition for it, beyond just the title.
 
-> This is just a pet peeve. But I really do appreciate it when artists lean the other way. Tracks on Nik Bärtsch's 2012 *Live* are named like my variables in Python: ever track is entitled "Modul $int", except for the lead track, "Modul 41_17". As best the listener can tell, these modules were uploaded directly from the live session to the record label.
+> This is just a pet peeve. But I really do appreciate it when artists embrace the absurdity of naming unnameable tracks. Tracks on Nik Bärtsch's 2012 *Live* are named like my variables in Python: ever track is entitled "Modul $int", except for the lead track, "Modul 41_17". As best the listener can tell, these modules were uploaded directly from the live session to the record label.
 
 > The album is complex and funkish without ever being overwhelming. I listened to *Live* right after listening to Sam Brady Long's *Satie, Dilated*, in which Long reconfigures the Gymnopédies at 1/5th speeds.{% sidenote "satie" "As expected, this was great to fall asleep to." %} Coming off of that that, I was worried that an album branded as "minimalist Alpine jazz" would be too static or dull. But the minimalism is mostly present in Bärtsch's keyboard; the backing players, especially Björn Meyer on bass, keep the album flowing quickly.
 
@@ -105,14 +105,14 @@ Here are some things I've listened to and enjoyed recently.
 
 *21*, Adele
 
-> My association with this album was bus rides to middle school with my good friend Lucas, which is odd because it didn't come out until we were in high school. Despite its age, the album, and Adele, remain relevant in pop ballads released today. Demi Lovato today sounds a closer to 2011 Adele than 2011 Demi Lovato.
+> My association with this album was bus rides to middle school with my good friend Lucas, which is odd because it didn't come out until we were in high school. Despite its age, the album remains relevant in pop ballads released today. Demi Lovato today sounds a closer to 2011 Adele than 2011 Demi Lovato.
 
-> I could sing along to seven of the eleven tracks; this record had shocking radio presence at the time{% sidenote "radio" "Who pays attention to this anymore? The aux cord killed the radio star. In Freetown, the hot radio tracks are "Down" by Jay Sean and something by Hot Chelle Rae." %}. Two late-album tracks which I didn't recognize aged especially well: the funkish "I'll Be Waiting" and the noir "He Won't Go".
+> I could sing along to seven of the eleven tracks; this record had shocking radio presence at the time.{% sidenote "radio" "Who pays attention to this anymore? The aux cord killed the radio star. In Freetown, the hot radio tracks are <q>Down</q> by Jay Sean and something by Hot Chelle Rae." %} Two late-album tracks which I didn't remember aged especially well: the funkish "I'll Be Waiting" and the noir "He Won't Go".
 
 Here are some other albums I listened to for the first time this month. I really enjoyed each one; if this makes you think of any recommendations, please send them along!
 > *Civilian*, Wye Oak
 >
-> *Good Hope*, Dave Holland, Zakir Hussain{% sidenote "zakir" "My Spotify top artist of 2020." %}, and Chris Potter
+> *Good Hope*, Dave Holland, Zakir Hussain,{% sidenote "zakir" "My Spotify top artist of 2020." %} and Chris Potter
 >
 > *Fetch the Bolt Cutters*, Fiona Apple
 >
