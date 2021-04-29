@@ -73,7 +73,7 @@ I've been living in Freetown, Sierra Leone, since January. Life here is idyllic,
 
 > The whole time I was reading this book, I thought it was science fiction. Only when I went to upload my Kindle highlights did I realize that the plot had not a single science-fictional or fantastical element. It was just a novel. If anything, this a sign that our genre classifications are broken, so I'm still classifying it as science fiction.
 
-> Reminded me a lot of Cory Doctorow's writing.
+> The writing reminded me a lot of Cory Doctorow.
 
 *Beatrice and Virgil, by Yann Martel*.
 
@@ -97,7 +97,7 @@ Here are some things I've listened to and enjoyed recently.
 
 > I've never understood how jazz composers choose the names for some of their pieces. It's not a universal problem: many standards from *The Real Book* fit their names perfectly.{% sidenote "real" "<q>Desert Air</q>, <q>Black Orpheus</q>, <q>Giant Steps</q> all fit their names perfectly. A short and fascinating history of *The Real Book* was featured in [99 Percent Invisible](https://99percentinvisible.org/episode/the-real-book/) recently." %} But for a lot of "art jazz", the track names on an album can apparently be randomized. Wayne Shorter's *Speak No Evil* comes to mind, but is definitely not the worst offender. My favorite part of my two trips to *Jazz at Lincoln Center* was that artists, more often than not, would introduce a piece with their motivation and intuition for it, rather than just the title.
 
-> This is just a pet peeve. But I really do appreciate it when artists lean the other way. Tracks on Nik Bärtsch's 2012 *Live* are named like variables I code in Python: ever track is entitled "Modul $int", except for the lead track, "Modul 41_17". As best the listener can tell, these modules were uploaded directly from the live session to the record label.
+> This is just a pet peeve. But I really do appreciate it when artists lean the other way. Tracks on Nik Bärtsch's 2012 *Live* are named like my variables in Python: ever track is entitled "Modul $int", except for the lead track, "Modul 41_17". As best the listener can tell, these modules were uploaded directly from the live session to the record label.
 
 > The album is complex and funkish without ever being overwhelming. I listened to *Live* right after listening to Sam Brady Long's *Satie, Dilated*, in which Long reconfigures the Gymnopédies at 1/5th speeds.{% sidenote "satie" "As expected, this was great to fall asleep to." %} Coming off of that that, I was worried that an album branded as "minimalist Alpine jazz" would be too static or dull. But the minimalism is mostly present in Bärtsch's keyboard; the backing players, especially Björn Meyer on bass, keep the album flowing quickly.
 
@@ -128,7 +128,7 @@ On my first day as a consultant in 2019, someone joked that I didn't have to dow
 
 Now, in a research position suspended between academia and NGOs, I often work in the opposite direction. After weeks of research, data collection, and analysis, we sit down and write. Only after producing a report or working paper can we make the slide decks.
 
-In mid-April, two of my working papers were accepted for presentation at at the American Political Science Association's meeting in October. Although my former professor and research advisor S.P. Harish has shepherded me through the process for one of these papers, I'll be presenting both of them in Seattle this fall! Over the next few months, I'll be spending a lot of time getting these two presentations down pat.
+In mid-April, two of my working papers were accepted for presentation at at the American Political Science Association's meeting in October. My former professor and research advisor S.P. Harish has shepherded me through the process for one of these papers, but I'll be presenting both of them in Seattle this fall! Over the next few months, I'll be spending a lot of time getting these two presentations down pat.
 
 ## Eating <a name="food"></a>
 
