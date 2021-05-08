@@ -4,7 +4,7 @@ title: What am I up to now?
 ---
 
 
-## April, 2021
+## May, 2021
 
 I've been living in Freetown, Sierra Leone, since January. Life here is idyllic, if your definition of idyllic allows for daily power outages, the occasional dog bite, and a rooster outside your window at 4:50am.{% marginfigure "margin-figure-id" "assets/img/dennis.jpg" "This is Dennis. It's not clear why Dennis lives here, as we have no chickens." %} My favorite things about this city are the fresh pineapple, the view from my balcony the morning after a rainstorm, and the row of bars along the beach.
 
