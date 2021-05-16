@@ -13,6 +13,10 @@ As of 2021-04-25, the _includes\header file individually lists out each page I w
 I'm just going for aesthetics here. I should probably customize the fonts at some point to get everything looking like I want it to, but this is fine. If you can think of a better way to get the abstracts and titles and co-authors to line up well, go for it by all means. 
 
 
+## Now page
+
+What the heck am I doing, this should be a proper blog. But no i'm going super static.
+
 ## Favicon
 
 Used this website to generate the favicon and i *followed the instructions*. https://realfavicongenerator.net/faq#.YIZ3LpD7Q2w
