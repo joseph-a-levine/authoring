@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## July, 2021
 
-The rainy season has arrived in Freetown, and I'm leaving. I will be in and around DC 7 July to 3 August, with short trips up to New York and Connecticut; if anyone wants to say hi, shoot me a text or an email.{% sidenote "cell" "My cell is (240) 370-8956. I wasn't going to put this on the internet, but then I figured I can't get any more spam calls than I already do. Somehow, the collectors on my fake student loans have followed me to West Africa." %} 
+The rainy season has arrived in Freetown, and I'm leaving. I will be in and around DC from 7 July to 3 August, with short trips up to New York and Connecticut; if you'd like to say hi, shoot me a text or an [email](https://jablevine.com/hi).{% sidenote "cell" "My cell is (240) 370-8956. I wasn't going to put this on the internet, but then I figured I can't get any more spam calls than I already do. Somehow, the collectors on my fake student loans have followed me to West Africa." %} 
 
 Book reviews are abbreviated this month, as I've been doing a lot more writing than reading. 
 
