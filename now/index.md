@@ -75,13 +75,15 @@ I'm circulating a draft of my paper on the [long reflection](https://forum.effec
 
 Nothing much to add on food; I'm looking forward to decent Chinese food and bagels when I'm back in the States. 
 
-To make up for it, here's one of my favorite econ papers of the 2010s, from [Nathan Nunn](https://scholar.harvard.edu/files/nunn/files/nunn_qian_qje_2011.pdf): 
+To make up for it, here are two of my favorite econ papers on the economic history of food. First, from Nathan Nunn, "[The potato's contribution to population and urbanization](https://jablevine.com/papers/nunn_potatos_2011.pdf)."
 
 > According to our most conservative estimates, the introduction of the potato accounts for approximately one-quarter of the growth in Old World population and urbanization between 1700 and 1900.
 
 > To the extent that urbanization serves as a measure of the shift from rural agriculture to urban manufacturing, our estimates also provide historic evidence of the importance of agricultural productivity for economic development. According to our estimates, the introduction of the potato explains 47% of the post-1700 increase in the average urbanization rate. Our estimates suggest that increased agricultural productivity can play a signiﬁcant part in promoting the rise of urban centers, industry, and economic development.
 
 The paper has very fun methods, if you're into that sort of thing, and provides a new appreciation for starches. 
+
+Second, "[The Ocean's Hot Dog: The Development of the Fish Stick](https://jablevine.com/papers/josephson_fishstick_2008.pdf)" by Paul Josephson. If food were to be competing for status, this paper would lower the status of hot dogs and raise that of fish sticks. 
 
 ## Previously
 
