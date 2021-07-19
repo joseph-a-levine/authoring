@@ -21,9 +21,9 @@ Book reviews are abbreviated this month, as I've been doing a lot more writing t
 
 ## Reading <a name="books"></a>
 
-The first "serious" history book I read was McCullough's "[1776](https://smile.amazon.com/1776-David-McCullough/dp/0743226712)," which I found under a friend's bed during a middle school sleepover. Since then, it's always surprised me when history books carry over from December 31<sup>st</sup> of one year to January 1st of the next. To a sixth-grader memorizing dates and places, the year is the natural unit of historical analysis. 
+The first "serious" history book I read was McCullough's "[1776](https://smile.amazon.com/1776-David-McCullough/dp/0743226712)," which I found under a friend's bed during a middle school sleepover. Since then, it's always surprised me when history books carry over from December 31<sup>st</sup> of one year to January 1<sup>st</sup> of the next. To a sixth-grader memorizing dates and places, the year is the natural unit of historical analysis.
 
-A year is also convenient. It's *convenient* that in 1968 the Tet Offensive kicked off in January and the first men arrived at the moon on Christmas Eve. 2020 had a Joycean story arc.
+A year is convenient. It's *convenient* that in 1968 the Tet Offensive kicked off in January and the first men arrived at the moon on Christmas Eve. 2020 had a Joycean story arc.
 
 Ray Huang's "[1587, a Year of No Significance](https://smile.amazon.com/1587-Year-No-Significance-Dynasty/dp/0300028849)" has an irresistible title. Huang presents a snapshot of the declining Ming Dynasty in an entirely inconsequential year. The year has no convenient plot elements; no coups, no new emperor, no plague or invasion.
 
@@ -41,9 +41,9 @@ Another literary year was 1606, covered in James Shapiro in his "[Year of Lear](
 
 If a year is too short to really grasp an era of history, how about 38 minutes? The best book on history I've read this year is "[Anatomy of a Moment](https://smile.amazon.com/Anatomy-Moment-Thirty-five-Minutes-Imagination-ebook/dp/B0055RSU1O)" by Javier Cercas. Cercas attempted to write a novel about the 1981 Spanish coup, but failed upwards into a brilliantly researched and written account of the crisis and its personalities. I'll return to this book in a couple of months, when I post a massive review of George Orwell's works; Cercas succeeds at something Orwell attempts in "Homage to Catalonia": making obscure Spanish leftist internecine conflict interesting.
 
-Away from history, I sped through "[Foundations of Astronomy](https://smile.amazon.com/Foundations-Astronomy-Michael-Seeds/dp/1337399922)," the highest rated introductory textbook on the subject. I finally learned what a parsec is, and plan to remember this time.
+Away from history, I sped through "[Foundations of Astronomy](https://smile.amazon.com/Foundations-Astronomy-Michael-Seeds/dp/1337399922)," the highest-rated introductory textbook on the subject. I finally learned what a parsec is, and plan to remember this time.
 
-In fiction, I've just finished Eco's "The Name of the Rose," and have no comments yet other than a vague thumbs up. I've been binging Jhumpa Lahiri's fiction and translation work over the past few weeks, and will soon have thoughts to share on Bengali cuisine, the immigrant experience, Rhode Island, and what it means to describe illness across languages.
+In fiction, I've just finished Eco's "The Name of the Rose," and have no comments yet other than a vague thumbs up. I've been binging Jhumpa Lahiri's fiction and translation work over the past few weeks, and will soon have thoughts to share on Bengali cuisine, the immigrant experience, Rhode Island, and what it means to describe illness across languages.{% sidenote "typh" "See my [recent attempts](https://jablevine.com/older/june_2021) trying to explain the difference between typhoid and typhus to linguistically-conceited Germans." %}
 
 The most pleasantly surprising fiction I've read this year was "[The Greenhouse](https://smile.amazon.com/Greenhouse-Audur-Ava-Olafsdottir-ebook/dp/B004Z2QORW)" by Auður Ava Ólafsdóttir. Of all the flavors of European existentialism, Icelandic might be my favorite: it's one-third sex, one-third death, and one-third gardening:
 
