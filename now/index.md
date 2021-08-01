@@ -4,11 +4,9 @@ title: What am I up to now?
 ---
 
 
-## July, 2021
+## August, 2021
 
-The rainy season has arrived in Freetown, and I'm leaving. I will be in and around DC from 7 July to 3 August, with short trips up to New York and Connecticut; if you'd like to say hi, shoot me a text or an [email](https://jablevine.com/hi).{% sidenote "cell" "My cell is (240) 370-8956. I wasn't going to put this on the internet, but then I figured I can't get any more spam calls than I already do. Somehow, the collectors on my fake student loans have followed me to West Africa." %}
-
-Book reviews are abbreviated this month, as I've been doing a lot more writing than reading.
+I'm flying back into Freetown on 4 August; I'll be here likely through the end of the year. Being back in DC was great; I had access to decent food, lots more books, and lots of friends and family. I saw almost everyone I wanted to see.{% sidenote "friends" "Charlie, Renata, and Elie, I'm sure you'll come visit me in Sierra Leone to make up for it!" %}
 
 ## Contents
 1. [Reading](#books)
