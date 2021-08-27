@@ -6,15 +6,15 @@ title: What am I up to now?
 
 ## August, 2021
 
-I don't really know what's going on in Afghanistan. Having visited twice, I'm the go-to expert for questions from grandparents, uncles, and family friends. I don't mind; I'm happy to share my memories{% sidenote "slide" "I've got a pretty good slide show, too." %}. But I'd like to put my ignorance on the record. 
+I don't really know what's going on in Afghanistan. Having visited twice, I'm the go-to expert for questions from grandparents, uncles, and family friends. I don't mind; I'm happy to share my experiences, even if they don't provide any insight into gepolitics.{% sidenote "slide" "I've got a pretty good slide show, too." %} But I'd like to put my ignorance on the record. 
 
-Most of my time in the country was spent in the Panjshir valley, now featured on CNN as the last stand against the Taliban. Any resistance—organized or not—against the new regime will be organized or supplied from this small province north of Kabul. The valley, with a population of less than 200,000, has played host to human conflict for  at least the whole period my high school history classes covered. {% marginfigure "missile_cone" "assets/img/missile_cone.jpg" "Panjshiri traffic cone." %}Alexander the Great passed through on his way to and from India, and Tamerlane camped in the field where provincial football stadium now stands. Along the main highway, kids have turned burned-out Russian tanks into playgrounds; the tailcone of MiG-dropped gravity bombs are used as traffic cones. And there are so many discarded artillery shells from various occupiers that Panjshiris use them in construction.{% marginfigure "roof" "assets/img/shell_roof.jpg" "The support beams in the roof are disarmed tank shells, leftover from the Soviet invasion." %}
+Most of my time in the country was spent in the Panjshir valley, now featured on CNN as the last stand against the Taliban. Any resistance—organized or not—against the new regime will be organized or supplied from this small province north of Kabul. The valley, with a population of less than 200,000, has played host to human conflict for  at least the whole period my high school history classes covered. {% marginfigure "missile_cone" "assets/img/missile_cone.jpg" "Panjshiri traffic cone." %}Alexander the Great passed through on his way to and from India, and Tamerlane camped in the field where provincial football stadium now stands. Along the main highway, kids have turned burned-out Russian tanks into playgrounds; the tailcones of MiG-dropped gravity bombs are used as traffic cones. And there are so many discarded artillery shells from various occupiers that Panjshiris use them in construction.{% marginfigure "roof" "assets/img/shell_roof.jpg" "The support beams in the roof are disarmed tank shells, leftover from the Soviet invasion." %}
 
-My experience there gives me a fair view of the future of the country, but practically no insight into how the Afghan security forces collapsed so quickly. 
+If there's one thing I've gained from the disaster of the past month, it's a realistic view of what we as social scientists can and can't do. Nation building, as a project, failed. This was not for a shortage of expertise. The Pentagon was focused on shoring up Afghan capabilities as early as 2004, and brought in academics and subject matter experts to make a plan. I've met dozens of members of the Provincial Reconstruction Teams; each one was a smart, dedicated person who believed they were going to leave their corner of Afghanistan stronger than they found it. The expertise wasn't limited to the Americans: former President Ashraf Ghani co-authored a book called "Fixing Failed States"! Despite this mountain of diplomas, Afghanistan crumbled over one weekend. 
 
-The past month has made it clear what do-gooders can achieve, and what they can't. Health outcomes are spectacular; political outcomes were not. 
+Health outcomes are spectacular; political outcomes were not. 
 
-Book reviews are abbreviated this month, as I've been doing a lot more writing than reading.
+As Justin Sandfeur of CGD [commented](https://twitter.com/JustinSandefur/status/1430925532477153290), "we don't know how to build nations. We do know how to reduce infant and maternal mortality."
 
 ## Contents
 1. [Reading](#books)
@@ -26,6 +26,8 @@ Book reviews are abbreviated this month, as I've been doing a lot more writing t
 
 
 ## Reading <a name="books"></a>
+
+To start on the Afghan theme, I'll throw one of my old favorites out there. After my friend John Gerlaugh invited me on the first trip to Panjshir in 2017, I picked up "A Short Walk in the Hindu Kush,"{% sidenote "economist" "Referenced in the title of [this excellent and important graph](https://www.economist.com/img/b/1000/495/90/sites/default/files/images/print-edition/20210821_FBC907.png) from The Economist." %} a 
 
 As I mentioned a [couple of months ago](https://jablevine.com/older/june_2021), I do all of my reading in Sierra Leone on my Kindle. The days when a year of field research means "[little or no access to books](https://marginalrevolution.com/marginalrevolution/2008/07/which-books-to.html)"  are gone, thanks to epubs and mobis. Unfortunately, not all books are available as as ebooks. So I took advantage of the only permanent address I have, and ordered a couple dozen books to my parents house in Maryland. Here are some of the highlights I brought back with me. 
 
