@@ -14,11 +14,11 @@ If there's one thing I've gained from the disaster of the past month, it's a rea
 
 That's what we can't do. What can we do? 
 
-{% maincolumn "assets/img/af_mort.jpg" "[Source](https://doi.org/10.1016/S2214-109X). Between 2003 and 2015, child mortality in Afghanistan fell by 29 percent. Maternal mortality fell from 1,140 per 100,000 (>50x the US rate) in 2005 to 638 per 100,000 in 2017." %}
+{% maincolumn "assets/img/af_mort.jpg" "[Source](https://doi.org/10.1016/S2214-109X). Between 2003 and 2015, child mortality in Afghanistan fell by 29 percent. Maternal mortality fell from 1,140 per 100,000 (>50x the US rate) in 2000 to 427 per 100,000 in 2017." %}
 
-The US occupation doesn't deserve credit for this as much as the pre-2001 Taliban deserves blame. There was so much low-hanging fruit 
+The US occupation doesn't deserve credit for this as much as the pre-2001 Taliban government deserves blame. There was so much low-hanging fruit that these improvements that progress was inevitable once international aid started to flow into Afghanistan. But if aid is cut off and international organizations pull out once again, these trends could head in the wrong direction. 
 
-As Justin Sandfeur of CGD [commented](https://twitter.com/JustinSandefur/status/1430925532477153290), "we don't know how to build nations. We do know how to reduce infant and maternal mortality." This gets to the heart of why we opposing Taliban rule is important. Afghans under the Taliban are worse off: they die younger, their children are sicker, and 
+As Justin Sandfeur of CGD [commented](https://twitter.com/JustinSandefur/status/1430925532477153290), "we don't know how to build nations. We do know how to reduce infant and maternal mortality." This gets to the heart of why we opposing Taliban rule is important. Afghans under the Taliban are worse off: they will die younger, their children will be sicker, and they will have less agency over their own lives. 
 
 ## Contents
 1. [Reading](#books)
