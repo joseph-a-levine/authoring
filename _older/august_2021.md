@@ -31,7 +31,9 @@ As Justin Sandfeur of CGD [commented](https://twitter.com/JustinSandefur/status/
 
 ## Reading <a name="books"></a>
 
-To start on the Afghan theme, I'll throw one of my old favorites out there. After my friend John Gerlaugh invited me on the first trip to Panjshir in 2017, I picked up "A Short Walk in the Hindu Kush,"{% sidenote "economist" "Referenced in the title of [this excellent and important graph](https://www.economist.com/img/b/1000/495/90/sites/default/files/images/print-edition/20210821_FBC907.png) from The Economist." %} a 
+To start on the Afghan theme, I'll throw one of my old favorites out there. After my friend John Gerlaugh invited me on the first trip to Panjshir in 2017, I picked up "A Short Walk in the Hindu Kush,"{% sidenote "economist" "Referenced in the title of [this excellent and important graph](https://www.economist.com/img/b/1000/495/90/sites/default/files/images/print-edition/20210821_FBC907.png) from The Economist." %} Eric Newby's short travel book about a London clothes salesman (Newby) and a diplomatic friend attempting to climb Mir Samir, the highest unclimbed peak in the Panjshir, in 1956. As neither had never before attempted to climb anything taller than a stepstool, they fail, repeatedly and hilariously. Evelyn Waugh's preface described it as "intensely English," and, sure, the confidence had to come from somewhere. If it's any consolation, Mir Samir has only been summited once since, despite dozens of attempts. This is as close as I ever got: 
+
+{% maincolumn "assets/img/mir_samir.jpg" "" %}
 
 As I mentioned a [couple of months ago](https://jablevine.com/older/june_2021), I do all of my reading in Sierra Leone on my Kindle. The days when a year of field research means "[little or no access to books](https://marginalrevolution.com/marginalrevolution/2008/07/which-books-to.html)"  are gone, thanks to epubs and mobis. Unfortunately, not all books are available as as ebooks. So I took advantage of the only permanent address I have, and ordered a couple dozen books to my parents house in Maryland. Here are some of the highlights I brought back with me. 
 
