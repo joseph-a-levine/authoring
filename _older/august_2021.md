@@ -16,6 +16,7 @@ That's what we can't do. What can we do?
 
 {% fullwidth "assets/img/af_mort.png" "Source. Between 2003 and 2015, child mortality in Afghanistan fell by 29 percent. Maternal mortality fell from 1,140 per 100,000 (>50x the US rate) in 2005 to 638 per 100,000 in 2017. " %}
 
+The US occupation doesn't deserve credit for this as much as the pre-2001 Taliban deserves blame. There was so much low-hanging fruit 
 
 As Justin Sandfeur of CGD [commented](https://twitter.com/JustinSandefur/status/1430925532477153290), "we don't know how to build nations. We do know how to reduce infant and maternal mortality." This gets to the heart of why we opposing Taliban rule is important. Afghans under the Taliban are worse off: they die younger, their children are sicker, and 
 
