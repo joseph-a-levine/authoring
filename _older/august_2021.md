@@ -76,13 +76,13 @@ The overall winner, however, has to be The Westerlies' "**Wherein Lies the Good*
 
 Finally, being within a three-hour time difference of San Francisco, I was able to listen to many more Giant's games than from Freetown. I was too young to remember, but Jon Miller was the first voice of baseball I heard. Miller broadcast Orioles games until 1997, when he moved to San Francisco. I've listened to him call games from Scotland, Afghanistan, Kolkata, and Sierra Leone. 
 
-I remember one Miller anecdote particularly well. During the 2012 Giants World Series run, my high school English teacher had assigned "Macbeth," which I completely refused to read until the night before the test. The game that night started around 10pm on the East coast, and as I was speedreading through Act 2, Pablo Sandoval stole his first base of the year. Miller's call:
+I remember one Miller anecdote particularly well. During the 2012 Giants World Series run, my high school English teacher had assigned "Macbeth," which I completely refused to read until the night before the test. The game that night started around 10pm on the East coast, and as I was speedreading through Act 2, Pablo Sandoval stole his first and only base of the year. Miller's call:
 
 > And let us not be dainty of leave-taking <br>
 > But shift away. There’s warrant in that theft <br>
 > Which steals itself when there’s no mercy left.
 
-I was confused, but only for another two pages before I came to Malcolm saying the same lines behind Macbeth's back!
+I was confused, but only for another two pages. At the end of Scene 3, Malcom recited the same lines! 
 
 ## Writing <a name="writing"></a>
 
