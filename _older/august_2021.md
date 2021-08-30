@@ -54,8 +54,6 @@ On blindness:
 
 
 
-"A Deepness in the Sky" and "The City in the Middle of the Night"
-
 [Matt Clancy](https://mattsclancy.substack.com/) recently ran the first ever EconTwitter science fiction book club, inspiring me to read Vernor Vinge's "[A Deepness in the Sky](https://smile.amazon.com/Deepness-Sky-Zones-Thought-Book-ebook/dp/B002H8ORKM)." Vinge's work on [technological forecasting](https://arbital.com/p/Vingean_uncertainty/), less well known, is also very impressive. Fitting with Clancy's research focus, "Deepness" is a tremendous work of public and innovation economics. By introducing sci-fi physical constraints, Vinge plays with various models for how governments can push fundamental science forward (or, more often than not, fail). 
 
 Another fun sci-fi economics book was "The City in the Middle of the Night" by Charlie Jane Anders. The economy in Anders' book uses different currencies for each type of good you might want to purchase, which Noah Smith (who consulted on the novel) calls an "utterly insane system." The book also takes place within my favorite astrodynamic phenomena, a [tidally locked](https://en.wikipedia.org/wiki/Tidal_locking) planet (or "eyeball earth"). With one side of the planet perpetually scorched and the other perpetually frozen, life can only exist in a twilight band where the two meet.
@@ -64,9 +62,9 @@ For the flight back, I carried "Whereabouts: Notes on Being a Foreigner" and Jhu
 
 ## Listening <a name="music"></a>
 
-This month, I took Ted Gioia's [One Hundred Best Albums of 2020](http://tedgioia.com/bestalbumsof2020.html) and listened to a random pick (almost) everyday. 
+In July and August, I took Ted Gioia's [One Hundred Best Albums of 2020](http://tedgioia.com/bestalbumsof2020.html) and listened to a random pick (almost) everyday. 
 
-The only one I regretted listening to was the soundtrack to "**Color Out of Space**", a 2019 horror movie about a Lovecraftian meteor. I have always been in the [Munroe school](https://xkcd.com/2056/) of thought regarding horror movies, and have now learned that this extends to their soundtracks. The highest compliment I can give is "effective."
+The only one I regretted listening to was the soundtrack to "**Color Out of Space**", a 2019 horror movie about a Lovecraftian meteor. I have always followed the [Munroe school](https://xkcd.com/2056/) of thought regarding horror movies, and have now learned that this extends to their soundtracks. The highest compliment I can give is "effective."
 
 The album I returned to most frequently was Lyra Pramuk's "**Fountain**". Weird, something hidden. I'm still trying to figure it out.
 
@@ -76,9 +74,15 @@ The album which I recommended to the most friends (which of course says more abo
 
 The overall winner, however, has to be The Westerlies' "**Wherein Lies the Good**." This is a magical record and the "Entropy" suite which concludes the track listing might be my most-listened to track of 2021.
 
-Finally, being within a three-hour time difference of San Francisco, I was able to listen to many more Giant's games than from Freetown. Jon Miller 
+Finally, being within a three-hour time difference of San Francisco, I was able to listen to many more Giant's games than from Freetown. I was too young to remember, but Jon Miller was the first voice of baseball I heard. Miller broadcast Orioles games until 1997, when he moved to San Francisco. I've listened to him call games from Scotland, Afghanistan, Kolkata, and Sierra Leone. 
 
+I remember one Miller anecdote particularly well. During the 2012 Giants World Series run, my high school English teacher had assigned "Macbeth," which I completely refused to read until the night before the test. The game that night started around 10pm on the East coast, and as I was speedreading through Act 2, Pablo Sandoval stole his first base of the year. Miller's call:
 
+> And let us not be dainty of leave-taking
+> But shift away. There’s warrant in that theft
+> Which steals itself when there’s no mercy left.
+
+I was confused, but only for another two pages before I came to Malcolm saying the same lines behind Macbeth's back!
 
 ## Writing <a name="writing"></a>
 
