@@ -78,8 +78,8 @@ Finally, being within a three-hour time difference of San Francisco, I was able 
 
 I remember one Miller anecdote particularly well. During the 2012 Giants World Series run, my high school English teacher had assigned "Macbeth," which I completely refused to read until the night before the test. The game that night started around 10pm on the East coast, and as I was speedreading through Act 2, Pablo Sandoval stole his first base of the year. Miller's call:
 
-> And let us not be dainty of leave-taking
-> But shift away. There’s warrant in that theft
+> And let us not be dainty of leave-taking <br>
+> But shift away. There’s warrant in that theft <br>
 > Which steals itself when there’s no mercy left.
 
 I was confused, but only for another two pages before I came to Malcolm saying the same lines behind Macbeth's back!
