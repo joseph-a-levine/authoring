@@ -45,20 +45,16 @@ I also brought back Parfit's "Reasons and Persons." I've read the opening senten
 
 This is because Parfit stores axioms and thought experiments like variables and functions in a massive .do file. Parfit will define claim S10{% sidenote "s10" "<q>I can rationally ignore desires that are not mine.</q>" %} and posit argument P5{% sidenote "p5" "<q>I can rationally now ignore desires that are not mine now.</q>" %}, so he can write ten pages later that, "according to the Appeal to Full Relativity, if we accept (S10) we should also accept (P5). Since an S-Theorist must accept (S10), but cannot accept (P5), he must reject the Appeal to Full Relativity." This would be easy to follow on a computer screen if moral philosophy were written like code. It's not, though, and having a hard copy is my only hope. After two weeks, I'm further along than I've ever been before,{% sidenote "star" "Up to <q>Simple Teletransportation and the Branch-Line Case</q>, which pulls off the rare argument-from-Star-Trek quite well." %} and enjoying it.  
 
-Borges, "Ficciones" and "Selected Non-Fictions"
-
-I read a lot of short stories; the genre with the biggest comparative advantage in short stories is science fiction. Borges was a revelation. 
-
-On blindness: 
-> One of the colors that the blind—or at least this blind man—do not see is black; another is red. Le rouge et le noir are the colors denied us. I, who was accustomed to sleeping in total darkness, was bothered for a long time at having to sleep in this world of mist, in the greenish or bluish mist, vaguely luminous, which is the world of the blind. I wanted to lie down in darkness. The world of the blind is not the night that people imagine.
-
-
-
 [Matt Clancy](https://mattsclancy.substack.com/) recently ran the first ever EconTwitter science fiction book club, inspiring me to read Vernor Vinge's "[A Deepness in the Sky](https://smile.amazon.com/Deepness-Sky-Zones-Thought-Book-ebook/dp/B002H8ORKM)." Vinge's work on [technological forecasting](https://arbital.com/p/Vingean_uncertainty/), less well known, is also very impressive. Fitting with Clancy's research focus, "Deepness" is a tremendous work of public and innovation economics. By introducing sci-fi physical constraints, Vinge plays with various models for how governments can push fundamental science forward (or, more often than not, fail). 
 
 Another fun sci-fi economics book was "The City in the Middle of the Night" by Charlie Jane Anders. The economy in Anders' book uses different currencies for each type of good you might want to purchase, which Noah Smith (who consulted on the novel) calls an "utterly insane system." The book also takes place within my favorite astrodynamic phenomena, a [tidally locked](https://en.wikipedia.org/wiki/Tidal_locking) planet (or "eyeball earth"). With one side of the planet perpetually scorched and the other perpetually frozen, life can only exist in a twilight band where the two meet.
 
 For the flight back, I carried "Whereabouts: Notes on Being a Foreigner" and Jhumpa Lahiri's "The Clothing of Books." One of my reading goals for the year is to read every word Lahiri has ever published, and it's been a fantastic decision so far. 
+
+As a postscript, it was good to read in my parents' home again. My sisters were there for the whole month, and my reading habits have always bothered them slightly. Not so much what or when I read, but how: I tend to take up far too much space on the couch; I fidget (flicking or folding pages, or flipping the cover of my Kindle); I laugh when I'm amused or gasp when I'm surprised. When I was in high school, I probably enjoyed annoying them. Now, reading near people I love enjoys me the book more. Anne Enright, in an interview in the NYT, captured the feeling well.
+
+> Describe your ideal reading experience. <br>
+> I like being alone in the center of family. I think this is the way I read as a child, surrounded and private at the same time. I like to feel privileged by the secret contents of the book.
 
 ## Listening <a name="music"></a>
 
@@ -82,7 +78,7 @@ I remember one Miller anecdote particularly well. During the 2012 Giants World S
 > But shift away. There’s warrant in that theft <br>
 > Which steals itself when there’s no mercy left.
 
-I was confused, but only for another two pages. At the end of Scene 3, Malcom recited the same lines! 
+It's jarring, to hear iambic pentameter on a sportscast. I was only confused for another two pages, however. At the end of Scene 3, Malcom recited the same lines! 
 
 ## Writing <a name="writing"></a>
 
@@ -90,9 +86,11 @@ I'm circulating a draft of my paper on the [long reflection](https://forum.effec
 
 ## Eating <a name="food"></a>
 
-
+Bagels. 
 
 ## Previously
+
+*[July, 2021](https://jablevine.com/older/july_2021)*
 
 *[June, 2021](https://jablevine.com/older/june_2021)*
 
