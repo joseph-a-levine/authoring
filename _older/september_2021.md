@@ -19,7 +19,12 @@ title: What am I up to now?
 
 ## Reading <a name="books"></a>
 
-Obscure Spanish politics
+This month, I want to highlight two nonfiction books about obscure Spanish politics, one written by a journalist and one written by a novelist. 
+
+Twentieth century Spain has fantastic 
+
+One character, mentioned in both books, is Carmen Franco, 1st Duchess of Franco and Francisco Franco's only child. She apparently called the Spanish coup of July 1936 an "armed referendum"
+
 
 Book review scores
 
