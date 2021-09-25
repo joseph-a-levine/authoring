@@ -19,6 +19,13 @@ title: What am I up to now?
 
 ## Reading <a name="books"></a>
 
+I spent hours this month reading memos from [this list](https://sriramk.com/memos) compiled by Sriram Krishnan at Andreessen Horowitz. I was initially put off by the list's emphasis on tech companies, but 
+In their memos, Zuckerberg, Jobs, and Gates shine as convincers. The acquisition of Instagram, one for the history books, wasn't decided by accountants or in board rooms (although both did their due diligence), it was decided because Mark Zuckerberg kept writing emails to Kevin Systrom. 
+
+Government memos may contain too much CYOA to be interesting. As Krishnan notes, memos "typically seem to come into the public domain in one of three ways: through being really old, being part of some lawsuit/legal process or, sadly, being part of a hack." 
+
+
+
 This month, I want to highlight two nonfiction books about obscure Spanish politics, one written by a journalist and one written by a novelist. 
 
 Twentieth century Spain has fantastic 
@@ -36,7 +43,7 @@ For an alternate view, see [Gleech's](https://www.gleech.org/books) "sort by con
 
 There's a fairly extensive literature on ratings systems.{% sidenote "legion" "And if there weren't, Amazon's [secret squad](https://edition.cnn.com/2019/03/13/tech/amazon-economists/index.html) of [economists](https://www.hbs.edu/ris/Publication%20Files/19-027_7e890058-c225-4803-a6f1-a6eb1db74027.pdf) would create one." %} Across Amazon product reviews, Uber ratings, and movie scores, anything below 4 is considered sub-par; intuitively, 2.5 should be average, right? I sometimes dream about systems where everyone doing the rating have to provide uniformly (or normally) distributed results. Instead, ratings are right-skewed. This makes no sense to me, and has apparently irritated me for years: here's a [screenshot](https://jablevine.com/assets/img/skewed.png) from a friend's instagram in 2017, when I was apparently already complaining!
 
-Memos
+
 
 ## Listening <a name="music"></a>
 
