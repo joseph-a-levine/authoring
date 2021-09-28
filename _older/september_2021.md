@@ -51,7 +51,7 @@ In some sense, I'm jealous of my friends who keep their Goodreads account up-to-
 
 However, I do have a philosophical problem with Goodreads' five-star book-rating system. This score can be useful, as a single dimensional measure of a books quality: one friend mentions that he "tries to read books with a 3.9 or higher" on Goodreads. One issue is that some of my favorite books are just *terrible*. My book choices don't always optimize for book quality. 
 
-For an alternate view, see [Gleech's](https://www.gleech.org/books) "sort by controversy," the books for which his rating most disagrees with the average. All of them are overrated, i.e., he rates them low and the average reader rates them highly. 
+For an alternate view, see [Gleech's](https://www.gleech.org/books) "sort by controversy," the books for which his rating most disagrees with the Goodreads average. All of them are overrated, i.e., he rates them low and the average reader rates them highly. 
 
 There's an extensive literature on ratings systems.{% sidenote "legion" "And if there weren't, Amazon's [secret squad](https://edition.cnn.com/2019/03/13/tech/amazon-economists/index.html) of [economists](https://www.hbs.edu/ris/Publication%20Files/19-027_7e890058-c225-4803-a6f1-a6eb1db74027.pdf) would create one." %} Across Amazon product reviews, Uber ratings, and movie scores, anything below 4 is considered sub-par; intuitively, 2.5 should be average, right? I sometimes dream about systems where everyone doing the rating have to provide uniformly (or normally) distributed results. Instead, ratings are right-skewed. This makes no sense to me, and has apparently irritated me for years: here's a [screenshot](https://jablevine.com/assets/img/skewed.png) from a friend's instagram in 2017, when I was apparently already complaining!
 
@@ -63,11 +63,11 @@ There's an extensive literature on ratings systems.{% sidenote "legion" "And if 
 
 ## Writing <a name="writing"></a>
 
-I received many useful comments on the draft of my paper on the long reflection, thank you to everyone for reaching out! I also found a pretty egregious coding error in my paper on the role of start-up cities in emigration reduction. Working with cross-national opinion data is hard. Both of these projects are back to the drawing board for now.
+I received many useful comments on the draft of my paper on the long reflection, thank you to everyone for reaching out! I also found a pretty egregious coding error in my paper on the role of start-up cities in emigration reduction. Working with cross-national opinion data is hard. Both of these projects are back on the drawing board for now.
 
 In the first days of October, I'm presenting a new paper on the natural resource curse at APSA 2021 in Seattle. I'll post the slides here, and I also have a full working draft. This draft is my writing sample for PhD applications in the Winter, so I would more than appreciate any comments! Please reach out if you're interested, or have even a second to take a look.
 
-I'm also spending an inefficient amount of time writing and re-writing the personal statements for my PhD applications. One mentor who's been through the process said that, at this point, everything else about the application has been locked in (GRE, GPA, LoRs, CV). Even though the personal statement has a minimal role in admission decisions, it intuitively feels like the last bit of the application under my control. 
+I'm also spending an inefficient amount of time writing and re-writing the personal statements for my PhD applications. One mentor who's recently been through the process remarked that, at this point, everything else about the application has been locked in (GRE, GPA, LoRs, CV). Even though the personal statement has a minimal role in admission decisions, it intuitively feels like the last bit of the application under my control. 
 
 ## Eating <a name="food"></a>
 
