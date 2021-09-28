@@ -19,11 +19,19 @@ title: What am I up to now?
 
 ## Reading <a name="books"></a>
 
-I spent hours this month reading memos from [this list](https://sriramk.com/memos) compiled by Sriram Krishnan at Andreessen Horowitz. I was initially put off by the list's emphasis on tech companies, but 
+This month, I spent hours reading memos from [this list](https://sriramk.com/memos) compiled by Sriram Krishnan at Andreessen Horowitz. 
+
 In their memos, Zuckerberg, Jobs, and Gates shine as convincers. The acquisition of Instagram, one for the history books, wasn't decided by accountants or in board rooms (although both did their due diligence), it was decided because Mark Zuckerberg kept writing emails to Kevin Systrom. 
 
-Government memos may contain too much CYOA to be interesting. As Krishnan notes, memos "typically seem to come into the public domain in one of three ways: through being really old, being part of some lawsuit/legal process or, sadly, being part of a hack." 
+Government memos may contain too much CYOA to be interesting. As Krishnan notes, memos "typically seem to come into the public domain in one of three ways: through being really old, being part of some lawsuit/legal process or, sadly, being part of a hack." Krishnan's list has just five government memos, of which two are from political campaigns and one is from Du Pont Chemical company. The political ones are fascinating: read Hillary Clinton's 2008 chief strategist on how to [take down Obama](https://sriramk.com/memos/penn-memo.pdf). He's "all sizzle and no steak," he "lacks American roots," he's "unelectable except perhaps against Attila the Hun."
 
+But this isn't the pinnacle of government memo writing. I read three books on the Iraq war in September, all of which drew heavily from national security memos. 
+
+We probably undervalue the memo. The most important one on Krishnan's list is from IBM's Thomas Watson, aimed at adjutants in the Pentagon during WWII. The focus is on "completed staff work."
+
+> "Completed Staff Work" is the study of a problem, and presentation of a solution, by a staff officer, in such form that all that remains to be done on the part of the head of the staff division, or the commander, is to indicate his approval or disapproval of the completed action. 
+
+Everyone I've ever worked for has been a busy person. They don't read what I write to learn, they read to act. When I was consulting, a memo could change policy or strategy. Now, working for researchers, a memo (occasionally taking the form of a literature review) informs experimental design or field planning. At it's best, a memo isn't information, it's action. 
 
 
 This month, I want to highlight two nonfiction books about obscure Spanish politics, one written by a journalist and one written by a novelist. 
