@@ -49,7 +49,17 @@ There's an extensive literature on ratings systems.{% sidenote "legion" "And if 
 
 ## Listening <a name="music"></a>
 
+Here is a list of records I listened to for the first time this month and liked (no star) or loved (star). 
 
+* "Soul Food: Cooking with Maceo," Maceo Parker     
+* "Pomegranates," Nicolas Jaar
+* "In Rainbows," Radiohead
+* "First Rose of Spring," Willie Nelson
+* "Recomposed by Max Richter: Vivaldi – The Four Seasons"
+* "SONGWRIGHTS APOTHECARY LAB," Esperanza Spalding
+* "Ormenion," Evritiki Zygia *
+
+Also, Krishnan's list of memos 
 
 ## Writing <a name="writing"></a>
 
