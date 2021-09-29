@@ -51,13 +51,14 @@ There's an extensive literature on ratings systems.{% sidenote "legion" "And if 
 
 Here is a list of records I listened to for the first time this month and liked (no star) or loved (star). 
 
-* "Soul Food: Cooking with Maceo," Maceo Parker     
+* "Soul Food: Cooking with Maceo," Maceo Parker   
+* "Ormenion," Evritiki Zygia ⭐ 
 * "Pomegranates," Nicolas Jaar
 * "In Rainbows," Radiohead
 * "First Rose of Spring," Willie Nelson
 * "Recomposed by Max Richter: Vivaldi – The Four Seasons"
 * "SONGWRIGHTS APOTHECARY LAB," Esperanza Spalding
-* "Ormenion," Evritiki Zygia *
+
 
 Also, Krishnan's list of memos 
 
