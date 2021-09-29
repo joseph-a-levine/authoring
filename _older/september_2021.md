@@ -51,16 +51,16 @@ There's an extensive literature on ratings systems.{% sidenote "legion" "And if 
 
 Here is a list of records I listened to for the first time this month and liked (no star) or loved (star). 
 
+* "Midnight Organ Fight," Frightened Rabbit ⭐
 * "Soul Food: Cooking with Maceo," Maceo Parker   
-* "Ormenion," Evritiki Zygia ⭐ 
 * "Pomegranates," Nicolas Jaar
 * "In Rainbows," Radiohead
+* "Ormenion," Evritiki Zygia ⭐ 
 * "First Rose of Spring," Willie Nelson
 * "Recomposed by Max Richter: Vivaldi – The Four Seasons"
 * "SONGWRIGHTS APOTHECARY LAB," Esperanza Spalding
 
-
-Also, Krishnan's list of memos 
+Also, Krishnan's list of memos includes this (undated, but presumably mid-2000s) Dave Goldberg [memo ](https://sriramk.com/memos/goldberg-music.pdf) on the future of the music industry. The memo was sent to Sony CEO Michael Lynton, and was released in the aftermath of the massive Sony Pictures hack. The document is fantastic for the facts it uses to frame the industry,{% sidenote "facts" "<q>Catalog provides 50% of the revenue and 200% of the profits of recorded music.</q>" %}  the forecasts (all eventually proven true),{% sidenote "forecast" "<q>Physical distribution is going away—it doesn’t need to be eliminated prematurely but it needs to follow digital and not drive it.</q>" %} and the final recommendations for how Sony can place itself in the market.{% sidenote "future" "<q>If Netflix wanted to pay 200 MM per year to give all of its 40MM subs a music subscription- that should be encouraged, not scoffed at. The goal for digital is for subscription and ad based services to become the predominant means for people to access music.</q>" %} I learned more in these two and a half pages about the music industry than reading industry news.
 
 ## Writing <a name="writing"></a>
 
