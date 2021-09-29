@@ -21,7 +21,11 @@ title: What am I up to now?
 
 This month, I spent hours reading memos from [this list](https://sriramk.com/memos) compiled by Sriram Krishnan at Andreessen Horowitz. 
 
-In their memos, Zuckerberg, Jobs, and Gates shine as convincers. The acquisition of Instagram, one for the history books, wasn't decided by accountants or in board rooms (although both did their due diligence), it was decided because Mark Zuckerberg kept writing emails to Kevin Systrom. 
+In their memos, Zuckerberg, Jobs, and Gates shine as convincers. The [acquisition of Instagram](https://sriramk.com/memos/zuck_systrom.pdf), one for the history books, wasn't decided by accountants or in board rooms, it closed because Mark Zuckerberg kept writing emails to Kevin Systrom. The emails are well-written, of course, but more interesting is that Zuckerberg took so much time to write them. Another tech memo which provided a good perspective was [Jobs on iBooks](https://sriramk.com/memos/jobs-ibooks.pdf). Amazon has firmly won the e-books war,{% sidenote "war" "Unlike [some](https://www.theatlantic.com/books/archive/2021/09/why-are-ebooks-so-terrible/620068/), I don't think this is a [bad thing](https://jablevine.com/older/september_2021)." %} but it wasn't a sure thing. Jobs aggressively lobbies James Murdoch (!) to sign HarperCollins publishing with Apple, to distribute their ebooks at a substantial markup from Kindle prices. 
+
+> The reason we are doing this is that, with our experience selling a lot of content online, we simply don’t think the ebook market can be successful with pricing higher than $12.99 or $14.99. Heck, Amazon is selling these books at $9.99, and who knows, maybe they are right and we will fail even at $12.99. But we’re willing to try the price as we proposed.
+
+Krishnan calls this email thread "infamous," so there's history which I haven't read. If anyone has reading recommendations on the history of the ebook market, please send it along! "[Book Wars](https://smile.amazon.com/-/es/dp/1509546782/?psc=1)" by Thompson is on my reading list, but ironically not worth $28 for the Kindle version.
 
 Krishnan's list has just five government memos, of which two are from political campaigns and one is from Du Pont Chemical company. The political ones are fascinating: read Hillary Clinton's 2008 chief strategist on how to [take down a junior senator from Illinois](https://sriramk.com/memos/penn-memo.pdf). Obama was "all sizzle and no steak," he "lacks American roots," and he's "unelectable except perhaps against Attila the Hun."
 
