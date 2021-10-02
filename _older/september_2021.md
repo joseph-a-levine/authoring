@@ -8,7 +8,7 @@ title: What am I up to now?
 
 October is my favorite month. My birthday, Halloween, Sukkot, MLB postseason, a spike in fiction releases, all add up to a great few weeks. Now, in Sierra Leone, I'm  realizing how much I underrated the weather changing. 
 
-{% maincolumn "http://jablevine.com/assest/img/dc_ft_ph_climate.png" "This is the caption" %}
+{% maincolumn "http://jablevine.com/assets/img/dc_ft_ph_climate.png" "This is the caption" %}
 
 Temperatures don't change here. On clear days, which are becoming increasingly common as the rainy season ends, there's no difference between October and February. This has absolutely thrown off my internal clock. While everyday beach weather is nice, I'm looking forward to being somewhere with a bit more variability in seasons.s
 
