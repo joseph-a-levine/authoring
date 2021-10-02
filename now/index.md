@@ -6,7 +6,8 @@ title: What am I up to now?
 
 ## October, 2021
 
-October is my favorite month. My birthday, Halloween, Sukkot, MLB postseason, a spike in fiction releases, all add up to a great few weeks. Now, in Sierra Leone, I'm  realizing how much I underrated the weather changing. 
+October is my favorite month. My birthday, Halloween, Sukkot, MLB postseason, a spike in fiction releases, all add up to a great few weeks. Now, in Sierra Leone, I'm  realizing how much I underrated the weather changing at this time of year. 
+
 
 {% maincolumn "http://jablevine.com/assets/img/dc_ft_ph_climate.png" "" %}
 
