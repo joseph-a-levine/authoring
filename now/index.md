@@ -3,11 +3,6 @@ layout: page
 title: What am I up to now?
 ---
 
----
-layout: page
-title: What am I up to now?
----
-
 
 ## October, 2021
 
