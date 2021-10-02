@@ -6,7 +6,12 @@ title: What am I up to now?
 
 ## October, 2021
 
-October is my favorite month. 
+October is my favorite month. My birthday, Halloween, Sukkot, MLB postseason, a spike in fiction releases, all add up to a great few weeks. Now, in Sierra Leone, I'm  realizing how much I underrated the weather changing. 
+
+{% maincolumn "http://jablevine.com/assest/img/dc_ft_ph_climate.png" "This is the caption" %}
+
+Temperatures don't change here. On clear days, which are becoming increasingly common as the rainy season ends, there's no difference between October and February. This has absolutely thrown off my internal clock. While everyday beach weather is nice, I'm looking forward to being somewhere with a bit more variability in seasons.s
+
 
 ## Contents
 1. [Reading](#books)
@@ -66,7 +71,7 @@ Also, Krishnan's list of memos includes this (undated, but presumably mid-2000s)
 
 I received many useful comments on the draft of my paper on the long reflection, thank you to everyone for reaching out! I also found a pretty egregious coding error in my paper on the role of start-up cities in emigration reduction. Working with cross-national opinion data is hard. Both of these projects are back on the drawing board for now.
 
-In the first days of October, I'm presenting a new paper on the natural resource curse at APSA 2021 in Seattle. The slides are here, and we're finishing up a full working draft in the early weeks of the month. This draft is my writing sample for PhD applications in the Winter, so I would more than appreciate any comments! Please reach out if you're interested, or have even a second to take a look.
+In the first days of October, I'm presenting a new paper on the natural resource curse at APSA 2021 in Seattle. The slides are [here](https://jablevine.com/papers/levine_harish_APSA2021.pdf), and we're finishing up a full working draft in the early weeks of the month. This draft is my writing sample for PhD applications in the Winter, so I would more than appreciate any comments! Please reach out if you're interested, or have even a second to take a look.
 
 I'm also spending an inefficient amount of time writing and re-writing the personal statements for my PhD applications. One mentor who's recently been through the process remarked that, at this point, everything else about the application has been locked in (GRE, GPA, LoRs, CV). Even though the personal statement has a minimal role in admission decisions, it intuitively feels like the last bit of the application under my control. 
 
