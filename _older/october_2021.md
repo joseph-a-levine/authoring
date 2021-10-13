@@ -28,6 +28,8 @@ Wilco, "Sky Blue Sky"
 Chairlift, "Moth"
 The Strokes, "Room on Fire"
 
+My wonderful mother found someone to hand-deliver a birthday present, including a new pair of headphones (I was down to my third back-up pair!). Most-improved-record on a good set of phones goes to Lizzo's "'Cuz I Love You."
+
 
 ## Writing <a name="writing"></a>
 
