@@ -20,6 +20,11 @@ title: What am I up to now?
 ## Reading <a name="books"></a>
 
 
+Earlier this year, I had my sisters recommend three harry potter fan fictions each, what was like 2,000 pages of content they really liked. There is this whole subculture of fanfiction which is the main source of literature for tens of millions of americans, and hundreds of millions worldwide. I wanted to understand the subculture, and reading a few of the most popular stories was an interesting peak in
+
+I feel that, by not being on tiktok, i'm missing out on a similar subculture, but by 100x or 1000x. From [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
+
+> TikTok’s algorithm is the Sorting Hat from the Harry Potter universe. Just as that magical hat sorts students at Hogwarts into the Gryffindor, Hufflepuff, Ravenclaw, and Slytherin houses, TikTok’s algorithm sorts its users into dozens and dozens of subcultures.
 
 
 ## Listening <a name="music"></a>
