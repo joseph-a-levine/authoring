@@ -33,13 +33,33 @@ Finally, on the topic of alumni
 
 ## Reading <a name="books"></a>
 
+I finished three 1,000-plus page books in October. The first was *War and Peace*, which was the only one I wished was longer. A third of the way through, I recommended the book to several friends as "Russian *Gossip Girl*," and while Napoleon's arrival ruins the analogy slightly, Natasha and Denisov and Márya remain engaging throughout. 
 
-Earlier this year, I had my sisters recommend three harry potter fan fictions each, what was like 2,000 pages of content they really liked. There is this whole subculture of fanfiction which is the main source of literature for tens of millions of americans, and hundreds of millions worldwide. I wanted to understand the subculture, and reading a few of the most popular stories was an interesting peak in
+Tolstoy the progressive is a fascinating character. He writes two characters, Pierre the Count and Andrei the Prince, who work halfheartedly for a better world. The author and his characters know they hold unjust amounts of power in an unjust society; they feel the occasional compulsion to free their serfs or promote liberalism, just as I feel the occasion compulsion to stop eating meat. 
 
-I feel that, by not being on tiktok, i'm missing out on a similar subculture, but by 100x or 1000x. From [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
+The underlying pessimism, Tolstoy's "history as a river," excuses a lot: Tolstoy himself did not give up beating his servants till he was well into adult life. Count Pierre follows mysticism to egalitarianism, and eventually gets bored of his egalitarian efforts to focus again on mysticism. And though he is much more effective in wielding power to change the system, Prince Andrei finds caring to improve the world a burden.
 
-> TikTok’s algorithm is the Sorting Hat from the Harry Potter universe. Just as that magical hat sorts students at Hogwarts into the Gryffindor, Hufflepuff, Ravenclaw, and Slytherin houses, TikTok’s algorithm sorts its users into dozens and dozens of subcultures.
+> He felt a pang. The day was so beautiful, the sun so bright, everything around so gay, but that slim pretty girl did not know, or wish to know, of his existence and was contented and cheerful in her own separate—probably foolish—but bright and happy life. “What is she so glad about? What is she thinking of? Not of the military regulations or of the arrangement of the Ryazán serfs’ quitrents. Of what is she thinking? Why is she so happy?” Prince Andréy asked himself with instinctive curiosity.
 
+The second thousand-pager of October was Machester's *American Caesar*, a biography of Douglas MacArthur. The titular simile is made in the introduction, and not revisited.
+
+> The two generals surrounded themselves with servile aides-de-camp; remained long abroad, one as proconsul and the other as shogun, leading captive peoples in unparalleled growth; loved history; were fiercely grandiose and spectacularly fearless; and reigned as benevolent autocrats.
+
+MacArthur's ego makes him easy to dislike, but the ego is justified in a way that makes him a candidate for the Great Man theory of history which Tolstoy spends so many chapters disparaging. Manchester's portrayal of other Allied generals{% sidenote "navy" "Admirals are tactfully excluded from similar criticism." %} in East Asia during and after WWII is uncharitable. The implication is that the war in the Pacific, and it's aftermath, would have gone much differently in anyone else's hands. MacArthur was especially well-regarded in the nations he protected and ruled, despite his reputation among American GIs. On his last visit to the Philippines, 
+
+> he was moved—moved to tears—when he discovered that the government had kept a postwar vow that the name of Douglas MacArthur would never be permitted to die among the soldiers of the Republic of the Philippines, that it was heard every day when a roll was called, and that a sergeant always responded: “Present in spirit!”
+
+This tradition persists. Too, does MacArthur's near-deification in Japan. I picked up the book after a [friend](https://www.legalpriorities.org/team/renan-araujo.html) who studies constitutions mentioned that the Japanese constitution a) was written by MacArthur in one week in 1947, and b) has not been amended since. Much of Japan's 20th century miracle was enabled by the reforms of the late 1940s, which the General micromanaged from his Tokyo headquarters. The most impressive of these achievements were public health:
+
+>  In the first two years of the occupation, Sams estimated, the control of communicable diseases alone had saved 2.1 million Japanese lives—more than the country’s battle deaths during the war, over three times the number of Nipponese civilians killed in the wartime bombings, including Hiroshima and Nagasaki. The life expectancy of men had been increased by eight years and of women by nearly fourteen years, a phenomenon, in Sams’s words, that has been “unequaled in any country in the world in medical history in a comparable period of time.”
+
+The other reason I picked up *Caesar* was because of debates with my friend Graeme on what makes an occupation successful. On public health, at least, the US occupation of [Afghanistan](https://jablevine.com/older/september_2021) matched our Japanese track record.
+
+The final tome of October was *All the Young Dudes*, a massive Harry Potter fan-fiction. Fan-fiction is this whole subculture which is the main source of literature for tens of millions of Americans, and hundreds of millions worldwide. I asked my sisters to recommend their favorite stories, and *All the Young Dudes* was the consensus choice.{% sidenote "ts" "One friend, after I shared what I was reading, told me that Taylor Swift wrote it. As evidence for how deep this subculture goes, here's a [28-minute YouTube video](https://www.youtube.com/watch?v=txj9mfdy5YI) explaining this theory." %} I finished it, so it must have been alright, but I took no notes and made no highlights on my Kindle. 
+
+I feel that, by not being on TikTok, that I'm missing out on a similar subculture, but by 100x. I haven't downloaded the app because my current daily use of TikTok is a Nash equilibrium (0 minutes per day): if I download TikTok the next equilibrium is probably around 30 minutes per day. I'd probably be willing to give up 10 minutes per day, but that's a difficult line to hold. Also on the TikTok/Harry Potter comparisons, a great article from [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
+
+> TikTok’s algorithm is the Sorting Hat from the Harry Potter universe. Just as that magical hat sorts students at Hogwarts into the Gryffindor, Hufflepuff, Ravenclaw, and Slytherin houses, TikTok’s algorithm sorts its users into dozens and dozens of subcultures.	
 
 ## Listening <a name="music"></a>
 
