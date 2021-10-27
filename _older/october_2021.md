@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## November, 2021
 
-For the William & Mary alumni magazine, Noah Robertson writes a tremendously flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power. The article unfortunately went to press before the Taliban's summer campaign,{% sidenote "talib" "https://www.youtube.com/watch?v=vimZj8HW0Kg" %} and paints an overly optimistic picture of how our work will persist. Noah followed up, and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
+Noah Robertson writes a tremendously flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article unfortunately went to press before the Taliban's summer campaign,{% sidenote "talib" "https://www.youtube.com/watch?v=vimZj8HW0Kg" %} and paints an overly optimistic picture of how our work will persist. Noah followed up, and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
 
 My sisters were not as flattered, and it's my fault. 
 
@@ -19,6 +19,8 @@ While looking through the Fall 2021 Alumni magazine, I found [this article](http
 > “Our goal is to triangulate information on each project that the Chinese government is bankrolling with as many reliable sources as possible. We track down the grant and loan agreements published in the official gazettes and legislative repositories. We scrape all of the project-specific information that is posted on Chinese embassy websites. We review aid and debt information management systems of finance and planning ministries in host countries. We correspond directly with government officials, investigative journalists and contractors on the ground with firsthand knowledge about these projects. Then, after standardizing and synthesizing all of this information we’re able to see the big picture — the known universe of Chinese government-financed projects.”
 
 In October, I spoke with a research assistant here in Freetown about his dissertation, which he's writing to finish his Masters degree at a university here. His main data source was AidData!
+
+Finally, on the topic of alumni 
 
 ## Contents
 1. [Reading](#books)
