@@ -20,7 +20,7 @@ While looking through the Fall 2021 Alumni magazine, I found [this article](http
 
 In October, I spoke with a research assistant here in Freetown about his dissertation, which he's writing to finish his Masters degree at a university here. His main data source was AidData!
 
-Finally, on the topic of alumni 
+Finally, on the topic of alumni magazines, my friend [Alex Coultrup](https://prod.orangecoastcollege.edu/about/marketing-public-relations/newsstand-assets/docs/occ-magazine-2021.pdf) was featured on the cover of her college's magazine! Her headline-making adventure took her a lot further from home than just Afghanistan: Alex spent two weeks on a simulated Mars mission. She's a human factors engineer working at a space company; they're currently working on the most [exciting concepts](https://nanoracks.com/starlab/) in [LEO commercialization](https://nanoracks.com/outpost/).
 
 ## Contents
 1. [Reading](#books)
@@ -57,7 +57,7 @@ The other reason I picked up *Caesar* was because of debates with my friend Grae
 
 The final tome of October was *All the Young Dudes*, a massive Harry Potter fan-fiction. Fan-fiction is this whole subculture which is the main source of literature for tens of millions of Americans, and hundreds of millions worldwide. I asked my sisters to recommend their favorite stories, and *All the Young Dudes* was the consensus choice.{% sidenote "ts" "One friend, after I shared what I was reading, told me that Taylor Swift wrote it. As evidence for how deep this subculture goes, here's a [28-minute YouTube video](https://www.youtube.com/watch?v=txj9mfdy5YI) explaining this theory." %} I finished it, so it must have been alright, but I took no notes and made no highlights on my Kindle. 
 
-I feel that, by not being on TikTok, that I'm missing out on a similar subculture, but by 100x. I haven't downloaded the app because my current daily use of TikTok is a Nash equilibrium (0 minutes per day): if I download TikTok the next equilibrium is probably around 30 minutes per day. I'd probably be willing to give up 10 minutes per day, but that's a difficult line to hold. Also on the TikTok/Harry Potter comparisons, a great article from [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
+I feel that, by not being on TikTok, that I'm missing out on a similar subculture, but by 100x. I haven't downloaded the app because my current daily use of TikTok is a Nash equilibrium (0 minutes per day): if I download TikTok the next equilibrium is probably around 30 minutes per day. I'd probably be willing to give up 10 minutes per day, but that's a difficult line to hold. Also on the topic of TikTok and Harry Potter, an in-depth look at TikTok's algorithmic subcultures from [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
 
 > TikTok’s algorithm is the Sorting Hat from the Harry Potter universe. Just as that magical hat sorts students at Hogwarts into the Gryffindor, Hufflepuff, Ravenclaw, and Slytherin houses, TikTok’s algorithm sorts its users into dozens and dozens of subcultures.	
 
