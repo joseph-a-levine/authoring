@@ -55,7 +55,7 @@ This tradition persists. Too, does MacArthur's near-deification in Japan. I pick
 
 The other reason I picked up *Caesar* was because of debates with my friend Graeme on what makes an occupation successful. On public health, at least, the US occupation of [Afghanistan](https://jablevine.com/older/september_2021) matched our Japanese track record.
 
-The final tome of October was *All the Young Dudes*, a Harry Potter fan-fiction. Fan-fiction as a sub culture provides the main source of literature for tens of millions of Americans, and hundreds of millions worldwide. I asked my sisters to recommend their favorite stories, and *All the Young Dudes* was the consensus choice.{% sidenote "ts" "One friend, after I shared what I was reading, told me that Taylor Swift wrote it. Here's a [28-minute YouTube video](https://www.youtube.com/watch?v=txj9mfdy5YI) arguing for the theory. This rabbit hole goes deep. " %} I finished it, so it must have been alright, but I took no notes and made no highlights on my Kindle. 
+The final tome of October was *All the Young Dudes*, a Harry Potter fan-fiction. Fan-fiction as a sub culture provides the main source of literature for tens of millions of Americans, and hundreds of millions worldwide. I asked my sisters to recommend their favorite stories, and *All the Young Dudes* was the consensus choice.{% sidenote "ts" "One friend, after I shared what I was reading, told me that Taylor Swift is the true anonymous author of *All the Young Dudes*. Here's a [28-minute YouTube video](https://www.youtube.com/watch?v=txj9mfdy5YI) arguing for the theory. This rabbit hole goes deep. " %} I finished it, so it must have been alright, but I took no notes and made no highlights on my Kindle. 
 
 I feel that, by not being on TikTok, that I'm missing out on a similar subculture, but by 100x. I haven't downloaded the app because my current daily use of TikTok is a Nash equilibrium (0 minutes per day): if I download TikTok the next equilibrium is probably around 30 minutes per day. I'd probably be willing to give up 10 minutes per day to the algorithm, but that's a difficult line to hold. Also on the topic of TikTok and Harry Potter, an in-depth look at TikTok's algorithmic subcultures from [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
 
@@ -75,22 +75,23 @@ Wei has deep, and possibly true, insights into TikTok's algorithm. I came away t
 
 ## Listening <a name="music"></a>
 
-Wilco, "Sky Blue Sky"
-Chairlift, "Moth"
-The Strokes, "Room on Fire"
+Four new (to me) albums dominated my listening this month according to Spotify analytics. All are pop or pop-adjacent. 
+- Liz Phair, "Liz Phair" (2003)
+- Wilco, "Sky Blue Sky" (2007)
+- Chairlift, "Moth" (2016)
+- Jacob Collier, "Djesse, Vol. 3" (2020)
 
-My wonderful mother found someone to hand-deliver a birthday present, including a new pair of headphones (I was down to my third back-up pair!). Most-improved-record on a good set of phones goes to Lizzo's "'Cuz I Love You."
-
+Also, my wonderful mother found someone to hand-deliver a birthday present, including a new pair of headphones (I was down to my third back-up pair!). Most-improved-record on a good set of phones goes to Lizzo's "'Cuz I Love You."
 
 ## Writing <a name="writing"></a>
 
-
-
-## Eating <a name="food"></a>
-
-
+This section intentionally left blank.
 
 ## Previously
+
+*[October, 2021](https://jablevine.com/older/october_2021)*
+
+*[September, 2021](https://jablevine.com/older/september_2021)*
 
 *[July, 2021](https://jablevine.com/older/july_2021)*
 
