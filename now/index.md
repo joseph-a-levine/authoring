@@ -4,15 +4,23 @@ title: What am I up to now?
 ---
 
 
-## October, 2021
+## November, 2021
 
-October is my favorite month. My birthday, Halloween, Sukkot, MLB postseason, a spike in fiction releases, all add up to a great few weeks. Now, in Sierra Leone, I'm  realizing how much I underrated the weather changing at this time of year. 
+Noah Robertson writes a very flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article went to press before the Taliban's summer campaign, and paints an optimistic picture of the persistence of mini-grids. After the fall of Kabul, Noah followed up with me and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
 
+My sisters were not as flattered by the article, and it's my fault. 
 
-{% maincolumn "http://jablevine.com/assets/img/dc_ft_ph_climate.png" "" %}
+> All this came as a surprise to his family, who rarely stray from home. Both of his sisters now live close to their colleges. His family is still in the Washington area. Meanwhile Levine hasn’t lived in the same place for more than 10 months since high school.
 
-Temperatures don't change here. On clear days, which are increasingly common as the rainy season ends, there's no difference between October and February. This has absolutely thrown off my internal clock. While beach weather everyday is pleasant, I'm looking forward to being somewhere with a bit more variability in seasons.
+One friend who recently enrolled at W&M texted my sister Abigail, "I didn't know you've never left your front porch." Sorry! 
 
+While looking through the Fall 2021 Alumni magazine, I found [this article](https://magazine.wm.edu/online-exclusives/where-is-china-secretly-spending.php) about AidData's new China aid-spending database.{% sidenote "aiddata" "AidData is a W&M research lab; I worked for affiliated researchers in 2015 and 2018." %} The basic problem in analyzing the strategic consequences of international aid flows is that, unlike most donors, China does not report their spending. There is no transparency in where or how China gives aid: AidData fixed that.{% sidenote "oecd" "The OECD Development Assistance Committee has set the canonical reporting guidelines, but these are less than perfect. One of my favorite blog series is [David Roodman](https://davidroodman.com/blog/tag/redefining-oda/) on how these guidelines portray some rich countries as more generouse, at the expense of others." %} 
+
+> “Our goal is to triangulate information on each project that the Chinese government is bankrolling with as many reliable sources as possible. We track down the grant and loan agreements published in the official gazettes and legislative repositories. We scrape all of the project-specific information that is posted on Chinese embassy websites. We review aid and debt information management systems of finance and planning ministries in host countries. We correspond directly with government officials, investigative journalists and contractors on the ground with firsthand knowledge about these projects. Then, after standardizing and synthesizing all of this information we’re able to see the big picture — the known universe of Chinese government-financed projects.”
+
+In October, I spoke with one of our Sierra Leonean research assistants about his dissertation, which he's writing to finish his Masters degree at a university here. His main data source is AidData!
+
+Finally, on the topic of alumni magazines, my friend [Alex Coultrup](https://prod.orangecoastcollege.edu/about/marketing-public-relations/newsstand-assets/docs/occ-magazine-2021.pdf) was featured on the cover of her college's magazine! Her headline-making adventure took her a lot further from home than just Afghanistan: Alex spent two weeks on a simulated Mars mission. She's a human factors engineer working at a space company; they're currently working on the most [exciting concepts](https://nanoracks.com/starlab/) in [LEO commercialization](https://nanoracks.com/outpost/).
 
 ## Contents
 1. [Reading](#books)
@@ -25,64 +33,63 @@ Temperatures don't change here. On clear days, which are increasingly common as 
 
 ## Reading <a name="books"></a>
 
-I have an increasingly hard time picking books to read. Last year, I had my favorite book bloggers, and I went through all of their recommendations, and skimmed off the ones I was confident that I would enjoy. In some sense, I'm jealous of my friends who keep their Goodreads account up-to-date. Whatever my book-choosing algorithm is, Amazon's is likely better. 
+I finished three 1,000-plus page books in October. *War and Peace* was the only one I wished was longer. A third of the way through, I recommended the book to several friends as "Russian *Gossip Girl*," and while Napoleon ruins the analogy slightly, Natasha and Denisov and Márya's adventures are engaging and scandalous throughout. 
 
-However, I do have a philosophical problem with Goodreads' book-rating system. A five-star score can be useful, as a single dimensional measure of a books quality: one friend mentions that he only reads books with a 3.9 or higher average rating. But this dimension only captures some of what makes me want to read a book. One issue is that some of my favorite books are just *terrible*. My book choices don't always optimize for book quality. One of my favorite books to re-read is "1632". If you're interested in how West Virginians could reinvent a modern industrial base using technology from Early Modern Germany, these stories are for you. By some sci-fi, an Appalachian mining town is time-traveled to the middle of the Thirty Years' War, and the rednecks "bring the American Revolution to Europe: 150 years ahead of schedule!"{% sidenote "tag" "Actual tagline." %} The writing is overburdened with fictional and historical characters and technical minutiae. Take one plotline: the local hippie ("Stoner") becomes invaluable to the war effort against the Hapsburgs due to his background in "pharmaceuticals." There are [pages and pages](https://www.goodreads.com/book/show/57257.Grantville_Gazette_III) of details on the making of sulfa drugs and analgesics. Unsurprisingly, the median Goodreads reviewer leaves this book three stars.{% sidenote "gleech" "For an opposite view, see [Gleech's](https://www.gleech.org/books) <q>sort by controversy,</q> the books for which his rating most disagrees with the Goodreads average. All of them are, in his opinion, overrated, i.e., he rates them low and the average reader rates them highly. " %}
+Tolstoy the progressive is a fascinating historical character. He writes two characters, Pierre the Count and Andrei the Prince, who work halfheartedly for a better world. The author and his characters know they hold unjust amounts of power in an unjust society; they feel the occasional compulsion to free their serfs or promote liberalism, just as I feel the occasion compulsion to stop eating meat. 
 
-There's an extensive literature on ratings systems.{% sidenote "legion" "And if there weren't, Amazon's [secret squad](https://edition.cnn.com/2019/03/13/tech/amazon-economists/index.html) of [economists](https://www.hbs.edu/ris/Publication%20Files/19-027_7e890058-c225-4803-a6f1-a6eb1db74027.pdf) would create one." %} Across Amazon product reviews, Uber ratings, and movie scores, anything below 4 is considered sub-par. But intuitively, a 3 should be average. I sometimes dream about systems where raters have to provide uniformly distributed results. Instead, ratings are right-skewed, making it difficult to distinguish the great from the excellent. This makes no sense to me, and has apparently irritated me for years: here's a [screenshot](https://jablevine.com/assets/img/skewed.png) from a friend's instagram in 2017, when I was already complaining!
+The underlying pessimism, Tolstoy's "history as a river," excuses a lot of aristocratic abuse: Tolstoy himself did not give up beating his servants till he was well into adult life. Count Pierre follows mysticism to egalitarianism, and eventually gets bored of egalitarianism and focuses again on mysticism. And though he is much more effective in wielding power to change the system, Prince Andrei finds caring to improve the world a burden.
 
-This month, I also spent hours reading memos from [this list](https://sriramk.com/memos) compiled by Sriram Krishnan at Andreessen Horowitz. 
+> He felt a pang. The day was so beautiful, the sun so bright, everything around so gay, but that slim pretty girl did not know, or wish to know, of his existence and was contented and cheerful in her own separate—probably foolish—but bright and happy life. “What is she so glad about? What is she thinking of? Not of the military regulations or of the arrangement of the Ryazán serfs’ quitrents. Of what is she thinking? Why is she so happy?” Prince Andréy asked himself with instinctive curiosity.
 
-In their memos, Zuckerberg, Jobs, and Gates shine as convincers. The [acquisition of Instagram](https://sriramk.com/memos/zuck_systrom.pdf), one for the history books, wasn't decided by accountants or in board rooms, it closed because Mark Zuckerberg kept writing emails to Kevin Systrom. The emails are well-written, of course, but more interesting is that Zuckerberg took so much time to write them. Another tech memo which provided a good perspective was [Jobs on iBooks](https://sriramk.com/memos/jobs-ibooks.pdf). Amazon has firmly won the e-books war,{% sidenote "war" "Unlike [some](https://www.theatlantic.com/books/archive/2021/09/why-are-ebooks-so-terrible/620068/), I don't think this is a [bad thing](https://jablevine.com/older/september_2021)." %} but it wasn't a sure thing. Jobs aggressively lobbies James Murdoch (!) to have HarperCollins sign a deal with Apple to distribute their ebooks at a substantial markup from Kindle prices. 
+The second thousand-pager of October was Machester's *American Caesar*, a biography of Douglas MacArthur. The titular simile is made in the introduction, and not revisited.
 
-> The reason we are doing this is that, with our experience selling a lot of content online, we simply don’t think the ebook market can be successful with pricing higher than $12.99 or $14.99. Heck, Amazon is selling these books at $9.99, and who knows, maybe they are right and we will fail even at $12.99. But we’re willing to try the price as we proposed.
+> The two generals surrounded themselves with servile aides-de-camp; remained long abroad, one as proconsul and the other as shogun, leading captive peoples in unparalleled growth; loved history; were fiercely grandiose and spectacularly fearless; and reigned as benevolent autocrats.
 
-Krishnan calls this email thread "infamous," so there's history which I haven't read. If anyone has reading recommendations on the history of the ebook market, please send it along! "[Book Wars](https://smile.amazon.com/-/es/dp/1509546782/?psc=1)" by Thompson is on my reading list, but ironically not worth $28 for the Kindle version.
+MacArthur's ego makes him easy to dislike, but the ego is justified in a way that makes him a candidate for the Great Man theory of history which Tolstoy spends so many chapters disparaging. Manchester's portrayal of other Allied generals{% sidenote "navy" "Admirals are tactfully excluded from similar criticism." %} in East Asia during and after WWII is uncharitable. The implication is that the war in the Pacific, and it's aftermath, would have gone much differently in anyone else's hands. MacArthur was especially well-regarded in the nations he protected and ruled, despite his reputation among American GIs. On his last visit to the Philippines, MacArthur
 
-Krishnan's list has just five government memos, of which two are from political campaigns and one is from Du Pont Chemical company. The political ones are fascinating: read Hillary Clinton's 2008 chief strategist on how to [take down a junior senator from Illinois](https://sriramk.com/memos/penn-memo.pdf). Obama was "all sizzle and no steak," he "lacks American roots," and he's "unelectable except perhaps against Attila the Hun."
+> was moved—moved to tears—when he discovered that the government had kept a postwar vow that the name of Douglas MacArthur would never be permitted to die among the soldiers of the Republic of the Philippines, that it was heard every day when a roll was called, and that a sergeant always responded: “Present in spirit!”
 
-This isn't the pinnacle of government memo writing. Some government memos probably contain too much CYOA to be interesting. On the other hand, as Krishnan notes, memos "typically seem to come into the public domain in one of three ways: through being really old, being part of some lawsuit/legal process or, sadly, being part of a hack." The most interesting ones come from hacks, and these are the ones Krishnan is least likely to put on his website. 
+This tradition persists. Too, does MacArthur's near-deification in Japan. I picked up the book after a [friend](https://www.legalpriorities.org/team/renan-araujo.html) who studies constitutions mentioned that the Japanese constitution was written by MacArthur in one week in 1947, and has not been amended since. Much of Japan's 20th century miracle was enabled by the reforms of the late 1940s, which the General micromanaged from his Tokyo headquarters. The most impressive of these achievements were public health:
 
-One of the most exciting war books I read this year was mostly a summary of memos and conversations about the Iraq war decision. "[Leap of Faith](https://smile.amazon.com/Leap-Faith-Negligence-Americas-Greatest/dp/1541768361?)" by Michael Mazarr collected memos from the White House, Pentagon, and NSC, which become characters in the story of Iraq. Donald Rumsfeld comes off the worst in his memo writing: one "urgent" (and unexplained) memo penned from his desk in 2002 reportedly read, in its entirety, "Sunni vs. Shia??" Rumsfeld was also deeply possessive of his briefings:
+>  In the first two years of the occupation, Sams estimated, the control of communicable diseases alone had saved 2.1 million Japanese lives—more than the country’s battle deaths during the war, over three times the number of Nipponese civilians killed in the wartime bombings, including Hiroshima and Nagasaki. The life expectancy of men had been increased by eight years and of women by nearly fourteen years, a phenomenon, in Sams’s words, that has been “unequaled in any country in the world in medical history in a comparable period of time.”
 
-> If people began taking notes, he would sometimes tell them to stop. In one such session, according to someone present, [Condoleezza ] Rice said she wanted to keep her copy of the slides. Rumsfeld refused and reached for them. The two were actually pulling the slides back and forth until Rice appealed to Bush, who was sitting at the head of the table: “Mr. President, I need to keep these.” Bush merely shrugged and left the room. Rice eventually surrendered her copy, but sent a staff member to the Pentagon to find another. 
+The other reason I picked up *Caesar* was because of a debate with my friend Graeme on what makes an occupation successful. On public health, at least, the US occupation of [Afghanistan](https://jablevine.com/older/september_2021) matched our Japanese track record.
 
-We probably undervalue the memo. The most important one on Krishnan's list is from IBM's Thomas Watson, aimed at adjutants working in the Pentagon during WWII. The focus is on "completed staff work."
+The final tome of October was *All the Young Dudes*, a Harry Potter fan-fiction. Fan-fiction as a sub culture provides the main source of literature for tens of millions of Americans, and hundreds of millions worldwide. I asked my sisters to recommend their favorite stories, and *All the Young Dudes* was the consensus choice.{% sidenote "ts" "One friend, after I shared what I was reading, told me that Taylor Swift is the true anonymous author of *All the Young Dudes*. Here's a [28-minute YouTube video](https://www.youtube.com/watch?v=txj9mfdy5YI) arguing for the theory. This rabbit hole goes deep. " %} I finished it, so it must have been alright, but I took no notes and made no highlights on my Kindle. 
 
-> "Completed Staff Work" is the study of a problem, and presentation of a solution, by a staff officer, in such form that all that remains to be done on the part of the head of the staff division, or the commander, is to indicate his approval or disapproval of the completed action. 
+I feel that, by not being on TikTok, that I'm missing out on a similar subculture, but by 100x. I haven't downloaded the app because my current daily use of TikTok is a Nash equilibrium (0 minutes per day): if I download TikTok the next equilibrium is probably around 30 minutes per day. I'd probably be willing to give up 10 minutes per day to the algorithm, but that's a difficult line to hold. Also on the topic of TikTok and Harry Potter, an in-depth look at TikTok's algorithmic subcultures from [Eugene Wei](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat): 
 
-Everyone I've ever worked for has been a busy person. They don't read what I write to learn, they read to act. When I was consulting, a memo could change policy or strategy. Now, working for researchers, a memo (occasionally taking the form of a literature review) informs experimental design or field planning. A good memo isn't information, it's action. 
+> TikTok’s algorithm is the Sorting Hat from the Harry Potter universe. Just as that magical hat sorts students at Hogwarts into the Gryffindor, Hufflepuff, Ravenclaw, and Slytherin houses, TikTok’s algorithm sorts its users into dozens and dozens of subcultures.	
+
+Wei has deep, and possibly true, insights into TikTok's algorithm. I came away thinking the algorithm is both a lot dumber and a lot more impressive than I went in. He ends with a story about his trip to the headquarters of Newsdog, "the number one news app in India at the time." 
+
+> I looked through the stories, all in Hindi (and yes, one feed that contained the thirst trap photos of attractive Indian girls in rather suggestive outfits standing under things like waterfalls; some parts of culture are universal). Then I looked up from the app and through the glass walls of the conference room at an office filled with about 40 Chinese engineers, mostly male, tapping away on their computers. Then I looked back down at page after page of Hindi stories in the app.
+>
+> “Wait,” I asked. “Do you have people in this office or at the company who know how to read Hindi?”
+>
+> He looked at me with a smile.
+>
+> “No,” he said. “None of us can read any of it.”
+
+
 
 ## Listening <a name="music"></a>
 
-Here is a list of records I listened to for the first time this month and liked (no star) or loved (star). 
+Four new (to me) albums dominated my listening this month according to Spotify analytics. All are pop or pop-adjacent. 
+- Liz Phair, "Liz Phair" (2003)
+- Wilco, "Sky Blue Sky" (2007)
+- Chairlift, "Moth" (2016)
+- Jacob Collier, "Djesse, Vol. 3" (2020)
 
-* "Midnight Organ Fight," Frightened Rabbit ⭐
-* "Soul Food: Cooking with Maceo," Maceo Parker   
-* "Pomegranates," Nicolas Jaar
-* "In Rainbows," Radiohead
-* "Ormenion," Evritiki Zygia ⭐ 
-* "First Rose of Spring," Willie Nelson
-* "Recomposed by Max Richter: Vivaldi – The Four Seasons"
-* "SONGWRIGHTS APOTHECARY LAB," Esperanza Spalding
-
-Also, Krishnan's list of memos includes this (undated, but presumably mid-2000s) [Dave Goldberg memo](https://sriramk.com/memos/goldberg-music.pdf) on the future of the music industry. The memo was sent to Sony CEO Michael Lynton, and was released in the aftermath of the massive Sony Pictures hack. The document is fantastic for the facts it uses to frame the industry,{% sidenote "facts" "<q>Catalog provides 50% of the revenue and 200% of the profits of recorded music.</q>" %}  its forecasts (all eventually proven true),{% sidenote "forecast" "<q>Physical distribution is going away—it doesn’t need to be eliminated prematurely but it needs to follow digital and not drive it.</q>" %} and the final recommendations for how Sony can place itself in the market.{% sidenote "future" "<q>If Netflix wanted to pay 200MM per year to give all of its 40MM subs a music subscription—that should be encouraged, not scoffed at. The goal for digital is for subscription and ad-based services to become the predominant means for people to access music.</q>" %} I learned more in these two and a half pages about the music industry than reading industry news.
+Also, my wonderful mother found someone to hand-deliver a birthday present, including a new pair of earphones (I was down to my third back-up pair!). Most-improved-record on the new earphones goes to Lizzo's "'Cuz I Love You."
 
 ## Writing <a name="writing"></a>
 
-I received many useful comments on the draft of my paper on the long reflection, thank you to everyone for reaching out! I also found a pretty egregious coding error in my paper on the role of start-up cities in emigration reduction. Working with cross-national opinion data is hard. Both of these projects are back on the drawing board for now.
-
-In the first days of October, I'm presenting a new paper on the natural resource curse at APSA 2021 in Seattle. The slides are [here](https://jablevine.com/papers/levine_harish_APSA2021.pdf), and we're finishing up a full working draft in the early weeks of the month. This draft is my writing sample for PhD applications in the Winter, so I would more than appreciate any comments! Please reach out if you're interested, or have even a second to take a look.
-
-I'm also spending an inefficient amount of time writing and re-writing the personal statements for my PhD applications. One mentor who's recently been through the process remarked that, at this point, everything else about the application has been locked in (GRE, GPA, LoRs, CV). Even though the personal statement has a minimal role in admission decisions, it intuitively feels like the last bit of the application under my control. 
-
-## Eating <a name="food"></a>
-
-I moved apartments in early September, and, as part of the welcome package to my new home, I inherited about 25 cans of chickpeas. I have boiled, toasted, roasted, baked, crushed, smushed, blended, and devoured these cans, with the goal of working through Wikipedia's [list of chickpea recipes](https://en.wikipedia.org/wiki/List_of_chickpea_dishes).
-
-The most common response I've gotten, when I bring up my chickpea binge, is that I *must* re-try all of these recipes with dried chickpeas. This won't be happening: no increase in quality is worth the 12+ hours of planning involved in rehydrating and cooking dried chickpeas. But I appreciate your concern.
+This section intentionally left blank.
 
 ## Previously
+
+*[October, 2021](https://jablevine.com/older/october_2021)*
 
 *[September, 2021](https://jablevine.com/older/september_2021)*
 
@@ -91,5 +98,7 @@ The most common response I've gotten, when I bring up my chickpea binge, is that
 *[June, 2021](https://jablevine.com/older/june_2021)*
 
 *[May, 2021](https://jablevine.com/older/may_2021)*
+
+
 
 
