@@ -6,11 +6,11 @@ title: What am I up to now?
 
 ## November, 2021
 
-Noah Robertson writes a very flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article went to press before the Taliban's summer campaign, and paints an optimistic picture of the persistence of mini-grids. After the fall of Kabul, Noah followed up with me and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
+Noah Robertson writes a very flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article went to press before the Taliban's summer campaign, and paints an optimistic future for Afghanistan and our mini-grids. After the fall of Kabul, Noah followed up with me and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
 
 My sisters were not as flattered by the article, and it's my fault. 
 
-> All this came as a surprise to his family, who rarely stray from home. Both of his sisters now live close to their colleges. His family is still in the Washington area. Meanwhile Levine hasn’t lived in the same place for more than 10 months since high school.
+> All this [travel] came as a surprise to his family, who rarely stray from home. Both of his sisters now live close to their colleges. His family is still in the Washington area. Meanwhile Levine hasn’t lived in the same place for more than 10 months since high school.
 
 One friend who recently enrolled at W&M texted my sister Abigail, "I didn't know you've never left your front porch." Sorry! 
 
@@ -20,7 +20,7 @@ While looking through the Fall 2021 Alumni magazine, I found [this article](http
 
 In October, I spoke with one of our Sierra Leonean research assistants about his dissertation, which he's writing to finish his Masters degree at a university here. His main data source is AidData!
 
-Finally, on the topic of alumni magazines, my friend [Alex Coultrup](https://prod.orangecoastcollege.edu/about/marketing-public-relations/newsstand-assets/docs/occ-magazine-2021.pdf) was featured on the cover of her college's magazine! Her headline-making adventure took her a lot further from home than just Afghanistan: Alex spent two weeks on a simulated Mars mission. She's a human factors engineer working at a space company; they're currently working on the most [exciting concepts](https://nanoracks.com/starlab/) in [LEO commercialization](https://nanoracks.com/outpost/).
+Staying on the topic of alumni magazines, my friend [Alex Coultrup](https://prod.orangecoastcollege.edu/about/marketing-public-relations/newsstand-assets/docs/occ-magazine-2021.pdf) was featured on the cover of her college's magazine! Her headline-making adventure took her a lot further from home than just Afghanistan: Alex spent two weeks on a simulated Mars mission. She's a human factors engineer working at a space company; they're currently working on the most [exciting concepts](https://nanoracks.com/starlab/) in [LEO commercialization](https://nanoracks.com/outpost/).
 
 ## Contents
 1. [Reading](#books)
