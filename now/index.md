@@ -9,9 +9,7 @@ That's no longer an issue: I'll be starting the PhD{% sidenote "phd" "Not actual
 
 Much of my love for Oxford is due to the great people based at the Trajan House offices where I have worked. Trajan House is the headquarters of CEA, FHI, Forethought Foundation, GovAI, GPI, and many other organizations with similarly opaque names. My host organization, GPI, has been a perfect place to expand out of development economics and back into the economics which will make up my academic short term future. My visit at GPI came to an end in early July, with the conclusion of two workshops. I write more about my work at GPI and these workshops in the "Research" section below.
 
-Since late June, I met three people for the first time who asked me why I stopped writing my book reviews {% sidenote "coy" "No one asked what diseases I'd contracted recently." %}. I never stopped writing them; I just stopped uploading them! 
-
-As I now have several positive reasons and no negative reasons to put updates here, I suppose it's time to get started again. 
+Since late June, I met three people for the first time who asked me why I stopped writing my book reviews {% sidenote "coy" "No one asked what diseases I'd contracted recently." %}. I never stopped writing them; I just stopped uploading them! Also, because I was too lazy to set up Google Analytics, I had assumed the only people who read this page were my dad and his friends from high school whom he shared it with.{% sidenote "bacon" "Hi Susan, hi Ron." %} Having been proven wrong, I suppose it's time to get started again. 
 
 ## Contents
 1. [Travel](#travel)
@@ -21,6 +19,16 @@ As I now have several positive reasons and no negative reasons to put updates he
 6. [Eating](#food)
 
   <br>
+  
+## Travel
+
+On 25 June, I started a nine-week, six-city{% sidenote "town" "And two small coastal towns." %}  tour. While it's impossible to list all the highlights and excitement, here is a series of one-shots:
+
+### Bern
+
+Bern was the first stop on my two-month lark. I was attending a week-long workshop on existential risks at a meditation retreat east of the city,{% sidenote "yoga" "Presumably so we could max out on calmness while considering the end of the world." %}  with a couple of days before and after to explore. My first two days were full touristy, swimming in the Aare, drinking in Einstein's house{% sidenote "annus" "Where he had his *[annus mirabilis](https://en.wikipedia.org/wiki/Annus_mirabilis_papers)https://en.wikipedia.org/wiki/Annus_mirabilis_papers*." %} (now converted into a bar), and seeing the sights with a history buff/friend who grew up in the city. The weather could not have been more beautiful for early summer; while this possibly confounds my opinion, Bern is solidly in my top five favorite cities I've visited.
+
+By the end of day two, following the absolutely worst seminar on public choice I've ever experienced,{% sidenote "voting" "No one's fault: after the workshop opening dinner, the organizers presented three options for a closing activity: Hike, Swim, and Waterfall. " %} I was starting to feel a bit tired. But on the morning of the next day conference, I woke up [REDACTED REDACTED] sick enough to miss the entirety of the workshop and visit the hospital on days three and four. 
 
 ## Reading 
 
