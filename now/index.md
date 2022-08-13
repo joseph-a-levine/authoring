@@ -5,13 +5,20 @@ title: What am I up to now?
 
 I stopped publishing updates here late last fall on near-universal advice. Maybe it was my half-hearted advocacy for ecoterrorism or excessive references to the health problems which came from living in West Africa, but academic mentors, family, and friends thought perhaps these updates wouldn't endear me to PhD admissions committees.
 
-That's no longer an issue: I'll be starting the PhD in economics at the University of Oxford in October. 
+That's no longer an issue: I'll be starting the PhD{% sidenote "phd" "Not actually a PhD. Technically it's the "Integrated DPhil (2+2) in economics," because Oxford just *has* to be special 🙄. I'm going to keep calling it a PhD until someone yells at me. See my [homepage](jablevine.com) for the definitive version of this caveat." %}  in economics at the University of Oxford in October. I was in Oxford for all of February-June, besides one weekend in Boston and a week-long road trip in Scotland. Oxford is a great town, and I'm excited to really settle down for the first time since high school. 
 
-I was in Oxford from February-June, besides one weekend in Boston and a week-long road trip in Scotland. Oxford is a great town, and I'm excited to really settle down for the first time since high school. 
+Much of my love for Oxford is due to the great people based at the Trajan House offices where I have worked. Trajan House is the headquarters of CEA, FHI, Forethought Foundation, GovAI, GPI, and many other organizations with similarly opaque names. My host organization, GPI, has been a perfect place to expand out of development economics and back into the economics which will make up my academic short term future. My visit at GPI came to an end in early July, with the conclusion of two workshops. I write more about my work at GPI and these workshops in the "Research" section below.
 
-Much of my love for Oxford is due to the great people based at the Trajan House offices where I have worked. Trajan House is the headquarters of CEA, FHI, Forethought Foundation, GovAI, GPI, and many other organizations with similarly opaque names. My host organization, GPI, has been a perfect place to expand out of development economics and back into the economics which will make up my academic short term future.
+Since late June, I met three people 
 
-My visit at GPI came to an end in early July, with the conclusion of two workshops. the first, the annual GPI workshop (the first large one held in person since 2019) will take place over two day sand have more than a hundred attendees. the second
+## Contents
+1. [Travel](#travel)
+2. [Reading](#books)
+4. [Research](#writing)
+5. [Listening](#music)
+6. [Eating](#food)
+
+  <br>
 
 ## Reading 
 
