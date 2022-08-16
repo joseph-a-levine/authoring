@@ -34,7 +34,7 @@ While the doctor wasn't able to provide a final diagnosis,{% sidenote "specif" "
 
 ### DC 
 
-After a pit stop in Oxford to stash my life's belongings under my office desk, I flew to DC for a week. Besides catching up with friends and old colleagues, the highlight of the trip home was an evening tour of the monuments with my aunt and her niece.{% sidenote "relat" "My half second cousin once removed?" %} DC is not known for its natural beauty; it's the giant mounds of marble which pull any tourists. But that night, the DC sky outdid itself. A [WaPo](https://www.washingtonpost.com/weather/2022/07/12/dc-sunset-rainbows-lightning-red/) article the next day collected pictures from around the area but my family and I had the best view. 
+After a pit stop in Oxford to stash my life's belongings under my office desk, I flew to DC for a week. Besides catching up with friends and old colleagues, the highlight of the trip home was an evening tour of the monuments with my aunt and her niece.{% sidenote "relat" "My half second cousin once removed?" %} DC is not known for its natural beauty; it's the giant mounds of marble which pull any tourists. But that night, the DC sky outdid itself. A [WaPo](https://www.washingtonpost.com/weather/2022/07/12/dc-sunset-rainbows-lightning-red/) article the next day collected pictures from around the area but my family and I had the best view.{% marginfigure "tj" "assets/img/tj.jpg" "From my mom's iPhone." %} 
 
 We sat in the Thomas Jefferson memorial for a half hour, watching the sunset linger behind lightning and rainbows. This was the first time I had been back to TJ since my pre-high school prom pictures, so I have a pretty high bar for visiting again.{% sidenote "engag" "Last month, my prom date got engaged! Congrats Taylor & Connor!" %}
 
@@ -44,9 +44,17 @@ The next stop was Portland and Eugene, to visit my amazing sister, who definitel
 
 ### Glacier Bay National Park
 
-I flew from Eugene to Gustavus, AK next — my friend Lucas Wolfman{% marginfigure "wolfman" "assets/img/wolfman.jpg" "Lucas Beck" %}  is finishing up his masters dissertation in this off-the-grid town of 400 people, and his partner Hailey is a park ranger at the National Park in town.{% sidenote "hat" "With the big hat and everything." %} At Hailey's suggestion, I went out on the small dayboat, which trundles up the bay to the eponymous glaciers at 7am every morning.
+I flew from Eugene to Gustavus, AK next — my friend Lucas Wolfman{% marginfigure "wolfman" "assets/img/wolfman.jpg" "" %}  is finishing up his masters dissertation in this off-the-grid town of 400 people, and his partner Hailey is a park ranger at the National Park in town.{% sidenote "hat" "With the big hat and everything." %} At Hailey's suggestion, I went out on the small dayboat, which trundles up the bay to the eponymous glaciers at 7am every morning. It was an absolutely perfect day, with views in all directions and wildlife everywhere. As famous naturalist and noted racist John Muir wrote upon stumbling into the Bay
 
-### SF
+> sunshine streamed through the luminous fringes of the clouds and fell on the green waters of the fiord, the glittering bergs, the crystal bluffs of the vast glacier, the intensely white, far-spreading fields of ice, and the ineffably chaste and spiritual heights of the Fairweather Range, which were now hidden, now partly revealed, the whole making a picture of icy wildness unspeakably pure and sublime.
+
+What an asshole. 
+
+### Bay Area
+
+After a one-day stop in Seattle, I arrived in San Francisco for a series of conferences, workshops, and baseball games. I won't list all of the amazing people I met or caught up with,{% sidenote "mani" "Except Riley, Oraya, and Manisha, who deserve special mention for prompting me to start writing here again." %} Instead, the far-and-away highlight of the week was 17 hours in Tahoe. Two serious climbing friends had found a wall and borrowed a Prius; I tagged around to provide moral support and look at pretty rocks. 
+
+Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "wolfman" "assets/img/wolfman.jpg" "" %} with a pool perfect for deepwater free solos.{% sidenote "dwfs" "If you fall 30 feet, you fall into water!" %} We finished the day swimming in Lake Tahoe and devouring the largest burritos east of the Mission.{% sidenote "weeh" "At the time, Switzerland had no monkeypox testing capacity." %}
 
 ## Reading 
 
