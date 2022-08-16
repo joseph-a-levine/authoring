@@ -54,7 +54,9 @@ What an asshole.
 
 After a one-day stop in Seattle, I arrived in San Francisco for a series of conferences, workshops, and baseball games. I won't list all of the amazing people I met or caught up with,{% sidenote "mani" "Except Riley, Oraya, and Manisha, who deserve special mention for prompting me to start writing here again." %} Instead, the far-and-away highlight of the week was 17 hours in Tahoe. Two serious climbing friends had found a wall and borrowed a Prius; I tagged around to provide moral support and look at pretty rocks. 
 
-Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "wolfman" "assets/img/wolfman.jpg" "" %} with a pool perfect for deepwater free solos.{% sidenote "dwfs" "If you fall 30 feet, you fall into water!" %} We finished the day swimming in Lake Tahoe and devouring the largest burritos east of the Mission.{% sidenote "weeh" "At the time, Switzerland had no monkeypox testing capacity." %}
+Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "waterfall" "assets/img/waterfall.jpg" "" %} with a pool perfect for deepwater free solos.{% sidenote "dwfs" "If you fall 30 feet, you fall into water!" %} We finished the day swimming in Lake Tahoe and devouring the largest burritos east of the Mission.{% sidenote "weeh" "My first trip to SF is a good opportunity to recommend one of my favorite pieces of internet writing: [The Alameda-Weehawken Burrito Tunnel](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %}
+
+### Connecticut and New York
 
 ## Reading 
 
