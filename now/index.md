@@ -9,7 +9,7 @@ That's no longer an issue: I'll be starting the PhD{% sidenote "phd" "Not actual
 
 Much of my love for Oxford is due to the great people based at the Trajan House offices where I have worked. Trajan House is the headquarters of CEA, FHI, Forethought Foundation, GovAI, GPI, and many other organizations with similarly opaque names. My host organization, GPI, has been a perfect place to expand out of development economics and back into the economics which will make up my academic short term future. My visit at GPI came to an end in early July, with the conclusion of two workshops. I write more about my work at GPI and these workshops in the "Research" section below.
 
-Since late June, I met three people for the first time who asked me why I stopped writing my book reviews {% sidenote "coy" "No one asked what diseases I'd contracted recently." %}. I never stopped writing them; I just stopped uploading them! Also, because I was too lazy to set up Google Analytics, I had assumed the only people who read this page were my dad and his friends from high school whom he shared it with.{% sidenote "bacon" "Hi Susan, hi Ron." %} Having been proven wrong, I suppose it's time to get started again. 
+Since late June, I met three people who asked me why I stopped writing my book reviews {% sidenote "coy" "No one asked what diseases I'd contracted recently." %}. I never stopped writing them; I just stopped uploading them! Also, because I was too lazy to set up Google Analytics, I had assumed the only people who read this page were my dad and his friends from high school whom he shared it with.{% sidenote "bacon" "Hi Susan, hi Ron." %} Having been proven wrong, I suppose it's time to get started again. 
 
 ## Contents
 1. [Travel](#travel)
@@ -28,7 +28,25 @@ On 25 June, I started a nine-week, six-city{% sidenote "town" "And two small coa
 
 Bern was the first stop on my two-month lark. I was attending a week-long workshop on existential risks at a meditation retreat east of the city,{% sidenote "yoga" "Presumably so we could max out on calmness while considering the end of the world." %}  with a couple of days before and after to explore. My first two days were full touristy, swimming in the Aare, drinking in Einstein's house{% sidenote "annus" "Where he had his *[annus mirabilis](https://en.wikipedia.org/wiki/Annus_mirabilis_papers)https://en.wikipedia.org/wiki/Annus_mirabilis_papers*." %} (now converted into a bar), and seeing the sights with a history buff/friend who grew up in the city. The weather could not have been more beautiful for early summer; while this possibly confounds my opinion, Bern is solidly in my top five favorite cities I've visited.
 
-By the end of day two, following the absolutely worst seminar on public choice I've ever experienced,{% sidenote "voting" "No one's fault: after the workshop opening dinner, the organizers presented three options for a closing activity: Hike, Swim, and Waterfall. " %} I was starting to feel a bit tired. But on the morning of the next day conference, I woke up [REDACTED REDACTED] sick enough to miss the entirety of the workshop and visit the hospital on days three and four. 
+By the end of day two, following the absolutely worst seminar on public choice I've ever experienced,{% sidenote "voting" "No one's fault: after the workshop opening dinner, the organizers presented three options for a closing activity: Hike, Swim, and Waterfall. JOSEPH " %} I was starting to feel a bit tired. But on the morning of the next day conference, I woke up [REDACTED REDACTED] sick enough to miss the entirety of the workshop and visit the hospital on days three and four. 
+
+While the doctor wasn't able to provide a final diagnosis,{% sidenote "specif" "I tested negative for everything she could think of." %} the only disease she suspected (for gross reasons) which she _couldn't_ test for was monkeypox.{% sidenote "capac" "At the time, Switzerland had no monkeypox testing capacity." %} By the morning of day five, however, I was on the mend, and the doctor decided that even if it were monkeypox, I'd no longer be contagious and that I should just *get out of her country*. 
+
+### DC 
+
+After a pit stop in Oxford to stash my life's belongings under my office desk, I flew to DC for a week. Besides catching up with friends and old colleagues, the highlight of the trip home was an evening tour of the monuments with my aunt and her niece.{% sidenote "relat" "My half second cousin once removed?" %} DC is not known for its natural beauty; it's the giant mounds of marble which pull any tourists. But that night, the DC sky outdid itself. A [WaPo](https://www.washingtonpost.com/weather/2022/07/12/dc-sunset-rainbows-lightning-red/) article the next day collected pictures from around the area but my family and I had the best view. 
+
+We sat in the Thomas Jefferson memorial for a half hour, watching the sunset linger behind lightning and rainbows. This was the first time I had been back to TJ since my pre-high school prom pictures, so I have a pretty high bar for visiting again.{% sidenote "engag" "Last month, my prom date got engaged! Congrats Taylor & Connor!" %}
+
+### Oregon
+
+The next stop was Portland and Eugene, to visit my amazing sister, who definitely lives far away from where she went to college. On my last day there, we went to the World Athletics Championships, held for the first time in the US. There was some fun javelin and long jump, but the highlight of the night was definitely the finals for the womens' 5000m and the 4x100m relays. JOSEPH
+
+### Glacier Bay National Park
+
+I flew from Eugene to Gustavus, AK next — my friend Lucas Wolfman{% marginfigure "wolfman" "assets/img/wolfman.jpg" "Lucas Beck" %}  is finishing up his masters dissertation in this off-the-grid town of 400 people, and his partner Hailey is a park ranger at the National Park in town.{% sidenote "hat" "With the big hat and everything." %} At Hailey's suggestion, I went out on the small dayboat, which trundles up the bay to the eponymous glaciers at 7am every morning.
+
+### SF
 
 ## Reading 
 
