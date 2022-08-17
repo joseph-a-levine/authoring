@@ -40,7 +40,9 @@ We sat in the Thomas Jefferson memorial for a half hour, watching the sunset lin
 
 ### Oregon
 
-The next stop was Portland and Eugene, to visit my amazing sister, who definitely lives far away from where she went to college. On my last day there, we went to the World Athletics Championships, held for the first time in the US. There was some fun javelin and long jump, but the highlight of the night was definitely the finals for the womens' 5000m and the 4x100m relays. JOSEPH
+The next stop was Portland and Eugene, to visit my amazing sister, who definitely lives far away from where she went to college. On my last day there, we went to the World Athletics Championships, held for the first time in the US. There was some fun javelin and long jump, but the highlight of the night was definitely the finals for the women's 5000m and the 4x100m relays. JOSEPH
+
+A track 5k is incredibly boring at World Championships, unless your life's passion is watching the 20 lankiest stringbeans with phenomenal lung capacity run at 80% for 10-12 minutes, then sprint like crazy for 2-4 minutes. Thankfully, that *is* my sister's life's passion, and I got a delightful running commentary{% sidenote "runn" "Do you get it?" %} of every shimmy and pass and ``Oh my gosh what happened to Karissa??''{% sidenote "convin" "*Joseph*: Are you sure you want me to come? I don't know anything about track, you'll have to explain everything to me. *Abigail*, affecting horror: Oh *no.* I have to talk about *running* while watching *running*, you're right, that will ruin my day." %} 
 
 ### Glacier Bay National Park
 
@@ -60,9 +62,16 @@ Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "wa
 
 ## Reading 
 
-I read more books in 2021 than I expect to read in any other calendar year. I attribute this to several causes: 
+I read more books in 2021 than I expect to read in any other calendar year. I attribute this to: 
+- Internet was sufficiently expensive in Sierra Leone to discourage all video streaming and marginal browsing, 
+- Work stress was very high, so I escaped into books as frequently as I could.
+- While I played football, hockey, and water polo socially, that was the extent of my social life. 
 
 I won't read as much in 2022. But here are some of my favorites from the past couple of months.
+
+### "Hitler's Uranium Club," Jeremy Bernstein
+
+I re-read this book in June. The body is 250 pages of transcripts of conversations between ten of the best nuclear and chemical scientists under the Nazi regime, recorded secretly during their interment at Farm Hall outside Cambridge. 
 
 ### Stonehenge 
 
@@ -85,6 +94,10 @@ The Oxford Philharmonic performs in the Sheldonian Theatre, my favourite non-chu
 In mid-June, I returned to the Sheldonian for the Philharmonic's season closing, a performance of Beethoven's Choral Fantasy and Choral Symphony, his 9th. 
 
 Before each of these performances, I met myfriends at the White Horse, one of the innumerable 7+ century old pubs scattered around Oxford. The main virtue of the White Horse is it's proximity to the Sheldonian. 
+
+## EAting
+
+40% of philosophy professors are vegetarian or vegan, compared to 6% of Americans who don't have strong opinions on whether cows are moral patients. JOSEPH. Among my colleagues at GPI, 
 
 ## Previously
 
