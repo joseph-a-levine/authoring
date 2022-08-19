@@ -3,7 +3,7 @@ layout: page
 title: What am I up to now?
 ---
 
-I stopped publishing updates here late last fall on near-universal advice. Maybe it was my half-hearted advocacy for ecoterrorism or excessive references to the health problems which came from living in West Africa, but academic mentors, family, and friends thought perhaps these updates wouldn't endear me to PhD admissions committees.
+TEST I stopped publishing updates here late last fall on near-universal advice. Maybe it was my half-hearted advocacy for ecoterrorism or excessive references to the health problems which came from living in West Africa, but academic mentors, family, and friends thought perhaps these updates wouldn't endear me to PhD admissions committees.
 
 That's no longer an issue: I'll be starting the PhD{% sidenote "phd" "Not actually a PhD. Technically it's the ''[Integrated DPhil (2+2) in economics](https://www.ox.ac.uk/admissions/graduate/courses/mphil-dphil-economics#:~:text=The%20structure%20of%20the%20MPhil%20%2B%20DPhil%20programme%20is%20similar%20to%20that%20of%20the%20integrated%20five%2Dyear%20PhD%20(sometimes%20called%20MRes%2DPhD)%20at%20leading%20economics%20graduate%20schools%20worldwide.),'' because Oxford just *has* to be special 🙄. I'm going to keep calling it a PhD until someone yells at me. See my [homepage](jablevine.com) for the canonical version of this caveat." %} in economics at the University of Oxford in October. I was in Oxford for all of February-June, besides one weekend in Boston and a week-long road trip in Scotland. Oxford is a great town, and I'm excited to really settle down for the first time since high school. 
 
