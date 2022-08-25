@@ -71,7 +71,7 @@ I won't read as much in 2022. But here are some of my favorites from the past co
 
 ### "Hitler's Uranium Club," Jeremy Bernstein
 
-Big Brother, Nazi Nobel Prize winner edition. Put ten captured German nuclear chemists and physicists in a farm house in England, tell them that the Americans made the bomb, accuse them of being Nazis, and bug their rooms. Best reality show idea of the 1940s.
+<u>Big Brother</u>, Nazi Nobel Prize winner edition. Put ten captured German nuclear chemists and physicists in a farm house in England, tell them that the Americans made the bomb, accuse them of being Nazis, and bug their rooms. Best reality show idea of the 1940s.
 
 I re-read this book in June. The body is 250 pages of transcripts of conversations between Heisenberg, Hahn, et al., who had worked on Nazi nuclear projects during the war. These conversations were recorded secretly during their interment at Farm Hall outside Cambridge, following the surrender in 1945. I learned more about both nuclear physics and self-deception from this book than any other. 
 
