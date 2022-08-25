@@ -87,7 +87,7 @@ In short, the German scientists failed to develop the bomb, and when confronted 
 
 While I was in Switzerland for the conference I mention above, I met a half-dozen people working for or around the UN.{% sidenote "gev" "Despite the conference having nothing to do with the UN, and my not going anywhere near Geneva." %} Several of these friends are working to influence the agendas of the UN and important member states around emerging technologies and the treatment of future generations.{% sidenote "bookc" "A big part of the upcoming UN agenda is 'reinvigorating multilateralism.' If, like me, you have no idea what that means and want to learn, I'm bookclubbing [''The Challenges of Multilateralism''](https://yalebooks.yale.edu/book/9780300230451/the-challenges-of-multilateralism/) with [Jacob Arbeid](https://www.simoninstitute.ch/about/member/jacob-arbeid/) from the Simon Institute in September and October. [Reach out](https://jablevine.com/hi/) if you'd like to join!" %} Here are three books I read about the UN recently.
 
-**Emergency Sex (And Other Desperate Measures), by an ensemble**
+
 
 A joint memoir written by three UN humanitarian workers who meet in Cambodia and whose stories intersect in Somalia, Haiti, Bosnia, and other cesspits of the 80s, 90s, and early 00s. It's the most pessimistic view of active humanitarianism possible. This doesn't mean it's superlative: I've read other books with the same pessimism, it just doesn't seem possible to have an emptier glass after excavating your *fifth* mass grave in Rwanda.
 
