@@ -32,9 +32,9 @@ By the end of day two, following the most fascinating seminar on public choice I
 
 ### DC 
 
-After a pit stop in Oxford to stash my life's belongings under my office desk, I flew to DC for a week. Besides catching up with friends and old colleagues, the highlight of the trip home was an evening tour of the monuments with my aunt and her niece.{% sidenote "relat" "My half second cousin once removed?" %} DC is not known for its natural beauty; it's the giant mounds of marble which pull any tourists. But that night, the DC sky outdid itself. A [WaPo](https://www.washingtonpost.com/weather/2022/07/12/dc-sunset-rainbows-lightning-red/) article the next day collected pictures from around the area but my family and I had the best view.{% marginfigure "tj" "assets/img/tj.jpg" "From my mom's iPhone." %} 
+After a pit stop in Oxford to stash my life's belongings under my office desk, I flew to DC for a week. Besides catching up with friends and old colleagues, the highlight of the trip home was an evening tour of the monuments with my aunt and her niece.{% sidenote "relat" "My half second cousin once removed?" %} DC is not known for its natural beauty; it's the giant mounds of marble which pull any tourists. But that night, the DC sky outdid itself. A [WaPo](https://www.washingtonpost.com/weather/2022/07/12/dc-sunset-rainbows-lightning-red/) article the next day collected pictures from around the area, but my family and I had the best view.{% marginfigure "tj" "assets/img/tj.jpg" "From my mom's iPhone." %} 
 
-We sat in the Thomas Jefferson memorial for a half hour, watching the sunset linger behind lightning and rainbows. This was the first time I had been back to TJ since my pre-high school prom pictures, so I have a pretty high bar for visiting again.{% sidenote "engag" "Last month, my prom date got engaged! Congrats Taylor & Connor!" %}
+We sat in the Thomas Jefferson memorial for a half hour, watching the sunset linger behind lightning and rainbows. This was the first time I had been back to TJ since my pre-high school prom pictures,{% sidenote "engag" "Speaking of: my prom date just got engaged! Congrats Taylor & Connor!" %} so I have a pretty high bar for visiting again.
 
 ### Oregon
 
@@ -46,7 +46,7 @@ A track 5k is incredibly boring at the World Championships, unless your life's p
 
 ### Glacier Bay National Park
 
-I flew from Eugene to Gustavus, AK next — my friend Lucas Wolfman{% marginfigure "wolfman" "assets/img/wolfman.jpg" "" %}  is finishing up his masters dissertation in this off-the-grid town of 400 people, and his partner Hailey is a park ranger at the National Park.{% sidenote "hat" "With the big hat and everything." %} At Hailey's suggestion, I went out on the small dayboat, which trundles up the bay to the eponymous glaciers at 7am every morning. It was an absolutely perfect day, with views in all directions and wildlife everywhere. As famous naturalist and noted racist John Muir wrote upon stumbling into the Bay,
+I flew from Eugene to Gustavus, AK next — my friend Lucas Wolfman{% marginfigure "wolfman" "assets/img/wolfman.jpg" "" %}  is finishing up his masters dissertation in this off-the-grid town of 400 people, and his partner Hailey is a park ranger at the National Park.{% sidenote "hat" "With the big hat and everything." %} At Hailey's suggestion, I went out on the small dayboat, which trundles up the bay to the eponymous glaciers at 7am every morning. It was an absolutely perfect day, with views in all directions and wildlife everywhere. As famed naturalist and noted racist John Muir wrote upon stumbling into the Bay,
 
 > sunshine streamed through the luminous fringes of the clouds and fell on the green waters of the fiord, the glittering bergs, the crystal bluffs of the vast glacier, the intensely white, far-spreading fields of ice, and the ineffably chaste and spiritual heights of the Fairweather Range, which were now hidden, now partly revealed, the whole making a picture of icy wildness unspeakably pure and sublime.
 
@@ -54,7 +54,7 @@ What an asshole.
 
 ### Bay Area
 
-After a one-day stop in Seattle, I arrived in San Francisco for a series of conferences, workshops, and baseball games. I won't list all of the amazing people I met or caught up with,{% sidenote "mani" "Except Riley, Oraya, and Manisha, who deserve special mention for prompting me to start writing here again." %} Instead, the far-and-away highlight of the week was 17 hours in Tahoe. Two serious climbing friends had found a wall and borrowed a Prius; I tagged around to provide moral support and look at pretty rocks. 
+After a one-day stop in Seattle, I arrived in San Francisco for a series of conferences, workshops, and baseball games. I won't list all of the amazing people I met or caught up with,{% sidenote "mani" "Except Riley, Oraya, and Manisha, who deserve special mention for prompting me to start writing here again." %} there are too many of you. Instead, the far-and-away highlight of the week was 17 hours in Tahoe. Two serious climbing friends had found a wall and borrowed a Prius; I tagged along to provide moral support and look at pretty rocks. 
 
 Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "waterfall" "assets/img/waterfall.jpg" "" %} with a pool perfect for deepwater free solos.{% sidenote "dwfs" "If you fall 30 feet, you fall into water!" %} We finished the day swimming in Lake Tahoe and devouring the largest burritos east of the Mission.{% sidenote "weeh" "My first trip to SF is a good opportunity to recommend one of my favorite pieces of internet writing: [The Alameda-Weehawken Burrito Tunnel](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %}
 
@@ -63,9 +63,9 @@ Late in the afternoon, we left the cliff face for a waterfall{% marginfigure "wa
 ## Reading 
 
 I read more books in 2021 than I expect to read in any other calendar year. I attribute this to: 
-- Internet was sufficiently expensive in Sierra Leone to discourage all video streaming and marginal browsing, 
-- Work stress was very high, so I escaped into books as frequently as I could.
-- While I played football, hockey, and water polo socially, that was the extent of my social life. 
+- -Internet was sufficiently expensive in Sierra Leone to discourage all video streaming and marginal browsing, 
+- -Work stress was very high, so I escaped into books as frequently as I could,
+- -While I played football, hockey, and water polo socially, that was the extent of my social life. 
 
 I won't read as much in 2022. But here are some of my favorites from the past couple of months.
 
