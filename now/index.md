@@ -109,10 +109,10 @@ Sergio Vieira de Mello worked for the UN from the age of 21 until 2003, when he 
 
 The book is a fantastic intellectual portrait, as well as a history of the worst humanitarian crises of the late 20th century. There's the mandatory Fukuyama bashing: "[Vieira de Mello] criticized Fukuyama and others for “a combination of naïve optimism and supreme arrogance.” “No,” Vieira de Mello declared, “history is not finished.”"{% sidenote "fuku" "I like to appreciate how good a sport Francis Fukuyama is about being totally wrong once, 30 years ago. It still gets brought up constantly; I can see how annoying this would be. I really loved ''Political Order and Political Decay'' in undergrad. His newest book, [''After the End of History,''](https://smile.amazon.co.uk/After-End-History-Conversations-Fukuyama/dp/1647120861?sa-no-redirect=1) is on my list (and maybe I should have read it before I wrote this footnote). Also, we have the same birthday." %} But his thought goes further, deeper, and weirder than that. In 1974, Vieira de Mello received his doctorate in philosophy, titled "Civitas Maxima: Origins, Foundations, and Philosophical and Practical Significance of the Supranationality Concept."{% sidenote "thes" "His insane productivity is another theme of the book. In 1974, he was already a UNHCR manager: one of his colleagues recalled from the time, ''I was shocked when he told me one day, ‘I’m going to go and defend my thesis.'' I said, ''Thesis? What thesis?''" %} I don't intend to read a dissertation with a title like that, but Power quotes heavily from a later lecture based on the dissertation given in Geneva. Vieira de Mello argues for a "synthesis of utopia and realism," recognizing that any particular perfect world is impossible, but working towards it is obligatory. He pulls heavily from Kant, particularly his work on rights to violence and intervention — Kant's view was that states should not interfere with conflicts contained within other states. The one exception, which Vieira de Mello weaponizes for the crisis of the day in Kurdistan, is when anarchy in one state threatens the integrity of its neighbors. Therefore, he claims, the UN operation in Northern Iraq is Kant-endorsed. Vieira de Mello closes the speech with a Kant quote: “We must act as if perpetual peace is something real, though perhaps it is not.” 
 
-What kind of person was Vieira de Mello? Intense, arrogant, charismatic; he was a womanizer, carrying on romantic relationships with multiple women on his own staff at the same time; he was nepotistic, flouting UN hiring guidelines and quotas.{% sidenote "drewt" "One hire was Andrew Thomson, one of the authors of ''Emergency Sex'' from above: ''Slightly tipsy, Thomson marched over to UNHCR headquarters [in NYC] and wandered the halls until he found a door marked CAMBODIA. He knocked and began chatting with an official who was helping to plan the repatriation operation from afar and who seemed thoroughly overwhelmed. Thomson soon finagled a consultant’s contract to join Vieira de Mello’s team.'' " %} Power doesn't avoid the unpleasant parts of Vieira de Mello's story; she frames them as part of his extreme pragmatism and focus on results. He did not care about rules or appearances: a central precept of resettlement is that refugees are only sent back by their own free will. Following the pacification of Rwanda, many Rwandans in Tanzania would have preferred not to return to their ruined homeland. Vieira de Mello organized their repatriation anyway.{% sidenote "compl" "For complicated, possibly good, reasons. The Tanzanian government had never really wanted the refugees, and certainly wanted them gone after the genocidal Hutu-led government fell. If a new norm formed for refugees remaining in their host country after a conflict stabilized, it would be more difficult to UNHCR to find willing host countries in the future." %} No decision earned him greater criticism. Similarly, he was willing to work with any faction in a conflict in the interests of displaced people. 
+What kind of person was Vieira de Mello? Intense, arrogant, charismatic; he was a womanizer, carrying on romantic relationships with multiple women on his own staff at the same time; he was nepotistic, flouting UN hiring guidelines and quotas.{% sidenote "drewt" "One hire was Andrew Thomson, one of the authors of ''Emergency Sex'' from above: ''Slightly tipsy, Thomson marched over to UNHCR headquarters [in NYC] and wandered the halls until he found a door marked CAMBODIA. He knocked and began chatting with an official who was helping to plan the repatriation operation from afar and who seemed thoroughly overwhelmed. Thomson soon finagled a consultant’s contract to join Vieira de Mello’s team.'' " %} Power doesn't avoid the unpleasant parts of Vieira de Mello's story; she frames them as part of his extreme pragmatism and focus on results. He did not care about rules or appearances: a central precept of resettlement is that refugees are only sent back by their own free will. Following the pacification of Rwanda, many Rwandans in Tanzania would have preferred not to return to their ruined homeland. Vieira de Mello repatriated them anyway.{% sidenote "compl" "For complicated, possibly good, reasons. The Tanzanian government had never really wanted the refugees, and certainly wanted them gone after the genocidal Hutu-led government fell. If a new norm formed for refugees remaining in their host country after a conflict stabilized, it would be more difficult to UNHCR to find willing host countries in the future." %} No decision earned him greater criticism. Similarly, he was willing to work with any faction in a conflict in the interests of displaced people. 
 > Vieira de Mello continued to believe that constructive engagement with the Khmer Rouge was the only way to save the faltering Cambodian peace process. In an internal July 1992 memo he instructed UNHCR officials to refrain—“in accordance with their humanitarian and non-political mandate”—from criticizing the Khmer Rouge in the press.
 
-Vieira de Mello was remembered as an extremely effective bureaucrat in a bureaucracy famous for its ponderousness. His death in 2003 came at a surprisingly bad time: having just been appointed UN Special Representative for Iraq, he had become close with Condie Rice and begun to gain the trust of President Bush as well. After the Canal Hotel bombing, the UN was never able to recover the influence in Iraq which seemed possible under Vieira de Mello. 
+Vieira de Mello was remembered as an extremely effective bureaucrat in a bureaucracy famous for its ponderousness. His death in 2003 came at an especially bad time: having just been appointed UN Special Representative for Iraq, he had become close with Condie Rice and begun to gain the trust of President Bush as well. After the Canal Hotel bombing, the UN was never able to recover the influence in Iraq which seemed possible under Vieira de Mello. 
 
 ### Letters 
 
@@ -124,23 +124,62 @@ And, because I read Wodehouse like candy, I'll end with:
 
 Staying on the refugee theme from directly above, 
 
-For a small city, Oxford has a Since March, I've seen three of the great symphonies performed by the Oxford Philharmonic. Tchaikovsky's 5th 
+The M’berra camp, in south-east Mauritania, houses around 60,000 refugees from across the border in northern Mali, displaced by the continuing political emergency that was sparked by the Azawad rebellion a decade ago. Facilitated by the Italian humanitarian organisation Intersos, the Italian producer Khalab travelled to M’berra to record the many musicians who now live there and to weave the tapes into a collage that he refers to as a “docu-fiction”.
 
-The Oxford Philharmonic performs in the Sheldonian Theatre, my favourite non-church designed by Wren. (Much preferred to the old hall at my semi-alma mater.) The concert hall in the Sheldonian is tiny, every seat feels cramped. But it is beatiful. From the top, down:
-- The [ceiling mosaic](https://www.google.com/maps/@51.7543066,-1.254943,2a,16.5y,262.34h,160.05t/data=!3m6!1e1!3m4!1sjyKiW68fe05YzCrt_hIR5w!2e0!7i13312!8i6656), painted by Robert Streater in 1669 and restored in 2008, is titled "Triumph of Truth and Learning over Envy, Rapine, and Ignorance." I spent most of Tchaikovsky's 5th distracted by the ceiling. The main circle consists of anthropomorphized versions of the courses taught at Oxford in the 17th century: Poesy poses with pipes; Mosaical law holds a set of double tablets; Astronomy rests on a giant astrolabe (thanks, lucy, for figuring this one out with me); and Chemistry clutches a crucible. On the south side of the ceiling are the titular outcasts: Envy, covered insnakes, falls away from the circle of divine coursework. Rapine and Ignorance, I learned later, are not visible due to the...
-- ...Organ installed in the 1880s, which reaches to the ceiling. While the organ is gorgeous, I was disappointed to learn the beautiful facade is now entirely decorative. From an uncited forum comment: 
-> The organ was a 'Father' Willis of 1877. It was rebuilt by Willis III in 1927/8 to a design of H.P Allen, without any Swell reeds. Harrison & Harrison rebuilt it in 1963 with mutations and a Cromorne on the Choir organ, as was popular at that time.  
-> 
-> The heating baked the organ, so in 1997 one of the Oxford alumni (a QC,) donated a synthetic instrument. It is said that the pipework remains in situ, though the loudspeakers are concealed within the rather splendid T.G. Jackson case.
-- I was seated directly under the stage-right [proctor's box](https://www.sheldonian.ox.ac.uk/sites/default/files/styles/mt_image_medium_square/public/sheldonian/images/media/plasticgoldfish.co_.uk_9k5a98781.jpg?itok=qQa0xxDn) for Brahm's 1st symphony. I spent most of the intemission speculating with a friend (hi Anna) about the fasces-weilding lions, looking like something out of an Indiana Jones dungeon. The best theory we could come up with is that they are intended to intimidate students sitting their exam in the hall every June.
+"An official instructs residents through a distorted megaphone to stay in the shade on “Reste À L’Ombre”, and then guitars and an electronic heat haze shimmer in."
 
-In mid-June, I returned to the Sheldonian for the Philharmonic's season closing, a performance of Beethoven's Choral Fantasy and Choral Symphony, his 9th. 
+"The music can sound claustrophobic, at odds with the usual spaciousness of desert blues: perhaps a reflection of nomadic life confined to a camp."
 
-Before each of these performances, I met myfriends at the White Horse, one of the innumerable 7+ century old pubs scattered around Oxford. The main virtue of the White Horse is it's proximity to the Sheldonian. 
+"The recordings Khalab made in the camp, in the 48-degree heat of 2017, are stark — unaccompanied singing; dry, smouldering electric guitar riffs; the severe sound of the three-string tehardent."
+
+Khalab's manifesto on the project, which I can't find in English, was derided 
+
+The FT's review was especially critical: "the distinctly western dance beats (the electronic claps on “Moulan Shakur” are especially grating) can feel less like a collaboration, more like imperial erasure."
+
+
+
+
+### Singer-songwriters
+
+Short reviews, in increasing order of fame (but not my love):
+
+Sara Bareilles live album and tiny desk
+
+Nora Ephron re-released 2022. 
+
+Maggie Rogers 2022. 
+
+Canadian church thing 
+
+Amelia be with the orange dress 
+
+
+
 
 ## EAting
 
-40% of philosophy professors are vegetarian or vegan, compared to 6% of Americans who don't have strong opinions on whether cows are moral patients. JOSEPH. Among my colleagues at GPI, 
+6% of Americans are vegetarian or vegan, compared to 40% of people who have strong opinions about [JOKE]. Among my colleagues at GPI, a much higher proportion abstain from animal products of all sorts (including the economists!). 
+
+Faculty at GPI care deeply about animal welfare. Adam, Will, Hayden, at least. One visitor to GPI in May and June introduced himself as "the vegan economist,"presumably indicating his research interests as well as his dietary preferences. The organizations we share Trajan House with have a similar story. CEA has made grants to JOSEPH, JOSEPH, and JOSEPH; FHI papers. 
+
+It makes sense, then, that our cafeteria is 100% vegan. My first month in the building, lunch came as pre-portioned meals from a vegan caterer elsewhere in Oxford. In March, however, our amazing office manager Jonathan contracted the most popular (as confirmed by JOSEPH) vegan cafe in Oxford, Greenbox, to open and staff an in-house kitchen. The response was ecstatic: Charles, Ross, and JOSEPH have become members of the Trajan community. They're also miracle workers. 
+- No-avocado guacamole
+- Vegan pastries
+- Spicy adjustments
+
+What would be their response to Hayden's quinoa paper? (I have to read it first...)
+
+A floor above the cafeteria in Trajan{% sidenote "patt" "There's a pattern to where my food came from in early 2022." %} there's a magic wall with dozens of varieties of vegan protein bars.{% sidenote "vego" "And a tiny selection, one or two, of *vegetarian* bars. These created a minor confusion and regret when some, who hadn't been reading the labels, learned of the milk protein within." %} Here's a quick review{% sidenote "15" "Methodology: I picked three bars I hadn't had before and then wrote this in 10 minutes." %} of some of these bars.
+
+**The Soy-mellier**
+
+*BAR 1*: 
+
+*Bar 2*:
+
+*Bar 3*:
+
+I also found this delightful Google sheet 
 
 ## Previously
 
