@@ -140,8 +140,7 @@ I was pleasantly surprised by **Sara Bareilles** sneaking back into my life rece
 
 Despite being second to last on this list, **Jodie Nicholson**'s album "Live at the Old Church Studio" is my favorite singer-songwriter album from 2022 (so far!). I don't remember how I came across it — it had fewer than 1,000 streams when I first listened. While I was trying to learn more about Nicholson, I came across a [stream](https://www.blackplastic.co.uk/alternative-electronic-music-b/2020/9/10/listen-move-jodie-nicholson) of [glowing](https://www.audiofemme.com/premiere-jodie-nicholson-move/) [reviews](https://americansongwriter.com/move-jodie-nicholson-song-interview/) of an electronically-laden [single](https://open.spotify.com/track/5xCEmnVaMNIR8mJi4xi89s?si=35e2989df9d34b73) she released in 2020. This confuses me — the greatest backhanded compliment I can give "Move" is that it sounds like early Maggie Rogers. It's a smooth, overproduced track with fantastic vocals; nothing special. The Old Church sessions are a different beast altogether. An unforgettable voice singing shockingly poignant lyrics without any accompaniment{% sidenote "piano" "Except her piano." %} or anyone sharing writing credit.  
 
-Amelia be with the orange dress 
-
+I found **Amalie Bryde**'s first EP when I mistyped Amelia Maciszewski's first name on Spotify. Bryde, a Danish singer-songwriter based in London, has now dropped two EPs in less than a year. Her label, and reviewers, are placing her in a box labeled R&B, but these releases are too alt-pop to fit so neatly.{% sidenote "blrock" "Ted Gioia is almost ''ready to write off the British blues rock tradition as a plaything of the superannuated.'' I steal most of my music opinions from Gioia, and he seems mostly right here." %} "In and Out of Love," from earlier this year, doesn't have as clear a narrative as her first EP, but this turns out to be a strength. Self-produced, with one collaboration, the new record is colorful and tight. 
 
 
 
@@ -153,13 +152,13 @@ Staff at GPI care deeply about animal welfare. Chapter 9 of Will MacAskill's [ne
 
 It makes sense, then, that our cafeteria is 100% vegan. My first month in the building, lunch came as pre-portioned meals from a vegan caterer elsewhere in Oxford. In March, however, our amazing office manager Jonathan contracted the most popular vegan café in Oxford, Greenbox, to open and staff an in-house kitchen. The response was ecstatic: Charles, Ross, and the rest of the rotating Greenbox team have become members of the Trajan community. They're also miracle workers. 
 
-*No-avocado guacamole*: It turns out the essence of guacamole is not avocado. I have no idea what that essence is, but Greenbox are able to make the guacamole bit happen without a single avocado. {% sidenote "nag" "Why bother? It's not that Charles fears that avocados are secretly conscious, but concerns over water use and exploitative labor practices. For a view that buying avocados may be morally obligatory, see [Wilkinson (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/papa.12210)." %}
+*No-avocado guacamole*: It turns out the essence of guacamole is not avocado. I have no idea what that essence is, but Greenbox are able to make the guacamole bit happen without a single avocado.{% sidenote "nag" "Why bother? It's not that Charles fears that avocados are secret moral patients, but concerns over water use and exploitative labor practices. For a view that buying avocados may be morally obligatory, see [Wilkinson (2022)](https://onlinelibrary.wiley.com/doi/full/10.1111/papa.12210)." %}
 
 *Pastries*: When I came to Trajan House, I was worried about making friends. To bait potential friendships, I practiced a few vegan baking recipes: cookies, brownies, banana bread, a carrot cake. The plot worked, but not through any particular skill. Greenbox's Tuesday-Thursday pastry service has shown me there's a new ceiling for vegan baking which I am unlikely to come near. Particularly try their coffee muffins. 
-- Spicy adjustments
 
+*Vegan cheeses*: OK, Greenbox doesn't make their own vegan cheeses, but they've opened me up to a whole new world. Their feta is particularly godly and confusing. 
 
-A floor above the cafeteria in Trajan{% sidenote "patt" "There's a pattern to where my food came from in early 2022." %}, there's a magic wall with dozens of varieties of vegan protein bars.{% sidenote "vego" "And a tiny selection, one or two, of *vegetarian* bars. These created minor confusion and regret when some, who hadn't been reading the labels, learned of the milk protein within." %} Here are some quick reviews{% sidenote "15" "Methodology: I picked three bars which I hadn't had before and then wrote this in 10 minutes." %} of some of these bars.
+A floor above the cafeteria in Trajan{% sidenote "patt" "There's a pattern to where my food came from during early 2022." %}, there's a magic wall with dozens of varieties of vegan protein bars.{% sidenote "vego" "And a tiny selection, one or two, of *vegetarian* bars. These created minor confusion and regret when some, who hadn't been reading the labels, learned of the milk protein within." %} Here are some quick reviews{% sidenote "15" "Methodology: I picked three bars which I hadn't had before and then wrote this in 10 minutes." %} of some of these bars.
 
 **The Soy-mellier**
 
@@ -169,7 +168,7 @@ A floor above the cafeteria in Trajan{% sidenote "patt" "There's a pattern to wh
 
 *Bar 3*:
 
-I also found this [delightful Google sheet](https://docs.google.com/spreadsheets/d/1WYsVzQI79So6S5dLqba0lVAhJ03zXYMvLenmPdtPhbg/edit?usp=sharing); I can't find the original source now, but the doc owner is [Roxanne Heston](https://roxanneheston.com/), which entirely fits.{% sidenote "nring" "At the ''What We Owe The Future'' book launch party in NY, Roxanne lent me her clip-on nose ring. I have never felt nattier." %} Enter your preferences along price/carb/protein/sugar dimensions and the sheet will spit out its top ten recommendations for you from more than 75 vegan protein bars. It's a great tool, but I'll warn against following it off a cliff. There's a ton of subjective variety among these bars in taste, and of the top five recommended to me, I absolutely cannot stomach No Cow, Lenny and Larry's, and Raw Rev Glo. 
+I also found this [delightful Google sheet](https://docs.google.com/spreadsheets/d/1WYsVzQI79So6S5dLqba0lVAhJ03zXYMvLenmPdtPhbg/edit?usp=sharing) a few months back; I can't find the original source now, but the doc owner is [Roxanne Heston](https://roxanneheston.com/), which entirely fits.{% sidenote "nring" "At the ''What We Owe The Future'' book launch party in NY, Rox lent me her clip-on nose ring. I have never felt nattier." %} Enter your preferences along price/carb/protein/sugar dimensions and the sheet will spit out its top ten recommendations for you from more than 75 vegan protein bars. It's a great tool, but I'll warn against following it off a cliff. There's a ton of subjective variety among these bars in taste, and of the top five recommended to me, I absolutely cannot stomach No Cow, Lenny and Larry's, and Raw Rev Glo. 
 
 ## Previously
 
