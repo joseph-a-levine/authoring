@@ -146,7 +146,7 @@ I found **Amalie Bryde**'s first EP when I mistyped Amelia Maciszewski's first n
 
 ## EAting
 
-6% of Americans are vegetarian or vegan, compared to 40% of people who have strong opinions about [JOKE]. Among my colleagues at GPI, a much higher proportion abstain from animal products of all sorts (including the economists!). 
+6% of Americans are vegetarian or vegan, compared to 40% of people who have strong opinions about Kant. Among my colleagues at GPI, a much higher proportion abstain from animal products of all sorts (including the economists!). 
 
 Staff at GPI care deeply about animal welfare. Chapter 9 of Will MacAskill's [new book](https://smile.amazon.co.uk/What-We-Owe-Future-Million-Year/dp/0861542509?sa-no-redirect=1) has a humbling section on non-human animals; Phil Trammell is working on a really exciting project discussing meat-eating in general equilibrium. Hayden Wilkinson, along with some other GPI-adjacent names, has done important work on offsetting behaviors such as eating meat. One [visitor](https://www.cgu.edu/people/joshua-tasoff/) to GPI in May and June introduced himself as "the vegan economist,"presumably indicating his research interests as well as his dietary preferences. The organizations we share Trajan House with have a similar story. CEA has paid out over $10M through it's [Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare) since 2018; FHI, despite their name, has hosted research scholars with animal welfare interests. This old [blog post](https://www.fhi.ox.ac.uk/human-and-animal-interventions/) is particularly on-brand from them.
 
