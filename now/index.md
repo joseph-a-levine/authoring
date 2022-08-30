@@ -130,9 +130,9 @@ The recordings from M'berra would be something special by themselves. Many of th
 
 ### Singer-songwriters
 
-Short reviews, in increasing order of fame (but not my love):
+Short reviews, in decreasing order of fame (but not my love):
 
-I was pleasantly surprised by **Sara Bareilles** sneaking back into my life recently. She has the same energy when she's writing a song and speaking to the Hollywood Bowl and giving a Tiny Desk. Each track on her 2022 live album is twice as long as the song, because she spends time chatting with audience members. One woman, close enough for the stage mics to pick up, was at UCLA with Bareilles, and yelled something about a comedy sketch they had done together. Someone else asks Baareilles to perform her favorite song, and while she declines to change the setlist, promises that all future performances will be dedicated to her. Three couples get engaged during "I Choose You," and Bareilles feels compelled to find each in the audience, and adorably gasp at them from a quarter mile away. The new performances of old songs are vigorous; "She Used to Be Mine" is the only one which disappoints, but only because she tries a new instrumentation which feels too crowded.
+I was pleasantly surprised by **Sara Bareilles** sneaking back into my life recently. She has the same energy when she's writing a song and speaking to the Hollywood Bowl and giving a Tiny Desk. Each track on her 2022 live album is twice as long as the song, because she spends time chatting with audience members. One woman, close enough for the stage mics to pick up, was at UCLA with Bareilles, and yelled something about a comedy sketch they had done together. Someone else asks Bareilles to perform her favorite song, and while she declines to change the setlist, promises that all future performances will be dedicated to her. Three couples get engaged during "I Choose You," and Bareilles feels compelled to find each in the audience, and adorably gasp at them from a quarter mile away. The new performances of old songs are vigorous; "She Used to Be Mine" is the only one which disappoints, but only because she tries a new instrumentation which feels too crowded.
 
 **Norah Jones** re-released "Come Away With Me" earlier this year; I was five when it first came out, and probably didn't hear some of these ballads until I was 20. The re-release has a couple dozen outtakes and demos, the best of which are just Jones and an upright bass. Covers of "Walkin' my Baby Back Home" and "Hallelujah, I Love Him So" are new highlights where she seems to be having an exceptional amount of fun. Highly recommended for nostalgia of multiple flavors. 
 
@@ -162,9 +162,9 @@ A floor above the cafeteria in Trajan{% sidenote "patt" "There's a pattern to wh
 
 **The Soy-mellier**
 
-*BAR 1*: 
+**PhD SMART BAR**: Reminiscent of a stale PayDay bar. PhD tries to hide their 18 grams of protein in a cylinder wrapped in caramel, peanuts, and chocolate, but this only leads to a chaotic and upsetting texture. One spot at which they excelled is the aftertaste: I am often deeply put off by the aftertaste of soy protein bars, but for PhD, the chocolate and peanut is all that lingers. *6/10*
 
-*Bar 2*:
+*Primal Spirit — Thai Peanut Vegan Jerky*: The packaging was very difficult to open — I almost gave up after 30 seconds. While vegan jerky is interesting, this was probably not worth the frustration. I probably enjoyed this more than any meat jerky I've had, as I often feel weighed down by salt afterwards. I'm beginning to suspect the concept of jerky isn't for me. Also — "Thai peanut?" Is "satay" too complicated? 4/10
 
 *Bar 3*:
 
