@@ -21,19 +21,24 @@ title: What am I up to now?
 ## Reading 
 
 
-
+test
 
 
 ## Listening 
 
 
+test
+
+
 
 ## Writing <a name="writing"></a>
 
-
+test
 
 ## Eating <a name="food"></a>
 
+
+test
 
 
 ## Previously
