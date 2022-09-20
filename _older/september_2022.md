@@ -14,7 +14,9 @@ title: What am I up to now?
 
 <br>
 
-At 6am on 26 September, I landed at London Heathrow airport; at 9am I walked into the first class of my PhD.{% sidenote "caveat" "Not a PhD. See the caveat on my [homepage](jablevine.com)." %} Friends and classmates told me this was cutting it a bit close, but I was glad to use every last minute of my last month of freedom b
+At 6am on 26 September, I landed at London Heathrow airport; at 9am I walked into the first class of my PhD.{% sidenote "caveat" "Not a PhD. See the caveat on my [homepage](https://jablevine.com/)." %} Friends and classmates told me this was cutting it a bit close, but I was glad to use every last minute of my last month not subject to the tyranny of grad school. 
+
+My libertine September sprang from heterogeneous feelings. Since slowing down my work at GPI following the June workshops, I have been content. Travel has been a blessing, I've spent time with dozens of close friends; I've read great books and listened to good music; I've done work that I feel is important. This sufficiant frame of mind persisted everywhere I went. Preparing for the first day of school, my first first day since 2017, I felt a wave 
 
 
 ## Contents
@@ -34,8 +36,7 @@ test
 
 ## Listening 
 
-
-test
+Funk
 
 
 
