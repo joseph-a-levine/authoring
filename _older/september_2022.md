@@ -22,7 +22,7 @@ My libertine September sprang from heterogeneous feelings. Since stepping back f
 
 I was surprised how difficult it is to reconcile these themes of summer 2022. I've felt content and stressed at the same time; the camaraderie of responding to a car crash on an ambulance or working on a short-turnaround deliverable for an important client replicate some of these feelings. What has been different is the *anticipation* of stress. 
 
-It occurred to me, throughout the summer, that there are probably things I can do to limit how unpleasant the first term will be. And I did some of these things! Phil Trammell lent me the flashcards he had made in the first year of the MPhil; two different professors sent me their copies of Simon & Blume;
+It occurred to me, throughout the summer, that there are probably things I can do to limit how unpleasant the first term will be. And I did some of these things! Phil Trammell lent me the flashcards he had made in the first year of the MPhil; two different professors sent me their copies of Simon & Blume; I watched the entire online lectures from ASU, Chicago, and UMinnesota math camps. But I do not expect this to make much difference to how dumb I feel over the next few months. This is a feature of the first year — the Department is trying to cram as much knowledge and intuition into our brains so we can do good research. The feeling of dumbness is accurate and I'm fine with that! I just expect to find it unpleasant. 
 
 
 ## Contents
@@ -37,7 +37,7 @@ It occurred to me, throughout the summer, that there are probably things I can d
 ## Reading 
 
 
-test
+Will MacAskill's new book, *What We Owe the Future*, came out in late August. He's a moral philosopher, and one of the things we owe the future is moral change. His chief historical example is the abolition of slavery.{% sidenote "mralch" "All of Chapter 3." %}  
 
 
 ## Listening 
