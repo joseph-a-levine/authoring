@@ -37,7 +37,9 @@ It occurred to me, throughout the summer, that there are probably things I can d
 ## Reading 
 
 
-Will MacAskill's new book, *What We Owe the Future*, came out in late August. He's a moral philosopher, and one of the things we owe the future is moral change. His chief historical example is the abolition of slavery.{% sidenote "mralch" "All of Chapter 3." %}  
+Will MacAskill's new book, *What We Owe the Future*, came out in late August. He's a moral philosopher, and one of the things we owe the future is moral change. His chief historical example is the abolition of slavery.{% sidenote "mralch" "All of Chapter 3." %}  I've been working through a series of syllabuses on abolition for the past year. I have opinions about how Will wields this example, but my interests lie in a different direction. 
+
+
 
 
 ## Listening 
