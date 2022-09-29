@@ -51,14 +51,28 @@ Christopher Brown{% sidenote "ivy" "Hilariously, when recommending this book, a 
 
 I spent a few hours organizing my [Pocket](https://getpocket.com/home) app; here are my favorite articles I've read in 2022.{% sidenote "messenger" "This section is remarkably easy to write, as I've sent many of these articles to friends and family over the past year, with my thoughts attached. " %} 
 
-[Three Blind Kings](https://www.tabletmag.com/sections/news/articles/three-blind-kings-edward-luttwak), in Tablet. At the time, the best interview I'd read in 2022, despite{% sidenote "despi" "I do mean despite — it adds nothing. Luttwak does all the work here." %}  the abrasive style of the interviewer. The first two-thirds are extraordinary; the last third is straight up psychotic. I shared this with a friend who worked closely with J Street for years: "Anybody who is associated with J Street, even if they are totally obtuse after a while, must realize that it exists in order to provide legitimacy for communal euthanasia."
+[*Three Blind Kings*](https://www.tabletmag.com/sections/news/articles/three-blind-kings-edward-luttwak), in Tablet. At the time, the best interview I'd read in 2022, despite{% sidenote "despi" "I do mean despite — it adds nothing. Luttwak does all the work here." %}  the abrasive style of the interviewer. The first two-thirds are extraordinary; the last third is straight up psychotic. I shared this with a friend who worked closely with J Street for years: "Anybody who is associated with J Street, even if they are totally obtuse after a while, must realize that it exists in order to provide legitimacy for communal euthanasia."
 
-[Cracking Cultures](https://www.gleech.org/codes), by Gavin Leech. Great for both describing something I try to do, and teaching me how to do it better. I often say 
+[*Cracking Cultures*](https://www.gleech.org/codes), by Gavin Leech. Great for both describing something I try to do, and teaching me how to do it better. I complained [once](https://jablevine.com/older/may_2021#:~:text=I%20will%20barely%20finish%2010%2C000%20books.%20There%20is%20no%20practical%20difference%20between%20reading%200%25%2C%20and%200.005%25%2C%20of%20all%20the%20books%20ever%20written.) that I wish I could read more; Gavin accuses me of scope insensitivity and asks how much Mongolian punk rock I've listened to in the past month.{% sidenote "mongo" "And then he's disappointed in my answer of ''just two albums.''" %} I often say that I don't want to read poetry; I want to be the *kind* of person who reads poetry. This essay prompted me to design a reading syllabus which successfully made me the first kind of person.{% sidenote "poet" "We'll see if it sticks." %} 
+
+[*Something That Needs Nothing*](https://www.newyorker.com/magazine/2006/09/18/something-that-needs-nothing), in the New Yorker. A coming of age story in the back of a sex shop. "At 5 a.m., I was gliding through the night on a bus. The bus was just a formality, though—actually I was flying, in the air, and I was taller than most people are, I was nine or twelve feet tall, and I could fly, I could jump over cars, I could say “cock” ravenously, gently, coyly, demandingly. I could fly. And I had three hundred and twenty-five dollars in my pocket." 
+
+[*"The Clock is Ticking": Inside the Worst U.S. Maritime Disaster in Decades"](https://www.vanityfair.com/news/2018/04/inside-el-faro-the-worst-us-maritime-disaster-in-decades) in Vanity Fair. It's impossible to tell this story badly, but VF tells it very well. The "*SS El Faro*" sank with all hands during Hurricane Joaquin in 2015, and it's black box was recovered in 2018. The story is riveting (the second mate is my favorite character), but the transcript of the crew as disaster looms and falls drives the story. The last moments on the bridge closes the article:
+
+> Hamm said, “Cap! Cap!” He was having a hard time climbing the deck.
+> 
+> Clinging to the high side, unable to reach Hamm, Davidson kept urging him to try.
+> 
+> Hamm said, “You gonna leave me?”
+> 
+> Davidson answered firmly, “I’m not leaving you. Let’s go.”
+> 
+> A low rumbling began and did not let up. It was the sound of El Faro going down. The last words heard on the bridge are Davidson’s. He is crying out to Hamm: “It’s time to come this way!”
 
 
 Also worth reading, if the title catches your eye:
 - - [A catastrophic failure of peer review in obstetrics and gynaecology](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
-- - 
+- - [*The Most Scathing Book Reviews of 2021*](https://lithub.com/the-most-scathing-book-reviews-of-2021/)
 
 
 
