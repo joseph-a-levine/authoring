@@ -71,9 +71,17 @@ I spent a few hours organizing my [Pocket](https://getpocket.com/home) app; here
 
 Much adulation was given to Gideon Lewis-Kraus' [profile](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism) of Will MacAskill; I read his [earlier profile of Franklin Tao](https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses), a Chinese academic who was indicted for espionage. I find Tao's story convincing, but who cares; it's beautifully told. 
 
+[*Haunted by Venus*](http://www.alpinist.com/doc/web22s/wfeature-a77-on-belay), in the Alpinist. A climber in love with a particular face, experienced more than 20 years ago, returns to find it defiled by new bolts. I don't understand a lot of the climbing lingo or communal norms,{% sidenote "sidenote-id" "''If anyone wanted to add bolts to an existing route, they should have asked the first ascenders for their opinions as a sign of respect. If I were asked, I wouldn't have said you shouldn't [place any bolts on Venus].''" %} but the tale of mountains found and lost is familiar. The article is certainly written for climbers, but I got a similar joy out of it which Gavin's piece on cultures projects.
+
+[*Inside the Mind-Boggling World of the Antiquities Theft Task Force*](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of), on some Substack. 
+
 Also worth reading, if the title catches your eye:
-- -[A catastrophic failure of peer review in obstetrics and gynaecology](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
+- -[*A catastrophic failure of peer review in obstetrics and gynaecology*](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
 - -[*The Most Scathing Book Reviews of 2021*](https://lithub.com/the-most-scathing-book-reviews-of-2021/)
+- -[*You should not open a door and see someone pooping
+*](https://experimentalhistory.substack.com/p/you-should-not-open-a-door-and-see)
+
+
 
 
 
