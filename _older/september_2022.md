@@ -73,7 +73,24 @@ Much adulation was given to Gideon Lewis-Kraus' [profile](https://www.newyorker.
 
 [*Haunted by Venus*](http://www.alpinist.com/doc/web22s/wfeature-a77-on-belay), in the Alpinist. A climber in love with a particular face, experienced more than 20 years ago, returns to find it defiled by new bolts. I don't understand a lot of the climbing lingo or communal norms,{% sidenote "sidenote-id" "''If anyone wanted to add bolts to an existing route, they should have asked the first ascenders for their opinions as a sign of respect. If I were asked, I wouldn't have said you shouldn't [place any bolts on Venus].''" %} but the tale of mountains found and lost is familiar. The article is certainly written for climbers, but I got a similar joy out of it which Gavin's piece on cultures projects.
 
-[*Inside the Mind-Boggling World of the Antiquities Theft Task Force*](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of), on some Substack. 
+[*Inside the Mind-Boggling World of the Antiquities Theft Task Force*](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of), on some Substack. The best interview I read in 2022, beating the Luttwak above by a mile. This one's with Matthew Bogdanos, New York's assistant district attorney heading the city's antiquities theft task force. Bogdanos is amazing, I want six movies about him. From his time as a Marine Colonel in Iraq, fighting antiquities theft:
+> When we got to the fake Saddam Hussein presidential palace that was overlooking Babylon, the absolute monstrosity right in the middle of the sights, we were on one of the lower balconies, and I said, "Guys, you realize we're standing right where Alexander the Great stood? When he came to Babylon” … and where he probably got drunk and got malaria. And they all wanted to start taking pictures of that exact spot. I realized, okay, I probably better, you know, cool it on the exaggeration.
+
+And tracking thefts in New York:
+
+> We executed a warrant on a $3 million Persian Garden Relief. And we did it during the VIP showing [at the largest antiquities show in the world], thinking there would be a lot fewer people and there weren't. We don't slither around, we don't hide; we do warrants professionally, respectfully. But the last thing I want to do is make a scene or anything like that. 
+> 
+> And we walked in and I presented a warrant to this very proper British gentleman who had smuggled a $3 million Persian Garden Relief, stolen from Persepolis in 1933, into New York. And I said, “Here's a warrant, we're going to take this.”
+> 
+> And he, in his very proper British accent said, "What if I say no?" 
+> 
+> And I just chuckled because I'd never—no one had ever actually said that before in all these years of search warrants. "What if I refuse?" I had two detectives with me. One of my detectives was like a third generation Irish cop, the kind of guy who would if you see him on the beach in a bathing suit, you go up to him and say, "Excuse me, officer," right?  He just smells of cop. And I turned to the detective because he had taken a step forward and I said, "Tommy. Tommy, deep breaths. Deep breaths. We're good." And then I said to the guy, "I don't—I guess you'll be arrested? I mean, I don't know what to say. You just, it's a hypothetical, right? But yeah, that would actually be a crime." He proceeded to curse me out with some of the most elegant phrasing, it was pretty colorful.
+
+Bogdanos is probably personally responsible for Sotheby's moving their antiquities team out of New York, to London and Paris:
+
+> Some auction houses and some parts of the market have decided that rather than just honoring the law, rather than just changing the practices of last century, it’s a better business model just to move. Sotheby's annual New York auction? It was the biggest auction of the year, the New York classical auction. Sometimes they had it twice a year. In 2019, they moved their entire operation to London and Paris. They claim it was where the clients were, but one would be justified in being skeptical of that reason. London is wonderful. The Scotland Yard Arts and Antiquities Squad are some great people. But there's just three of them. Three.
+
+Seriously, read the whole thing.
 
 Also worth reading, if the title catches your eye:
 - -[*A catastrophic failure of peer review in obstetrics and gynaecology*](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
