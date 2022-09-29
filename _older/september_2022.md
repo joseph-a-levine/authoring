@@ -46,6 +46,19 @@ The 2015 Joseph who decided macro "wasn't for him" is long gone — my only majo
 
 Will MacAskill's new book, *What We Owe the Future*, came out in late August. He's a moral philosopher, and one of the things we owe the future is moral change. His chief historical example is the abolition of slavery.{% sidenote "mralch" "All of Chapter 3." %}  I've been working through a series of syllabuses on abolition for the past year. I have opinions about how Will wields this example, but my interests lie in a different direction. 
 
+Christopher Brown{% sidenote "ivy" "Hilariously, when recommending this book, a friend mis-introduced the author as ''Professor Cornell Brown, at Columbia''." %} 
+
+
+I spent a few hours organizing my [Pocket](https://getpocket.com/home) app; here are my favorite articles I've read in 2022.{% sidenote "messenger" "This section is remarkably easy to write, as I've sent many of these articles to friends and family over the past year, with my thoughts attached. " %} 
+
+[Three Blind Kings](https://www.tabletmag.com/sections/news/articles/three-blind-kings-edward-luttwak), in Tablet. At the time, the best interview I'd read in 2022, despite{% sidenote "despi" "I do mean despite — it adds nothing. Luttwak does all the work here." %}  the abrasive style of the interviewer. The first two-thirds are extraordinary; the last third is straight up psychotic. I shared this with a friend who worked closely with J Street for years: "Anybody who is associated with J Street, even if they are totally obtuse after a while, must realize that it exists in order to provide legitimacy for communal euthanasia."
+
+[Cracking Cultures](https://www.gleech.org/codes), by Gavin Leech. Great for both describing something I try to do, and teaching me how to do it better. I often say 
+
+
+Also worth reading, if the title catches your eye:
+- - [A catastrophic failure of peer review in obstetrics and gynaecology](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
+- - 
 
 
 
