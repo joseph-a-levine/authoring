@@ -57,22 +57,23 @@ I spent a few hours organizing my [Pocket](https://getpocket.com/home) app; here
 
 [*Something That Needs Nothing*](https://www.newyorker.com/magazine/2006/09/18/something-that-needs-nothing), in the New Yorker. A coming of age story in the back of a sex shop. "At 5 a.m., I was gliding through the night on a bus. The bus was just a formality, though—actually I was flying, in the air, and I was taller than most people are, I was nine or twelve feet tall, and I could fly, I could jump over cars, I could say “cock” ravenously, gently, coyly, demandingly. I could fly. And I had three hundred and twenty-five dollars in my pocket." 
 
-[*"The Clock is Ticking": Inside the Worst U.S. Maritime Disaster in Decades"](https://www.vanityfair.com/news/2018/04/inside-el-faro-the-worst-us-maritime-disaster-in-decades) in Vanity Fair. It's impossible to tell this story badly, but VF tells it very well. The "*SS El Faro*" sank with all hands during Hurricane Joaquin in 2015, and it's black box was recovered in 2018. The story is riveting (the second mate is my favorite character), but the transcript of the crew as disaster looms and falls drives the story. The last moments on the bridge closes the article:
+[*"The Clock is Ticking": Inside the Worst U.S. Maritime Disaster in Decades"*](https://www.vanityfair.com/news/2018/04/inside-el-faro-the-worst-us-maritime-disaster-in-decades) in Vanity Fair. It's impossible to tell this story badly, but VF tells it very well. The "*SS El Faro*" sank with all hands during Hurricane Joaquin in 2015, and it's black box was recovered in 2018. The story is riveting (the second mate is my favorite character), but the transcript of the crew as disaster looms and falls drives the story. The last moments on the bridge close the article:
 
 > Hamm said, “Cap! Cap!” He was having a hard time climbing the deck.
 > 
-> Clinging to the high side, unable to reach Hamm, Davidson kept urging him to try.
+> Clinging to the high side, unable to reach Hamm, [Captain] Davidson kept urging him to try.
 > 
 > Hamm said, “You gonna leave me?”
 > 
 > Davidson answered firmly, “I’m not leaving you. Let’s go.”
 > 
-> A low rumbling began and did not let up. It was the sound of El Faro going down. The last words heard on the bridge are Davidson’s. He is crying out to Hamm: “It’s time to come this way!”
+> A low rumbling began and did not let up. It was the sound of *El Faro* going down. The last words heard on the bridge are Davidson’s. He is crying out to Hamm: “It’s time to come this way!”
 
+Much adulation was given to Gideon Lewis-Kraus' [profile](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism) of Will MacAskill; I read his [earlier profile of Franklin Tao](https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses), a Chinese academic who was indicted for espionage. I find Tao's story convincing, but who cares; it's beautifully told. 
 
 Also worth reading, if the title catches your eye:
-- - [A catastrophic failure of peer review in obstetrics and gynaecology](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
-- - [*The Most Scathing Book Reviews of 2021*](https://lithub.com/the-most-scathing-book-reviews-of-2021/)
+- -[A catastrophic failure of peer review in obstetrics and gynaecology](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
+- -[*The Most Scathing Book Reviews of 2021*](https://lithub.com/the-most-scathing-book-reviews-of-2021/)
 
 
 
