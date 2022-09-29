@@ -16,7 +16,7 @@ title: What am I up to now?
 
 At 6am on 26 September, I landed at London Heathrow airport; at 9am I walked into the first class of my PhD.{% sidenote "caveat" "Not a PhD. See the caveat on my [homepage](https://jablevine.com/)." %} Friends and classmates told me this was cutting it a bit close, but I was glad to use every last minute of my last month not subject to the tyranny of grad school. 
 
-In short: I moved into my new house in Oxford; we hosted a housewarming (I made a giant vegan chili); I went back to Bern for three days; I flew to New Jersey; I kissed four women in 24 hours; I worked in Columbia University's Law Library; I went to New Haven; I worked in the [Elizabethan Clubhouse](https://en.wikipedia.org/wiki/Elizabethan_Club); I drove an ambulance to three car wrecks, four cardiac arrests, one stabbing, and one case of the hiccups; I ate soup dumplings with my dad and a Reuben with my grandma; I attended EAG DC for at least 10 hours; I made it to the first class of my PhD with about ten minutes to spare. 
+In short: I moved into my new house in Oxford; we hosted a housewarming (I made a giant vegan chili); I went back to Bern for three days; I flew to New Jersey; I kissed four people in 24 hours; I worked in Columbia University's Law Library; I went to New Haven; I worked in the [Elizabethan Clubhouse](https://en.wikipedia.org/wiki/Elizabethan_Club); I drove an ambulance to three car wrecks, four cardiac arrests, one stabbing, and one case of the hiccups; I ate soup dumplings with my dad and a Reuben with my grandma; I attended EAG DC for at least 10 hours; I made it to the first class of my PhD with about ten minutes to spare. 
 
 My libertine September was inspired by heterogeneous feelings. Since stepping back from my work at GPI following the June workshops, I have been content. Travel has been a blessing, I've spent time with dozens of close friends; I've read great books and listened to good music; I've done useful and important work. This sufficiant frame of mind persisted everywhere I went. Preparing for the first day of school, my *first* first day since 2017, I felt a wave of imminent stress looming over me. This wave hasn't crested yet, maybe it never will. But the first year of economics programs have a reputation.
 
@@ -78,8 +78,7 @@ Much adulation was given to Gideon Lewis-Kraus' [profile](https://www.newyorker.
 Also worth reading, if the title catches your eye:
 - -[*A catastrophic failure of peer review in obstetrics and gynaecology*](https://steamtraen.blogspot.com/2021/10/a-catastrophic-failure-of-peer-review.html)
 - -[*The Most Scathing Book Reviews of 2021*](https://lithub.com/the-most-scathing-book-reviews-of-2021/)
-- -[*You should not open a door and see someone pooping
-*](https://experimentalhistory.substack.com/p/you-should-not-open-a-door-and-see)
+- -[*You should not open a door and see someone pooping*](https://experimentalhistory.substack.com/p/you-should-not-open-a-door-and-see)
 
 
 
