@@ -73,10 +73,10 @@ Much adulation was given to Gideon Lewis-Kraus' [profile](https://www.newyorker.
 
 [*Haunted by Venus*](http://www.alpinist.com/doc/web22s/wfeature-a77-on-belay), in the Alpinist. A climber in love with a particular face, experienced more than 20 years ago, returns to find it defiled by new bolts. I don't understand a lot of the climbing lingo or communal norms,{% sidenote "sidenote-id" "''If anyone wanted to add bolts to an existing route, they should have asked the first ascenders for their opinions as a sign of respect. If I were asked, I wouldn't have said you shouldn't [place any bolts on Venus].''" %} but the tale of mountains found and lost is familiar. The article is certainly written for climbers, but I got a similar joy out of it which Gavin's piece on cultures projects.
 
-[*Inside the Mind-Boggling World of the Antiquities Theft Task Force*](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of), on some Substack. The best interview I read in 2022, beating the Luttwak above by a mile. This one's with Matthew Bogdanos, New York's assistant district attorney heading the city's antiquities theft task force. Bogdanos is amazing, I want six movies about him. From his time as a Marine Colonel in Iraq, fighting antiquities theft:
+[*Inside the Mind-Boggling World of the Antiquities Theft Task Force*](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of), on some Substack. The best interview I read in 2022, beating the Luttwak above by a mile. This one's with Matthew Bogdanos, New York's assistant district attorney heading the city's antiquities theft task force. Bogdanos is amazing, I want six movies about him. From his time as a Marine colonel in Iraq, fighting antiquities theft:
 > When we got to the fake Saddam Hussein presidential palace that was overlooking Babylon, the absolute monstrosity right in the middle of the sights, we were on one of the lower balconies, and I said, "Guys, you realize we're standing right where Alexander the Great stood? When he came to Babylon” … and where he probably got drunk and got malaria. And they all wanted to start taking pictures of that exact spot. I realized, okay, I probably better, you know, cool it on the exaggeration.
 
-And tracking thefts in New York:
+And tracking stolen antiquities in New York:
 
 > We executed a warrant on a $3 million Persian Garden Relief. And we did it during the VIP showing [at the largest antiquities show in the world], thinking there would be a lot fewer people and there weren't. We don't slither around, we don't hide; we do warrants professionally, respectfully. But the last thing I want to do is make a scene or anything like that. 
 > 
@@ -123,10 +123,9 @@ Memorable meals:
 
 
 
-During September, I spent three Sundays at Bethesda-Chevy Chase Rescue Squad, a volunteer fire department I've been a member of since 2018. Most nights, the ambulances and fire apparatus will go into town to get take out. On Sunday nights, however, we cook. 
-Regularly cooking for 15-20 people is a different experience than 
+During September, I spent three Sundays at Bethesda-Chevy Chase Rescue Squad, a volunteer fire department I've been a member of since 2018. Volunteers ride on the same night every week, and on most night crews, the ambulances and fire apparatus will go into town to get take out. Sunday nights, tho, we cook. Regularly cooking for 15-20 people is a different experience than cooking for yourself or a small family. It requires, at minimum, one big pot and lots of bread. 
 
-I applied the same strategy in Oxford earlier this month. I moved into my house in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. 
+I applied the same strategy in Oxford earlier this month. We moved into my house in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. I made a large vat of vegan chili. 
 
 
 ## Previously
