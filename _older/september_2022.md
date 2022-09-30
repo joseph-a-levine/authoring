@@ -119,13 +119,13 @@ Memorable meals:
 - My dad's penchant for authentic Chinese food is well-known. At **Yu Noodles**... profiled in the *Washington Post*... My dad swore by the pickled cabbage; we both liked the spicy dry noodles and were underwhelmed by the soup dumplings; I enjoyed the foon but my chopstick skills weren't quite up to the challenge. 
 - **Corado's** in Mt. Pleasant, with Michael Pusic. I met Michael when McKinsey seconded him to the Mayor of Freetown's office; we lived in the same house behind the Chinese embassy for a few months.{% sidenote "bdayw" "Michael also threw me the worst birthday party I've ever had, entirely by accident. People started showing up for the weekly house dinner around 7pm, and I was throwing up from food poisoning by 8pm. " %} This Guatemalan diner is a block or so from his house, and Michael's doing his best to make it a regular haunt. It's a great choice, the chile relleno was perfect and the camarones al corado was the best spicy shrimp dish I've had in DC. But I think Michael's partiality to Corado's is doomed to fail — after tearing through his salad, he spent a few minutes chatting with the waitress in Spanish trying to find a vegetarian starter or entrée. He ended up with an order of chips and pico de gallo.  
 - Old Angler's Inn with grandma
-- 
+- I went to three shabbat dinners in New Haven on the same night, by accident. I first met up with a friend from the St Andrews chapter of ΑΕΠ{% sidenote "aepi" "At the time, the only non-North American fraternity chapter." %} who brought me to his group house for an unofficial Shabbat dinner (we were the only two Jews). I ducked out early, to head to an especially raucous Hillel dinner. Alongside old friends, I met some interesting people including David Shor's intern, who was somewhat puzzled that I didn't know who David Shor was.{% sidenote "shor" "Sorry, Simon." %} After leaving Hillel, two Mexican friends ordered me to another building across campus — for what turned out to 
 
 
 
 During September, I spent three Sundays at Bethesda-Chevy Chase Rescue Squad, a volunteer fire department I've been a member of since 2018. Volunteers ride on the same night every week, and on most night crews, the ambulances and fire apparatus will go into town to get take out. Sunday nights, tho, we cook. Regularly cooking for 15-20 people is a different experience than cooking for yourself or a small family. It requires, at minimum, one big pot and lots of bread. 
 
-I applied the same strategy in Oxford earlier this month. We moved into my house in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. I made a large vat of vegan chili. 
+I applied the same strategy in Oxford earlier this month. We moved into our house{% sidenote "housem" "I'm living in a three-bedroom house with Phoebe Freidin and *no one else* because we don't have an HMO license. We're especially not living with Ivan Burduk." %} in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. The house was not at all put together I made a large vat of vegan chili. 
 
 
 ## Previously
