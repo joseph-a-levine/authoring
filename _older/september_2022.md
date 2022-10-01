@@ -103,17 +103,18 @@ Also worth reading, if the title catches your eye:
 
 ## Listening 
 
-Funk
+Not much new this month, besides Luke Muehlhauser's and Ted Gioia's playlists. I did binge all of George Collier's archive on YouTube — Collier{% sidenote "jac" "No relation to Jacob." %} makes and hosts transcriptions of excellent and/or odd music. Some of my favorites:
 
-
-
-## Writing 
-
-test
+- -Collier has a penchant for enthusiastic but untalented audiences. ["*counting to 7 has never been so hard*"](https://www.youtube.com/watch?v=mDqMRydUNos) features Nate Smith, a well-decorated jazz drummer, twisting an audience around a 7/4 beat. His sadism is addictive.
+- -I have a growing suspicion that the 17 y.o. Collier has a crush on Laufey. Two of his most watched videos are trascriptions entitled ["*the most heavenly voice*"](https://www.youtube.com/watch?v=wK6gbKC90Ps) and ["*is this what a dream sounds like?*"](https://www.youtube.com/watch?v=wI3YhWz9-5Y), featuring the young singer-songwriter. After seeing her chordwork, it's hard to disagree with him. 
+- -["*me when she says she's a country girl ;)*"](https://www.youtube.com/watch?v=A4K1e5nb57U). Chord changes are fascinating on a harmonica — Buddy Greene makes it look easy. Key changes require shifting instruments! I listened to two of Greene's albums because of this video; well worth it. 
+- -King Carl XVI Gustaf of Sweden looks delighted in ["*when you have 30 seconds to impress the king*"](https://www.youtube.com/watch?v=yKVkjwwu1rs), but of course I would be too if Gunhild Carling were tromboning and singing directly at me.
+- -The former trumpeter in me includes these two out of nostalgia: "[*The Greatest Trumpet Solo In DCI History*]( youtube.com/watch?v=6jGeX0vQvSQ&t=36s)" and ["*why band kids hate trumpeters*"](https://www.youtube.com/watch?v=LUbeZrAQ8Oc).
+- -Collier (G) is in a class with my many of my friends who worship Collier (J). I really really really enjoyed the Djesse project, but Collier (J)'s live virtuosity feels grating. When he shares the stage, as he did with David Caesar in Toronto, everything fits simpler. [This one's](https://www.youtube.com/watch?v=j8EX6i8hqqo) worth a watch. ["*my last two brain cells ft. jacob collier*"](https://www.youtube.com/watch?v=Czq2YBv8ZTc) is much more endearing.
+- -The absolute winner is ["*canon in D but it keeps getting jazzier*"](https://www.youtube.com/watch?v=lpc1lEJ-SRc), by Hiromi Uehara.{% sidenote "moc" "Luis Mota mocked me for calling Hiromi my favorite modern Jazz Pianist (''How big is that set??''), but there's a surprising amount of competition." %} The Spotify version has nothing on the live version. Listen, [listen](https://www.youtube.com/watch?v=9NuUyPk103o), [listen](https://www.youtube.com/watch?v=kQoSXcHBYYU).
+- -Finally: https://www.youtube.com/watch?v=sReGQj67HJU
 
 ## Eating 
-
-I'm interested to see how my eating habits develop in October.
 
 Memorable meals:
 - My dad's penchant for authentic Chinese food is well-known; my parents receive visitors to DC at Bob's Shanghai 66 in Rockville. When he came across a review of **Yu Noodles** in the [*Washington Post*](https://www.washingtonpost.com/food/2022/08/15/yu-noodles-review/), a lunch was immediately booked. My dad swore by the pickled cabbage; we both liked the spicy dry noodles and were underwhelmed by the soup dumplings; I enjoyed the foon but my chopstick skills weren't quite up to the challenge. 
