@@ -125,7 +125,7 @@ Memorable meals:
 
 During September, I spent three Sundays at Bethesda-Chevy Chase Rescue Squad, a volunteer fire department I've been a member of since 2018. Volunteers ride on the same night every week, and on most night crews, the ambulances and fire apparatus will go into town to get take out. Sunday nights, tho, we cook. Regularly cooking for 15-20 people is a different experience than cooking for yourself or a small family. It requires, at minimum, one big pot and lots of bread. 
 
-I applied the same strategy in Oxford earlier this month. We moved into our house{% sidenote "housem" "I'm living in a three-bedroom house with Phoebe Freidin and *no one else* because we don't have an HMO license. We're especially not living with Ivan Burduk." %} in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. The house was not at all put together I made a large vat of vegan chili. 
+I applied the same strategy in Oxford earlier this month. We moved into our house{% sidenote "housem" "I'm living in a three-bedroom house with Phoebe Freidin and *no one else* because we don't have an HMO license. We're especially not living with the excellent Ivan Burduk." %} in Oxford on September 2nd, and we hosted a housewarming party on the 3rd. The house was not at all put together, but 30 people showed up anyway. I made a large vat of vegan chili and about six batches of cookies. I'm hoping to do this again twice in October; first, on 4 October for my grad school cohort and all my other friends in the set (economists ∩ Oxford). Second, some birthday/halloween party towards the end of the month.  
 
 
 ## Previously
