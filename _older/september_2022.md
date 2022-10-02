@@ -43,11 +43,7 @@ The 2015 Joseph who decided macro "wasn't for him" is long gone — my only majo
 
 ## Reading 
 
-
-Will MacAskill's new book, *What We Owe the Future*, came out in late August. He's a moral philosopher, and one of the things we owe the future is moral change. His chief historical example is the abolition of slavery.{% sidenote "mralch" "All of Chapter 3." %}  I've been working through a series of syllabuses on abolition for the past year. I have opinions about how Will wields this example, but my interests lie in a different direction. 
-
-Christopher Brown{% sidenote "ivy" "Hilariously, when recommending this book, a friend mis-introduced the author as ''Professor Cornell Brown, at Columbia''." %} 
-
+My nonfiction reading in September focused on two "[minimal trust investigations](https://www.cold-takes.com/minimal-trust-investigations/)." The first was a question about slavery abolition with bearing on factory farm abolition; the second was the question of whether the Columbian pathological exchange was evitable.{% sidenote "iein" "I.e., was there a way to introduce American and non-American populations without non-American diseases killing large fractions of American populations." %}  I hope to write up my findings in October, but it's likely these will take a backseat to coursework. At the least, I'll post my reading lists and notes here next month. 
 
 I spent a few hours organizing my [Pocket](https://getpocket.com/home) app; here are my favorite articles I've read in 2022.{% sidenote "messenger" "This section is remarkably easy to write, as I've sent many of these articles to friends and family over the past year, with my thoughts attached. " %} 
 
@@ -105,14 +101,14 @@ Also worth reading, if the title catches your eye:
 
 Not much new this month, besides Luke Muehlhauser's and Ted Gioia's playlists. I did binge all of George Collier's archive on YouTube — Collier{% sidenote "jac" "No relation to Jacob." %} makes and hosts transcriptions of excellent and/or odd music. Some of my favorites:
 
-- -Collier has a penchant for enthusiastic but untalented audiences. ["*counting to 7 has never been so hard*"](https://www.youtube.com/watch?v=mDqMRydUNos) features Nate Smith, a well-decorated jazz drummer, twisting an audience around a 7/4 beat. His sadism is addictive.
-- -I have a growing suspicion that the 17 y.o. Collier has a crush on Laufey. Two of his most watched videos are trascriptions entitled ["*the most heavenly voice*"](https://www.youtube.com/watch?v=wK6gbKC90Ps) and ["*is this what a dream sounds like?*"](https://www.youtube.com/watch?v=wI3YhWz9-5Y), featuring the young singer-songwriter. After seeing her chordwork, it's hard to disagree with him. 
-- -["*me when she says she's a country girl ;)*"](https://www.youtube.com/watch?v=A4K1e5nb57U). Chord changes are fascinating on a harmonica — Buddy Greene makes it look easy. Key changes require shifting instruments! I listened to two of Greene's albums because of this video; well worth it. 
+- -Collier has a penchant for enthusiastic but untalented audiences. ["*counting to 7 has never been so hard*"](https://www.youtube.com/watch?v=mDqMRydUNos) features [Nate Smith](https://en.wikipedia.org/wiki/Nate_Smith_(musician)), a well-decorated jazz drummer, twisting an audience around a 7/4 beat. His sadism is addictive.
+- -I have a growing suspicion that the 17 y.o. Collier has a crush on [Laufey](https://en.wikipedia.org/wiki/Laufey_(singer)). Two of his most watched videos are trascriptions entitled ["*the most heavenly voice*"](https://www.youtube.com/watch?v=wK6gbKC90Ps) and ["*is this what a dream sounds like?*"](https://www.youtube.com/watch?v=wI3YhWz9-5Y), featuring the young singer-songwriter. After seeing her chordwork, it's hard to disagree with him. 
+- -["*me when she says she's a country girl ;)*"](https://www.youtube.com/watch?v=A4K1e5nb57U). Chord changes are fascinating on a harmonica — [Buddy Greene](https://en.wikipedia.org/wiki/Buddy_Greene) makes it look easy. Key changes require shifting instruments! I listened to two of Greene's albums because of this video; well worth it. 
 - -King Carl XVI Gustaf of Sweden looks delighted in ["*when you have 30 seconds to impress the king*"](https://www.youtube.com/watch?v=yKVkjwwu1rs), but of course I would be too if Gunhild Carling were tromboning and singing directly at me.
 - -The former trumpeter in me includes these two out of nostalgia: "[*The Greatest Trumpet Solo In DCI History*]( youtube.com/watch?v=6jGeX0vQvSQ&t=36s)" and ["*why band kids hate trumpeters*"](https://www.youtube.com/watch?v=LUbeZrAQ8Oc).
-- -Collier (G) is in a class with my many of my friends who worship Collier (J). I really really really enjoyed the Djesse project, but Collier (J)'s live virtuosity feels grating. When he shares the stage, as he did with David Caesar in Toronto, everything fits simpler. [This one's](https://www.youtube.com/watch?v=j8EX6i8hqqo) worth a watch. ["*my last two brain cells ft. jacob collier*"](https://www.youtube.com/watch?v=Czq2YBv8ZTc) is much more endearing.
+- -Collier (G) is in a class with my many of my friends who worship [Collier (J)](https://en.wikipedia.org/wiki/Jacob_Collier). I really really really enjoyed the Djesse project, but Collier (J)'s live virtuosity feels grating. When he shares the stage, as he did with David Caesar in Toronto, everything fits simpler. [This one's](https://www.youtube.com/watch?v=j8EX6i8hqqo) worth a watch. ["*my last two brain cells ft. jacob collier*"](https://www.youtube.com/watch?v=Czq2YBv8ZTc) is much more endearing.
 - -The absolute winner is ["*canon in D but it keeps getting jazzier*"](https://www.youtube.com/watch?v=lpc1lEJ-SRc), by Hiromi Uehara.{% sidenote "moc" "Luis Mota mocked me for calling Hiromi my favorite modern Jazz Pianist (''How big is that set??''), but there's a surprising amount of competition." %} The Spotify version has nothing on the live version. Listen, [listen](https://www.youtube.com/watch?v=9NuUyPk103o), [listen](https://www.youtube.com/watch?v=kQoSXcHBYYU).
-- -Finally: https://www.youtube.com/watch?v=sReGQj67HJU
+- -Finally: [https://www.youtube.com/watch?v=sReGQj67HJU](https://www.youtube.com/watch?v=sReGQj67HJU)
 
 ## Eating 
 
