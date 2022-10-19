@@ -53,7 +53,7 @@ I'll throw in a long section, my favorite, to conclude. Amit is giving a seminar
 > 
 > "How about Proust?" asked a distracted-looking lady, who had begun knitting the moment the poems stopped. Amit was surprised that anyone read Proust in Brahmpur. He had begun to feel rather happy, as if he had breathed in too much oxygen. 
 > 
-> "I'm sure Id love Proust," he replied, "if my mind was more like the Sundarbans: meandering, all-absorptive, endlessly, er, sub-reticulated. But as it is, Proust makes me weep, weep, weep with boredom. Weep," he added. He paused and sighed. "Weep, weep, weep," he continued emphatically. "I weep when I read Proust, and I read very little of him." 
+> "I'm sure Id love Proust," he replied, "if my mind was more like the Sundarbans{% sidenote "sund" "The Sunderbans, a massive jungle straddling the coastal border between Indian and Bangladesh, is most famous as the likely setting Kipling's *The Jungle Book* [EDIT: This is a lie! I've been telling people this fact for years but it turns out Kipling probably had parts of Madhya Pradesh in mind.] The Sunderbans are also the place where I've seen the clearest Milky Way. " %} : meandering, all-absorptive, endlessly, er, sub-reticulated. But as it is, Proust makes me weep, weep, weep with boredom. Weep," he added. He paused and sighed. "Weep, weep, weep," he continued emphatically. "I weep when I read Proust, and I read very little of him." 
 > 
 > There was a shocked silence: why should anyone feel so strongly about anything? It was broken by Professor Mishra. "Needless to say, many of the most lasting monuments of literature are rather, well, bulky." He smiled at Amit. "Shakespeare is not merely great but grand, as it were." 
 > 
