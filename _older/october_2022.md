@@ -25,7 +25,7 @@ I've done less re-reading of fiction this year than I usually do. In fact, I've 
 
 The novel is about a 19-year-old woman, Lata, being pushed towards marriage by her mother; Lata's choice comes down to three boys of varying suitability: Kabir, Haresh, and Amit. Much of the romantic story takes place in Kolkata, but action branches to Delhi, Lucknow, and Bihar. The *scope* of the novel led to overly confusing comparisons to *War and Peace*; Nehru shows up often, and the resignation of Rafi Ahmed Kidwai is covered in detail. Unlike Tolstoy, however, Seth has no eye for the political scope JOSEPH
 
-The actual question of interest, much more central than Natasha, is who is most suitable for Lata? In my memory, before beginning my re-read, Amit was the only choice. I might have had a crush on him myself, and Seth draws him almost as a self-portrait — an Oxonian poet and novelist, already acclaimed in the West and Anglophone India, Amit is superlatively sympathetic. The most illustrative line about him is a massive spoiler, so I've put it at the bottom [here](#Chatterji)
+The actual question of interest, much more central than Natasha, is who is most suitable for Lata? In my memory, before beginning my re-read, Amit was the only choice. I might have had a crush on him myself, and Seth draws him almost as a self-portrait — an Oxonian poet and novelist, already acclaimed in the West and Anglophone India, Amit is superlatively sympathetic. The most illustrative bits about him are massive spoilers, so I've put one of my favorite at the bottom; search for "Chatterji."
 
 *A Suitable Boy* is only slightly an economic novel, but it is an economical one. Seth's aversion to adverbs is second only to Stephen King's. When he does deploy them, it's done mockingly.
 
@@ -41,7 +41,27 @@ the version in the book, "Indian-movie-style, concluded with the last of four so
 
 Biography of Nehru
 
-I'll throw in a long section, my favorite, to conclude. 
+I'll throw in a long section, my favorite, to conclude. Amit is giving a seminar about his new novel to high society in Kolkata:
+
+> "Do you believe in the virtue of compression?" asked a determined academic lady. 
+> 
+> "Well, yes," said Amit warily. The lady was rather fat. 
+> 
+> "Why, then, is it rumoured that your forthcoming novel — to be set, I understand, in Bengal — is to be so long? More than a thousand pages!" she exclaimed reproachfully, as if he were personally responsible for the nervous exhaustion of some future dissertationist. 
+> 
+> "Oh, I don't know how it grew to be so long," said Amit. "I'm very undisciplined. But I too hate long books: the better, the worse. If they're bad, they merely make me pant with the effort of holding them up for a few minutes. But if they're good, I turn into a social moron for days, refusing to go out of my room, scowling and growling at interruptions, ignoring weddings and funerals, and making enemies out of friends. I still bear the scars of Middlemarch." 
+> 
+> "How about Proust?" asked a distracted-looking lady, who had begun knitting the moment the poems stopped. Amit was surprised that anyone read Proust in Brahmpur. He had begun to feel rather happy, as if he had breathed in too much oxygen. 
+> 
+> "I'm sure Id love Proust," he replied, "if my mind was more like the Sundarbans: meandering, all-absorptive, endlessly, er, sub-reticulated. But as it is, Proust makes me weep, weep, weep with boredom. Weep," he added. He paused and sighed. "Weep, weep, weep," he continued emphatically. "I weep when I read Proust, and I read very little of him." 
+> 
+> There was a shocked silence: why should anyone feel so strongly about anything? It was broken by Professor Mishra. "Needless to say, many of the most lasting monuments of literature are rather, well, bulky." He smiled at Amit. "Shakespeare is not merely great but grand, as it were." 
+> 
+> "But only as it were," said Amit. "He only looks big in bulk. And I have my own way of reducing that bulk," he confided. "You may have noticed that in a typical Collected Shakespeare all the plays start on the right-hand side. Sometimes, the editors bung a picture in on the left to force them to do so. Well, what I do is to take my pen-knife and slit the whole book up into forty or so fascicles. That way I can roll up Hamlet or Timon — and slip them into my pocket. And when I'm wandering around — in a cemetery, say — I can take them out and read them. It's easy on the mind and on the wrists. I recommend it to everyone. I read Cymbeline in just that way on the train here; and I never would have otherwise." 
+> 
+> Kabir smiled, Lata burst out laughing, Pran was appalled, Mr Makhijani gaped and Mr Nowrojee looked as if he were about to faint dead away. Amit appeared pleased with the effect.
+
+
 
 
 
