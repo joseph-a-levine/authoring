@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## September, 2022
 
-Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods must make mockery of my motivation. μ, monotonicity, matrices; Malmqvist models mirth myopically. Moreover, myself maybe made mad, meaning "mental", mastering much minutiae modeling mankind's many monetary market messes. 
+Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods must make mockery of my motivation. matrices, μ, monotonicity; Malmqvist models mirth myopically? Moreover, myself maybe made mad, meaning "mental", mastering much minutiae modeling mankind's many monetary market messes. 
 
 (The first month of economics grad school is going great. Let's dive in.) 
 
