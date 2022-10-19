@@ -21,9 +21,9 @@ Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods mus
 
 ## Reading 
 
-I've done less re-reading of fiction this year than I usually do. I've been fairly smug about how much new fiction I've exposed myself to this year.[^3] Earlier this month, however, I returned to one of my old favorites, Vikram Seth's *A Suitable Boy*. Seth wrote the book[^4] instead of studying during his economics PhD at Stanford; he's joked that it took him "eleven years not to finish my PhD." I'm heartened to know I have a novelist/poet career to fall back on if the economics thing doesn't work out.[^5]
+I've done less re-reading of fiction this year than I usually do. In fact, I've been positively smug about how much new fiction I've exposed myself to this year.{% sidenote "nobel" "I'm writing this a few days after the Ernaux win (I lost about £30 on the betting markets, I had money on Murnane and Edna O’Brien). I'd never heard of Ernaux before reading through the contenders sheet last week; I doubt I'll read her but only because I have an inexplicable aversion to autofiction. " %} Earlier this month, however, I returned to one of my old favorites, Vikram Seth's *A Suitable Boy*. Seth wrote the book{% sidenote "tome" "I read it on kindle the first time, and was astounded to see the size of a hard copy, more than 1,100 pages! It read so fast while I was in Sierra Leone, about a week. Just now, I sprinted through in twelve days, but that felt like quite an achievement. " %}  instead of studying during his economics PhD at Stanford; he's joked that it took him "eleven years not to finish my PhD." I'm heartened to know I have a novelist/poet career to fall back on if the economics thing doesn't work out.
 
-A suitable boy
+
 
 Reputations; Alice in Wonderland; Stories of Your Life
 
