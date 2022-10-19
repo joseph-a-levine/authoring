@@ -6,8 +6,9 @@ title: What am I up to now?
 
 ## September, 2022
 
+Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods must make mockery of my motivation. μ, monotonicity, matrices; Malmqvist models mirth myopically. Moreover, myself maybe made mad, meaning "mental", mastering much minutiae modeling mankind's many monetary market messes. 
 
-Introduction
+(The first month of economics grad school is going great. Let's dive in.) 
 
 ## Contents
 1. [Reading](#reading)
@@ -19,6 +20,8 @@ Introduction
  
 
 ## Reading 
+
+I've done less re-reading of fiction this year than I usually do. I've been fairly smug about how much new fiction I've exposed myself to this year.[^3] Earlier this month, however, I returned to one of my old favorites, Vikram Seth's *A Suitable Boy*. Seth wrote the book[^4] instead of studying during his economics PhD at Stanford; he's joked that it took him "eleven years not to finish my PhD." I'm heartened to know I have a novelist/poet career to fall back on if the economics thing doesn't work out.[^5]
 
 A suitable boy
 
