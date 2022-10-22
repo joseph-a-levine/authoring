@@ -39,9 +39,9 @@ The actual question of interest, much more central than Natasha, is who is most 
 > 
 > *6. Get brogue scheme with Kedarnath Tandon in Brahmpur working properly.* This he later crossed out and transferred to the work-related list. 
 > 
-> 7. *Moustache?* This he crossed out, and then rewrote together with the question mark. 
+> *7. Moustache?* This he crossed out, and then rewrote together with the question mark. 
 > 
-> 8. *Learn from good people, like Babaram.*
+> *8. Learn from good people, like Babaram.*
 > 
 > 9. *Finish reading major novels of T.H.*{% sidenote "hardy" "Thomas Hardy. This is likely the most autobiographical item on Seth's list." %} 
 > 
