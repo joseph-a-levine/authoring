@@ -29,19 +29,25 @@ The actual question of interest, much more central than Natasha, is who is most 
 
 > *1. Must catch up with news and world affairs.* Haresh felt he had not come off well on this account during his meetings with the Mehras. But his work kept him so busy that sometimes he hardly had time even to glance at the papers. 
 > 
-> *2. Exercise: at least 15 minutes each morning. How to find the time? *
+> *2. Exercise: at least 15 minutes each morning. How to find the time?*
 > 
-> *3. Make 1951 the deciding year of my life. *
+> *3. Make 1951 the deciding year of my life.*
 > 
 > *4. Pay off debts to Umesh Uncle in full.*
 > 
-> *5. Learn to control temper. Must learn to suffer fools, gladly or not. *
+> *5. Learn to control temper. Must learn to suffer fools, gladly or not.*
+> 
 > *6. Get brogue scheme with Kedarnath Tandon in Brahmpur working properly.* This he later crossed out and transferred to the work-related list. 
+> 
 > 7. *Moustache?* This he crossed out, and then rewrote together with the question mark. 
-> 8. *Learn from good people, like Babaram. *
-> 9. *Finish reading major novels of T.H. *{% sidenote "sidenote-id" "This is a random sidenote" %} 
-> 10. *Try to keep my diary regularly as before. *{% sidenote "sidenote-id" "This is a random sidenote" %} 
-> 11. *Make notes of my five best and five worst qualities. Conserve latter and eradicate former. *
+> 
+> 8. *Learn from good people, like Babaram.*
+> 
+> 9. *Finish reading major novels of T.H.*{% sidenote "hardy" "Thomas Hardy. This is likely the most autobiographical item on Seth's list." %} 
+> 
+> 10. *Try to keep my diary regularly as before.*{% sidenote "comm" "Who hasn't written this in a diary before?" %} 
+> 
+> 11. *Make notes of my five best and five worst qualities. Conserve latter and eradicate former.*
 > 
 > Haresh read over this last sentence, looked surprised, and corrected it.
 
