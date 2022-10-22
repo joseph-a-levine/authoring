@@ -43,11 +43,11 @@ The actual question of interest, much more central than Natasha, is who is most 
 > 
 > *8. Learn from good people, like Babaram.*
 > 
-> 9. *Finish reading major novels of T.H.*{% sidenote "hardy" "Thomas Hardy. This is likely the most autobiographical item on Seth's list." %} 
+> *9. Finish reading major novels of T.H.*{% sidenote "hardy" "Thomas Hardy. This is likely the most autobiographical item on Seth's list." %} 
 > 
-> 10. *Try to keep my diary regularly as before.*{% sidenote "comm" "Who hasn't written this in a diary before?" %} 
+> *10. Try to keep my diary regularly as before.*{% sidenote "comm" "Who hasn't written this in a diary before?" %} 
 > 
-> 11. *Make notes of my five best and five worst qualities. Conserve latter and eradicate former.*
+> *11. Make notes of my five best and five worst qualities. Conserve latter and eradicate former.*
 > 
 > Haresh read over this last sentence, looked surprised, and corrected it.
 
