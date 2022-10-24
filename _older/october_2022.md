@@ -102,7 +102,7 @@ I recommend the entire collection, and most of Srinivasan's other writing beside
 
 
 
-Bone
+I recently found Zhengdong Wang's blog, which I place in the same category as this website, but much better. The highlight is his [README](https://zhengdongwang.com/readme) page, and the "Maximum Fun" section sourced some fantastic recommendations.{% sidenote "mafun" "Wang recommends *Intepreter of Maladies*, which was my absolutely superlative fiction book I read last year, and *Memoirs of Hadrian*, which was in the top ten. " %} He prompted me to finally watch *Knives Out*, which did not strike me as superlative, but was very very fun. The recommendation which worked out the best for me (so far), was Jeff Smith's *Bone* collection. Wang writes, "It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous." I have never read/watched *Lord of the Rings*, and this feels like an odd way to get there, but I enjoyed *Bone* so much that I might try it. Also, Smith's shades-of-gray style looks beautiful on my extra-large e-ink tablet.
 
 Bill James' crime book
 
