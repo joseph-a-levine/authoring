@@ -91,14 +91,22 @@ Reputations; Alice in Wonderland; Stories of Your Life
 
 One weird book was cited in three books I read in late October, frequently enough I had to pay attention.{% sidenote "baa" "Probably just a Baader-Meinhof coincidence, but a pretty surprising one." %} The forward to *Alice*, written by Peter Hunt, concludes that Charles Dodgson was almost surely a pedophile.{% sidenote "ase" "My metrics professor would deduct points for abusing measure theoretic notation here, but 'almost surely' and 'almost everywhere' have always seemed counterintuitive. JOSEPH FINISH" %} Hunt writes that "even the most sympathetic of Dodgson’s biographers [find] it necessary to face this particular problem directly (given that his index contains the item, ‘Dodgson, nude female form, attachment to’)." In this discussion, Hunt cites "James Kincaid’s pioneering *Child-Loving: The Erotic Child and Victorian Culture*," which  writes of the *Alice* books that they want to "stand on the threshold of ... a seduction drama." 
 
-I thought little of this forward, besides a discussion with a friend about whether Dodgson's mathematical work and kid's book work should be valued differently. Until three days later, when reading Amia Srinivasan's *The Right to Sex*, I came across a familiar name: 
+I thought little of this forward, besides a discussion with a friend about how Dodgson's mathematical work and kids' books should be valued differently. Until three days later, when reading Amia Srinivasan's collection *The Right to Sex*, I came across a familiar name: "Is there no difference in power between Kincaid, author of *Child-Loving: The Erotic Child and Victorian Culture*,{% sidenote "dunk" "His research interests are not relevant to Srinivasan's point — the title of his book is used as a dunk, one which lands quite well." %}  and his student?" Srinivasan, in "On Not Sleeping With Your Students," takes Kincaid to task for an "abus[ive], pornification" essay on how he interacts with his students.     Kincaid's story is fairly involed,{% sidenote "recei" "See page 132-136 of the paperback for the receipts, or search for Kincaid's name. Libgen is a thing." %} but Srinivasan's point is that Kincaid is a pedagogical failure: "[his] focus, as a teacher, should be on directing his student’s desire away from himself, and towards its proper object: her epistemic empowerment. If this is what the student wants already, then all Kincaid has to do is exercise some restraint, and not sexualise what is a sincere expression of her desire to learn."
+
+I recommend the entire collection, and most of Srinivasan's other writing besides: an essay on [bestiality](https://www.lrb.co.uk/the-paper/v43/n19/amia-srinivasan/what-does-fluffy-think); an [obituary of Derek Parfit](https://www.lrb.co.uk/blog/2017/january/remembering-derek-parfit); an essay on [the Rhodes' legacy](https://www.lrb.co.uk/the-paper/v38/n07/amia-srinivasan/under-rhodes). She's my favorite contemporary feminist philosopher, and my favorite living All Souls Fellow. Three of my friends sat for the [All Souls Examination Fellowship](https://en.wikipedia.org/wiki/All_Souls_College,_Oxford#Examination_fellowships) this year. Besides Srinivasan and Parfit, fellows include Lawrence of Arabia,{% sidenote "arch" "Just went down an rabbit hole of his archaeological discoveries. Anyone, who, at 20 years old, ''cycled 2,200 miles solo through France to the Mediterranean and back researching French castles'' is destined for an interesting life." %}  Sarvepalli Radhakrishnan,{% sidenote "radha" "Second president of India." %}  Amartya Sen,{% sidenote "pbuc" "I'm *so* glad I don't have to deal with social choice theory this year." %}  and Joseph Stiglitz.{% sidenote "stig" "It's odd that, of the six All Souls Fellows I just listed, I have the fewest opinions about the development economist." %} 
+
+
+
+
+
+
 
 
 Bone
 
 Bill James' crime book
 
-Maybe some papers
+
 
 
 
