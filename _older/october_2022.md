@@ -87,9 +87,25 @@ I'll throw in a long section, my favorite, to conclude. Amit is giving a seminar
 
 I read two novels, novellas really, by Juan Gabriel Vásquez this month — a Colombian novelist with, shall we say, political tendencies. *Las reputaciones*, or *Reputations*, stuck with me through two readings, first in Spanish and then English. Vásquez's plot is fractured and engaging; the narrator is a waning political cartoonist who spends most of his time remembering the future and guessing the past.{% sidenote "spanish" "When people ask me if I can speak Spanish, I usually say yes, but only about things happening right now. Any conjugations beyond the present are beyond me." %} A singular event drives the action, but that event happened 20 years ago, and is happening now, and will also happen tomorrow. It's a slow moving disaster, one the narrator calls "the meteorite, always com[ing] from behind," but really the meteor already impacted. 
 
-He combines the metaphor with some shitty anthropology, maybe of the Whorfian variety: "For an indigenous tribe in Paraguay, or maybe it was Bolivia, the past is what is in front of us, because we can see it and know it, but the future is what is behind: what we do not see and cannot know. The meteorite always comes from behind, we don't see it, we can't see it. You need to see it, see it coming and step aside. You need to face the future. It's a poor sort of memory that only works backwards." 
+He combines the metaphor with some shitty anthropology, maybe of the Whorfian variety: "For an indigenous tribe in Paraguay, or maybe it was Bolivia, the past is what is in front of us, because we can see it and know it, but the future is what is behind: what we do not see and cannot know. The meteorite always comes from behind, we don't see it, we can't see it. You need to see it, see it coming and step aside. You need to face the future. *It's a poor sort of memory that only works backwards.*" 
 
-*Memory* is the key; Vásquez explores the formation of memories, the forgetting of memories, the weaponization of memories, and their anticipation. Anne McLean's translation is excellent; I have no quibbles except the title. *Reputations* flows directly from *Las reputaciones*, but reputations (political, sexual, historical) are not what the book is about. Vásquez is interested in *legacies*,{% sidenote "legre" "When I chatted to two native speakers about this, they mostly agreed without having read the book. 'Legado,' the literal translation of legacy, is much more material in Spanish than English. For example, the primary implication is to do with bequests." %} and these, not reputations, are the cumulative effect of memories. 
+**Memory** is the key; Vásquez explores the formation of memories, the forgetting of memories, the weaponization of memories, and their anticipation. Anne McLean's translation is excellent;{% sidenote "mcle" "I enjoyed her translation of Allende's *Maya's Notebook* some years back." %}  I have no quibbles except the title. *Reputations* translates directly from *Las reputaciones*, but reputations (political, sexual, historical) are not what the book is about. Vásquez is interested in *legacies*,{% sidenote "legre" "When I chatted to two native speakers about this, they mostly agreed without having read the book. 'Legado,' the literal translation of legacy, is much more material in Spanish than English. For example, the primary implication is to do with bequests." %} and these, not reputations, are the cumulative effect of memories. 
+
+In the quote above, I added italics on the last sentence. Vásquez pulls this directly from Chapter 5 *Through the Looking-Glass, and What Alice Found There*, when Alice is completely perplexed by the retrotemporally-challenged White Queen:
+
+> “It’s dreadfully confusing!’ 
+>
+> ‘That’s the effect of living backwards,’ the Queen said kindly: ‘it always makes one a little giddy at first——’ 
+>
+> ‘Living backwards!’ Alice repeated in great astonishment. ‘I never heard of such a thing!’ 
+>
+> ‘––but there’s one great advantage in it, that one’s memory works both ways.’ 
+>
+> ‘I’m sure mine only works one way,’ Alice remarked. ‘I ca’n’t remember things before they happen.’ 
+>
+> ‘It’s a poor sort of memory that only works backwards,’ the Queen remarked.”
+
+I had re-read{% sidenote "rereaali" "Tho I'm not confident I've read them them before; I'm just assuming it's the case. I'd be quite disappointed otherwise!" %}  both *Alice* books in early January, before I got to Vásquez, so this reference landed with me 90 pages before the narrator's ex-wife explains the source of the quotation to him in *Reputations*. The notion of time, of memory flowing backwards is attractive as a metaphor and as a psychological mechanism. As a kid, my primary association with the concept was T.H. White's Merlyn; this was both funny{% sidenote "telegr" "Anachronistic references to telegraph lines, perplexing Sir Bors, once made me laugh out loud in the Westland Middle School library." %} and deeply sad.{% marginfigure "" "assets/img/merly.png" "" %}
 
 Reputations; Alice in Wonderland (lucy's gift); Stories of Your Life; TH White's Merlin
 
