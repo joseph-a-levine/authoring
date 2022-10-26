@@ -4,7 +4,7 @@ title: What am I up to now?
 ---
 
 
-## September, 2022
+## October, 2022
 
 Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods must make mockery of my motivation. matrices, μ, monotonicity; Malmqvist models mirth myopically? Moreover, myself maybe made mad, meaning "mental", mastering much minutiae modeling mankind's many monetary market messes. 
 
@@ -87,7 +87,7 @@ I'll throw in a long section, my favorite, to conclude. Amit is giving a seminar
 
 
 
-Reputations; Alice in Wonderland (lucy's gift); Stories of Your Life
+Reputations; Alice in Wonderland (lucy's gift); Stories of Your Life; TH White's Merlin
 
 One weird book was cited in three books I read in late October, frequently enough I had to pay attention.{% sidenote "baa" "Probably just a Baader-Meinhof coincidence, but a pretty surprising one." %} The forward to *Alice*, written by Peter Hunt, concludes that Charles Dodgson was almost surely a pedophile.{% sidenote "ase" "My metrics professor would deduct points for abusing measure theoretic notation here, but 'almost surely' and 'almost everywhere' have always seemed counterintuitive. JOSEPH FINISH" %} Hunt writes that "even the most sympathetic of Dodgson’s biographers [find] it necessary to face this particular problem directly (given that his index contains the item, ‘Dodgson, nude female form, attachment to’)." In this discussion, Hunt cites "James Kincaid’s pioneering *Child-Loving: The Erotic Child and Victorian Culture*," which  writes of the *Alice* books that they want to "stand on the threshold of ... a seduction drama." 
 
