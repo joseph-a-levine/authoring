@@ -83,11 +83,24 @@ I'll throw in a long section, my favorite, to conclude. Amit is giving a seminar
 > 
 > Kabir smiled, Lata burst out laughing, Pran was appalled, Mr Makhijani gaped and Mr Nowrojee looked as if he were about to faint dead away. Amit appeared pleased with the effect.
 
+### On memory
 
+I read two novels, novellas really, by Juan Gabriel Vásquez this month — a Colombian novelist with, shall we say, political tendencies. *Las reputaciones*, or *Reputations*, stuck with me through two readings, first in Spanish and then English. Vásquez's plot is fractured and engaging; the narrator is a waning political cartoonist who spends most of his time remembering the future and guessing the past.{% sidenote "spanish" "When people ask me if I can speak Spanish, I usually say yes, but only about things happening right now. Any conjugations beyond the present are beyond me." %} A singular event drives the action, but that event happened 20 years ago, and is happening now, and will also happen tomorrow. It's a slow moving disaster, one the narrator calls "the meteorite, always com[ing] from behind," but really the meteor already impacted. 
 
+He combines the metaphor with some shitty anthropology, maybe of the Whorfian variety: "For an indigenous tribe in Paraguay, or maybe it was Bolivia, the past is what is in front of us, because we can see it and know it, but the future is what is behind: what we do not see and cannot know. The meteorite always comes from behind, we don't see it, we can't see it. You need to see it, see it coming and step aside. You need to face the future. It's a poor sort of memory that only works backwards." 
 
+*Memory* is the key; Vásquez explores the formation of memories, the forgetting of memories, the weaponization of memories, and their anticipation. Anne McLean's translation is excellent; I have no quibbles except the title. *Reputations* flows directly from *Las reputaciones*, but reputations (political, sexual, historical) are not what the book is about. Vásquez is interested in *legacies*,{% sidenote "legre" "When I chatted to two native speakers about this, they mostly agreed without having read the book. 'Legado,' the literal translation of legacy, is much more material in Spanish than English. For example, the primary implication is to do with bequests." %} and these, not reputations, are the cumulative effect of memories. 
 
 Reputations; Alice in Wonderland (lucy's gift); Stories of Your Life; TH White's Merlin
+
+"It's a poor sort of memory that only works backwards." 
+
+"'Remember, please,' Samanta Leal said to him. 'I need you to jog your memory.' And he thought of that curious turn of phrase, *to job a memory,* as if memory were something we could take out and exercise, or nudge into action, by way of certain well-chosen materials, by the mere effort of physical work."
+
+
+
+
+
 
 One weird book was cited in three books I read in late October, frequently enough I had to pay attention.{% sidenote "baa" "Probably just a Baader-Meinhof coincidence, but a pretty surprising one." %} The forward to *Alice*, written by Peter Hunt, concludes that Charles Dodgson was almost surely a pedophile.{% sidenote "ase" "My metrics professor would deduct points for abusing measure theoretic notation here, but 'almost surely' and 'almost everywhere' have always seemed counterintuitive. JOSEPH FINISH" %} Hunt writes that "even the most sympathetic of Dodgson’s biographers [find] it necessary to face this particular problem directly (given that his index contains the item, ‘Dodgson, nude female form, attachment to’)." In this discussion, Hunt cites "James Kincaid’s pioneering *Child-Loving: The Erotic Child and Victorian Culture*," which  writes of the *Alice* books that they want to "stand on the threshold of ... a seduction drama." 
 
