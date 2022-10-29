@@ -113,18 +113,15 @@ Surbhi, a friend based in NY, recently gave me a passionate review of Ted Chiang
 
 > Instead, what appears to be precognition in Chiang’s story is actually far more interesting, and a novel twist on psychology and physics: classical physics allows usefully interpreting the laws of physics in both a ‘forward’ way in which events happen step by step, but also a teleological way in which events are simply the unique optimal solution to a set of constraints including the outcome and allows reasoning ‘backwards’. The alien race exemplifies this other, equally valid, possible way of thinking and viewing the universe, and *the protagonist learns their way of thinking by studying their language*, which requires seeing written characters as a unified gestalt. This holistic view of the universe as an immutable ‘block-universe’⁠, in which events unfold as they must, *changes the protagonist’s attitude towards life and the tragic death of her daughter*, teaching her in a somewhat Buddhist or Stoic fashion to embrace life in both its ups and downs.
 
-I don't have much to add, nor the time to condense Gwern's prose, so please [click through](https://www.gwern.net/Story-Of-Your-Life) if this strikes you as interesting. Chiang's stories are worth perusing.
+I don't have much to add, nor the time to condense Gwern's prose, so please [click through](https://www.gwern.net/Story-Of-Your-Life) if this strikes you as interesting. All of Chiang's stories are worth perusing.
 
-Le Guin offers her usual no-nonsense take: "I know who I was, I can tell you who I may have been, but I am, now, only in this line of words I write." 
+Elsewhere, I found a delightful short story by Catherynne Valente,{% sidenote "thirlee" "I seem to remember it being linked to from the EA Forum, but I can't imagine in what context." %} whose wrote a book "about a gaseous moth who devours the memory of love." "[Thirteen Ways of Looking at Space/Time](https://clarkesworldmagazine.com/valente_08_10/)" is written half-autobiographically in the third-person, and half hard sci-fi Bereshit.{% sidenote "beres" "'In the beginning was the Word and the Word was with God and the Word was a high-density pre-baryogenesis singularity.'" %} The relevant bits, on Chiangian memory, are in the even-numbered sections:
 
-https://clarkesworldmagazine.com/valente_08_10/
-"That everything I write is always already written, and that the science fiction writer is sending messages back to me in semaphore, at the speed of my own typing, which is a retroactively constant rate: I cannot type faster than I have already typed. When I type a sentence, or a paragraph, or a page, or a chapter, I am also editing it and copyediting it, and reading it in its first edition, and reading it out loud to a room full of people, or a room with only one or two people in it, depending on terrifying quantum-publishing intersections that the science fiction writer understands but I know nothing about."
-"Everything is always happening all at once, in the present tense, forever, the beginning and the end and the denouement and the remaindering."
-"The science fiction writer cuts out her heart. It is a thousand hearts. It is all the hearts she will ever have. It is her only child’s dead heart. It is the heart of herself when she is old and nothing she ever wrote can be revised again."
+> "Once, someone asked the science fiction writer got her ideas. This is what she said:
+> 
+> ... That everything I write is always already written, and that the science fiction writer is sending messages back to me in semaphore, at the speed of my own typing, which is a retroactively constant rate: I cannot type faster than I have already typed. When I type a sentence, or a paragraph, or a page, or a chapter, I am also editing it and copyediting it, and reading it in its first edition, and reading it out loud to a room full of people, or a room with only one or two people in it, depending on terrifying quantum-publishing intersections that the science fiction writer understands but I know nothing about."
 
-...whose wrote a book "about a gaseous moth who devours the memory of love."
-
-"'Remember, please,' Samanta Leal said to him. 'I need you to jog your memory.' And he thought of that curious turn of phrase, *to job a memory,* as if memory were something we could take out and exercise, or nudge into action, by way of certain well-chosen materials, by the mere effort of physical work."
+I'll finish with Le Guin, offering her usual no-nonsense take: "I know who I was, I can tell you who I may have been, but I am, now, only in this line of words I write." 
 
 ### Other stuff
 
