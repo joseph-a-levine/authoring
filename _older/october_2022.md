@@ -176,8 +176,15 @@ Before each of these performances, I met friends at the White Horse, one of the 
 
 ## Eating 
 
+Lots of baking and large-group meal experimentation this month. Here's a paragraph about smoothies:
+
+The previous residents of our house, mostly staff at the [Center for the Governance of AI](https://www.governance.ai/), left behind a Magic Bullet. Lack of access to a blender, it turns out, was the only thing keeping me from becoming a smoothie guy. I've had smoothies five mornings out of six this month. The staple is a banana at the bottom, frozen blueberries, peanut butter, and chocolate protein powder, but I've tossed in apples, oranges, pineapple, mango, avocado, kale, spinach, walnuts, carrots, broccoli, coconut meat, every berry you can imagine, cucumber, yogurt, and chocolate chips.{% sidenote "smoot" "Not all at the same time." %} Like most eating trends in my life, I don't expect this to last long, but I'm enjoying the heck out of it in the meanwhile. 
 
 
+
+
+
+### Spoiler from above
 
 > Amit, needless to say, was disappointed, but not as much as he might have been. His novel, now that he was free from the worry of handling the Chatterji fortunes, was going well, and many more momentous events were taking place on his pages than in his life. He sank deeper into the novel, and — a little disgusted with himself for doing so — used his disappointment and sadness to portray that of a character who happened to be conveniently on hand. [...] Perhaps Lata had known that of the three men courting her, the only one who could be rejected without the loss of his friendship was Amit.
 
