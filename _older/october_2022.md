@@ -131,18 +131,6 @@ I recommend the entire collection, and most of Srinivasan's other writing beside
 
 I recently found Zhengdong Wang's blog, which I place in the same category as my own website, but much better. The highlight is his [README](https://zhengdongwang.com/readme) page, and the "Maximum Fun" section sourced some fantastic recommendations.{% sidenote "mafun" "Wang also recommends *Intepreter of Maladies*, which was my absolutely superlative fiction book I read last year, and *Memoirs of Hadrian*, which was in the top ten. " %} He prompted me to finally watch *Knives Out*, which did not strike me as superlative, but was very very fun. The recommendation which worked out the best for me (so far), was Jeff Smith's *Bone* collection. Wang writes, "It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous." I have never read/watched *Lord of the Rings*, and this feels like an odd way to get there, but I enjoyed *Bone* so much that I might try it. Also, Smith's shades-of-gray style looks beautiful on my extra-large e-ink tablet.
 
-Heroides, Lavinia
-
-Pythagoras as the virtue ethics Peter Singer
-
-I also read the last book of Ovid's *Metamorphoses*, a 
-
-
-[EDIT: A friend told me the Kline translation, the source of the above quotes, is not well-regarded by classicists. I read two other translations which are notably less virtue ethics-y:
-
-There also seem to be large discrepencies in structure and implication of the 
-
-Alternatively, maybe everything sounds more virtuous in prose, and all true consequentialist texts should be written in verse.]
 
 
 ## Listening 
