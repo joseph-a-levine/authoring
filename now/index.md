@@ -8,7 +8,7 @@ title: What am I up to now?
 
 Metrics, micro, macro. Measures, minimizers, magnitudes. Marshallian methods must mock my motivation. Matrices, μ, monotonicity; Malmqvist models mirth myopically? Moreover, myself maybe made mad, meaning "mental", mastering much minutiae modeling mankind's many monetary market messes. 
 
-(The first month of economics grad school is going great. Let's dive in.) 
+(The [first month of economics grad school](https://jablevine.com/older/september_2022) is going great. Let's dive in.) 
 
 ## Contents
 1. [Reading](#reading)
