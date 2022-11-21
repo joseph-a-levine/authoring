@@ -51,6 +51,8 @@ From about 2007 to 2012, I read exclusively *Star Wars* books.
 I'm not sure why I never got into fan fiction — the first serious fan fiction work I ever read was *All the Young Dudes*, a Harry Potter fiction I've covered previously. 13-year-old me would have been ripe for 
 In July of this year, while working on an essay about abolition, I came across a fan fiction writer 
 
+What the heck is weather? 
+
 
 
 ## Listening
@@ -62,12 +64,18 @@ Two excellent hard bop albums, one old, one new.
 *Hub Cap*, from Freddie Hubbard and co.{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} 
 Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
 
+How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
+
+Here is a claim about a sensibility, as Sontag called it, tho I would prefer "disposition": funk is the campiest genre of instrumental music. Here I point to two recent and two old examples. First, Pridjevi's 2021 album Drugi Korijen. Second, dnacefloor dervish
+
+
 ## Writing
 
 
 
 ## Eating
 
+Jam is obsolete
 
 ## Previously
 
