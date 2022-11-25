@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## November, 2021
 
-Noah Robertson writes a very flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article went to press before the Taliban's summer campaign, and paints an optimistic future for Afghanistan and our mini-grids. After the fall of Kabul, Noah followed up with me and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
+Noah Robertson writes a very flattering [article](https://magazine.wm.edu/issue/2021-fall/power-analyst.php) on my work with Team Afghan Power for the William & Mary alumni magazine. The article went to press before the Taliban's campaign this summer, and paints an optimistic future for Afghanistan and our mini-grids. After the fall of Kabul, Noah followed up with me and published an [article](https://magazine.wm.edu/online-exclusives/finish-the-mission.php) about the fantastic work John Gerlaugh  has been doing to aid the evacuation of vulnerable populations. 
 
 My sisters were not as flattered by the article, and it's my fault. 
 
