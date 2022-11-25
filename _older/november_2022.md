@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## November, 2022
 
-
+My two smaller lectures, microeconomics and econometrics, each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "This is the caption" %} There are many unkind things I could say about the MRB
 
 ## Contents
 1. [Reading](#reading)
