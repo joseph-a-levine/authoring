@@ -6,9 +6,13 @@ title: What am I up to now?
 
 ## November, 2022
 
+
+
 My two smaller lectures, microeconomics and econometrics, each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "The website manchesterhistory.net inexplicably has a page with the most complete history of the MRB, completed in 2004, including quotes from the architects proposal: ''the colouring and 'natural' finish of the concrete also compliment the natural sandstone of Oxford's historic buildings.''" %} There are many unkind things I could say about the MRB
 
-Netlify deprecated Xanadu whatever *and they never emailed me about it*.
+
+This month's post will be a bit shorter than planned for reasons explained in a miffed sidenote.{% sidenote "yeargh" "i just spent three hours wrestling with a bug in my github logs preventing me from building this page, only to find out that what i thought was the bug was actually a completely different bug and the bug i was wrestling with is actually not a bug and totally unimportant and the actual bug could be fixed by checking a box on github which i would have known to do if the company which i pay to host my website had *just sent me an email* and i'm reminded yet again why i am not a programmer. netlify deprecated xenial, which i preferred on kabbalistic grounds, in favor of the ubuntu focal build image, which immediately froze all builds. yeargh." %} The upside is that I cut out three book reviews and two album reviews to get this out by the end of the mon
+
 
 ## Contents
 1. [Reading](#reading)
