@@ -6,7 +6,7 @@ title: What am I up to now?
 
 ## November, 2022
 
-My two smaller lectures, microeconomics and econometrics, each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "This is the caption" %} There are many unkind things I could say about the MRB
+My two smaller lectures, microeconomics and econometrics, each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "The website manchesterhistory.net inexplicably has a page with the most complete history of the MRB, completed in 2004, including quotes from the architects proposal: ''the colouring and 'natural' finish of the concrete also compliment the natural sandstone of Oxford's historic buildings.''" %} There are many unkind things I could say about the MRB
 
 ## Contents
 1. [Reading](#reading)
