@@ -68,13 +68,13 @@ In July of this year, while working on an essay about abolition, I came across a
 
 ### What the heck is weather? 
 
-I say a lot of things about weather in a given day, usually starting with muttered irritation when I sit up in bed and look out my window to see how wet my bike seat has gotten overnight.{% sidenote "wetsasd" "True to form, I don't use this information in any way except to steel myself for a wet butt." %} The English skill and enthusiasm for discussing the weather is well-known, but less discussed is the infectiousness of meteorological chit-chat. An older English lady with whom I volunteer recently remarked how "lucky we are to live in a country with such varied weather! Imagine if we were in a country where it was hot everyday — what would people talk about?"
-
-In Sierra Leone, in Afghanistan, even Kolkata, weather was rarely the go-to conversation starter. Rather, there are periods of the year when weather is the *only* topic of conversation. In Freetown, it began the last week of June and persisted for no more than five weeks, by which time the rainy season had started to wane. In Kolkata, the monsoon And I haven't yet seen an Afghan winter, but the first snowfall does send a
-
-My friends who moved to Oxford from stabler climes have quickly 
+I say a lot of things about weather in a given day, usually starting with muttered irritation when I sit up in bed and look out my window to see how wet my bike seat has gotten overnight.{% sidenote "wetsasd" "True to form, I don't use this information in any way except to steel myself for a wet butt." %} The English skill and enthusiasm for discussing the weather is well-known, but less discussed is the infectiousness of meteorological chit-chat. An older English lady with whom I volunteer recently remarked how "lucky we are to live in a country with such varied weather! Imagine if we were in a country where it was hot everyday — what would people talk about?" My friends who moved to Oxford from stabler climes confirm this impression — and in Sierra Leone, there was hardly a comment about the weather, even when the harmattan{% sidenote "harmat" "The Sahara's annual dust fart over coastal west Africa." %} was especially caustic.
 
 The adopted enthusiasm for meteorological gossip, unfortunately, doesn't come with any crash courses. I have found myself saying things like, "Feels like a cold front coming in,"{% sidenote "colf" "This is what I say when I mean 'I think it's going to rain for a few hours, then get colder.'" %}  or, "I think this squall line will hang out for a couple hours,"{% sidenote "sqal" "Or, 'I think we'll get some on-and-off heavy rain for a while, with some thunder if we're lucky.'" %}  with no sense of whether words mean anything. To up my chit-chat game, I borrowed five top-rated meteorology textbooks 
+
+### Monthly Le Guin
+
+*Another Story, or A Fisherman of the Inland Sea* is more Ursula Le Guin than Ursula Le Guin. There is a novel set of gender and sexual relations,{% sidenote "fishgend" "Describe, and include Quote about moities being more important than gender." %} a long voyage from home to an alien world, plenty of FTL travel and communication, an appropriate appropriated mythology, and a train. 
 
 ## Listening
 
