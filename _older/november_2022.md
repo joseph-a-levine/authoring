@@ -49,7 +49,7 @@ There also seem to be large discrepencies in structure and implication of the 
   
 Alternatively, maybe everything sounds more virtuous in prose, and all true consequentialist texts should be written in verse.]
 
-I vastly underestimated the scale of my goal to read everything published by Ursula Le Guin this year; I was happy to just finish the Earthsea and Hainish books. But 
+
 
 In 2021, I read everything published by George Orwell or Eric Blair.{% sidenote "1984ex" "Except for *1984*, out of pique. " %} 
 
@@ -74,7 +74,15 @@ The adopted enthusiasm for meteorological gossip, unfortunately, doesn't come wi
 
 ### Monthly Le Guin
 
-*Another Story, or A Fisherman of the Inland Sea* is more Ursula Le Guin than Ursula Le Guin. There is a novel set of gender and sexual relations,{% sidenote "fishgend" "Describe, and include Quote about moities being more important than gender." %} a long voyage from home to an alien world, plenty of FTL travel and communication, an appropriate appropriated mythology, and a train. 
+*Another Story, or A Fisherman of the Inland Sea* is more Ursula Le Guin than Ursula Le Guin. There is a novel set of gender and sexual relations,{% sidenote "fishgend" "Describe, and include ''One's [moiety] is as deeply and intimately part of ones
+
+elf as one's gender, and has quite as much to do with one's sexual life.''" %} a long voyage from home to an alien world, plenty of FTL travel and communication, an appropriate appropriated mythology, and a train. 2022 has been a very successful year for me, but I vastly underestimated the scale of one of my goals: reading everything published by Ursula Le Guin this year; I was happy to just finish the Earthsea and Hainish books. Even beyond her dozens of novels, tho, there are dozens of short stories scattered about. I found *A Fisherman* in a recently released collection, "The Found and the Lost."
+
+*A Fisherman*, part of her Hainish universe, is notable for extended references to "historical" earth culture. The protagonist's mother left earth millenia before settling on the planet O and starting the action, and tells stories from Japanese mythology about demon rats and Momotarō, the peach boy.{% sidenote "tarou" "The titular *Fisherman* is Urashima Tarō." %} Le Guin rarely steals mythology so directly, preferring to tweak and adapt real tradition into science fiction, as in *Vaster than Empires and More Slow* or *Semley's Necklace*.
+
+Written in 1994, *A Fisherman* is very early solarpunk, possibly unintentional solarpunk.{% sidenote "dispo" "I occasionally see Le Guin's *The Dispossessed* described as one of the first solarpunk novels, which invariably bums me out about both the novel and the genre. Both do better without the other." %} Le Guin isn't cheerful enough to thrive in as optimistic a genre as solarpunk,{% sidenote "sidenote-id" "Ask me for my opinion on *The Ones Who Walk Away from Omelas* sometime" %} but her description on village life on O rivals my favorite solarpunk setting.{% sidenote "sidenote-id" "*A Prayer for the Crown-Shy*, to be written about... eventually." %} Pure Le Guin, her solarpunk is academic and industrious:
+
+> Koneko was wanted at home because of her excellence in the discipline we call "thick planning" — farm management is the usual translation, but the words have no hint of the complexity of factors involve din thick planning, ecology politics profit tradition aesthetics honor and spirit{% sidenote "extens" "Lack of punctuation Le Guin's — her switch to the semantic extensional definition is *so cool*. " %}  all function in an intensely practical and practically invisible balance of preservation and renewal, like the homeostasis of a vigorous organism. 
 
 ## Listening
 
