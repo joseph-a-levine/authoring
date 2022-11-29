@@ -78,7 +78,13 @@ In July of this year, while working on an essay about abolition, I came across a
 
 I say a lot of things about weather in a given day, usually starting with muttered irritation when I sit up in bed and look out my window to see how wet my bike seat has gotten overnight.{% sidenote "wetsasd" "True to form, I don't use this information in any way except to steel myself for a wet butt." %} The English skill and enthusiasm for weather-based conversation is well-known, but less discussed is the infectiousness of meteorological chit-chat. An older English lady with whom I volunteer remarked how "lucky we are to live in a country with such varied weather! Imagine if we were in a country where it was hot everyday — what would people talk about?" My friends who moved to Oxford from stabler climes confirm this impression — and in Sierra Leone, there was hardly a comment about the weather, even when the harmattan{% sidenote "harmat" "The Sahara's annual dust fart over coastal west Africa." %} was especially caustic.
 
-The adopted enthusiasm for gossip about the wind and rain and darkness, unfortunately, doesn't come with any meteorological crash courses. I have found myself saying things like, "Feels like a cold front coming in,"{% sidenote "colf" "This is what I say when I mean 'I think it's going to rain for a few hours, then get colder.'" %}  or, "I think this squall line will hang out for a couple hours,"{% sidenote "sqal" "Or, 'I think we'll get some on-and-off heavy rain for a while, with some thunder if we're lucky.'" %}  with no sense of whether words mean anything. To up my chit-chat game, I borrowed five top-rated meteorology textbooks 
+The adopted enthusiasm for gossip about the wind and rain and darkness, unfortunately, doesn't come with any meteorological crash courses. I have found myself saying things like, "Feels like a cold front coming in,"{% sidenote "colf" "This is what I say when I mean 'I think it's going to rain for a few hours, then get colder.'" %}  or, "I think this squall line will hang out for a couple hours,"{% sidenote "sqal" "Or, 'I think we'll get some on-and-off heavy rain for a while, with some thunder if we're lucky.'" %}  with no sense of whether words mean anything. To up my chit-chat game, I borrowed five top-rated meteorology textbooks and figure out how to say more interesting things about the wind and rain. The goal was to end up in this situation, plus a bit of tact: 
+
+<br>
+
+{% maincolumn "assets/img/weather.png" "" %}
+
+This won't be much of a problem — meteorology textbooks seem to fall into two categories, neither of which actually teach you about the weather.
 
 ### Monthly Le Guin
 
