@@ -110,8 +110,7 @@ Here's a review of Taylor Swift's *Reputation*, inspired by a) a now-deleted Car
 
 ## Two excellent hard bop albums, one old, one new; and a meme
 
-*Hub Cap*, from Freddie Hubbard and co.{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} 
-Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
+*Hub Cap*, from trumpeter Freddie Hubbard and co.,{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} is a 1960s session which never made it into the canon. Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
 
 And the promised meme: 
 
