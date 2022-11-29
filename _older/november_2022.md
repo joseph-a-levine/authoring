@@ -110,7 +110,11 @@ Here's a review of Taylor Swift's *Reputation*, inspired by a) a now-deleted Car
 
 ## Two excellent hard bop albums, one old, one new; and a meme
 
-*Hub Cap*, from trumpeter Freddie Hubbard and co.,{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} is a 1960s session which never made it into the canon. Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
+*[Hub Cap](https://open.spotify.com/album/0VVkpIr057thY4lfRG827X?si=klWkyr52RqOa99OwBg-Psg)*, from trumpeter Freddie Hubbard and co.,{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} is a 1960s session which never made it into the canon. Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
+
+I heard the 2021 album *Crisis and Opportunity — London* from Myele Manzanza, a kiwi percussionist, in early November, and only found out that it has since been followed by *Crisis and Opportunity Vol. 2 — Peaks* and *Crisis and Opportunity Vol. 3 — Unfold* when I went to write about volume 1. The second and third volumes were released rapid fire this summer, and while neither of them match the frantic energy of *London*, Manzanza is building towards something new and definite. Listening to the entire project over three hours, I got the feeling of reading a book series back to back — this is always a smoother, more manufactured reading experience than reading the books as they're released. Manzanza's through-lines are more likely imagined than in literature, but it's much preferred. Maybe we should bring back three-hour albums.
+
+Sidenote — why are musical artists' websites consistently bad? If someone doesn't have a wikipedia page, as Manzanza finds himself, their website is the first place I'll stop. But I consistently find slopping bios and out-of-date discographies. I'm well aware this page is full of typos, but I'm not trying to sell you anything! If I were using this page to pitch readers, you can bet I'd be adding every album and feature to my "about" page. 
 
 And the promised meme: 
 
@@ -118,7 +122,9 @@ And the promised meme:
 
 {% maincolumn "assets/img/jazzjapan.jfif" "" %}
 
-How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
+## Two campy albums
+
+I wrote this subheading before I knew what I meant by camp, and now I'm trapped. How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
 
 Here is a claim about a sensibility, as Sontag called it, tho I would prefer "disposition": funk is the campiest genre of instrumental music. Here I point to two recent and two old examples. First, Pridjevi's 2021 album Drugi Korijen. Second, dnacefloor dervish
 
