@@ -84,7 +84,13 @@ The adopted enthusiasm for gossip about the wind and rain and darkness, unfortun
 
 {% maincolumn "assets/img/weather.png" "" %}
 
-This won't be much of a problem — meteorology textbooks seem to fall into two categories, neither of which actually teach you about the weather.
+This won't be much of a problem — meteorology textbooks seem to fall into two categories, neither of which actually teach you about the weather. The first, the kind of book an undergrad intro course, is not a weather book at all, but a climate book.{% sidenote "undweabo" "Best exemplified, I think, by Wallace and Hobbs' introductory survey of atmospheric science; this was the most frequently used book on meteorology syllabi." %} It elides specifics altogether — the closest they come to discussing how weather affects your day is in chapter 8, on weather systems, in a case study analysis of a cyclone system which hung out over the midwest for a couple weeks. Things only get more general from there — chapter ten on climate dynamics, and so forth. 
+
+The second category of books is inadequate for different reasons. The one I got deepest into here was Holton's "Introduction to Dynamic Meteorology." If the title was insufficient warning, a heading from the first chapter ("The Vectorial Form of the Momentum Equation in Rotating Coordinates") should have scared me away. This wasn't a weather book, it's a physics book! I persevered into chapter 6, but "Synoptic-Scale Motions I: Quasi-geostrophic Analysis" forced a surrender.{% sidenote "fsynsc" "It was the fear of Synoptic-Scale Motions II which did me in." %}
+
+If I had to diagnose the problem, I'd say that academic meteorologists have lost their sense of wonder. This is quite an accusation to level at a field with it's head in the clouds, but I'm not sure how else to diagnose the relative lack of literature on local weather systems, the storms and calms and breezes and raindrops which make up our day. The focus on climate, at the neglect of weather, 
+
+After these false-starts, I think I'll give up on meteorology textbooks, and make a study of meteorology wikipedia. They have better pictures, anyway.
 
 ### Monthly Le Guin
 
