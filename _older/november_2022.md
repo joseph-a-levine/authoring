@@ -108,10 +108,16 @@ I won't read every word by Le Guin in 2022; my success with Orwell/Blair last ye
 
 Here's a review of Taylor Swift's *Reputation*, inspired by a) a now-deleted Caroline Ellison Tumblr post, and b) my sisters both demanding a review of *Midnights*.
 
-Two excellent hard bop albums, one old, one new. 
+## Two excellent hard bop albums, one old, one new; and a meme
 
 *Hub Cap*, from Freddie Hubbard and co.{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} 
 Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
+
+And the promised meme: 
+
+<br>
+
+{% maincolumn "assets/img/jazzjapan.jfif" "" %}
 
 How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
 
