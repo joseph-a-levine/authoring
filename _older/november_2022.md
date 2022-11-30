@@ -10,7 +10,7 @@ title: What am I up to now?
 
 My two smaller classes, microeconomics taught by [Inés Moreno de Barreda](https://sites.google.com/site/inesmorenodebarreda/) and econometrics taught by [Anders Bredahl Kock](https://sites.google.com/site/andersbkock/), each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "The website manchesterhistory.net inexplicably has a page with the most complete history of the MRB, completed in 2004, including quotes from the architects proposal: ''the colouring and 'natural' finish of the concrete also compliment the natural sandstone of Oxford's historic buildings.'' I can't decide if this would be funnier if it were sarcasm or straight. " %} There are many unkind things I could say about the MRB, but the shortcoming which has the most impact on my wellbeing is the utter absence of light — none of the seven classrooms/seminar rooms, nor the Large Lecture Theatre, have windows. This leads to a discomfiting experience, presumably shared by everyone north of the 52nd parallel{% sidenote "latox" "A latitude Oxford shares with such academic powerhouses as Kiska, Alaska; Belle Isle, Newfoundland; Lake Baikal, Russia; and Heilongjiang, the northernmost province of China." %} in November: walking into a lecture at 2:30pm, and walking out an hour later to a sky past dusk and heading for twilight.  
 
-It seems that Seminar Room is almost exclusively dedicated to the edification of first year economics grad students. Economics shares the MRB with the sociology, criminology, IR, and chemistry{% sidenote "idkw" "Yeah, idk either." %} departments, but I have yet to see any Mearshimer-esque power flow diagrams or organic molecules left over on the rotating, lazy-Susan style whiteboards. In fact, I haven't seen anything non-econometric or microeconomic at all, besides a lazy yet eloquent diagram of Melissa Dell's "most well-known and important paper,"{% sidenote "darac" "In Daron Acemoglu's words." %} on the persistent effect of colonial mining institutions in Peru.{% sidenote "lazydia" "A line with 'mita' and 'no mita' on either side, and little people with smily faces and frowny faces on the appropriate, respective sides." %} Rather, whenever we micro&metrical students sit down to [Inés'](https://sites.google.com/site/inesmorenodebarreda/) lectures on mechanism design, [Anders'](https://sites.google.com/site/andersbkock/) scrawled exponential families and iterated integrals are all that form the borders for her [normal form](https://en.wikipedia.org/wiki/Normal-form_game) matrices.
+It seems that Seminar Room is almost exclusively dedicated to the edification of first year economics grad students. Economics shares the MRB with the sociology, criminology, IR, and chemistry{% sidenote "idkw" "Yeah, idk either." %} departments, but I have yet to see any Mearshimer-esque power flow diagrams or organic molecules left over on the rotating, lazy-Susan style whiteboards. In fact, I haven't seen anything non-econometric or microeconomic at all, besides a lazy yet eloquent diagram of Melissa Dell's "most well-known and important paper,"{% sidenote "darac" "In Daron Acemoglu's words." %} on [the persistent effect of colonial mining institutions in Peru](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf).{% sidenote "lazydia" "A line with 'mita' and 'no mita' on either side, and little people with smily faces and frowny faces on the appropriate, respective sides." %} Rather, whenever we micro&metrical students sit down to [Inés'](https://sites.google.com/site/inesmorenodebarreda/) lectures on mechanism design, [Anders'](https://sites.google.com/site/andersbkock/) scrawled exponential families and iterated integrals are all that form the borders for her [normal form](https://en.wikipedia.org/wiki/Normal-form_game) matrices.
 
 Once, as Anders revolved the whiteboards in search of a clean space to draw some geometric proof of the Neyman-Pearson Lemma, he came across a series of calculations on the other side of the lazy Susan. Recoiling, Anders asked if we knew who else had been writing on his board. When we told him that Inés had been demonstrating a result in mechanism design, Anders, wielding an eraser with superlative disdain, wiped away a set of posteriors and told us that, while "Bayesians may be people, too," he wouldn't have any of them in *his* classroom. 
 
@@ -34,8 +34,7 @@ This month's update will be a bit shorter than planned for reasons explained in 
 ## Contents
 1. [Reading](#reading)
 2. [Listening](#listening)
-3. [Writing](#writing)
-4. [Eating](#eating)
+3. [Eating](#eating)
 
   <br>
  
@@ -65,7 +64,7 @@ Expressionists
 
 Argentina
 
-Borges himself, always consumed by infinity, returns to *Hamlet*'s recursion repeatedly. His 1939 essay "When Fiction Lies in Fiction" 
+Borges himself, forever consumed by infinity, returns to *Hamlet*'s recursion repeatedly. His 1939 essay "When Fiction Lies in Fiction" 
 His earlier essay on "The Translators of The *Thousand and One Nights*" 
 > On night 602, King Schahriah hears his own story from the queen's lips? Like the general framework, a given tale often contains within itself other tales of equal length: stages within the stage as in the tragedy of Hamlet, raised to the power of a dream.
 Did Borges and Lem ever meet?
@@ -114,7 +113,7 @@ Here's a review of Taylor Swift's *Reputation*, inspired by a) a now-deleted Car
 
 I heard the 2021 album *Crisis and Opportunity — London* from Myele Manzanza, a kiwi percussionist, in early November, and only found out that it has since been followed by *Crisis and Opportunity Vol. 2 — Peaks* and *Crisis and Opportunity Vol. 3 — Unfold* when I went to write about volume 1. The second and third volumes were released rapid fire this summer, and while neither of them match the frantic energy of *London*, Manzanza is building towards something new and definite. Listening to the entire project over three hours, I got the feeling of reading a book series back to back — this is always a smoother, more manufactured reading experience than reading the books as they're released. Manzanza's through-lines are more likely imagined than in literature, but it's much preferred. Maybe we should bring back three-hour albums.
 
-Sidenote — why are musical artists' websites consistently bad? If someone doesn't have a wikipedia page, as Manzanza finds himself, their website is the first place I'll stop. But I consistently find slopping bios and out-of-date discographies. I'm well aware this page is full of typos, but I'm not trying to sell you anything! If I were using this page to pitch readers, you can bet I'd be adding every album and feature to my "about" page. 
+Sidenote — why are musical artists' websites consistently bad? If someone doesn't have a wikipedia page, as Manzanza finds himself, their website is the first place I'll stop. But I consistently find sloppy bios and out-of-date discographies. I'm well aware this website is full of typos, but I'm not trying to sell you anything! If I were using this page to pitch readers, you can bet I'd be adding every album and feature to my "about" page. 
 
 And the promised meme: 
 
@@ -127,10 +126,6 @@ And the promised meme:
 I wrote this subheading before I knew what I meant by camp, and now I'm trapped. How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
 
 Here is a claim about a sensibility, as Sontag called it, tho I would prefer "disposition": funk is the campiest genre of instrumental music. Here I point to two recent and two old examples. First, Pridjevi's 2021 album Drugi Korijen. Second, dnacefloor dervish
-
-
-## Writing
-
 
 
 ## Eating
