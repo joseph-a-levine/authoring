@@ -131,16 +131,20 @@ And the promised meme:
 
 ## Two campy albums
 
-I wrote this subheading before I knew what I meant by camp, and now I'm trapped. How can instrumental music be camp? Sontag's extensional list{% sidenote "zulei" "Beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas{% sidenote "lupela" "Plus the Cuban singer La Lupe, but that cannot be a claim about " %}
+I wrote this subheading before I knew what I meant by camp, and now I'm trapped. How can instrumental music be camp? [Sontag's](https://monoskop.org/images/5/59/Sontag_Susan_1964_Notes_on_Camp.pdf) extensional list{% sidenote "zulei" "Page 3, beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas, but their inclusion is not a claim about music; it is their artifice. What makes *Swan Lake* camp and *The Nutcracker* not?  It can't be the costumes, can it? Sontag says concert music, "because it is contentless," is rarely camp, but all of opera deserves the label. But the grounds can shift — her 1964 declaration insists that "popular music (post rock-'n'-roll, what the French call yeye) has been annexed." Quod erat demonstrandum; this is just a claim about a sensibility (as Sontag calls it), so I can do whatever I want.
 
-Here is a claim about a sensibility, as Sontag called it, tho I would prefer "disposition": funk is the campiest genre of instrumental music. Here I point to two recent and two old examples. First, Pridjevi's 2021 album Drugi Korijen. Second, dnacefloor dervish
+Here is a claim about a sensibility, to, tho I would prefer "disposition": funk is the campiest genre of popular music. Here I point to Pridjevi's 2021 album [*Drugi Korijen*](https://pridjevi.bandcamp.com/album/drugi-korijen), "square root" in Croatian. Most people, including me, especially me, listen to too much music they heard yesterday. If you listen to one of the albums I've written about here, besides *Reputation*, make it this one. Plenty of acid jazz and psychedelia could be described as camp, sure, but this isn't that. 
+
+*Hypnophonic*, by German band Äl Jawala is even less psychedelic. They tagged themselves "Gypsy punk" on Bandcamp, which I can't improve on. The highlights are 'Dancefloor Dervish' for pure mania and 'Road to El Dorado' for "I guess we're leaning into this?" vibes. I don't think I'm quite recommending this one to all readers, but go for it if this catches your interest. 
 
 
 ## Eating
 
-Jam is obsolete
+Jam is obsolete.
 
 ## Previously
+
+*[October, 2022](https://jablevine.com/older/october_2022)*
 
 *[September, 2022](https://jablevine.com/older/september_2022)*
 
