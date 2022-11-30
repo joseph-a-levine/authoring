@@ -41,38 +41,6 @@ This month's update will be a bit shorter than planned for reasons explained in 
 
 ## Reading 
 
-Pythagoras as the virtue ethics Peter Singer  
-  
-I also read the last book of Ovid's *Metamorphoses*, a   
-
-https://ovid.lib.virginia.edu/trans/Metamorph15.htm#:~:text=He%20is%20truly%20thankless%2C%20and%20not%20worthy%20of%20the%20gift%20of%20corn%2C%20who%20could%2C%20in%20a%20moment%2C%20remove%20the%20weight%20of%20the%20curved%20plough%2C%20and%20kill%20his%20labourer
-http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D15#:~:text=How%20little%20do,owe%20his%20death
-http://johnstoniatexts.x10host.com/ovid/ovid15html.html#:~:text=That%20man%20is,his%20sharp%20axe
-  
-  
-[EDIT: A friend told me the Kline translation, the source of the above quotes, is not well-regarded by classicists. I read two other translations which are notably less virtue ethics-y:  
-  
-There also seem to be large discrepencies in structure and implication of the   
-  
-Alternatively, maybe everything sounds more virtuous in prose, and all true consequentialist texts should be written in verse.]
-
-
-
-In 2021, I read everything published by George Orwell or Eric Blair.{% sidenote "1984ex" "Except for *1984*, out of pique. " %} 
-
-Expressionists
-
-Argentina
-
-Borges himself, forever consumed by infinity, returns to *Hamlet*'s recursion repeatedly. His 1939 essay "When Fiction Lies in Fiction" 
-His earlier essay on "The Translators of The *Thousand and One Nights*" 
-> On night 602, King Schahriah hears his own story from the queen's lips? Like the general framework, a given tale often contains within itself other tales of equal length: stages within the stage as in the tragedy of Hamlet, raised to the power of a dream.
-Did Borges and Lem ever meet?
-
-From about 2007 to 2012, I read exclusively *Star Wars* books.
-I'm not sure why I never got into fan fiction — the first serious fan fiction work I ever read was *All the Young Dudes*, a Harry Potter fiction I've covered previously. 13-year-old me would have been ripe for 
-In July of this year, while working on an essay about abolition, I came across a fan fiction writer 
-
 ### What the heck is weather? 
 
 I say a lot of things about weather in a given day, usually starting with muttered irritation when I sit up in bed and look out my window to see how wet my bike seat has gotten overnight.{% sidenote "wetsasd" "True to form, I don't use this information in any way except to steel myself for a wet butt." %} The English skill and enthusiasm for weather-based conversation is well-known, but less discussed is the infectiousness of meteorological chit-chat. An older English lady with whom I volunteer remarked how "lucky we are to live in a country with such varied weather! Imagine if we were in a country where it was hot everyday — what would people talk about?" My friends who moved to Oxford from stabler climes confirm this impression — and in Sierra Leone, there was hardly a comment about the weather, even when the harmattan{% sidenote "harmat" "The Sahara's annual dust fart over coastal west Africa." %} was especially caustic.
