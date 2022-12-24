@@ -155,7 +155,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Collected Fictions**, Jorge Luis Borges (collected Andrew Hurley, misc. trans.)
 
-★ **The Lives of Animals**, J.M. Coetzee
+★ **The Lives of Animals**, J.M. Coetzee{% sidenote "tloacoe" "Sandwiched between Coetzee's Booker and Nobel prizes is this weird book, including essays presented at the Tanner Lectures and two short stories. Intense: ''You ask me why I refuse to eat flesh. I, for my part, am astonished that you can put in your mouth the corpse of a dead animal, astonished that you do not find it nasty to chew hacked flesh and swallow the juices of death-wounds.' Plutarch is a real conversation-stopper: it is the word juices that does it. Producing Plutarch is like throwing down a gauntlet.'" %} 
 
 ★ **The Heroides**, Ovid (trans. Paul Murgatroyd)
 
