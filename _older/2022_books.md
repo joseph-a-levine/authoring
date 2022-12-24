@@ -269,7 +269,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Making of the Atomic Bomb**, Richard Rhodes
 
-**The Apollo Murders**, Chris Hadfield{% sidenote "tamch" "My favorite books by an astronaut. Not good." %} 
+**The Apollo Murders**, Chris Hadfield{% sidenote "tamch" "My favorite book by an astronaut. Not good." %} 
 
 
 
