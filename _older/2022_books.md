@@ -183,6 +183,10 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Stonehenge: The Story of  Sacred Landscape**, Francis Pryor
 
+**Without You, There Is No Us**, Suki Kim
+
+**The Startup Wife**, Tahmima Anam
+
 **The Map and the Territory**, Michel Houellebecq (trans. Gavin Bowd)
 
 **Hamlet: The Prince or the Poem?**, C.S. Lewis
@@ -199,9 +203,15 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Joy of Vegan Baking: The Compassionate Cooks' Traditional Treats**, Colleen Patrick-Goudreau
 
+**Termination Shock**, Neal Stephenson
+
+**The Lowland**, Jhumpa Lahiri
+
 **Inter Ice Age 4**, Kobo Abe (trans. Dale E. Saunders)
 
 **Emily Dickinson's Poems: As She Preserved Them**, Emily Dickinson (collected by Cristanne Miller)
+
+**The Anomaly**, Hervé Le Tellier (trans. Adriana Hunter)
 
 **Expert Political Judgement**, Phil Tetlock
 
@@ -253,7 +263,13 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **In Praise of Shadows**, Jun'ichirō Tanizaki (trans. Thomas J. Harper)
 
+**Sum: Forty Tales from the Afterlives**, David Eagleman
+
+**Zero Fail: The Rise and Fall of the Secret Service**, Carol Leonnig
+
 **The Making of the Atomic Bomb**, Richard Rhodes
+
+**The Apollo Murders**, Chris Hadfield
 
 
 
