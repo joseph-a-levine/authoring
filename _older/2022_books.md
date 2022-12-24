@@ -3,6 +3,10 @@ layout: page
 title: Books I read in 2022
 ---
 
+This is a list of the books I read in 2022.{% sidenote "read" "I didn't read every word in every one of these books, but I'm not including books I gave up on, or books I just picked a chapter out of. There are a few textbooks on here — only included if I read them through, tho with no requirements for completing the exercises. I feel like I've earned the right to include Mas-Collel, but will respect the integrity of the list. " %}  ★ means I loved it; 15 books earned a ★. I re-read about 20 books from previous years; these are marked with a ⟳. Some books were re-reads within the year, too — I read Jeff Smith's **Bone** twice; most of **The Oxford Book of Essays** twice, and **Hamlet** four times. 
+
+The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for four or ten months until the time was right. I read all but three of these books on my tablet. 
+
 **A Probability Path**, Sidney Resnick
 
 **The Beginners**, Anne Serre (trans. Mark Hutchinson)
