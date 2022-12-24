@@ -69,7 +69,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Reputations**, Juan Gabriel Vásquez (trans. Anne McLean)
 
-**Gaming the Future: Technologies for Intelligent Voluntary Cooperation**, Allison Duettmann and Mark Miller
+**Gaming the Future: Technologies for Intelligent Voluntary Cooperation**, Allison Duettmann and Mark Miller{% sidenote "gftiv" "H/T Morgan" %} 
 
 **The Long Way to a Small, Angry Planet**, Becky Chambers
 
@@ -83,17 +83,17 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Heretic Pride**, Fialleril
 
-★ **Porkopolis: American Animality, Standardized Life, and the Factory Farm**, Alex Blanchette
+★ **Porkopolis: American Animality, Standardized Life, and the Factory Farm**, Alex Blanchette{% sidenote "poraa" "H/T Emily T." %} 
 
 **The Murderbot Diaries**, Martha Wells (five book series)
 
-**The Last Leonardo**, Ben Lewis
+**The Last Leonardo**, Ben Lewis{% sidenote "tlleo" "H/T Sofi" %} 
 
-★ **The Psychology of Political Violence**, Emma Goldman
+★ **The Psychology of Political Violence**, Emma Goldman{% sidenote "tppv" "H/T Morgan" %} 
 
 **A Prayer for the Crown-Shy**, Becky Chambers
 
-**The Quants**, Scott Patterson
+**The Quants**, Scott Patterson{% sidenote "tqua" "H/T Trevor" %} 
 
 **Reaper Man**, Terry Pratchett
 
@@ -103,7 +103,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **She Who Became the Sun**, Shelley Parker-Chan
 
-★ **A Psalm for the Wild-Built**, Becky Chambers
+★ **A Psalm for the Wild-Built**, Becky Chambers{% sidenote "apftwb" "My canonical solarpunk book." %} 
 
 **Elder Race**, Adrian Tchaikovsky
 
@@ -134,8 +134,6 @@ The books are in reverse order of when I put them into Zotero; I read some books
 **Why Switzerland?**, Jonathan Steinberg
 
 **The Merchant of Venice**, William Shakespeare ⟳
-
-**After Virtue: A Study in Moral Theory**, Alasdair MacIntyre
 
 **The Last Days of Hitler**, H.R. Trevor-Roper
 
