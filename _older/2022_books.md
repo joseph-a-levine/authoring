@@ -11,7 +11,7 @@ title: Books I read in 2022
 
 **Comm Check: The Final Flight of Shuttle *Columbia***, Michael Cabbage and William Harwood
 
-**The Senility of Vladimir P**, Michael Honig
+★ **The Senility of Vladimir P**, Michael Honig
 
 **The Successor**, Ismail Kadare (trans. Tedi Papavrami)
 
@@ -21,7 +21,7 @@ title: Books I read in 2022
 
 **In Praise of Darkness**, Jorge Luis Borges (trans. Norman Thomas Di Giovanni)
 
-**This Craft of Verse**, Jorge Luis Borges (compiled Calin-Andrei Mihalescu)
+★ **This Craft of Verse**, Jorge Luis Borges (compiled Calin-Andrei Mihalescu)
 
 **The Hostage**, W.E.B. Griffin
 
@@ -29,7 +29,7 @@ title: Books I read in 2022
 
 **Sudden Death**, Alvaro Enrigue (trans. Natasha Wimmer)
 
-**In the Closet of The Vatican: Power, Homosexuality, Hypocrisy**, Frédéric Martel (trans. Shaun Whiteside)
+★ **In the Closet of The Vatican: Power, Homosexuality, Hypocrisy**, Frédéric Martel (trans. Shaun Whiteside)
 
 **Theory of Point Estimation**, E.L. Lehmann and George Casella
 
@@ -45,7 +45,7 @@ title: Books I read in 2022
 
 **My Twisted World**, Elliot Rodger
 
-**The Right to Sex**, Amia Srinivasan
+★ **The Right to Sex**, Amia Srinivasan
 
 **Alice's Adventures in Wonderland**, Lewis Carroll
 
@@ -71,13 +71,13 @@ title: Books I read in 2022
 
 **Heretic Pride**, Fialleril
 
-**Porkopolis: American Animality, Standardized Life, and the Factory Farm**, Alex Blanchette
+★ **Porkopolis: American Animality, Standardized Life, and the Factory Farm**, Alex Blanchette
 
 **The Murderbot Diaries**, Martha Wells (five book series)
 
 **The Last Leonardo**, Ben Lewis
 
-**The Psychology of Political Violence**, Emma Goldman
+★ **The Psychology of Political Violence**, Emma Goldman
 
 **A Prayer for the Crown-Shy**, Becky Chambers
 
@@ -91,7 +91,7 @@ title: Books I read in 2022
 
 **She Who Became the Sun**, Shelley Parker-Chan
 
-**A Psalm for the Wild-Built**, Becky Chambers
+★ **A Psalm for the Wild-Built**, Becky Chambers
 
 **Elder Race**, Adrian Tchaikovsky
 
@@ -109,7 +109,7 @@ title: Books I read in 2022
 
 **The Reign of the Evil One**, C.F. Ramuz (trans. James Whitall)
 
-**If the Sun Never Returns**, C.F. Ramuz (trans. unknown)
+★ **If the Sun Never Returns**, C.F. Ramuz (trans. unknown)
 
 **The Iroquois**, Dean R. Snow
 
@@ -133,7 +133,7 @@ title: Books I read in 2022
 
 **Hyperbole and a Half**, Allie Brosh
 
-**Tell Me No Lies: Investigative Journalism and Its Triumphs**, compiled by John Pilger
+★ **Tell Me No Lies: Investigative Journalism and Its Triumphs**, compiled by John Pilger
 
 **Guards, Guards!**, Terry Pratchett
 
@@ -141,9 +141,9 @@ title: Books I read in 2022
 
 **Collected Fictions**, Jorge Luis Borges (collected Andrew Hurley, misc. trans.)
 
-**The Lives of Animals**, J.M. Coetzee
+★ **The Lives of Animals**, J.M. Coetzee
 
-**The Heroides**, Ovid (trans. Paul Murgatroyd)
+★ **The Heroides**, Ovid (trans. Paul Murgatroyd)
 
 **Beating Back the Devil**, Maryn McKenna
 
@@ -165,7 +165,7 @@ title: Books I read in 2022
 
 **The Making of Stonehenge**, Rodney Castleden
 
-**Stonehenge**, Rosemary Hill
+★ **Stonehenge**, Rosemary Hill
 
 **Stonehenge: The Story of  Sacred Landscape**, Francis Pryor
 
@@ -211,7 +211,7 @@ title: Books I read in 2022
 
 **War With the Newts**, Karel Čapek (trans. Ewald Osers)
 
-**The Gulf War Did Not Take Place**, Jean Baudrillard (trans. )
+★ **The Gulf War Did Not Take Place**, Jean Baudrillard (trans. )
 
 **What to Listen For in Music**, Aaron Copland
 
@@ -223,13 +223,13 @@ title: Books I read in 2022
 
 **A Swim in the Pond in the Rain**, collection and commentary by George Saunders
 
-**At the Heart of the White Rose**, Sophie Scholl and Hans Scholl (trans. and commentary by Inge Jens)
+★ **At the Heart of the White Rose**, Sophie Scholl and Hans Scholl (trans. and commentary by Inge Jens)
 
 **The Sexuality of Christ in Renaissance Art and in Modern Oblivion**, Leo Steinberg
 
 **Atomic Accidents: A History of Nuclear Meltdowns and Disasters**, James A. Mahaffey
 
-**The Hedonic Imperative**, David Pearce
+★ **The Hedonic Imperative**, David Pearce
 
 **In Praise of Shadows**, Jun'ichirō Tanizaki (trans. Thomas J. Harper)
 
