@@ -17,7 +17,7 @@ title: Books I read in 2022
 
 **Like, Comment, and Subscribe**, Mark Bergen
 
-**Rosencrantz and Guildenstern are Dead**, Tom Stoppard ♻️ 🔃 🔄
+**Rosencrantz and Guildenstern are Dead**, Tom Stoppard 🔃 🔄 ⟳
 
 **In Praise of Darkness**, Jorge Luis Borges (trans. Norman Thomas Di Giovanni)
 
