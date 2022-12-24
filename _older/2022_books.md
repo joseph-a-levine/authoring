@@ -187,7 +187,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Startup Wife**, Tahmima Anam
 
-**The Map and the Territory**, Michel Houellebecq (trans. Gavin Bowd)
+**The Map and the Territory**, Michel Houellebecq (trans. Gavin Bowd){% sidenote "tmatt" "More autofiction. Why do I do this to myself? Also, sad French people having sex." %} 
 
 **Hamlet: The Prince or the Poem?**, C.S. Lewis
 
@@ -201,7 +201,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Dialogues Concerning Vegatarianism**, Michael Huemer
 
-**The Joy of Vegan Baking: The Compassionate Cooks' Traditional Treats**, Colleen Patrick-Goudreau
+**The Joy of Vegan Baking: The Compassionate Cooks' Traditional Treats**, Colleen Patrick-Goudreau{% sidenote "jvbcctt" "This book is singlehandedly responsible for most of my new friends in 2022." %} 
 
 **Termination Shock**, Neal Stephenson
 
@@ -209,9 +209,9 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Inter Ice Age 4**, Kobo Abe (trans. Dale E. Saunders)
 
-**Emily Dickinson's Poems: As She Preserved Them**, Emily Dickinson (collected by Cristanne Miller)
+**Emily Dickinson's Poems: As She Preserved Them**, Emily Dickinson (collected by Cristanne Miller){% sidenote "edpaspt" "I tried ~five different collections. If you need to own one, I recommend this one." %} 
 
-**The Anomaly**, Hervé Le Tellier (trans. Adriana Hunter)
+**The Anomaly**, Hervé Le Tellier (trans. Adriana Hunter){% sidenote "tahlt" "Even more sad French people having sex with each other. Also, time travel assassins." %} 
 
 **Expert Political Judgement**, Phil Tetlock
 
@@ -231,15 +231,15 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Oxford Book of Essays**, collection by John Gross
 
-**Underground**, Haruki Murakami (trans. Alfred Birnbaum and Philip Gabriel)
+**Underground**, Haruki Murakami (trans. Alfred Birnbaum and Philip Gabriel){% sidenote "harmur" "Unable to finish a single Murakami novel, I tried his non-fiction. Stayed on my mind for weeks." %} 
 
-**King Kong Theory**, Virginie Despentes (trans. Stéphanie Benson)
+**King Kong Theory**, Virginie Despentes (trans. Stéphanie Benson){% sidenote "kktvd" "As good as Srinvasan; only misses a ★ for the lackluster translation (just guessing)." %} 
 
 **Job: A New Translation**, Unknown (trans. Edward L. Greenstein) ⟳
 
 **The Secret History**, Donna Tartt
 
-**War With the Newts**, Karel Čapek (trans. Ewald Osers)
+**War With the Newts**, Karel Čapek (trans. Ewald Osers){% sidenote "wwtnkar" "H/T Lizka" %} 
 
 ★ **The Gulf War Did Not Take Place**, Jean Baudrillard (trans. )
 
