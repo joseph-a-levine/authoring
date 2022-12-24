@@ -81,7 +81,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Mother of Learning**, nobody103
 
-**Heretic Pride**, Fialleril
+**Heretic Pride**, Fialleril{% sidenote "hpfia" "Star Wars fan fiction, and *good*." %} 
 
 ★ **Porkopolis: American Animality, Standardized Life, and the Factory Farm**, Alex Blanchette{% sidenote "poraa" "H/T Emily T." %} 
 
@@ -97,7 +97,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Reaper Man**, Terry Pratchett
 
-**Tales from Shakespeare**, Charles and Mary Lamb
+**Tales from Shakespeare**, Charles and Mary Lamb{% sidenote "tfshakes" "Shakespeare as childrens' bedtime stories. Imagined nostalgia." %} 
 
 **Moral Capital: Foundations of British Abolitionism**, Charles Leslie Brown
 
@@ -121,7 +121,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Reign of the Evil One**, C.F. Ramuz (trans. James Whitall)
 
-★ **If the Sun Never Returns**, C.F. Ramuz (trans. unknown)
+★ **If the Sun Never Returns**, C.F. Ramuz (trans. unknown){% sidenote "ramuz" "I absolutely loved this book, and I followed it with the above two Ramuz books. Neither quite scratched the itch." %} 
 
 **The Iroquois**, Dean R. Snow
 
@@ -131,7 +131,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **King Lear**, William Shakespeare ⟳
 
-**Why Switzerland?**, Jonathan Steinberg
+**Why Switzerland?**, Jonathan Steinberg{% sidenote "whswch" "A bit outdated, but the best of the ~six books about Switzerland I read before my summer trip. Led to the most ¡wow! moment of my year." %} 
 
 **The Merchant of Venice**, William Shakespeare ⟳
 
