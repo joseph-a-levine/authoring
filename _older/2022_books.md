@@ -9,13 +9,13 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **A Probability Path**, Sidney Resnick
 
-**The Beginners**, Anne Serre (trans. Mark Hutchinson)
+**The Beginners**, Anne Serre (trans. Mark Hutchinson){% sidenote "sfsex" "Autofiction which actually held my attention. Mostly sad French people having sex with each other." %} 
 
 **Measure for Measure**, William Shakespeare ⟳
 
-**Terra Ignota**, Ada Palmer (four book series) ⟳
+**Terra Ignota**, Ada Palmer (four book series) ⟳{% sidenote "terig" "Holds up." %} 
 
-**Essays and Aphorisms**, Arthur Schopenhauer (trans. R.J. Hollingdale)
+**Essays and Aphorisms**, Arthur Schopenhauer (trans. R.J. Hollingdale){% sidenote "eaasc" "Read while in bed with the flu; really embracing the misanthropy." %} 
 
 **Comm Check: The Final Flight of Shuttle *Columbia***, Michael Cabbage and William Harwood
 
@@ -23,7 +23,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Successor**, Ismail Kadare (trans. Tedi Papavrami)
 
-**Like, Comment, and Subscribe**, Mark Bergen
+**Like, Comment, and Subscribe**, Mark Bergen{% sidenote "youtblcs" "A new employee-focused history of YouTube. Read it now; it'll be outdated soon." %} 
 
 **Rosencrantz and Guildenstern are Dead**, Tom Stoppard ⟳
 
@@ -33,7 +33,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Hostage**, W.E.B. Griffin ⟳
 
-**Babel: Or, The Necessity of Violence: An Arcane History of the Oxford Translators' Revolution**, R.F. Kuang
+**Babel: Or, The Necessity of Violence: An Arcane History of the Oxford Translators' Revolution**, R.F. Kuang{% sidenote "babnva" "Excellent! But overrated as a book about Oxford. Showed up on many of my Oxonian friend's bedside tables this year." %} 
 
 **Sudden Death**, Alvaro Enrigue (trans. Natasha Wimmer)
 
@@ -47,13 +47,13 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **A Closed and Common Orbit**, Becky Chambers
 
-**The English Understand Wool**, Helen DeWitt
+**The English Understand Wool**, Helen DeWitt{% sidenote "euw" "A novella, really. Worth two hours. Mauvais ton." %} 
 
 **Klara and the Sun**, Kazuo Ishiguro
 
 **Lavinia**, Ursula K. Le Guin
 
-**My Twisted World**, Elliot Rodger
+**My Twisted World**, Elliot Rodger{% sidenote "mtw" "Impossible to review because of the coda. Better than **The Catcher in the Rye**." %} 
 
 ★ **The Right to Sex**, Amia Srinivasan
 
@@ -65,7 +65,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Twelfth Night**, William Shakespeare ⟳
 
-**Popular crime: reflections on the celebration of violence**, Bill James
+**Popular crime: reflections on the celebration of violence**, Bill James{% sidenote "pcrcv" "A work of passion; not a single mention of baseball." %} 
 
 **Reputations**, Juan Gabriel Vásquez (trans. Anne McLean)
 
