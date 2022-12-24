@@ -7,6 +7,10 @@ title: Books I read in 2022
 
 **The Beginners**, Anne Serre (trans. Mark Hutchinson)
 
+**Measure for Measure**, William Shakespeare ⟳
+
+**Terra Ignota**, Ada Palmer (four book series) ⟳
+
 **Essays and Aphorisms**, Arthur Schopenhauer (trans. R.J. Hollingdale)
 
 **Comm Check: The Final Flight of Shuttle *Columbia***, Michael Cabbage and William Harwood
@@ -17,13 +21,13 @@ title: Books I read in 2022
 
 **Like, Comment, and Subscribe**, Mark Bergen
 
-**Rosencrantz and Guildenstern are Dead**, Tom Stoppard 🔃 🔄 ⟳
+**Rosencrantz and Guildenstern are Dead**, Tom Stoppard ⟳
 
 **In Praise of Darkness**, Jorge Luis Borges (trans. Norman Thomas Di Giovanni)
 
 ★ **This Craft of Verse**, Jorge Luis Borges (compiled Calin-Andrei Mihalescu)
 
-**The Hostage**, W.E.B. Griffin
+**The Hostage**, W.E.B. Griffin ⟳
 
 **Babel: Or, The Necessity of Violence: An Arcane History of the Oxford Translators' Revolution**, R.F. Kuang
 
@@ -32,6 +36,8 @@ title: Books I read in 2022
 ★ **In the Closet of The Vatican: Power, Homosexuality, Hypocrisy**, Frédéric Martel (trans. Shaun Whiteside)
 
 **Theory of Point Estimation**, E.L. Lehmann and George Casella
+
+**Hamlet**, William Shakespeare ⟳
 
 **Selected Non-Fictions**, Jorge Luis Borges (trans. Eliot Weinberger)
 
@@ -53,6 +59,8 @@ title: Books I read in 2022
 
 **The Found and the Lost**, Ursula K. Le Guin
 
+**Twelfth Night**, William Shakespeare ⟳
+
 **Popular crime: reflections on the celebration of violence**, Bill James
 
 **Reputations**, Juan Gabriel Vásquez (trans. Anne McLean)
@@ -63,7 +71,7 @@ title: Books I read in 2022
 
 **Bone**, Jeff Smith
 
-**Stray Birds**, Rabindranath Tagore
+**Stray Birds**, Rabindranath Tagore ⟳
 
 **Islam's Black Slaves: The Other Black Diaspora**, Ronald Segal
 
@@ -113,11 +121,15 @@ title: Books I read in 2022
 
 **The Iroquois**, Dean R. Snow
 
-**Dear friend, from my life I write to you in your life**, Yiyun Li
+**Dear friend, from my life I write to you in your life**, Yiyun Li ⟳
 
 **John Stuart Mill and Harriet Taylor, Their Friendship and Subsequent Marriage**, JSM & HSM, comments by Friedrich A. von Hayek
 
+**King Lear**, William Shakespeare ⟳
+
 **Why Switzerland?**, Jonathan Steinberg
+
+**The Merchant of Venice**, William Shakespeare ⟳
 
 **After Virtue: A Study in Moral Theory**, Alasdair MacIntyre
 
@@ -129,13 +141,13 @@ title: Books I read in 2022
 
 **Bear**, Marian Engel
 
-**Interpreter of Maladies**, Jhumpa Lahiri
+**Interpreter of Maladies**, Jhumpa Lahiri ⟳
 
 **Hyperbole and a Half**, Allie Brosh
 
 ★ **Tell Me No Lies: Investigative Journalism and Its Triumphs**, compiled by John Pilger
 
-**Guards, Guards!**, Terry Pratchett
+**Guards, Guards!**, Terry Pratchett ⟳
 
 **Frank Ramsey: A Sheer Excess of Powers**, C.J. Misak
 
@@ -147,13 +159,13 @@ title: Books I read in 2022
 
 **Beating Back the Devil**, Maryn McKenna
 
-**To Say Nothing of the Dog: Or, How We Found the Bishop's Bird Stump At Last**, Connie Willis
+**To Say Nothing of the Dog: Or, How We Found the Bishop's Bird Stump At Last**, Connie Willis ⟳
 
 **Zuleika Dobson, Or, An Oxford Love Story**, Max Beerbohm
 
 **The Pilgrim Project**, Hank Searls
 
-**The Grasshopper: Games, Live, and Utopia**, Bernard Suits
+**The Grasshopper: Games, Live, and Utopia**, Bernard Suits ⟳
 
 **The First Universities**, Olaf Pedersen
 
@@ -177,6 +189,8 @@ title: Books I read in 2022
 
 **A Damsel in Distress**, P.G. Wodehouse
 
+**What's Wrong With the World**, G.K. Chesterton ⟳
+
 **The Invincible: Stories**, Stanisław Lem (misc. trans.)
 
 **Dialogues Concerning Vegatarianism**, Michael Huemer
@@ -193,7 +207,7 @@ title: Books I read in 2022
 
 **Stone Age Economics**, Marshall Sahlins
 
-**Right Ho, Jeeves**, P.G. Wodehouse
+**Right Ho, Jeeves**, P.G. Wodehouse ⟳
 
 **Beowulf**, unknown (trans. Maria Dahvana Headley)
 
@@ -208,6 +222,10 @@ title: Books I read in 2022
 **Underground**, Haruki Murakami (trans. Alfred Birnbaum and Philip Gabriel)
 
 **King Kong Theory**, Virginie Despentes (trans. Stéphanie Benson)
+
+**Job: A New Translation**, Unknown (trans. Edward L. Greenstein) ⟳
+
+**The Secret History**, Donna Tartt
 
 **War With the Newts**, Karel Čapek (trans. Ewald Osers)
 
