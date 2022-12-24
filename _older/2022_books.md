@@ -247,7 +247,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Book of Imaginary Beings**, Jorge Luis Borges and Margarita Guerrero
 
-**Every Cradle is a Grave**, Sarah Perry
+**Every Cradle is a Grave**, Sarah Perry{% sidenote "eciags" "H/T Luis, I think" %} 
 
 **Israel and the Bomb**, Avner Cohen
 
@@ -255,7 +255,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★ **At the Heart of the White Rose**, Sophie Scholl and Hans Scholl (trans. and commentary by Inge Jens)
 
-**The Sexuality of Christ in Renaissance Art and in Modern Oblivion**, Leo Steinberg
+**The Sexuality of Christ in Renaissance Art and in Modern Oblivion**, Leo Steinberg{% sidenote "tsocirnan" "Some books live up to their titles. Steinberg exceeded his. " %} 
 
 **Atomic Accidents: A History of Nuclear Meltdowns and Disasters**, James A. Mahaffey
 
@@ -269,7 +269,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Making of the Atomic Bomb**, Richard Rhodes
 
-**The Apollo Murders**, Chris Hadfield
+**The Apollo Murders**, Chris Hadfield{% sidenote "tamch" "My favorite books by an astronaut. Not good." %} 
 
 
 
