@@ -163,7 +163,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **To Say Nothing of the Dog: Or, How We Found the Bishop's Bird Stump At Last**, Connie Willis ⟳
 
-**Zuleika Dobson, Or, An Oxford Love Story**, Max Beerbohm
+**Zuleika Dobson, Or, An Oxford Love Story**, Max Beerbohm{% sidenote "zdox" "This and the Willis (above) are my two favorite books about Oxford. **Zuleika** takes the cake, tho. I've started writing a review of **Zuleika** maybe five times now, and can never manage to make myself coherent." %} 
 
 **The Pilgrim Project**, Hank Searls
 
