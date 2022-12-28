@@ -65,7 +65,7 @@ Spotify Wrapped is a challenging time of year. I usually don't know how to answe
 
 While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of *new* (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
 
-The music I listen to on repeat has three purposes: singing in the shower,{% sidenote "showermusic" "Country, folk, Jason Mraz, and other genres with accessible ranges." %} doing math,{% sidenote "mathmsuic" "Latin guitar, hard bop, and Zakir Hussein." %} and long plane rides{% sidenote "planemusic" "The Steve Miller Band's 'Jet Airliner,' Vivaldi, and Bach." %} All of these make good showings on my revealed preference list
+The music I listen to on repeat has three purposes: singing in the shower,{% sidenote "showermusic" "Country, folk, Jason Mraz, and other genres with accessible ranges." %} doing math,{% sidenote "mathmsuic" "Latin guitar, hard bop, and Zakir Hussein." %} and long plane rides.{% sidenote "planemusic" "The Steve Miller Band's 'Jet Airliner,' Vivaldi, and Bach." %} All of these make good showings on my revealed preference list, but 
 
 ### New stuff, no English lyrics allowed
 
