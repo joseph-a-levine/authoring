@@ -63,7 +63,9 @@ and a personal attack on my love of parentheses and sidenotes:
 
 Spotify Wrapped is a challenging time of year. I usually don't know how to answer the question, "What type of music do you listen to?" But every December, I'm confronted by my revealed preferences; it's rarely flattering. This year was particularly confusing: in my top five most-listened to songs were [Avril Lavigne](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt?si=9e5ab85d2d544256), [Mikhail Glinka](https://open.spotify.com/track/19ocRIYxL4h6lKJFIxXnWF?si=3c0f13265ee9486d), and the great blues guitarist [Johnny Winter](https://open.spotify.com/track/2ufOnRuG6tOacEWlsI1JER?si=1662d6784cb64f68). My most-played artists were The Beatles and Taylor Swift. 
 
-While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of new (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
+While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of *new* (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
+
+The music I listen to on repeat has three purposes: singing in the shower,{% sidenote "showermusic" "Country, folk, Jason Mraz, and other genres with accessible ranges." %} doing math,{% sidenote "mathmsuic" "Latin guitar, hard bop, and Zakir Hussein." %} and long plane rides{% sidenote "planemusic" "The Steve Miller Band's 'Jet Airliner,' Vivaldi, and Bach." %} All of these make good showings on my revealed preference list
 
 ### New stuff, no English lyrics allowed
 
@@ -71,7 +73,7 @@ While almost a quarter of the books I read this year were written in languages o
 
 *Szól a Világ*, Napfonat. Listen on Spotify. Catchy Hungarian a capella, pretty poppy. 
 
-*Templo Komodo*, Briela Ojeda. Listen on Spotify. Man, I've got no idea what this is. But it's great. The the title track and Doña Justicia are return tracks.
+*Templo Komodo*, Briela Ojeda. Listen on Spotify. Man, I've got no idea what this is. But it's great. The title track and Doña Justicia are return tracks.
 
 
 
