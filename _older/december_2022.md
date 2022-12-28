@@ -50,20 +50,28 @@ Other fun bits include a [potshot at color theory](https://xkcd.com/1882/):
 
 > On the other hand, in our own day Newton's absurd theory of colours still holds the field, forty years after the appearance of Goethe's.
 
-and a personal attack on my use of parentheses and sidenotes:
+and a personal attack on my love of parentheses and sidenotes:
 
 > The guiding principle in the art of composition should be that the human being can think clearly only one thought at a time, so that he should not be asked to think two, not to speak of more than two thoughts at the same time. — But this is what he is being asked to do when parentheses are inserted into sentences which have been broken up to accommodate them, a practice which causes unnecessary and wanton confusion. German writers are the worst offenders in this respect.
 
+
+### Monthly Le Guin
+
+
+
 ## Listening
 
-Spotify Wrapped
+Spotify Wrapped is a challenging time of year. I usually don't know how to answer the question, "What type of music do you listen to?" But every December, I'm confronted by my revealed preferences; it's rarely flattering. This year was particularly confusing: in my top five most-listened to songs were [Avril Lavigne](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt?si=9e5ab85d2d544256), [Mikhail Glinka](https://open.spotify.com/track/19ocRIYxL4h6lKJFIxXnWF?si=3c0f13265ee9486d), and the great blues guitarist [Johnny Winter](https://open.spotify.com/track/2ufOnRuG6tOacEWlsI1JER?si=1662d6784cb64f68). My most-played artists were The Beatles and Taylor Swift. 
 
-### New stuff
+While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of new (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
+
+### New stuff, no English lyrics allowed
 
 *Masikini Naye Mtu (The Poor are Also People)*, Jamaica Mnanda. [Listen here](https://jamaica.bandcamp.com/album/masikini-naye-mtu-the-poor-are-also-people). Fast-paced, political Senegalese music, with two less-traditional remixes. 
 
-**Szól a Világ**, Napfonat. Listen on Spotify. Catchy Hungarian a capella, pretty poppy. 
+*Szól a Világ*, Napfonat. Listen on Spotify. Catchy Hungarian a capella, pretty poppy. 
 
+*Templo Komodo*, Briela Ojeda. Listen on Spotify. Man, I've got no idea what this is. But it's great. The the title track and Doña Justicia are return tracks.
 
 
 
