@@ -57,7 +57,15 @@ and a personal attack on my love of parentheses and sidenotes:
 
 ### Monthly Le Guin
 
+Ursula Le Guin intended ["Introducing Myself"](https://languagelog.ldc.upenn.edu/myl/IntroducingMyself.html) as a "a performance piece, performed a couple of times." While none of these performances are on YouTube, I like to imagine the effect of watching the septuagenarian Le Guin standing up in a bookshop or college auditorium and saying: 
 
+> I am a man. Now you may think I’ve made some kind of silly mistake about gender, or maybe that I’m trying to fool you, because my first name ends in a , and I own three bras, and I’ve been pregnant five times, and other things like that that you might have noticed, little details. But details don’t matter. If we have anything to learn from politicians it’s that details don’t matter. I am a man, and I want you to believe and accept this as a fact, just as I did for many years.
+
+No one can accuse Le Guin of making silly mistakes about gender,{% sidenote "tegendlue" "My favorite recent weird gender book is Ada Palmer's *Terra Ignota*; in an interview, Dr. Palmer said her dream reviewer would have been Ursula Le Guin. " %} and this essay is one of her more truculent  and sardonic commentaries. While she is a man, she's "a kind of second-rate or imitation man, a Pretend-a-Him." 
+
+> I am to a genuine male him as a microwaved fish stick is to a whole grilled Chinook salmon. I mean, after all, can I inseminate? Can I belong to the Bohemian Club? Can I run General Motors? Theoretically I can, but you know where theory gets us. 
+
+There's also a delightful riff on Hemingway. Highly recommended.
 
 ## Listening
 
