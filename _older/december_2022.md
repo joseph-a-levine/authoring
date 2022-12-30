@@ -3,24 +3,22 @@ layout: page
 title: What am I up to now?
 ---
 
-### Reflections on a PhD
+In December, I finished the first semester of grad school, putting me roughly one-fifteenth of the way through. It was about what I expected, though with slightly more measure theory and fewer Hamiltonians. The first half of December was spent studying in various dignified libraries, MCRs, and Grand Halls around Oxford. Eventually I'll feel the urge to make a ranked list of "the best common rooms to do macro in," but they still blur together too much to make any distinction reasonable. For months I'm stuck in Oxford, these monthly updates will  blur together similarly. 
 
 
-
-### 
 
 ## Contents
 1. [Travel](#travel)
 2. [Reading](#books)
 4. [Research](#writing)
 5. [Listening](#music)
-6. [Eating](#food)
+
 
   <br>
   
 ## Travel
 
-I hit London, DC, and New York for ~a week each this month. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
+I hit London, DC, and New York for ~a week each this month. I didn't spend nearly enough time hanging out with my beloved sisters but such is life. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
 
 Also, I'm planning a 1-2 month Central Asian trip next summer; something like Tajikistan -> Uzbekistan -> Kazakhstan (or vice versa). Recommendations and introductions are welcome!
 
