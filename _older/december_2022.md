@@ -54,6 +54,13 @@ and a personal attack on my love of parentheses and sidenotes:
 
 > The guiding principle in the art of composition should be that the human being can think clearly only one thought at a time, so that he should not be asked to think two, not to speak of more than two thoughts at the same time. — But this is what he is being asked to do when parentheses are inserted into sentences which have been broken up to accommodate them, a practice which causes unnecessary and wanton confusion. German writers are the worst offenders in this respect.
 
+### **Measure for Measure**
+
+M4M is one of the four [problem plays](https://en.wikipedia.org/wiki/Shakespearean_problem_play) F.S. Boas named when he coined the term.{% sidenote "probhamle" "Along with *Troilus and Cressida*, *All's Well That Ends Well*, and *Hamlet*." %} I've never really understood whether Boas meant that these plays *are* problems, or that they're *about* problems, but twice reading M4M this winter has pushed me towards the first explanation: these plays are messy.{% sidenote "whywritshapscrit" "I often write down my thoughts when I read or reread Shakespeare, but am reluctant to put those thoughts here. My reading of the deep canon of criticism is thin — I've read Goddard, and the *Analysis* section of most plays' Wikipedia pages — that fear of naïveté or unoriginality kept me quiet. In this case, I'll say fuck it — if my analysis is naïve, at least it's honest; if it's unoriginal, at least the idea's been proven elsewhere. Let me know if either or both are true. " %} 
+
+In M4M, the Duke of Vienna wants to start enforcing laws about fornication. But he quite likes being popular, and realizes that executing fornicators would make him unpopular. So he takes to scheming — he will tell the city he is on a "diplomatic mission to Poland",{% sidenote "dipmispol" "That's what the kids are calling it these days." %} while actually disguising himself as a [friar](https://chicagoreader.com/news-politics/into-the-friar/) and observing [the effects of good government in the city](https://artsandculture.google.com/asset/effects-of-good-government-in-the-city/WAFg-CSkcQJsMw?hl=en). To implement this just, sexless government is Angelo, a 
+
+
 
 ### Monthly Le Guin
 
@@ -85,8 +92,6 @@ The music I listen to on repeat has three purposes: singing in the shower,{% sid
 
 
 
-
-## EAting
 
 
 
