@@ -9,6 +9,10 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ————————————————
 
+**The Gospels: A New Translation**, Sarah Ruden
+
+**2034**, Elliot Ackerman and James G. Stavridis
+
 **A Probability Path**, Sidney Resnick
 
 **The Beginners**, Anne Serre (trans. Mark Hutchinson){% sidenote "sfsex" "Autofiction which actually held my attention. Mostly sad French people having sex with each other." %} 
