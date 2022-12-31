@@ -3,7 +3,9 @@ layout: page
 title: What am I up to now?
 ---
 
-In December, I finished the first semester of grad school, putting me roughly one-fifteenth of the way through. It was about what I expected, though with slightly more measure theory and fewer Hamiltonians. The first half of December was spent studying in various dignified libraries, MCRs, and Grand Halls around Oxford. Eventually I'll feel the urge to make a ranked list of "the best common rooms to do macro in," but they still blur together too much to make any distinction reasonable. For months I'm stuck in Oxford, these monthly updates will  blur together similarly. 
+## December, 2022
+
+In December, I finished the first semester of grad school, putting me roughly one-fifteenth of the way through. It was about what I expected, though with slightly more measure theory and less optimization. The first half of December was spent studying in various dignified libraries, MCRs, and Grand Halls around Oxford. Eventually I'll feel the urge to make a ranked list of "the best common rooms to do macro in" or something, but the chairs and ceilings still blur together too much to make any distinction reasonable. For months I'm relegated to Oxford, these monthly updates will  blur together similarly. 
 
 
 

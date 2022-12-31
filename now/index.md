@@ -3,112 +3,112 @@ layout: page
 title: What am I up to now?
 ---
 
+## December, 2022
 
-## November, 2022
+In December, I finished the first semester of grad school, putting me roughly one-fifteenth of the way through. It was about what I expected, though with slightly more measure theory and less optimization. The first half of December was spent studying in various dignified libraries, MCRs, and Grand Halls around Oxford. Eventually I'll feel the urge to make a ranked list of "the best common rooms to do macro in" or something, but the chairs and ceilings still blur together too much to make any distinction reasonable. For months I'm relegated to Oxford, these monthly updates will  blur together similarly. 
 
-My two smaller classes, microeconomics taught by [Inés Moreno de Barreda](https://sites.google.com/site/inesmorenodebarreda/) and econometrics taught by [Anders Bredahl Kock](https://sites.google.com/site/andersbkock/), each meet twice a week in Seminar Room C of the Manor Road Building.{% marginfigure "mrb" "assets/img/mrb.jpg" "The website manchesterhistory.net inexplicably has a page with a most complete history of the MRB, completed in 2004, including quotes from the architects proposal: ''the colouring and 'natural' finish of the concrete also compliment the natural sandstone of Oxford's historic buildings.'' I can't decide if this would be funnier if it were sarcasm or straight. " %} There are many unkind things I could say about the MRB, but the shortcoming which has the most impact on my wellbeing is the utter absence of light — none of the eight lecture rooms have windows. This leads to a discomfiting experience, presumably shared by everyone north of the 52nd parallel{% sidenote "latox" "A latitude Oxford shares with such academic powerhouses as Kiska, Alaska; Belle Isle, Newfoundland; Lake Baikal, Russia; and Heilongjiang, the northernmost province of China." %} in November: walking into a lecture at 2:30pm, and walking out an hour later to a sky past dusk and heading for twilight.  
-
-It seems that Seminar Room C is almost exclusively dedicated to the edification of first year economics grad students. Economics shares the MRB with the sociology, criminology, IR, and chemistry{% sidenote "idkw" "Yeah, idk either." %} departments, but I have yet to see any Mearshimer-esque power flow diagrams or organic molecules left over on the rotating, lazy-Susan style whiteboards. In fact, I haven't seen anything non-econometric or microeconomic at all, besides a lazy yet eloquent diagram of Melissa Dell's "most well-known and important paper,"{% sidenote "darac" "In Daron Acemoglu's words." %} on [the persistent effect of colonial mining institutions in Peru](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf).{% sidenote "lazydia" "A line with 'mita' and 'no mita' on either side, and little people with smiley faces and frowny faces on the appropriate, respective sides." %} Rather, whenever we micro&metrical students sit down to [Inés'](https://sites.google.com/site/inesmorenodebarreda/) lectures on mechanism design, [Anders'](https://sites.google.com/site/andersbkock/) scrawled exponential families and iterated integrals are all that form the borders for her [normal form](https://en.wikipedia.org/wiki/Normal-form_game) matrices.
-
-Once, as Anders revolved the whiteboards in search of a clean space to draw some geometric proof of the Neyman-Pearson Lemma, he came across a series of calculations on the other side of the lazy Susan. Recoiling, Anders asked if we knew who else had been writing on his board. When we told him that Inés had been demonstrating a result in mechanism design, Anders, wielding an eraser with superlative disdain, wiped away a set of posteriors and told us that, while "Bayesians may be people, too," he wouldn't have any of them in *his* classroom. 
-
-I couldn't decide whether to [include](https://www.smbc-comics.com/index.php?id=4127) a [comic](https://www.smbc-comics.com/comic/basenana) skewering [Bayesians](https://www.smbc-comics.com/comic/blood-of-the-bayesian) here, but as Inés wasn't there to defend her field's Weltanschauung, it's only fair to counter with Randall Munroe:
-
-<br>
-
-{% maincolumn "assets/img/bayes.png" "" %}
-
-While metrics has been the most educational course,{% sidenote "oslcon" "Who knew that proving the simple consistency of ordinary least squares could be such a pain in the butt" %}  game theory and mechanism design have been the most fun. And relevant — Inés was covering incentive compatible mechanisms in the days leading up to my sisters' stress over Taylor Swift tickets. TicketMaster was facing a much larger scale version of the simplistic problem we covered in class. What we covered in class has little relevance to the TicketMaster debacle, for boring reasons I'll put in a sidenote,{% sidenote "sidenote-id" "We spent most of our time with transfereable utilities, and in this setting, for an allocation rule to be implementable, it has to be increasing. That is, the probability of someone getting a good has to increase as their willingness and ability to pay for that good increases. This is exactly what causes all of the chaos for artists like Swift — they *don't* want the ability to pay to be the deciding factor in who sees their shows. But most of the efficiency concepts we learn in first year micro depend on this assumption." %} but ask me next term if I have any insight — we'll have *the* Paul Klemperer covering auctions.{% sidenote "multg" "Including multi-good auction, which can be made to resemble this sort of dynamic pricing pretty simply. I think. " %}
-
-One solution to the Taylor Swift ticket debacle my dad suggested was basing access off of Spotify data — anyone who, like my sister Olivia, has had "All Too Well (10 Minute Version)" on repeat since last November gets first crack at tickets. This would be incentive compatible, but my first thought was how easy it is to game, by leaving Spotify on muted repeat overnight. 
-
-I got screwed by an accidental version of this strategy in 2021. It's winter, which means building anticipation for the unveiling of one's Spotify Wrapped. Last December, I was shocked, shocked! to find my top song of 2021 was "Daisies" by Katy Perry. It took me a week to figure out what had happened: while visiting Bethesda in the summer, I had volunteered to drive the occasional ambulance at my old fire station. One afternoon, I was writing Stata code on my laptop in the ready lounge, cycling through mindless pop, when my ambulance was called out for a long, boring medical emergency of some sort. Instead of pausing my Spotify, I had put the current song on repeat, that song being: "Daisies," by Katy Perry. When we returned from Suburban Hospital 3+ hours later, that little ditty had played enough times to bump to the top of my personal charts.
-
-I don't know what's going to top my Wrapped next month, but you can bet you'll read about it here. 
-
-This month's update will be a bit shorter than planned for reasons explained in a miffed sidenote.{% sidenote "yeargh" "i just spent three hours wrestling with a bug in my github logs preventing me from building this page, only to find out that what i thought was the bug was actually a completely different bug and the bug i was wrestling with is actually not a bug and totally unimportant and the actual bug could be fixed by checking a box on github which i would have known to do if the company which i pay to host my website had *just sent me an email* and i'm reminded yet again why i am not a programmer. netlify deprecated xenial, which i preferred on kabbalistic grounds, in favor of the ubuntu focal build image, which immediately froze all builds. yeargh." %} The upside is that I cut out three book reviews and two album reviews to get this out by the end of the month, so those will come at New Years.
 
 
 ## Contents
-1. [Reading](#reading)
-2. [Listening](#listening)
-3. [Eating](#eating)
+1. [Travel](#travel)
+2. [Reading](#books)
+4. [Research](#writing)
+5. [Listening](#music)
+
 
   <br>
- 
+  
+## Travel
+
+I spent time in London, DC, and New York this month. I didn't spend nearly enough time hanging out with my beloved sisters but such is life. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
+
+Also, I'm planning a 1-2 month Central Asian trip next summer; something like Tajikistan -> Uzbekistan -> Kazakhstan (or vice versa). Recommendations and introductions are welcome!
 
 ## Reading 
 
-### What the heck is weather? 
+[Here's a list](https://jablevine.com/older/2022_books) of the ~140 books I read in 2022, with some mini-reviews in the sidenotes. Borges and Shakespeare appeared most frequently. 
 
-I say a lot of things about weather in a given day, usually starting with muttered irritation when I sit up in bed and look out my window to see how wet my bike seat has gotten overnight.{% sidenote "wetsasd" "True to form, I don't use this information in any way except to steel myself for a wet butt." %} The English skill and enthusiasm for weather-based conversation is well-known, but less discussed is the infectiousness of meteorological chit-chat. An older English lady with whom I volunteer remarked how "lucky we are to live in a country with such varied weather! Imagine if we were in a country where it was hot everyday — what would people talk about?" My friends who moved to Oxford from stabler climes confirm this impression — and in Sierra Leone, there was hardly a comment about the weather, even when the harmattan{% sidenote "harmat" "The Sahara's annual dust fart over coastal west Africa." %} was especially caustic.
+In mid-December, I spent six days in bed with the flu and finished six books. Some of these had been sitting on the backburner for a while;{% sidenote "comchcol" "**Comm Check**, a journalistic account of the *Columbia* disaster, and a new history of YouTube from Mark Bergen." %} others felt appropriate to the moment — Schopenhauer's **Essays and Aphorisms** are accessible and misanthropic, perfect for the brain fog and misery of a high fever. I intended to skip the metaphysics — is now the time for an essay "on the antithesis of thing in itself and appearance"? — and only persevered through momentum. The back-to-back zingers "On Suicide" and "On Women" gave me an "[oh my god, Jonathan was racist](https://youtu.be/wwDGm6JO4Lw?t=32)" moment, but it turns out Schopenhauer's cynicism runs much deeper than that. 
 
-The adopted enthusiasm for gossip about the wind and rain and darkness, unfortunately, doesn't come with any meteorological crash courses. I have found myself saying things like, "Feels like a cold front coming in,"{% sidenote "colf" "This is what I say when I mean 'I think it's going to rain for a few hours, then get colder.'" %}  or, "I think this squall line will hang out for a couple hours,"{% sidenote "sqal" "Or, 'I think we'll get some on-and-off heavy rain for a while, with some thunder if we're lucky.'" %}  with no sense of whether words mean anything. To up my chit-chat game, I borrowed five top-rated meteorology textbooks and figure out how to say more interesting things about the wind and rain. The goal was to end up in this situation, plus a bit of tact: 
+My favorite, and the most generally interesting section, were the aphorisms on law and politics. Schopenhauer seems to go philosopher-by-philosopher, attempting to piss off in turn. He quotes Voltaire on monarchy, then argues governments should only allow freedom of the press "upon the strictest prohibition of any kind of anonymity," which would have sparked an angry pamphlet from Monsieur Arouet. Schopenhauer also deserves credit for introducing me to the Hobbesian side of Spinoza — "Unusquisque tantum juris habet, quantum potentid valet."{% sidenote "latinspi" "A person's rights are equivalent to his power." %}{% sidenote "sidenote-id" "Did Spinoza get a chance to read *Leviathan*? SEP asserts Spinoza read *De Cive* (which I only know from PolPhil101), but *Leviathan* seems much more up Spinoza's alley. The timing is a bit tight, tho, with Baruch's early death-by-glass." %} 
 
-<br>
+There were two especially fun arguments, which wrap around in unexpected, [Chestertonian](https://twitter.com/stevenkaas/status/144899078222921729) ways: 
 
-{% maincolumn "assets/img/weather.png" "" %}
+> Republics are anti-natural, artificial and derive from reflection : consequently there are also very few of them in the entire history of mankind, namely the little Greek republics and the Roman and Carthaginian re- publics, and these were all made possible by the fact that five- sixths, perhaps even seven-eighths of their population consisted of slaves. The case is similar in the United States of North America: in the year 1840, of a population of 16 millions, three millions were slaves. The duration of the republics of antiquity was, moreover, very brief compared with that of the monarchies. Republics are in general easy to establish but hard to maintain : precisely the opposite is true of monarchies.
 
-This won't be much of a problem — meteorology textbooks seem to fall into two categories, neither of which actually teach you about the weather. The first, the kind of book an undergrad intro course, is not a weather book at all, but a climate book.{% sidenote "undweabo" "Best exemplified, I think, by Wallace and Hobbs' introductory survey of atmospheric science; this was the most frequently used book on meteorology syllabi." %} It elides specifics altogether — the closest they come to discussing how weather affects your day is in chapter 8, on weather systems, in a case study analysis of a cyclone system which hung out over the midwest for a couple weeks. Things only get more general from there — chapter ten on climate dynamics, and so forth. 
+Therefore: 
 
-The second category of books is inadequate for an excess of rigor. I got deepest into Holton's "Introduction to Dynamic Meteorology." If the title was insufficient warning, a heading from the first chapter ("The Vectorial Form of the Momentum Equation in Rotating Coordinates") should have scared me away. This wasn't a weather book, it's a physics book! I persevered into chapter 6, but "Synoptic-Scale Motions I: Quasi-geostrophic Analysis" forced a surrender.{% sidenote "fsynsc" "It was the fear of Synoptic-Scale Motions II which did me in." %}
+> If you want Utopian plans, I would say: the only solution to the problem is the despotism of the wise and noble members of a genuine aristocracy, a genuine nobility, achieved by mating the most magnanimous men with the cleverest and most gifted women. 
 
-If I had to diagnose the problem, I'd say that academic meteorologists have lost their sense of wonder. This is quite an accusation to level at a field with it's head in the clouds, but I'm not sure how else to diagnose the relative lack of literature on local weather systems, the storms and calms and breezes and raindrops which make up our day. The focus on climate, at the neglect of weather, can be forced to resemble the micro/macro divide if one is so inclined. 
+Second: 
 
-After these false-starts, I think I'll give up on meteorology textbooks, and make a study of meteorology wikipedia. They have better pictures, anyway.
+> Poverty and slavery are thus only two forms of - one might almost say two words for - the same thing, the essence of which is that a man's energies are expended for the most part not on his own behalf but on that of others; the outcome being partly that he is overloaded with work, partly that his needs are very inadequately met.
+> ...
+> It is therefore a fact that the people is sovereign: but this sovereignty never comes of ageand therefore has to remain under the permanent care of a guardian.
+
+Other fun bits include a [potshot at color theory](https://xkcd.com/1882/):
+
+> On the other hand, in our own day Newton's absurd theory of colours still holds the field, forty years after the appearance of Goethe's.
+
+and a personal attack on my love of parentheses and sidenotes:
+
+> The guiding principle in the art of composition should be that the human being can think clearly only one thought at a time, so that he should not be asked to think two, not to speak of more than two thoughts at the same time. — But this is what he is being asked to do when parentheses are inserted into sentences which have been broken up to accommodate them, a practice which causes unnecessary and wanton confusion. German writers are the worst offenders in this respect.
+
+### Orwell on Christmas and "Why Socialists Don't Believe In Fun"
+
+In 2021, I read the entirety of George Orwell's/Eric Arthur Blair's bibliography. The non-fiction was great, the fiction was good; the best were from "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell shared his thoughts on everything from how to date online in the 1940s to the demographic transition to cricket to Pascal's mugging.{% sidenote "orwelpascm" "'Never, literally never in recent years, have I met anyone who gave me the impression of believing in the next world as firmly as he believed in the existence of, for instance, Australia. Belief in the next world does not influence conduct as it would if it were genuine. With that endless existence beyond death to look forward to, how trivial our lives here would seem! Most Christians profess to believe in Hell. Yet have you ever met a Christian who seemed as afraid of Hell as he was of cancer? Even very devout Christians will make jokes about Hell. They wouldn’t make jokes about leprosy, or R.A.F. pilots with their faces burnt away: the subject is too painful.
+'" %}
+
+On Christmas morning, I came across my old notes on "[Why Socialists Don't Believe In Fun](https://www.orwell.ru/library/articles/socialists/english/e_fun)," published in *The Tribune* on Christmas 1943. Orwell considers the problem of utopia: "all efforts to describe permanent happiness [...] have been failures." While this is partly the fault of fiction — H.G. Wells and Jonathan Swift's failures are most salient — Orwell finds fault in politics and religion as well. 
+
+> Heaven is as great a flop as Utopia, though Hell occupies a respectable place in literature, and has often been described most minutely and convincingly. It is a commonplace that the Christian Heaven, as usually portrayed, would attract nobody. Almost all Christian writers dealing with Heaven either say frankly that it is indescribable or conjure up a vague picture of gold, precious stones, and the endless singing of hymns. [...] Many a revivalist minister, many a Jesuit priest (see, for instance, the terrific sermon in James Joyce's Portrait of the Artist) has frightened his congregation almost out of their skins with his word-pictures of Hell. But as soon as it comes to Heaven, there is a prompt falling-back on words like ‘ecstasy’ and ‘bliss’, with little attempt to say what they consist in. Perhaps the most vital bit of writing on this subject is the famous passage in which Tertullian explains that one of the chief joys of Heaven is watching the tortures of the damned.{% sidenote "ischriparad" "'As for the Muslim Paradise, with its 77 houris per man, all presumably clamouring for attention at the same moment, it is just a nightmare.'" %}
+
+The problem of utopia is so intractable that Orwell, his socialism persisting through his [Catalonian adventure](https://en.wikipedia.org/wiki/Homage_to_Catalonia), dismisses it as a political goal. Instead, writing in the horrific aftermath of the Blitz:
+
+> The real objective of Socialism is human brotherhood. This is widely felt to be the case, though it is not usually said, or not said loudly enough. Men use up their lives in heart-breaking political struggles, or get themselves killed in civil wars, or tortured in the secret prisons of the Gestapo, not in order to establish some central-heated, air-conditioned, strip-lighted Paradise, but because they want a world in which human beings love one another instead of swindling and murdering one another. And they want that world as a first step. Where they go from there is not so certain, and the attempt to foresee it in detail merely confuses the issue.
+> 
+> Socialist thought has to deal in prediction, but only in broad terms. One often has to aim at objectives which one can only very dimly see. At this moment, for instance, the world is at war and wants peace. Yet the world has no experience of peace, and never has had, unless the Noble Savage once existed. The world wants something which it is dimly aware could exist, but cannot accurately define. This Christmas Day, thousands of men will be bleeding to death in the Russian snows, or drowning in icy waters, or blowing one another to pieces on swampy islands of the Pacific; homeless children will be scrabbling for food among the wreckage of German cities. To make that kind of thing impossible is a good objective. But to say in detail what a peaceful world would be like is a different matter.
+
+
+
+
 
 ### Monthly Le Guin
 
-*Another Story, or A Fisherman of the Inland Sea* is more Ursula Le Guin than Ursula Le Guin. There is a novel set of gender and sexual relations,{% sidenote "fishgend" "Characters are all human, with recognizable gender, but the population is split into arbitrary moieties; entering a relation with someone of the same moiety is the ultimate taboo. ''One's [moiety] is as deeply and intimately part of oneself as one's gender, and has quite as much to do with one's sexual life.''" %} a long voyage from home to an alien world, plenty of FTL travel and communication,{% sidenote "ftlstram" "Le Guin adds in a taste more time travel than usual, or at least less-well-disguised time travel." %} an appropriate appropriated mythology, and a train. 2022 has been a very successful year for me, but I vastly underestimated the scale of one of my goals: reading everything published by Ursula Le Guin this year; I was happy to just finish the Earthsea and Hainish books. Even beyond her dozens of novels, tho, there are dozens of short stories scattered about. I found *A Fisherman* in a recently released collection, "The Found and the Lost."
+Ursula Le Guin wrote ["Introducing Myself"](https://languagelog.ldc.upenn.edu/myl/IntroducingMyself.html) as a "a performance piece, performed a couple of times." While none of these performances are on YouTube, I like to imagine the effect of watching the septuagenarian Le Guin standing up in a bookshop or college auditorium and opening: 
 
-*A Fisherman*, part of her Hainish universe, is notable for extended references to "historical" earth culture. The protagonist's mother left earth millenia before settling on the planet O and starting the action, and tells stories from Japanese mythology about demon rats and Momotarō, the peach boy.{% sidenote "tarou" "The titular *Fisherman* is Urashima Tarō." %} Le Guin rarely steals mythology so directly, preferring to tweak and adapt real tradition into science fiction, as in *Vaster than Empires and More Slow* or *Semley's Necklace*.
+> I am a man. Now you may think I’ve made some kind of silly mistake about gender, or maybe that I’m trying to fool you, because my first name ends in a , and I own three bras, and I’ve been pregnant five times, and other things like that that you might have noticed, little details. But details don’t matter. If we have anything to learn from politicians it’s that details don’t matter. I am a man, and I want you to believe and accept this as a fact, just as I did for many years.
 
-Written in 1994, *A Fisherman* is very early solarpunk, possibly unintentional solarpunk.{% sidenote "dispo" "I occasionally see Le Guin's *The Dispossessed* described as one of the first solarpunk novels, which invariably bums me out about both the novel and the genre. Both do better without the other." %} Le Guin isn't cheerful enough to thrive in as optimistic a genre as solarpunk,{% sidenote "sidenote-id" "Ask me for my opinion on *The Ones Who Walk Away from Omelas* sometime" %} but her description on village life on O rivals my favorite solarpunk setting.{% sidenote "sidenote-id" "*A Prayer for the Crown-Shy*, to be written about... eventually." %} Pure Le Guin, her solarpunk is academic and industrious:
+No one can accuse Le Guin of making silly mistakes about gender,{% sidenote "tegendlue" "My favorite recent weird gender book (also my favorite weird utopia book) is Ada Palmer's *Terra Ignota*; in an interview, Dr. Palmer said her dream reviewer would have been Ursula Le Guin. " %} and this essay is one of her more truculent  and sardonic commentaries. While she is a man, she's "a kind of second-rate or imitation man, a Pretend-a-Him." 
 
-> Koneko was wanted at home because of her excellence in the discipline we call "thick planning" — farm management is the usual translation, but the words have no hint of the complexity of factors involve din thick planning, ecology politics profit tradition aesthetics honor and spirit{% sidenote "extens" "Lack of punctuation Le Guin's — her switch to the semantic extensional definition is *so cool*. " %}  all function in an intensely practical and practically invisible balance of preservation and renewal, like the homeostasis of a vigorous organism. 
+> I am to a genuine male him as a microwaved fish stick is to a whole grilled Chinook salmon. I mean, after all, can I inseminate? Can I belong to the Bohemian Club? Can I run General Motors? Theoretically I can, but you know where theory gets us. 
 
-I won't read every word by Le Guin in 2022; my success with Orwell/Blair last year made me overconfident! But I'm very glad to have unread Le Guin waiting for me in 2023. 
+There's also a delightful riff on Hemingway. Highly recommended.
 
 ## Listening
 
-Here's a review of Taylor Swift's *Reputation*, inspired by a) nostalgia, from a now-deleted Caroline Ellison Tumblr post, and b) spite, for my sisters both demanding a review of *Midnights*.
+Spotify Wrapped is a challenging time of year. I usually don't know how to answer the question, "What type of music do you listen to?" But every December, I'm confronted by my revealed preferences; it's rarely flattering. This year was particularly confusing: in my top five most-listened to songs were [Avril Lavigne](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt?si=9e5ab85d2d544256), [Mikhail Glinka](https://open.spotify.com/track/19ocRIYxL4h6lKJFIxXnWF?si=3c0f13265ee9486d), and the great blues guitarist [Johnny Winter](https://open.spotify.com/track/2ufOnRuG6tOacEWlsI1JER?si=1662d6784cb64f68). My most-played artists were The Beatles and Taylor Swift. 
 
-*Reputation* starts off punching you in the face and ends cradling you to sleep. Swift has used mixed production teams on her albums before — *1989*'s track list featured Max Martin, Shellback, and Jack Antonoff, among others — but never with such a discrete shift. On *1989*, Antonoff's credits{% sidenote "sidenote-id" "'Out of the Woods,' 'I Wish You Would,' and 'You Are in Love.'" %} were mixed in throughout, but on *Reputation*, his primary credits are on five of the last seven tracks, and all of the last four. Listening to the fast-moving first quarter of the album, one gets the feeling that Martin and Shellback had just gotten a new synth and bass-boosted system and wanted to put them through their paces. Antonoff brings the opposite intensity — 'Call It What You Want' and 'Dress,' the two most lauded songs on the album, are stark, synth-heavy pieces, yet opposites in temperament. 'Dress' is Swift's sexiest song, and 'Call It What You Want' is only topped in wholesomeness by 'New Years' Day.'
+While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of *new* (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
 
-These disjunctions work, of course. Swift and this production team only swing and miss once on the album — 'So It Goes' gets too caught in boring imagery and a louring beat. But at no point does it feel like there are separate visions from separate production teams. The track list coheres into something which is not too clever{% sidenote "atracl" "A trap which pop artists repeatedly stumble into." %} nor too disorienting. 
+The music I listen to on repeat has three purposes: singing in the shower,{% sidenote "showermusic" "Country, folk, Jason Mraz, and other genres with accessible ranges." %} doing math,{% sidenote "mathmsuic" "Latin guitar, hard bop, and Zakir Hussein." %} and long plane rides.{% sidenote "planemusic" "The Steve Miller Band's 'Jet Airliner,' Vivaldi, and Bach." %} All of these make good showings on my revealed preference list, but 
 
-I don't know where *Reputation* will fit in the long telling of Swift's career. Released following the largest gap in her discography, it could be read as an angrier version of the "pivot-to-pop" *1989*. This is facile, tho I do wonder how much the long-built anticipation affected the albums support.{% sidenote "revpl" "Despite significantly worse critical reviews, *Reputation* has more streams than either *1989* or *Lover*. This puzzle seems at the core of understanding the transition from old to new Swift." %} If *Reputation* is angry, it's well-motivated; at no point does Swift ask for our sympathy, and I don't think she would have accepted it if offered. 
+### New stuff, no English lyrics allowed
 
-In the end, *Reputation* was a comeback from an artist who never could have gone away. In one interview, Swift notes that she had the lyrics for 'Dress' written years beforehand — she was never going to stop writing the love songs which critics and cultists love to try mapping onto her life. Why was *Reputation* panned? I think it's this: the anger was the only way for critics to cover the album, and in that context, it will always fail. But once we got a [moment of distance](https://en.wikipedia.org/wiki/Reputation_(album)#Legacy), the contradictions and emotions converge on what's really just a good album.
+*Masikini Naye Mtu (The Poor are Also People)*, Jamaica Mnanda. [Listen here](https://jamaica.bandcamp.com/album/masikini-naye-mtu-the-poor-are-also-people). Fast-paced, political Senegalese music, with two less-traditional remixes. 
 
-## Two excellent hard bop albums, one old, one new; and a meme
+*Szól a Világ*, Napfonat. Listen on Spotify. Catchy Hungarian a capella, pretty poppy. 
 
-*[Hub Cap](https://open.spotify.com/album/0VVkpIr057thY4lfRG827X?si=klWkyr52RqOa99OwBg-Psg)*, from trumpeter Freddie Hubbard and co.,{% sidenote "hubcol" "Including some pretty famous names, Jimmy Heath and Julian Priester" %} is a 1960s session which never made it into the canon. Looking around for reviews, I found a review in *The Guardian* of the CD reissue in 2003,{% sidenote "cdrev" "This seems a common phenomena — reissues allow critics an excuse to write about albums they missed by vice of being in middle school at the time of the original release." %} which seemed to just be an excuse for [John Fordham](https://en.wikipedia.org/wiki/John_Fordham_(jazz_critic)) to use phrases like "dry loquacity" and "hell-for-leather attack".  
-
-I heard the 2021 album *Crisis and Opportunity — London* from Myele Manzanza, a kiwi percussionist, in early November, and only found out that it has since been followed by *Crisis and Opportunity Vol. 2 — Peaks* and *Crisis and Opportunity Vol. 3 — Unfold* when I went to write about volume 1. The second and third volumes were released rapid fire this summer, and while neither of them match the frantic energy of *London*, Manzanza is building towards something new and definite. Listening to the entire project over three hours, I got the feeling of reading a book series back to back — this is always a smoother, more manufactured reading experience than reading the books as they're released. Manzanza's through-lines are more likely imagined than in literature, but it's much preferred. Maybe we should bring back three-hour albums.
-
-Sidenote — why are musical artists' websites consistently bad? If someone doesn't have a wikipedia page, as Manzanza finds himself, their website is the first place I'll stop. But I consistently find sloppy bios and out-of-date discographies. I'm well aware this website is full of typos, but I'm not trying to sell you anything! If I were using this page to pitch readers, you can bet I'd be adding every album and feature to my "about" page. 
-
-And the promised meme: 
-
-<br>
-
-{% maincolumn "assets/img/jazzjapan.jfif" "" %}
-
-## Two campy albums
-
-I wrote this subheading before I knew what I meant by camp, and now I'm trapped. How can instrumental music be camp? [Sontag's](https://monoskop.org/images/5/59/Sontag_Susan_1964_Notes_on_Camp.pdf) extensional list{% sidenote "zulei" "Page 3, beginning with *Zuleika Dobson*, which is the book I've most often tried and failed to write about in the past year." %} contains both *Swan Lake* and Bellini's operas, but their inclusion is not a claim about music; it is their artifice. What makes *Swan Lake* camp and *The Nutcracker* not?  It can't be the costumes, can it? Sontag says concert music, "because it is contentless," is rarely camp, but all of opera deserves the label. But the grounds can shift — her 1964 declaration insists that "popular music (post rock-'n'-roll, what the French call yeye) has been annexed." Quod erat demonstrandum; this is just a claim about a sensibility (as Sontag calls it), so I can do whatever I want.
-
-Here is a claim about a sensibility, to, tho I would prefer "disposition": funk is the campiest genre of popular music. Here I point to Pridjevi's 2021 album [*Drugi Korijen*](https://pridjevi.bandcamp.com/album/drugi-korijen), "square root" in Croatian. Most people, including me, especially me, listen to too much music they heard yesterday. If you listen to one of the albums I've written about here, besides *Reputation*, make it this one. Plenty of acid jazz and psychedelia could be described as camp, sure, but this isn't that. 
-
-*Hypnophonic*, by German band Äl Jawala is even less psychedelic. They tagged themselves "Gypsy punk" on Bandcamp, which I can't improve on. The highlights are 'Dancefloor Dervish' for pure mania and 'Road to El Dorado' for "I guess we're leaning into this?" vibes. I don't think I'm quite recommending this one to all readers, but go for it if this catches your interest. 
+*Templo Komodo*, Briela Ojeda. Listen on Spotify. Man, I've got no idea what this is. But it's great. The title track and Doña Justicia are return tracks.
 
 
-## Eating
 
-Jam is obsolete.
+
+
 
 ## Previously
+
+*[November, 2022](https://jablevine.com/older/november_2022)*
 
 *[October, 2022](https://jablevine.com/older/october_2022)*
 
@@ -129,4 +129,7 @@ Jam is obsolete.
 *[June, 2021](https://jablevine.com/older/june_2021)*
 
 *[May, 2021](https://jablevine.com/older/may_2021)*
+
+
+
 
