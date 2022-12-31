@@ -54,7 +54,8 @@ and a personal attack on my love of parentheses and sidenotes:
 
 ### Orwell on Christmas and "Why Socialists Don't Believe In Fun"
 
-In 2021, I read everything George Orwell or Eric Arthur Blair wrote during his life. The non-fiction was great, the fiction was good; the best was "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell's thoughts 
+In 2021, I read everything George Orwell or Eric Arthur Blair wrote during his life. The non-fiction was great, the fiction was good; the best was "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell shared his thoughts on everything from how to date online in the 1940s to the demographic transition to cricket to Pascal's mugging.{% sidenote "orwelpascm" "'Never, literally never in recent years, have I met anyone who gave me the impression of believing in the next world as firmly as he believed in the existence of, for instance, Australia. Belief in the next world does not influence conduct as it would if it were genuine. With that endless existence beyond death to look forward to, how trivial our lives here would seem! Most Christians profess to believe in Hell. Yet have you ever met a Christian who seemed as afraid of Hell as he was of cancer? Even very devout Christians will make jokes about Hell. They wouldn’t make jokes about leprosy, or R.A.F. pilots with their faces burnt away: the subject is too painful.
+'" %}
 
 On Christmas morning this year, I came across my old notes on "[Why Socialists Don't Believe In Fun](https://www.orwell.ru/library/articles/socialists/english/e_fun)," published in *The Tribune* on Christmas 1943. He considers the problem of utopia: "all efforts to describe permanent happiness [...] have been failures." While this is partly the fault of fiction — H.G. Wells and Jonathan Swift's' failures are most apparent — Orwell finds fault in politics and religion as well. 
 
