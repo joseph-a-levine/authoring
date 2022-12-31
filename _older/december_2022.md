@@ -18,7 +18,7 @@ In December, I finished the first semester of grad school, putting me roughly on
   
 ## Travel
 
-I hit London, DC, and New York for ~a week each this month. I didn't spend nearly enough time hanging out with my beloved sisters but such is life. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
+I spent time in London, DC, and New York this month. I didn't spend nearly enough time hanging out with my beloved sisters but such is life. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
 
 Also, I'm planning a 1-2 month Central Asian trip next summer; something like Tajikistan -> Uzbekistan -> Kazakhstan (or vice versa). Recommendations and introductions are welcome!
 
@@ -26,7 +26,7 @@ Also, I'm planning a 1-2 month Central Asian trip next summer; something like Ta
 
 [Here's a list](https://jablevine.com/older/2022_books) of the ~140 books I read in 2022, with some mini-reviews in the sidenotes. Borges and Shakespeare appeared most frequently. 
 
-In mid-December, I spent six days in bed with the flu and finished six books. Some of these had been sitting on the backburner for a while;{% sidenote "comchcol" "**Comm Check**, a journalistic account of the *Columbia* disaster, and a new history of YouTube from Mark Bergen." %} others felt appropriate to the moment — Schopenhauer's **Essays and Aphorisms** are accessible and misanthropic, perfect for the brain fog and misery of a high fever. I intended to skip the metaphysics — is now the time for an essay "on the antithesis of thing in itself and appearance"? — and only persevered through momentum. The back-to-back zingers "On Suicide" and "On Women" gave me an "[oh my god, Arthur was racist](https://youtu.be/wwDGm6JO4Lw?t=32)" moment, but it turns out Schopenhauer's cynicism runs much deeper than that. 
+In mid-December, I spent six days in bed with the flu and finished six books. Some of these had been sitting on the backburner for a while;{% sidenote "comchcol" "**Comm Check**, a journalistic account of the *Columbia* disaster, and a new history of YouTube from Mark Bergen." %} others felt appropriate to the moment — Schopenhauer's **Essays and Aphorisms** are accessible and misanthropic, perfect for the brain fog and misery of a high fever. I intended to skip the metaphysics — is now the time for an essay "on the antithesis of thing in itself and appearance"? — and only persevered through momentum. The back-to-back zingers "On Suicide" and "On Women" gave me an "[oh my god, Jonathan was racist](https://youtu.be/wwDGm6JO4Lw?t=32)" moment, but it turns out Schopenhauer's cynicism runs much deeper than that. 
 
 My favorite, and the most generally interesting section, were the aphorisms on law and politics. Schopenhauer seems to go philosopher-by-philosopher, attempting to piss off in turn. He quotes Voltaire on monarchy, then argues governments should only allow freedom of the press "upon the strictest prohibition of any kind of anonymity," which would have sparked an angry pamphlet from Monsieur Arouet. Schopenhauer also deserves credit for introducing me to the Hobbesian side of Spinoza — "Unusquisque tantum juris habet, quantum potentid valet."{% sidenote "latinspi" "A person's rights are equivalent to his power." %}{% sidenote "sidenote-id" "Did Spinoza get a chance to read *Leviathan*? SEP asserts Spinoza read *De Cive* (which I only know from PolPhil101), but *Leviathan* seems much more up Spinoza's alley. The timing is a bit tight, tho, with Baruch's early death-by-glass." %} 
 
@@ -54,12 +54,12 @@ and a personal attack on my love of parentheses and sidenotes:
 
 ### Orwell on Christmas and "Why Socialists Don't Believe In Fun"
 
-In 2021, I read everything George Orwell or Eric Arthur Blair wrote during his life. The non-fiction was great, the fiction was good; the best was "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell shared his thoughts on everything from how to date online in the 1940s to the demographic transition to cricket to Pascal's mugging.{% sidenote "orwelpascm" "'Never, literally never in recent years, have I met anyone who gave me the impression of believing in the next world as firmly as he believed in the existence of, for instance, Australia. Belief in the next world does not influence conduct as it would if it were genuine. With that endless existence beyond death to look forward to, how trivial our lives here would seem! Most Christians profess to believe in Hell. Yet have you ever met a Christian who seemed as afraid of Hell as he was of cancer? Even very devout Christians will make jokes about Hell. They wouldn’t make jokes about leprosy, or R.A.F. pilots with their faces burnt away: the subject is too painful.
+In 2021, I read the entirety of George Orwell's/Eric Arthur Blair's bibliography. The non-fiction was great, the fiction was good; the best were from "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell shared his thoughts on everything from how to date online in the 1940s to the demographic transition to cricket to Pascal's mugging.{% sidenote "orwelpascm" "'Never, literally never in recent years, have I met anyone who gave me the impression of believing in the next world as firmly as he believed in the existence of, for instance, Australia. Belief in the next world does not influence conduct as it would if it were genuine. With that endless existence beyond death to look forward to, how trivial our lives here would seem! Most Christians profess to believe in Hell. Yet have you ever met a Christian who seemed as afraid of Hell as he was of cancer? Even very devout Christians will make jokes about Hell. They wouldn’t make jokes about leprosy, or R.A.F. pilots with their faces burnt away: the subject is too painful.
 '" %}
 
-On Christmas morning this year, I came across my old notes on "[Why Socialists Don't Believe In Fun](https://www.orwell.ru/library/articles/socialists/english/e_fun)," published in *The Tribune* on Christmas 1943. He considers the problem of utopia: "all efforts to describe permanent happiness [...] have been failures." While this is partly the fault of fiction — H.G. Wells and Jonathan Swift's' failures are most apparent — Orwell finds fault in politics and religion as well. 
+On Christmas morning, I came across my old notes on "[Why Socialists Don't Believe In Fun](https://www.orwell.ru/library/articles/socialists/english/e_fun)," published in *The Tribune* on Christmas 1943. Orwell considers the problem of utopia: "all efforts to describe permanent happiness [...] have been failures." While this is partly the fault of fiction — H.G. Wells and Jonathan Swift's failures are most salient — Orwell finds fault in politics and religion as well. 
 
-> Heaven is as great a flop as Utopia though Hell occupies a respectable place in literature, and has often been described most minutely and convincingly. It is a commonplace that the Christian Heaven, as usually portrayed, would attract nobody. Almost all Christian writers dealing with Heaven either say frankly that it is indescribable or conjure up a vague picture of gold, precious stones, and the endless singing of hymns. [...] Many a revivalist minister, many a Jesuit priest (see, for instance, the terrific sermon in James Joyce's Portrait of the Artist) has frightened his congregation almost out of their skins with his word-pictures of Hell. But as soon as it comes to Heaven, there is a prompt falling-back on words like ‘ecstasy’ and ‘bliss’, with little attempt to say what they consist in. Perhaps the most vital bit of writing on this subject is the famous passage in which Tertullian explains that one of the chief joys of Heaven is watching the tortures of the damned.{% sidenote "ischriparad" "'As for the Muslim Paradise, with its 77 houris per man, all presumably clamouring for attention at the same moment, it is just a nightmare.'" %}
+> Heaven is as great a flop as Utopia, though Hell occupies a respectable place in literature, and has often been described most minutely and convincingly. It is a commonplace that the Christian Heaven, as usually portrayed, would attract nobody. Almost all Christian writers dealing with Heaven either say frankly that it is indescribable or conjure up a vague picture of gold, precious stones, and the endless singing of hymns. [...] Many a revivalist minister, many a Jesuit priest (see, for instance, the terrific sermon in James Joyce's Portrait of the Artist) has frightened his congregation almost out of their skins with his word-pictures of Hell. But as soon as it comes to Heaven, there is a prompt falling-back on words like ‘ecstasy’ and ‘bliss’, with little attempt to say what they consist in. Perhaps the most vital bit of writing on this subject is the famous passage in which Tertullian explains that one of the chief joys of Heaven is watching the tortures of the damned.{% sidenote "ischriparad" "'As for the Muslim Paradise, with its 77 houris per man, all presumably clamouring for attention at the same moment, it is just a nightmare.'" %}
 
 The problem of utopia is so intractable that Orwell, his socialism persisting through his [Catalonian adventure](https://en.wikipedia.org/wiki/Homage_to_Catalonia), dismisses it as a political goal. Instead, writing in the horrific aftermath of the Blitz:
 
@@ -73,11 +73,11 @@ The problem of utopia is so intractable that Orwell, his socialism persisting th
 
 ### Monthly Le Guin
 
-Ursula Le Guin intended ["Introducing Myself"](https://languagelog.ldc.upenn.edu/myl/IntroducingMyself.html) as a "a performance piece, performed a couple of times." While none of these performances are on YouTube, I like to imagine the effect of watching the septuagenarian Le Guin standing up in a bookshop or college auditorium and saying: 
+Ursula Le Guin wrote ["Introducing Myself"](https://languagelog.ldc.upenn.edu/myl/IntroducingMyself.html) as a "a performance piece, performed a couple of times." While none of these performances are on YouTube, I like to imagine the effect of watching the septuagenarian Le Guin standing up in a bookshop or college auditorium and opening: 
 
 > I am a man. Now you may think I’ve made some kind of silly mistake about gender, or maybe that I’m trying to fool you, because my first name ends in a , and I own three bras, and I’ve been pregnant five times, and other things like that that you might have noticed, little details. But details don’t matter. If we have anything to learn from politicians it’s that details don’t matter. I am a man, and I want you to believe and accept this as a fact, just as I did for many years.
 
-No one can accuse Le Guin of making silly mistakes about gender,{% sidenote "tegendlue" "My favorite recent weird gender book is Ada Palmer's *Terra Ignota*; in an interview, Dr. Palmer said her dream reviewer would have been Ursula Le Guin. " %} and this essay is one of her more truculent  and sardonic commentaries. While she is a man, she's "a kind of second-rate or imitation man, a Pretend-a-Him." 
+No one can accuse Le Guin of making silly mistakes about gender,{% sidenote "tegendlue" "My favorite recent weird gender book (also my favorite weird utopia book) is Ada Palmer's *Terra Ignota*; in an interview, Dr. Palmer said her dream reviewer would have been Ursula Le Guin. " %} and this essay is one of her more truculent  and sardonic commentaries. While she is a man, she's "a kind of second-rate or imitation man, a Pretend-a-Him." 
 
 > I am to a genuine male him as a microwaved fish stick is to a whole grilled Chinook salmon. I mean, after all, can I inseminate? Can I belong to the Bohemian Club? Can I run General Motors? Theoretically I can, but you know where theory gets us. 
 
@@ -105,6 +105,16 @@ The music I listen to on repeat has three purposes: singing in the shower,{% sid
 
 
 ## Previously
+
+*[November, 2022](https://jablevine.com/older/november_2022)*
+
+*[October, 2022](https://jablevine.com/older/october_2022)*
+
+*[September, 2022](https://jablevine.com/older/september_2022)*
+
+*[August, 2022](https://jablevine.com/older/august_2022)*
+
+...
 
 *[November, 2021](https://jablevine.com/older/november_2021)*
 
