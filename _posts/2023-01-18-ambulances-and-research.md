@@ -16,10 +16,25 @@ There's a graph which shows up often around people with an intellectual interest
 {% maincolumn "assets/img/price-changes-in-usa-in-past-20-years-2294.jpg" "Elodie used a different version which separated emergency hospital services from non-emergency hospital services." %}
 
 
-The moral is presumably that, while it's great televisions are getting cheaper, the "important" stuff is getting more expensive faster than wages, and the only goods which are getting cheaper are boring, opiate of the masses consumer goods.{% sidenote "moore-id" "Another plausible story is about the power of Moore's law as a black hole for innovation. We've gotten unspeakably good at cramming transistors onto a chip, but this innovation hasn't (yet) spilled over to revolutions in the healthcare sector. I like this story more, but it's not very relevant." %} 
+The moral is presumably that, while it's great televisions are getting cheaper, the "important" stuff is getting more expensive faster than wages, and the only goods which are getting cheaper are boring, opiate of the masses consumer goods.{% sidenote "moore-id" "Another plausible story is about the Moore's law as a black hole for innovation. We've gotten unspeakably good at cramming transistors onto a chip, but this innovation hasn't (yet) spilled over to revolutions in the healthcare sector. I like this story more, but it's not asrelevant." %} 
 
-An aside — one of my soapboxes is the increasing fraction of for-profit nursing homes. Something like three-quarters of skilled nursing facilities (SNFs{% sidenote "snfsac-id" "There are many jokes about 'sniffs' among EMTs, with numerous possibilities of what the 'S' could stand for." %}) are for-profit, compared to one-third of hospitals. One example which has made my life sadder and smellier is HCR Manorcare, a chain of SNFs which Carlyle acquired in a messy LBO 20 years ago. I don't have any evidence that PE-run SNFs are worse than privately owned facilities... oh wait, [yes I do](https://jablevine.com/papers/Gupta%20et%20al_Does%20Private%20Equity%20Investment%20in%20Healthcare%20Benefit%20Patients): 
+An aside — one of my soapboxes is the increasing fraction of for-profit nursing homes. Something like three-quarters of skilled nursing facilities (SNFs{% sidenote "snfsac-id" "There are many jokes about 'sniffs' among EMTs, with numerous possibilities of what the 'S' could stand for." %}) are for-profit, compared to one-third of hospitals. One example which has made my life sadder and smellier is HCR Manorcare, a chain of SNFs which Carlyle acquired in a messy LBO 20 years ago. I don't have any evidence that PE-run SNFs are worse than privately owned facilities... oh wait, [yes I do](https://jablevine.com/papers/Gupta%20et%20al_Does%20Private%20Equity%20Investment%20in%20Healthcare%20Benefit%20Patients.pdf): 
 
 > PE ownership increases short-term mortality by 13% and reduces other measures of patient well-being, while also increasing revenue per patient by 10%. Clinical and operational changes help to explain these effects, including declines in nursing staff and lower compliance with care standards.
 
-This is a great paper — there's a cool instrumental variables approach to deal with changing patient composition. And it's an angry paper, too: they aren't afraid to write that their results imply "20,150 lives lost due to PE ownership over our twelve-year sample period." 
+This is a great paper — there's a cool instrumental variables approach to deal with changing patient composition. And it brims with righteous anger: the authors aren't afraid to write that their results imply "20,150 lives lost due to PE ownership over our twelve-year sample period." Now, I'm slightly equivocating between PE-run and privately owned SNFs. 
+
+Back to Elodie's work: identifying the effect of a hospital's care is really tough econometric work, so they used
+
+This is a *fantastic* identification strategy.{% sidenote "sidenote-id" "It's not original to this paper — Doyle et al. (2015) first used this IV strategy, and it's becoming more widespread." %} Ambulance services, especially private ambulance companies, are messy and chaotic in just the right amount to give patients a plausibly exogenous hospital assignment. 
+
+By the end of the talk, I had a dozen questions written down for Elodie about ambulance data and the assumptions the research team made — how to deal with consolidation of ambulance companies? When ambulance crews bid for calls,{% sidenote "sidenote-id" "This is a random sidenote" %} are those patients treated as less randomly assigned?  Do they control for the quality of the snacks in the emergency room?{% sidenote "sidenote-id" "This is a random sidenote" %}  Did the team have data on patient hospital preference?{% sidenote "sidenote-id" "This is a random sidenote" %} 
+
+I didn't get to ask all of these questions
+
+{% sidenote "sidenote-id" "Another member of my cohort, Daniel Barbosa, has been presenting a paper on police body cameras in Brazil with a remarkably similar identification strategy. If one of the other six of us can put together a paper on firefighters, we'll have the trifecta." %} 
+
+Interesting lives and ride alongs
+
+The UK is having it's own ambulance based crisis at the moment
+
