@@ -9,7 +9,7 @@ My cohort-mate Elodie Chervin, a tall Frenchwoman with a better American accent 
 
 While higher-priced hospital services are better in areas with competitive markets, once the authors look at consolidated markets, the effect goes away.{% sidenote "deffgorev" "Or reverses? Don't remember." %} There's been a trend towards hospital mergers, larger "health systems," and this is the bad guy. The path goes something like: mergers —> ↑ market consolidation —> ↓ competition —> ↑ prices, with no endogenous change in the level of care. So having higher prices makes you a better hospital (lol causality) in competitive markets, but there's no reason for this to be true in consolidated markets. 
 
-There's a graph which shows up often around people with an intellectual interest in inflation, like first-year microeconomics students or New York Times readers:{% sidenote "sidenote-id" "Elodie used a different version which separated emergency hospital services from non-emergency hospital services." %} 
+There's a graph which shows up often around people with an intellectual interest in inflation, like first-year microeconomics students or New York Times readers:
 
 {% maincolumn "assets/img/price-changes-in-usa-in-past-20-years-2294.jpg" "Elodie used a different version which separated emergency hospital services from non-emergency hospital services." %}
 
