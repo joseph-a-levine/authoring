@@ -5,9 +5,26 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>jablevine.com/</link>
     <atom:link href="jablevine.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jan 2023 13:18:22 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Jan 2023 13:18:22 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jan 2023 13:21:10 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2023 13:21:10 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Hospital pricing, ambulances, and qualitative research</title>
+        <description>&lt;p&gt;test&lt;/p&gt;
+
+&lt;p&gt;test&lt;/p&gt;
+
+&lt;p&gt;test&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+        <link>jablevine.com/articles/23/a-test-draft</link>
+        <guid isPermaLink="true">jablevine.com/articles/23/a-test-draft</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Hospital pricing, ambulances, and qualitative research</title>
@@ -49,23 +66,6 @@
         <pubDate>Wed, 18 Jan 2023 11:37:17 +0000</pubDate>
         <link>jablevine.com/articles/23/ambulances-and-research</link>
         <guid isPermaLink="true">jablevine.com/articles/23/ambulances-and-research</guid>
-        
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Hospital pricing, ambulances, and qualitative research</title>
-        <description>&lt;p&gt;test&lt;/p&gt;
-
-&lt;p&gt;test&lt;/p&gt;
-
-&lt;p&gt;test&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Jan 2023 11:37:17 +0000</pubDate>
-        <link>jablevine.com/articles/23/a-test-draft</link>
-        <guid isPermaLink="true">jablevine.com/articles/23/a-test-draft</guid>
         
         
         <category>post</category>
