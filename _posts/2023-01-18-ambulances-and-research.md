@@ -11,9 +11,15 @@ While higher-priced hospital services are better in areas with competitive marke
 
 There's a graph which shows up often around people with an intellectual interest in inflation, like first-year microeconomics students or New York Times readers:
 
+<br>
+
 {% maincolumn "assets/img/price-changes-in-usa-in-past-20-years-2294.jpg" "Elodie used a different version which separated emergency hospital services from non-emergency hospital services." %}
 
 
 The moral is presumably that, while it's great televisions are getting cheaper, the "important" stuff is getting more expensive faster than wages, and the only goods which are getting cheaper are boring, opiate of the masses consumer goods.{% sidenote "moore-id" "Another plausible story is about the power of Moore's law as a black hole for innovation. We've gotten unspeakably good at cramming transistors onto a chip, but this innovation hasn't (yet) spilled over to revolutions in the healthcare sector. I like this story more, but it's not very relevant." %} 
 
-An aside — one of my soapboxes is the increasing fraction of for-profit nursing homes. Something like three-quarters of skilled nursing facilities (SNFs{% sidenote "snfsac-id" "There are many jokes about 'sniffs' among EMTs, and the numerous possibilities of what the S could stand for." %}) are for-profit, compared to one-third of hospitals. 
+An aside — one of my soapboxes is the increasing fraction of for-profit nursing homes. Something like three-quarters of skilled nursing facilities (SNFs{% sidenote "snfsac-id" "There are many jokes about 'sniffs' among EMTs, with numerous possibilities of what the 'S' could stand for." %}) are for-profit, compared to one-third of hospitals. One example which has made my life sadder and smellier is HCR Manorcare, a chain of SNFs which Carlyle acquired in a messy LBO 20 years ago. I don't have any evidence that PE-run SNFs are worse than privately owned facilities... oh wait, [yes I do](https://jablevine.com/papers/Gupta%20et%20al_Does%20Private%20Equity%20Investment%20in%20Healthcare%20Benefit%20Patients): 
+
+> PE ownership increases short-term mortality by 13% and reduces other measures of patient well-being, while also increasing revenue per patient by 10%. Clinical and operational changes help to explain these effects, including declines in nursing staff and lower compliance with care standards.
+
+This is a great paper — there's a cool instrumental variables approach to deal with changing patient composition. And it's an angry paper, too: they aren't afraid to write that their results imply "20,150 lives lost due to PE ownership over our twelve-year sample period." 
