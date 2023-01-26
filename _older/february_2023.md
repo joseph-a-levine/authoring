@@ -5,7 +5,20 @@ title: What am I up to now?
 
 ## February, 2023
 
-I'm back in Oxford! The first three weeks of Hilary Term{% sidenote "wint-id" "Oxford being special again, this is just 'early-winter-term,' or 'Lent' if you go to Cambridge." %} have been a blur. In Macro, Andrea Ferrera is teaching us all about monetary economics. This has provided good opporu
+I'm back in Oxford! The first three weeks of Hilary Term{% sidenote "wint-id" "Oxford being special again, this is just 'early-winter-term,' or 'Lent' if you go to Cambridge." %} have been a blur. In Macro, Andrea Ferrero is teaching us all about monetary economics. I find the methods interesting, the topics much less so. Dr. Ferrero presented one case study of the 1724 French devaluation of the Livre — which resulted in a 30% contraction in industrial production. This demonstrates some real effects of monetary policy, but some quick maths demonstrates an even simpler lesson: don't give 14-year-old Bourbons control of your monetary policy. 
+
+Micro and Metrics continue to hold most of my attention; 
+
+Choice quotes from lectures, included either for nice wordsmithing{% sidenote "iamter-id" "Meg Meyer (presumably, unintentionally) presented two slides on cheap talk in  almost perfect iambic tetrameter. " %} or absurdity.
+
+- "Bayesians are people, too"
+- "Classical dichotomy"
+- "Being logistic keeps you in an exponential family"
+- "You've been visited by the Calvo fairy! Time to change your prices"
+- "make as large a decision as possible"
+- 
+- "Workhorse model of sticky prices"
+
 
 In week 1, I spent a few hours reading old Masters' theses in the Social Sciences Library; as I'll have to write one of these next year, I figured 
 
