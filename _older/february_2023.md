@@ -22,7 +22,7 @@ Choice quotes from lectures, included either for nice wordsmithing{% sidenote "i
 
 In week 1, I spent a few hours reading old Masters' theses in the Social Sciences Library; as I'll have to write one of these next year, I figured 
 
-The first half of January was spent 2km above sea level.{% sidenote "denvspa-id" "All this time at altitude reminded me of one of my first consulting projects, for the Colorado Air and Space Port. At 5,500 feet above sea level, their slogan was: 'Launch Colorado: The First Mile Is Free." %} Mexico City was a blast; the city is cheap enough and comfortable
+The first half of January was spent 2km above sea level.{% sidenote "denvspa-id" "All this time at altitude reminded me of one of my first consulting projects, for the Colorado Air and Space Port. At 5,500 feet above sea level, their slogan was: 'Launch Colorado: The First Mile Is Free'." %} Mexico City was a blast; the city is cheap enough and comfortable
 
 There's a U-shaped{% sidenote "sidenote-id" "This is a random sidenote" %} relationship for cities between cheapness and desireability for expats. Freetown, Sierra Leone is *cheap* cheap — but no amount of money will let you live at US levels of comfort. In a city of a million people, there can't be more than fifty dishwashers (and half of those will be in the US Embassy). 
 
@@ -46,11 +46,24 @@ Also, longer thoughts on books, restaurants, research, etc. have been moved to t
 
 ## Eating
 
+- The sixth taqueria tent on the right, Base Camp, Nevado de Toluca.
+- Castizo, CDMX
+- La Rifa, CDMX
+- Dosa Park, Oxford. Not amazing; I've had better in London and DC, and certainly Bangalore. But more than good enough. Plus, 
+- Luis Mota and Luzia Bruckamp's yogurt dip and hummus, Oxford.
 
 
 ## Listening
 
+Some favorites; not everything. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most value. 
+
 - -*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
+- -*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
+- -*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
+- -*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power. 
+- -*Renaissance*, Apashe.
+- *La Grande Folie*, San Salvador.
+
 
 
 ## Previously
