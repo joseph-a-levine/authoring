@@ -20,7 +20,7 @@ Choice quotes from lectures, included either for nice wordsmithing{% sidenote "i
 - "Workhorse model of sticky prices"
 
 
-In week 1, I spent a few hours reading old Masters' theses in the Social Sciences Library; as I'll have to write one of these next year, I figured 
+In week 1, I spent a few hours reading old Masters' theses in the Social Sciences Library; as I'll have to write one of these next year, it seemed appropriate to see where the bar is set. 
 
 The first half of January was spent 2km above sea level.{% sidenote "denvspa-id" "All this time at altitude reminded me of one of my first consulting projects, for the Colorado Air and Space Port. At 5,500 feet above sea level, their slogan was: 'Launch Colorado: The First Mile Is Free'." %} Mexico City was a blast; the city is cheap enough and comfortable
 
@@ -43,6 +43,10 @@ Also, longer thoughts on books, restaurants, research, etc. have been moved to t
 
 ## Reading 
 
+- -"Eruptions That Shook the World," by Clive Oppenheimer. With the last name Oppenheimer, I expected more doom and gloom about his volcanoes. But this is more of a textbook than the dramatic title implies. It's superbly organized
+- -"Eichmann in Jerusalem," by Hannah Arendt. The first of two books I read on Holocaust Remembrance Day
+- -"The Disappearance of Joseph Mengele," by Oliver Guez. Tyler Cowen's recommendation is that, “I’ve read enough about the Holocaust” is not a good reason to avoid iihs book." But his summary — "How does in fact a sophisticated doctor become a Nazi and then frame that decision to himself?" — is miles off. Of the dozens of Nazis the reader meets in Argentina, Uruguay, Switzerland, Brazil, and Germany, Mengele is the least interested in justifying his previous political beliefs. There was no "becoming" a Nazi in this book. The Doktor's phrenological racism was a primitive — 
+- -"South!", by Ernest Shackleton. On a lighter note{% sidenote "lighsant-id" "Besides the disease, death, shipwrecks, and possible cannibalism." %}  — an amazing Antarctic memoir. Each episode is fantastical, and completely true. 
 
 ## Eating
 
@@ -55,7 +59,7 @@ Also, longer thoughts on books, restaurants, research, etc. have been moved to t
 
 ## Listening
 
-Some favorites; not everything. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most value. 
+Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most new listening material. 
 
 - -*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
 - -*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
