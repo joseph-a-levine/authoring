@@ -43,30 +43,30 @@ Also, longer thoughts on books, restaurants, research, etc. have been moved to t
 
 ## Reading 
 
-- -"Eruptions That Shook the World," by Clive Oppenheimer. With the last name Oppenheimer, I expected more doom and gloom about his volcanoes. But this is more like a textbook and work of scientific passion than the dramatic title implies. It's superbly organized in chapters which would line up with a semester of Volcanoes 101. One example — Oppenheimer's treatment of the Deccan Traps vs. Chicxulub crater controversy{% sidenote "ecchizx-id" "What killed the dinosaurs? Despite Zach Weinersmith's excellent contributions to the asteroid case, this is less settled than my middle school science teachers implied. The asteroid-touting astrophysicists have had the run of the debate for the past fifty years, but the geophysicists are coming for them. " %} is much more evenhanded than anything I've read from the astrophysicists. The book has a quiet passion for volcanic science. It's this which caught Werner Herzog's attention, leading to the release of two volcano-themed films in 2016. The first, *Salt and Fire*, is an action-thriller;{% sidenote "salfjurg-id" "Think *Jurassic Park*, not *Geostorm*." %} the second is a documentary with Oppenheimer about "belief systems" tied to volcanoes around the world.
-- -"Eichmann in Jerusalem," by Hannah Arendt. The first of two books I read on Holocaust Remembrance Day
-- -"The Disappearance of Joseph Mengele," by Oliver Guez. Tyler Cowen's recommendation is that, “I’ve read enough about the Holocaust” is not a good reason to avoid this book. But his summary — "How does in fact a sophisticated doctor become a Nazi and then frame that decision to himself?" — is miles off. Of the dozens of Nazis the reader meets in Argentina, Uruguay, Switzerland, Brazil, and Germany, Mengele is the least interested in justifying his previous political beliefs. There was no "becoming" a Nazi in this book. The Doktor's phrenological racism was a primitive — 
-- -"South!", by Ernest Shackleton. On a lighter note{% sidenote "lighsant-id" "Besides the disease, death, shipwrecks, and possible cannibalism." %}  — an amazing Antarctic memoir. Each episode is fantastical, and completely true. 
+- •"Eruptions That Shook the World," by Clive Oppenheimer. With the last name Oppenheimer, I expected more doom and gloom about his volcanoes. But this is more like a textbook and work of scientific passion than the dramatic title implies. It's superbly organized in chapters which would line up with a semester of Volcanoes 101. One example — Oppenheimer's treatment of the Deccan Traps vs. Chicxulub crater controversy{% sidenote "ecchizx-id" "What killed the dinosaurs? Despite Zach Weinersmith's excellent contributions to the asteroid case, this is less settled than my middle school science teachers implied. The asteroid-touting astrophysicists have had the run of the debate for the past fifty years, but the geophysicists are coming for them. " %} is much more evenhanded than anything I've read from the astrophysicists. The book has a quiet passion for volcanic science. It's this which caught Werner Herzog's attention, leading to the release of two volcano-themed films in 2016. The first, *Salt and Fire*, is an action-thriller;{% sidenote "salfjurg-id" "Think *Jurassic Park*, not *Geostorm*." %} the second is a documentary with Oppenheimer about "belief systems" tied to volcanoes around the world.
+- •"Eichmann in Jerusalem," by Hannah Arendt. The first of two books I read on Holocaust Remembrance Day
+- •"The Disappearance of Joseph Mengele," by Oliver Guez. Tyler Cowen's recommendation is that, “I’ve read enough about the Holocaust” is not a good reason to avoid this book. But his summary — "How does in fact a sophisticated doctor become a Nazi and then frame that decision to himself?" — is miles off. Of the dozens of Nazis the reader meets in Argentina, Uruguay, Switzerland, Brazil, and Germany, Mengele is the least interested in justifying his previous political beliefs. There was no "becoming" a Nazi in this book. The Doktor's phrenological racism was a primitive — 
+- •"South!", by Ernest Shackleton. On a lighter note{% sidenote "lighsant-id" "Besides the disease, death, shipwrecks, and possible cannibalism." %}  — an amazing Antarctic memoir. Each episode is fantastical, and completely true. 
 
 ## Eating
 
-- The sixth taqueria tent on the right, Base Camp, Nevado de Toluca.
-- Castizo, CDMX
-- La Rifa, CDMX
-- Dosa Park, Oxford. Not amazing; I've had better in London and DC, and certainly Bangalore. But more than good enough. Plus, 
-- Luis Mota and Luzia Bruckamp's yogurt dip and hummus, Oxford.
+- •The sixth taqueria tent on the right, Base Camp, Nevado de Toluca.
+- •Castizo, CDMX
+- •La Rifa, CDMX
+- •Dosa Park, Oxford. Not amazing; I've had better in London and DC, and certainly Bangalore. But more than good enough. Plus, 
+- •Luis Mota and Luzia Bruckamp's yogurt dip and hummus, Oxford.
 
 
 ## Listening
 
 Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most new listening material. 
 
-- -*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
-- -*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
-- -*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
-- -*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power. 
-- -*Renaissance*, Apashe.
-- *La Grande Folie*, San Salvador.
+- •*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
+- •*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
+- •*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
+- •*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power. 
+- •*Renaissance*, Apashe.
+- •*La Grande Folie*, San Salvador.
 
 
 
