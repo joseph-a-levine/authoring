@@ -54,8 +54,8 @@ Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media
 - •*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
 - •*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
 - •*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
-- •*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power. 
-- •*Renaissance*, Apashe.
+- •*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power.{% sidenote "sidenote-id" "H/T Emma." %} 
+- •*Renaissance*, Apashe.{% sidenote "sidenote-id" "H/T Sam." %}
 - •*La Grande Folie*, San Salvador.
 
 
