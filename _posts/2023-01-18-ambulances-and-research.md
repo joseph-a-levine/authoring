@@ -13,7 +13,7 @@ There's a graph which shows up often around people with an intellectual interest
 
 <br>
 
-{% maincolumn "assets/img/price-changes-in-usa-in-past-20-years-2294.jpg" "Elodie used a different version which separated emergent hospital services from non-emergent hospital services. <br> Also — I just bought a television in the UK! Wow are those things cheap." %}
+{% maincolumn "assets/img/price-changes-in-usa-in-past-20-years-2294.jpg" "Elodie used a different version which separated emergent hospital services from non-emergent hospital services. <br> <br> Also — I just bought a television in the UK! Wow are those things cheap." %}
 
 
 The moral is presumably that, while it's great televisions are getting cheaper, the "important" stuff is getting more expensive faster than wages, and the only goods which are getting cheaper are boring, opiate of the masses consumer goods.{% sidenote "moore-id" "Another plausible story is about the Moore's law as a black hole for innovation. We've gotten unspeakably good at cramming transistors onto a chip, but this innovation hasn't (yet) spilled over to revolutions in the healthcare sector. I like this story more, but it's not as relevant." %} 
