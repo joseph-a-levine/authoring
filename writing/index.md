@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thoughts (kinda blog)
+title: Things I've Written
 ---
 
 <ul>

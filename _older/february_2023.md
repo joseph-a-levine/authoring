@@ -19,7 +19,7 @@ I have no travel plans in February, besides a couple short trips to London. A fe
 
 Some housekeeping: there's no page for "January, 2023," as two people pointed out it makes more sense to name these updates for the month after they're posted (as that's when you'll be reading them). No change other than naming convention.
 
-Also, longer thoughts on books, restaurants, research, etc. have been moved to the "blog" tab at the top. This page will be a bit more list-y. 
+Also, longer thoughts on books, restaurants, research, etc. have been moved to the "writing" tab at the top. This page will be a bit more list-y. 
 
 
 ## Contents
