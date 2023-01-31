@@ -64,6 +64,8 @@ Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media
 
 ## Previously
 
+*[December, 2022](https://jablevine.com/older/december_2022)*
+
 *[November, 2022](https://jablevine.com/older/november_2022)*
 
 *[October, 2022](https://jablevine.com/older/october_2022)*

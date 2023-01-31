@@ -3,110 +3,68 @@ layout: page
 title: What am I up to now?
 ---
 
-## December, 2022
+## February, 2023
 
-In December, I finished the first semester of grad school, putting me roughly one-fifteenth of the way through. It was about what I expected, though with slightly more measure theory and less optimization. The first half of December was spent studying in various dignified libraries, MCRs, and Grand Halls around Oxford. Eventually I'll feel the urge to make a ranked list of "the best common rooms to do macro in" or something, but the chairs and ceilings still blur together too much to make any distinction reasonable. For months I'm relegated to Oxford, these monthly updates will  blur together similarly. 
+I'm back in Oxford! The first three weeks of Hilary Term{% sidenote "wint-id" "Oxford being special, this is just 'early-winter-term' if you're from the US, or 'Lent Term' if you go to Cambridge." %} have been a blur. Andrea Ferrero is teaching us all about monetary economics. I find the methods interesting, the topics less so. Dr. Ferrero presented a case study on the 1724 French devaluation of the livre — which resulted in a 30% contraction in industrial production. This was intended to demonstrate that monetary policy can have real effects, but some quick maths demonstrates an even simpler lesson: don't give 14-year-old Bourbons control of your monetary policy. 
 
+Micro and Metrics continue to hold most of my attention. Though we're all sad to have moved on from [Anders'](https://jablevine.com/older/november_2022) maximally efficient lessons on measure theory, the new lecturer for advanced econometrics,{% sidenote "martxkd-id" "In his first lecture, he had not just [one](https://xkcd.com/552/), but [two](https://xkcd.com/1132/) xkcd comics!" %} Martin Weidner, is covering more applied topics. This is especially appreciated at the moment, as it's about time for the MPhil-DPhil students to think about our thesis topics for next year (or risk disappointing [Meg Meyer](http://www.nuff.ox.ac.uk/economics/people/meyer.htm){% sidenote "megdisa-id" "Meg serves as advisor to all of the MPhil-DPhil students, and is also currently teaching information economics in the advanced microeconomics course. She also (presumably, unintentionally) presented two of her slides on cheap talk in almost perfect iambic tetrameter. Highlight of my week 2." %}).
+
+In week 1 of term, I spent a few hours reading old MPhil theses in the Social Sciences Library. Mainly, I wanted to understand where the bar was set — and it's much lower than I expected. There are plenty of good theses of the genre "hey, I found a cool dataset and ran some regressions." The majority of these are applied micro papers, which certainly makes sense as the easiest to put together. The few applied macro papers were slightly more impressive. Theory papers — especially metrics theory — consistently blew my socks off. Of course, anyone who chooses to write a theory paper in their second year is impressive enough and masochistic enough to do it well. 
+
+The first half of January was spent 2km above sea level.{% sidenote "denvspa-id" "All this time at altitude reminded me of one of my first consulting projects, for the Colorado Air and Space Port. At 5,500 feet above sea level, their slogan was: 'Launch Colorado: The First Mile Is Free'." %} Mexico City was a blast; the city is cheap and comfortable. There's a non-linear relationship between the cheapness of a city and how desirable it is for expats. Freetown, Sierra Leone is *cheap* cheap — but no amount of money will let you live at US levels of comfort. In a city of a million people, there can't be more than fifty dishwashers (and most of those will be in embassies). Mexico City isn't nearly as cheap, and has no beaches, but has far greater amenities and hot chocolate. That, plus a far reduced risk of typhoid and malaria, attract tons of expats.
+
+These expats tend to congregate in the same neighborhood — in bars in Roma Norte, you're more likely to hear English than Spanish. I lived in Zona Rosa the whole time. Some travel writers I usually trust [disrecommend](https://marginalrevolution.com/marginalrevolution/2018/04/mexico-city-travel-tips.html) the area, but I didn't find the abundance of sex shops as off-putting.{% sidenote "sidenote-id" "Tyler Cowen doesn't mind seeing such businesses in De Wallen — are Dutch prostitutes classier than Mexican?" %} There's also a very large Korean community, and a growing Japanese community. La Condesa, Polanco, Roma Norte are all within walking distance. The suburb I loved most which wasn't walkable was Coyoacan; Joe Biden's NAFTA{% sidenote "naftid" "Whatever." %} visit threw a wrench in one of my attempts to spend more time there. See the eating section below for some highlights.
+
+I have no travel plans in February, besides a couple short trips to London. A few friends{% sidenote "ivivsfr" "Polina, Andy, looking forward to seeing you." %} are coming to visit, which is a good opportunity to practice tourguiding Oxford. Anyone else passing through Oxford or London, please [say hi](https://jablevine.com/hi/)!
+
+Some housekeeping: there's no page for "January, 2023," as two people pointed out it makes more sense to name these updates for the month after they're posted (as that's when you'll be reading them). No change other than naming convention.
+
+Also, longer thoughts on books, restaurants, research, etc. have been moved to the "writing" tab at the top. This page will be a bit more list-y. 
 
 
 ## Contents
-1. [Travel](#travel)
-2. [Reading](#books)
-4. [Research](#writing)
-5. [Listening](#music)
+1. [Reading](#books)
+2. [Eating](#Eating)
+3. [Listening](#music)
 
 
   <br>
-  
-## Travel
-
-I spent time in London, DC, and New York this month. I didn't spend nearly enough time hanging out with my beloved sisters but such is life. On 1 January, I fly to CDMX. If you'll be in the area, let me know! 
-
-Also, I'm planning a 1-2 month Central Asian trip next summer; something like Tajikistan -> Uzbekistan -> Kazakhstan (or vice versa). Recommendations and introductions are welcome!
 
 ## Reading 
 
-[Here's a list](https://jablevine.com/older/2022_books) of the ~140 books I read in 2022, with some mini-reviews in the sidenotes. Borges and Shakespeare appeared most frequently. 
+- •"[Eruptions That Shook the World](https://smile.amazon.co.uk/Eruptions-Shook-World-Clive-Oppenheimer/dp/0521641128?sa-no-redirect=1)," by Clive Oppenheimer. With the last name Oppenheimer, I expected more doom and gloom about his volcanoes. But this is more like a textbook and work of scientific passion than the dramatic title implies. It's superbly organized in chapters which would line up with a semester of Volcanoes 101. One example — Oppenheimer's treatment of the Deccan Traps vs. Chicxulub crater controversy{% sidenote "ecchizx-id" "What killed the dinosaurs? Despite Zach Weinersmith's [excellent contributions](https://www.smbc-comics.com/comic/the-asteroid) to the [asteroid case](https://www.smbc-comics.com/comic/2009-06-02), this is less settled than my middle school science teachers would have you believe. The asteroid-touting astrophysicists have had the run of the debate for the past fifty years, but the geophysicists are coming for them. " %} is much more evenhanded than anything I've read from the astrophysicists.{% sidenote "evengeoas-id" "An exception from (honorary astrophysicist) Randall Munroe: 'The dinosaur extinction, famously caused by a meteor impact in what is now Mexico, was also accompanied by one of these blorps (Large Igneous Provinces), the Deccan traps in what is now India. The outpourings were already happening by the time the space rock arrived, though they seem to have gotten a lot worse around that time. Scientists are still debating how the two events were connected and how much each one contributed to the extinction. The main extinction seems to have happened right at the moment of impact, so it was definitely the key, but all that lava couldn’t have helped the situation.'" %}  The book has a quiet passion for volcanic science. It's this which caught Werner Herzog's attention, leading to the release of two volcano-themed films in 2016. The first, *Salt and Fire*, is an action-thriller;{% sidenote "salfjurg-id" "Think *Jurassic Park*, not *Geostorm*." %} the second is a documentary with Oppenheimer about "belief systems" tied to volcanoes around the world.
+- •"[Eichmann in Jerusalem](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem)," by Hannah Arendt. The first of two books I read on Holocaust Remembrance Day. Very short, worth your time. There are two bits to this book — the psychology,{% sidenote "banaev-id" "'Banality of evil' and all that." %} and the history. The history will stick with me for longer. Arendt paints detailed portraits of each Nazi-occupied or -allied government's behavior when confronted with Holocaust demands. Bulgaria, Italy (!?), and Denmark look heroic; France, Poland, and Greece are depressing; Romania is a nightmare within a nightmare. 
+- •"[The Disappearance of Joseph Mengele](https://en.wikipedia.org/wiki/The_Disappearance_of_Josef_Mengele)," by Oliver Guez. Tyler Cowen's recommendation is that, "“I’ve read enough about the Holocaust” is not a good reason to avoid this book." I agree — but Cowen's summary — "How does in fact a sophisticated doctor become a Nazi and then frame that decision to himself?" — is miles off. Of the dozens of Nazis the reader meets in Argentina, Uruguay, Switzerland, Brazil, and Germany, Mengele is the least interested in justifying his previous political beliefs. There was no "becoming" a Nazi in this book. The Doktor's phrenological racism was a primitive — Guez' Mengele is bored of the debates and justifications of the other Nazis in the Southern Cone. He is nothing more or less interesting than a paranoid and sadistic man. 
+- •"[South](https://en.wikipedia.org/wiki/South_(book))", by Ernest Shackleton. A much lighter read than the above{% sidenote "lighsant-id" "Besides the disease, death, shipwrecks, and possible cannibalism." %}  — and an amazing Antarctic memoir. Each episode is fantastical, and completely true. 
+- •I also read all of the fanfiction in [the appendix of Chris Olah's dating profile](https://docs.google.com/document/d/1m_aJCJ5JDFRqNOaUVskj4o0VOPmF5MKRxdur9CvAc2o/edit#).{% sidenote "sidenote-id" "An odd sentence to write, I'm sure also an odd sentence to read." %} Highly enjoyable.
 
-In mid-December, I spent six days in bed with the flu and finished six books. Some of these had been sitting on the backburner for a while;{% sidenote "comchcol" "**Comm Check**, a journalistic account of the *Columbia* disaster, and a new history of YouTube from Mark Bergen." %} others felt appropriate to the moment — Schopenhauer's **Essays and Aphorisms** are accessible and misanthropic, perfect for the brain fog and misery of a high fever. I intended to skip the metaphysics — is now the time for an essay "on the antithesis of thing in itself and appearance"? — and only persevered through momentum. The back-to-back zingers "On Suicide" and "On Women" gave me an "[oh my god, Jonathan was racist](https://youtu.be/wwDGm6JO4Lw?t=32)" moment, but it turns out Schopenhauer's cynicism runs much deeper than that. 
+## Eating
 
-My favorite, and the most generally interesting section, were the aphorisms on law and politics. Schopenhauer seems to go philosopher-by-philosopher, attempting to piss off in turn. He quotes Voltaire on monarchy, then argues governments should only allow freedom of the press "upon the strictest prohibition of any kind of anonymity," which would have sparked an angry pamphlet from Monsieur Arouet. Schopenhauer also deserves credit for introducing me to the Hobbesian side of Spinoza — "Unusquisque tantum juris habet, quantum potentid valet."{% sidenote "latinspi" "A person's rights are equivalent to his power." %}{% sidenote "sidenote-id" "Did Spinoza get a chance to read *Leviathan*? SEP asserts Spinoza read *De Cive* (which I only know from PolPhil101), but *Leviathan* seems much more up Spinoza's alley. The timing is a bit tight, tho, with Baruch's early death-by-glass." %} 
-
-There were two especially fun arguments, which wrap around in unexpected, [Chestertonian](https://twitter.com/stevenkaas/status/144899078222921729) ways: 
-
-> Republics are anti-natural, artificial and derive from reflection : consequently there are also very few of them in the entire history of mankind, namely the little Greek republics and the Roman and Carthaginian re- publics, and these were all made possible by the fact that five- sixths, perhaps even seven-eighths of their population consisted of slaves. The case is similar in the United States of North America: in the year 1840, of a population of 16 millions, three millions were slaves. The duration of the republics of antiquity was, moreover, very brief compared with that of the monarchies. Republics are in general easy to establish but hard to maintain : precisely the opposite is true of monarchies.
-
-Therefore: 
-
-> If you want Utopian plans, I would say: the only solution to the problem is the despotism of the wise and noble members of a genuine aristocracy, a genuine nobility, achieved by mating the most magnanimous men with the cleverest and most gifted women. 
-
-Second: 
-
-> Poverty and slavery are thus only two forms of - one might almost say two words for - the same thing, the essence of which is that a man's energies are expended for the most part not on his own behalf but on that of others; the outcome being partly that he is overloaded with work, partly that his needs are very inadequately met.
-> ...
-> It is therefore a fact that the people is sovereign: but this sovereignty never comes of ageand therefore has to remain under the permanent care of a guardian.
-
-Other fun bits include a [potshot at color theory](https://xkcd.com/1882/):
-
-> On the other hand, in our own day Newton's absurd theory of colours still holds the field, forty years after the appearance of Goethe's.
-
-and a personal attack on my love of parentheses and sidenotes:
-
-> The guiding principle in the art of composition should be that the human being can think clearly only one thought at a time, so that he should not be asked to think two, not to speak of more than two thoughts at the same time. — But this is what he is being asked to do when parentheses are inserted into sentences which have been broken up to accommodate them, a practice which causes unnecessary and wanton confusion. German writers are the worst offenders in this respect.
-
-### Orwell on Christmas and "Why Socialists Don't Believe In Fun"
-
-In 2021, I read the entirety of George Orwell's/Eric Arthur Blair's bibliography. The non-fiction was great, the fiction was good; the best were from "As I Please", Orwell's column in *The Tribune* from 1943 to 1947. Orwell shared his thoughts on everything from how to date online in the 1940s to the demographic transition to cricket to Pascal's mugging.{% sidenote "orwelpascm" "'Never, literally never in recent years, have I met anyone who gave me the impression of believing in the next world as firmly as he believed in the existence of, for instance, Australia. Belief in the next world does not influence conduct as it would if it were genuine. With that endless existence beyond death to look forward to, how trivial our lives here would seem! Most Christians profess to believe in Hell. Yet have you ever met a Christian who seemed as afraid of Hell as he was of cancer? Even very devout Christians will make jokes about Hell. They wouldn’t make jokes about leprosy, or R.A.F. pilots with their faces burnt away: the subject is too painful.
-'" %}
-
-On Christmas morning, I came across my old notes on "[Why Socialists Don't Believe In Fun](https://www.orwell.ru/library/articles/socialists/english/e_fun)," published in *The Tribune* on Christmas 1943. Orwell considers the problem of utopia: "all efforts to describe permanent happiness [...] have been failures." While this is partly the fault of fiction — H.G. Wells and Jonathan Swift's failures are most salient — Orwell finds fault in politics and religion as well. 
-
-> Heaven is as great a flop as Utopia, though Hell occupies a respectable place in literature, and has often been described most minutely and convincingly. It is a commonplace that the Christian Heaven, as usually portrayed, would attract nobody. Almost all Christian writers dealing with Heaven either say frankly that it is indescribable or conjure up a vague picture of gold, precious stones, and the endless singing of hymns. [...] Many a revivalist minister, many a Jesuit priest (see, for instance, the terrific sermon in James Joyce's Portrait of the Artist) has frightened his congregation almost out of their skins with his word-pictures of Hell. But as soon as it comes to Heaven, there is a prompt falling-back on words like ‘ecstasy’ and ‘bliss’, with little attempt to say what they consist in. Perhaps the most vital bit of writing on this subject is the famous passage in which Tertullian explains that one of the chief joys of Heaven is watching the tortures of the damned.{% sidenote "ischriparad" "'As for the Muslim Paradise, with its 77 houris per man, all presumably clamouring for attention at the same moment, it is just a nightmare.'" %}
-
-The problem of utopia is so intractable that Orwell, his socialism persisting through his [Catalonian adventure](https://en.wikipedia.org/wiki/Homage_to_Catalonia), dismisses it as a political goal. Instead, writing in the horrific aftermath of the Blitz:
-
-> The real objective of Socialism is human brotherhood. This is widely felt to be the case, though it is not usually said, or not said loudly enough. Men use up their lives in heart-breaking political struggles, or get themselves killed in civil wars, or tortured in the secret prisons of the Gestapo, not in order to establish some central-heated, air-conditioned, strip-lighted Paradise, but because they want a world in which human beings love one another instead of swindling and murdering one another. And they want that world as a first step. Where they go from there is not so certain, and the attempt to foresee it in detail merely confuses the issue.
-> 
-> Socialist thought has to deal in prediction, but only in broad terms. One often has to aim at objectives which one can only very dimly see. At this moment, for instance, the world is at war and wants peace. Yet the world has no experience of peace, and never has had, unless the Noble Savage once existed. The world wants something which it is dimly aware could exist, but cannot accurately define. This Christmas Day, thousands of men will be bleeding to death in the Russian snows, or drowning in icy waters, or blowing one another to pieces on swampy islands of the Pacific; homeless children will be scrabbling for food among the wreckage of German cities. To make that kind of thing impossible is a good objective. But to say in detail what a peaceful world would be like is a different matter.
+- •Castizo, CDMX
+- •The sixth taqueria tent on the right, Base Camp, Nevado de Toluca. The chorizo verde was amazing; each taco was $0.22, for easily the best value meal of the trip. The champurrado was the best of the many I tried. 
+- •La Rifa, CDMX. The best "trendy" hot chocolate spot. The secret is cardamom.{% sidenote "carf-id" "I tried 17 hot chocolates and champurrados while in Mexico; some spontaneously, some taken from the hot chocolate review blog [Ultimate Hot Chocolate](http://ultimatehotchocolate.com/mexico/) (because of course). La Rifa was the overall winner. Champurrados are on average better than hot chocolates. " %} 
+- •The Hawaiiana tostada from literally any stall in CDMX, CDMX.
+- •Luis Mota and Luzia Bruckamp's yogurt dip and hummus, Oxford.
+- •Dosa Park, Oxford. Not amazing; I've had better in London and DC, and certainly Bangalore. But it's become a meeting place for a small group of friends, and I already have pre-nostalgia.
 
 
-
-
-
-### Monthly Le Guin
-
-Ursula Le Guin wrote ["Introducing Myself"](https://languagelog.ldc.upenn.edu/myl/IntroducingMyself.html) as a "a performance piece, performed a couple of times." While none of these performances are on YouTube, I like to imagine the effect of watching the septuagenarian Le Guin standing up in a bookshop or college auditorium and opening: 
-
-> I am a man. Now you may think I’ve made some kind of silly mistake about gender, or maybe that I’m trying to fool you, because my first name ends in a , and I own three bras, and I’ve been pregnant five times, and other things like that that you might have noticed, little details. But details don’t matter. If we have anything to learn from politicians it’s that details don’t matter. I am a man, and I want you to believe and accept this as a fact, just as I did for many years.
-
-No one can accuse Le Guin of making silly mistakes about gender,{% sidenote "tegendlue" "My favorite recent weird gender book (also my favorite weird utopia book) is Ada Palmer's *Terra Ignota*; in an interview, Dr. Palmer said her dream reviewer would have been Ursula Le Guin. " %} and this essay is one of her more truculent  and sardonic commentaries. While she is a man, she's "a kind of second-rate or imitation man, a Pretend-a-Him." 
-
-> I am to a genuine male him as a microwaved fish stick is to a whole grilled Chinook salmon. I mean, after all, can I inseminate? Can I belong to the Bohemian Club? Can I run General Motors? Theoretically I can, but you know where theory gets us. 
-
-There's also a delightful riff on Hemingway. Highly recommended.
 
 ## Listening
 
-Spotify Wrapped is a challenging time of year. I usually don't know how to answer the question, "What type of music do you listen to?" But every December, I'm confronted by my revealed preferences; it's rarely flattering. This year was particularly confusing: in my top five most-listened to songs were [Avril Lavigne](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt?si=9e5ab85d2d544256), [Mikhail Glinka](https://open.spotify.com/track/19ocRIYxL4h6lKJFIxXnWF?si=3c0f13265ee9486d), and the great blues guitarist [Johnny Winter](https://open.spotify.com/track/2ufOnRuG6tOacEWlsI1JER?si=1662d6784cb64f68). My most-played artists were The Beatles and Taylor Swift. 
+Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most new listening material. 
 
-While almost a quarter of the books I read this year were written in languages other than English, anglophone music dominated my listening. Of my 100 most listened to songs, only six had lyrics not in English, and four of those were in Spanish. I'm disappointed in myself — the majority of *new* (lyrical) music I listen to isn't in English.{% sidenote "lyrpul" "Tho the plurality is." %} Why I do listen to so much linguistically challenging music once, then never again? 
-
-The music I listen to on repeat has three purposes: singing in the shower,{% sidenote "showermusic" "Country, folk, Jason Mraz, and other genres with accessible ranges." %} doing math,{% sidenote "mathmsuic" "Latin guitar, hard bop, and Zakir Hussein." %} and long plane rides.{% sidenote "planemusic" "The Steve Miller Band's 'Jet Airliner,' Vivaldi, and Bach." %} All of these make good showings on my revealed preference list, but 
-
-### New stuff, no English lyrics allowed
-
-*Masikini Naye Mtu (The Poor are Also People)*, Jamaica Mnanda. [Listen here](https://jamaica.bandcamp.com/album/masikini-naye-mtu-the-poor-are-also-people). Fast-paced, political Senegalese music, with two less-traditional remixes. 
-
-*Szól a Világ*, Napfonat. Listen on Spotify. Catchy Hungarian a capella, pretty poppy. 
-
-*Templo Komodo*, Briela Ojeda. Listen on Spotify. Man, I've got no idea what this is. But it's great. The title track and Doña Justicia are return tracks.
-
-
-
+- •*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
+- •*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
+- •*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
+- •*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power.{% sidenote "sidenote-id" "H/T Emma." %} Ooh this was good. 
+- •*Renaissance*, Apashe.{% sidenote "sidenote-id" "H/T Sam." %} Not my usual stuff. Thanks to the #music channel on the work Slack.
+- •*La Grande Folie*, San Salvador. French a capella with the intensity of the *Kill Bill* theme music.
 
 
 
 ## Previously
+
+*[December, 2022](https://jablevine.com/older/december_2022)*
 
 *[November, 2022](https://jablevine.com/older/november_2022)*
 
