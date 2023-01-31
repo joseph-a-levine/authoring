@@ -53,7 +53,9 @@ The Cooper et al. paper is really cool, and I'm glad I got to see Elodie talk ab
 <br> 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am becoming increasingly convinced that the best part of a PhD is the summer before you start it, when you get to tell everyone you’re doing a PhD and they’re all like “oh that’s so cool” but you don’t have to actually do any of the PhD yet.</p>&mdash; Nikhil Basavappa (@NikhilBasavappa) <a href="https://twitter.com/NikhilBasavappa/status/1274727800403042310?ref_src=twsrc%5Etfw">June 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{% sidenote "nikh" "I've met Nikhil; the first two years of his PhD went much better than this tweet might imply." %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t really know what to say. <br>Category 2 ambulance calls include those for suspected heart attacks and strokes.<br>The mean response time in December was 1 hour 32 minutes across England; 2 hours 39 in the South West.<br>The target is 18 minutes. <a href="https://t.co/gqWhESxJ4F">pic.twitter.com/gqWhESxJ4F</a></p>&mdash; Paul Mainwood (@PaulMainwood) <a href="https://twitter.com/PaulMainwood/status/1613463576034906112?ref_src=twsrc%5Etfw">January 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
+
+I'd like to 
 
