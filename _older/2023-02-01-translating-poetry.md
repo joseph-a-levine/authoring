@@ -5,8 +5,7 @@ date:   2023-02-01
 categories: post
 ---
 
-Some translators search for perfection, which is of course impossible. These translators Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not without trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:
-
+Some translators are trying to recreate the essence instead of the meaning of a poem.{% sidenote "sidenote-id" "I'm certain there's jargon here, I don't know it and I'm not interested." %}  These translators are relatively more drawn towards perfection, which is of course impossible. Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not for lack of trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:
 
 {% epigraph ' I hate and love. Why? You may ask but <br> <br> It beats me. I feel it done to me, and ache. ' 'Catullus (trans. Pound)' ' LXXXV ' %}{% sidenote "sidenote-id" "I *so* don't know Latin. " %} 
 
