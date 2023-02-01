@@ -26,12 +26,20 @@ When a translator chooses how to deal with wine dark
 Borges is full of these almost-metaphors: 
 
 > I remember that very common *kenning* which calls the sea “the whale road.” I wonder whether the unknown Saxon who first coined that *kenning* knew how fine it was. I wonder whether he felt (though this need hardly concern us) that the hugeness of the whale suggested and emphasized the hugeness of the sea.
-
+> 
+> [...]
+> 
 > If I am not mistaken, the Chinese call the world “the ten thousand things,” or — and this depends on the taste and fancy of the translator — “the ten thousand beings.” We may accept, I suppose, the very conservative estimate of ten thousand. Surely there are more than ten thousand ants, ten thousand men, ten thousand hopes, fears, or nightmares in the world. But if we accept the number ten thousand, and if we think that all metaphors are made by linking two different things together, then, had we time enough, we might work out an almost unbelievable sum of possible metaphors
-
+> 
+> [...]
+> 
 > Burton translates *Quitab alif laila wa laila* as *Book of the Thousand Nights and a Night*, instead of *Book of the Thousand and One Nights*. This translation is a literal one. It is true word for word to the Arabic. Yet it is false in the sense that the words “book of the thousand nights and a night” are a common form in Arabic, while in English we have a slight shock of surprise. And this, of course, has not been intended by the original.
-
+> 
+> [...]
+> 
 > [T]he Hebrews had no superlatives, so they could not say “the highest song” or “the best song.” They said “the song of songs,” even as they might have said “the king of kings” for “the emperor” or “the highest king”; or “the moon of moons” for “the highest moon”; or “the night of nights” for the most hallowed of nights. If we compare the English rendering “song of songs” to the German by Luther, we see that Luther, who had no care for beauty, who merely wanted Germans to understand the text, translated it as “das hohe Lied,” “the high lay.”
+
+I would also quote the entirety of Borges' essay on the Rubiyat
 
 And buried, here, after all of these quotes, I'll include my own translation of a Borges poem. If I could only have one version of this poem, I'd take Borges' in the spanish, but I prefer mine to Reid's or . Which I suppose is all I can ask. 
 
