@@ -5,21 +5,21 @@ date:   2023-02-01
 categories: post
 ---
 
-How do we rate translations of poetry? Should we preserve form at the expense of meaning? Or is the poetic experience itself what the translator seeks to recreate? I don't know; here are a bunch of thoughts, mostly other peoples', about translating poetry.
+How do we rate translations of poetry? Should we preserve form at the expense of meaning? Or is the poetic experience itself what the translator seeks to recreate? I don't know; here are a bunch of thoughts, mostly other peoples', about translating poetry.{% sidenote "sidenote-id" "Parts of this copied from my letters to PP and SB." %}
 
 One way around this problem is to assign yourself a very specific goal — [this 2010 paper](https://aclanthology.org/D10-1016.pdf) from three Google engineers attempts to produce machine translations of poetry which conform to common rhyme and meter constraints. They are not interested in the quality of the output,{% sidenote "sidenote-id" "'We have no objective means of 'poetic' quality evaluation.'" %} but trying to machine translate the rhythm. Their results are really impressive! Look at the two verses from Oscar Wilde on the top of page 8. 
 
-This is cool, but the machine translation of poetry hasn't advanced much in the past decade. Human translation is I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "Why not from English to Bangla? Don't know." %} and found it a rewarding experience. These attempts have usually been motivated by a desire to understand the poem more deeply. It's trite, almost, that thinking about each word, each line, and the poem as a whole, and how to convey it in English, 
+This is cool, but the machine translation of poetry hasn't advanced much in the past decade. Human translation is I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "I have never come across a poem which I wanted to put into Bangla, certainly out of a feeling of inadequacy." %} and found it a rewarding experience. These attempts have been motivated by a desire to understand the poem more deeply or to see it from a different angle. 
 
-Some translators are trying to recreate the essence instead of the meaning of a poem.{% sidenote "jargo-id" "I'm certain there's jargon here, I don't know it and I'm not interested." %}{% marginfigure "margin-iimpos-id" "assets/img/impostor.png" "" %}   These translators are relatively more drawn towards perfection, which is of course impossible. Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not for lack of trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:{% sidenote "warnsod-id" "Warning: I *so* don't know Latin. " %} 
+Some translators focus on the poetic experience.{% sidenote "jargo-id" "I'm certain there's jargon here, I don't know it and I'm not interested." %}{% marginfigure "margin-iimpos-id" "assets/img/impostor.png" "" %}   These translators seem more drawn towards perfection of experience, which is of course impossible. Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not for lack of trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:{% sidenote "warnsod-id" "Warning: I *so* don't know Latin. " %} 
 
 {% epigraph ' I hate and love. Why? You may ask but <br> <br> It beats me. I feel it done to me, and ache. ' 'Catullus (trans. Pound)' ' LXXXV ' %}
 
 I can't emphasize how much I don't know Latin — I'm comparing Pound's translations to Green's and Michie's, which are both interesting and well-regarded. Green, for example, turns the second line ("*nescio, sed fieri sentio et excrucior.*") into "I have no idea. I just feel it. I am crucified." Google Translate gave me "I do not know, but I feel it happening and I am tormented." 
 
-Pound isn't as interested in the words ("*excrucior,*" "I am crucified," "I am tormented" are rendered as "I ache") as he is the experience of reading a poem about a passionate love affair. This translation is a function of Pound's experience reading the poem more than the poem itself. From Borges: 
+Pound isn't as interested in the words ("*excrucior,*" "I am crucified," "I am tormented" are rendered as "I ache") as he is the experience of reading a poem about a passionate love affair. The translation is a function of Pound's experience reading the poem more than the poem itself. From Borges: 
 
-> [T]he first reading of a poem is a true one, and after that we delude ourselves into the belief that the sensation, the impression, is repeated.” 
+> [T]he first reading of a poem is a true one, and after that we delude ourselves into the belief that the sensation, the impression, is repeated.
 
 Pound is Catullus' reader; we are Pound's reader, and we are reading Pound's poem, not Catullus' poem. 
 
@@ -49,7 +49,7 @@ Borges loved metaphors about webs — see the poem at the bottom of this page fo
 
 > a very fine Norse and — strangely enough — Irish metaphor about [a battle]. It calls the battle “the web of men.” The word “web” is really wonderful here, for in the idea of a web we get the pattern of a medieval battle: we have the swords, the shields, the crossing of the weapons. Also, there is the nightmare touch of a web being made of living beings. “A web of men”: a web of men who are dying and killing each other.
 
-I would also quote the entirety of Borges' essay on the Rubiyat
+I would also quote the entirety of Borges' essay on the Rubaiyat of Omar Khayyam, ["The Enigma of Edward FitzGerald."](https://gwern.net/docs/borges/1951-borges-theenigmaofedwardfitzgerald.pdf) It's only three pages, and one of my favorite bits of literary history. 
 
 At risk of this being just a wall of Borges quotes, I'll end with something instead from his translator Reid:
 
