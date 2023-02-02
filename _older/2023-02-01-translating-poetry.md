@@ -49,8 +49,7 @@ And buried, here, after all of these quotes, I'll include my own translation of 
 
 *A Haydée Lange*
 
-Se abre la verja del jardín
-
+Se abre la verja del jardín<br>
 con la docilidad de la página
 que una frecuente devoción interroga
 y adentro las miradas
