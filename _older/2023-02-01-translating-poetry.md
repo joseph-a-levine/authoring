@@ -43,13 +43,14 @@ Borges is full of these almost-metaphors:
 
 I would also quote the entirety of Borges' essay on the Rubiyat
 
-And buried, here, after all of these quotes, I'll include my own translation of a Borges poem. If I could only have one version of this poem, I'd take Borges' in the spanish, but I prefer mine to Reid's or . Which I suppose is all I can ask. 
+And buried, here, after all of these quotes, I'll include my own translation of a Borges poem. I love this poem, and I like my translation. 
 
 ## Llaneza
 
 *A Haydée Lange*
 
 Se abre la verja del jardín
+
 con la docilidad de la página
 que una frecuente devoción interroga
 y adentro las miradas
