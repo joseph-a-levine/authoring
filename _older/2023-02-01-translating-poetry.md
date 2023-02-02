@@ -7,6 +7,8 @@ categories: post
 
 How do we rate translations of poetry? 
 
+I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "Why not from English to Bangla? Don't know." %} and found it a rewarding experience. These attempts have usually been motivated by a desire to understand the poem more deeply. It's trite, almost, that thinking about each word, each line, and the poem as a whole, and how to convey it in English, 
+
 Some translators are trying to recreate the essence instead of the meaning of a poem.{% sidenote "jargo-id" "I'm certain there's jargon here, I don't know it and I'm not interested." %}  These translators are relatively more drawn towards perfection, which is of course impossible. Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not for lack of trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:{% sidenote "warnsod-id" "Warning: I *so* don't know Latin. " %} 
 
 {% epigraph ' I hate and love. Why? You may ask but <br> <br> It beats me. I feel it done to me, and ache. ' 'Catullus (trans. Pound)' ' LXXXV ' %}
@@ -43,4 +45,52 @@ I would also quote the entirety of Borges' essay on the Rubiyat
 
 And buried, here, after all of these quotes, I'll include my own translation of a Borges poem. If I could only have one version of this poem, I'd take Borges' in the spanish, but I prefer mine to Reid's or . Which I suppose is all I can ask. 
 
-Llaneza
+## Llaneza
+
+*A Haydée Lange*
+
+Se abre la verja del jardín
+con la docilidad de la página
+que una frecuente devoción interroga
+y adentro las miradas
+no precisan fijarse en los objetos
+que ya están cabalmente en la memoria.
+Conozco las costumbres y las almas
+y ese dialecto de alusiones
+que toda agrupación humana va urdiendo.
+No necesito hablar
+ni mentir privilegios;
+bien me conocen quienes aquí me rodean,
+bien saben mis congojas y mi flaqueza.
+Eso es alcanzar lo más alto,
+lo que tal vez nos dará el Cielo:
+no admiraciones ni victorias
+sino sencillamente ser admitidos
+como parte de una Realidad innegable,
+como las piedras y los árboles.
+
+## Homeliness
+
+*To Haydée Lange*
+
+The garden gate opens
+with the ease asked of a page
+in a much-loved book
+and inside our gaze
+has no need to linger on the things
+already firmly fixed in memory.
+Here, I know the habits and souls
+and that private language 
+that every small group of friends weave. 
+There is no need to lie
+or pretend to be what I am not —
+this house and these people know me well, 
+my anxiety and my frailty.
+This is the best we can hope for,
+what perhaps Heaven will grant us: 
+not praise or success, 
+but simply to belong
+as part of an indelible Reality,
+like stones and like trees.
+
+
