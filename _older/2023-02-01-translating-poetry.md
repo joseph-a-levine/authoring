@@ -69,7 +69,7 @@ sino sencillamente ser admitidos<br>
 como parte de una Realidad innegable,<br>
 como las piedras y los árboles.
 
-## Homeliness
+## A familiar simplicity
 
 *To Haydée Lange*
 
