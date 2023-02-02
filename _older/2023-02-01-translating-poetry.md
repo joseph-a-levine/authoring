@@ -27,7 +27,7 @@ I don't mean to condemn this. Faithful translations fail because words lose and 
 
 When a translator chooses how to deal with Homer's seas, they are making a choice for their reader, too. The wine-dark seas are Homer's, as no reader today has seen a wine-dark sea. When we hear "wine-dark," we don't think of seas that can tear shops apart, we think of Homer. Translating poetry requires constant choices, but this problem is particular to poetry which has traveled millenia.{% sidenote "bibtr-id" "'Matthew Arnold advised the translator of Homer to have a Bible at his elbow. He said that the Bible in English might be a kind of standard for a translation of Homer. Yet if Matthew Arnold had looked closely into his Bible, he might have seen that the English Bible is full of literal translations, and that part of the great beauty of the English Bible lies in those literal translations.'" %} There's a surprisingly good [Wikipedia page on this question](https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)).
 
-Borges is full of these almost-metaphors, necessities of translating poetry: 
+Borges is full of these almost-metaphors, the necessities of translating poetry: 
 
 > I remember that very common *kenning* which calls the sea “the whale road.” I wonder whether the unknown Saxon who first coined that *kenning* knew how fine it was. I wonder whether he felt (though this need hardly concern us) that the hugeness of the whale suggested and emphasized the hugeness of the sea.
 > 
