@@ -79,9 +79,9 @@ in a much-loved book;<br>
 inside, our gaze<br>
 has no need to linger on the things<br>
 already firmly fixed in memory.<br>
-Here, I know the habits and souls<br>
+Here, I live in the habits and souls<br>
 and that private language <br>
-that every small group of friends weave. <br>
+woven by every small group of friends. <br>
 There is no need to lie<br>
 or pretend to be what I am not —<br>
 this house and these people know me well, <br>
