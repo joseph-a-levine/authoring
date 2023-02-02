@@ -52,21 +52,21 @@ And buried, here, after all of these quotes, I'll include my own translation of 
 Se abre la verja del jardín<br>
 con la docilidad de la página<br>
 que una frecuente devoción interroga<br>
-y adentro las miradas
-no precisan fijarse en los objetos
-que ya están cabalmente en la memoria.
-Conozco las costumbres y las almas
-y ese dialecto de alusiones
-que toda agrupación humana va urdiendo.
-No necesito hablar
-ni mentir privilegios;
-bien me conocen quienes aquí me rodean,
-bien saben mis congojas y mi flaqueza.
-Eso es alcanzar lo más alto,
-lo que tal vez nos dará el Cielo:
-no admiraciones ni victorias
-sino sencillamente ser admitidos
-como parte de una Realidad innegable,
+y adentro las miradas<br>
+no precisan fijarse en los objetos<br>
+que ya están cabalmente en la memoria.<br>
+Conozco las costumbres y las almas<br>
+y ese dialecto de alusiones<br>
+que toda agrupación humana va urdiendo.<br>
+No necesito hablar<br>
+ni mentir privilegios;<br>
+bien me conocen quienes aquí me rodean,<br>
+bien saben mis congojas y mi flaqueza.<br>
+Eso es alcanzar lo más alto,<br>
+lo que tal vez nos dará el Cielo:<br>
+no admiraciones ni victorias<br>
+sino sencillamente ser admitidos<br>
+como parte de una Realidad innegable,<br>
 como las piedras y los árboles.
 
 ## Homeliness
@@ -74,23 +74,23 @@ como las piedras y los árboles.
 *To Haydée Lange*
 
 The garden gate opens <br>
-with the ease asked of a page
-in a much-loved book
-and inside our gaze
-has no need to linger on the things
-already firmly fixed in memory.
-Here, I know the habits and souls
-and that private language 
-that every small group of friends weave. 
-There is no need to lie
-or pretend to be what I am not —
-this house and these people know me well, 
-my anxiety and my frailty.
-This is the best we can hope for,
-what perhaps Heaven will grant us: 
-not praise or success, 
-but simply to belong
-as part of an indelible Reality,
+with the ease asked of a page<br>
+in a much-loved book<br>
+and inside our gaze<br>
+has no need to linger on the things<br>
+already firmly fixed in memory.<br>
+Here, I know the habits and souls<br>
+and that private language <br>
+that every small group of friends weave. <br>
+There is no need to lie<br>
+or pretend to be what I am not —<br>
+this house and these people know me well, <br>
+my anxiety and my frailty.<br>
+This is the best we can hope for,<br>
+what perhaps Heaven will grant us: <br>
+not praise or success, <br>
+but simply to belong<br>
+as part of an indelible Reality,<br>
 like stones and like trees.
 
 
