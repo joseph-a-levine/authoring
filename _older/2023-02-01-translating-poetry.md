@@ -75,8 +75,8 @@ como las piedras y los árboles.
 
 The garden gate opens <br>
 with the ease asked of a page<br>
-in a much-loved book<br>
-and inside our gaze<br>
+in a much-loved book;<br>
+inside, our gaze<br>
 has no need to linger on the things<br>
 already firmly fixed in memory.<br>
 Here, I know the habits and souls<br>
