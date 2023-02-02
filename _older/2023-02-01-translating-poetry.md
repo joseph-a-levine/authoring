@@ -5,9 +5,11 @@ date:   2023-02-01
 categories: post
 ---
 
-How do we rate translations of poetry? 
+How do we rate translations of poetry? Should we preserve form at the expense of meaning? Or is the poetic experience itself what the translator seeks to recreate? I don't know; here are a bunch of thoughts, mostly other peoples', about translating poetry.
 
-I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "Why not from English to Bangla? Don't know." %} and found it a rewarding experience. These attempts have usually been motivated by a desire to understand the poem more deeply. It's trite, almost, that thinking about each word, each line, and the poem as a whole, and how to convey it in English, 
+One way around this problem is to assign yourself a very specific goal — [this 2010 paper](https://aclanthology.org/D10-1016.pdf) from three Google engineers attempts to produce machine translations of poetry which conform to common rhyme and meter constraints. They are not interested in the quality of the output,{% sidenote "sidenote-id" "'We have no objective means of 'poetic' quality evaluation.'" %} but trying to machine translate the rhythm. Their results are really impressive! Look at the two verses from Oscar Wilde on the top of page 8. 
+
+This is cool, but the machine translation of poetry hasn't advanced much in the past decade. Human translation is I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "Why not from English to Bangla? Don't know." %} and found it a rewarding experience. These attempts have usually been motivated by a desire to understand the poem more deeply. It's trite, almost, that thinking about each word, each line, and the poem as a whole, and how to convey it in English, 
 
 Some translators are trying to recreate the essence instead of the meaning of a poem.{% sidenote "jargo-id" "I'm certain there's jargon here, I don't know it and I'm not interested." %}{% marginfigure "margin-iimpos-id" "assets/img/impostor.png" "" %}   These translators are relatively more drawn towards perfection, which is of course impossible. Ezra Pound was sure that "No one has succeeded in translating Catullus into English," and not for lack of trying: "I have failed forty times myself so I do know the matter." I was curious, and found two of Pound's translations from Catullus. They are not faithful; they're colloquial and condensed. His Catullus 85:{% sidenote "warnsod-id" "Warning: I *so* don't know Latin. " %} 
 
@@ -25,9 +27,9 @@ I don't mean to condemn this. Faithful translations fail because words lose and 
 
 > Let us take an adjective that once was commonplace. I have no Greek, but I think that the Greek is *oinopa pontos*, and the common English rendering is “the wine-dark sea.” I suppose the word “dark” is slipped in to make things easier for the reader. Perhaps it would be “the winy sea,” or something of the kind. I am sure that when Homer (or the many Greeks who recorded Homer) wrote it, they were simply thinking of the sea; the adjective was straightforward. But nowadays, if I or if any of you, after trying many fancy adjectives, write in a poem “the wine-dark sea,” this is not a mere repetition of what the Greeks wrote. Rather, it is a going back to tradition. **When we speak of “the wine-dark sea,” we think of Homer and of the thirty centuries that lie between us and him.** So that although the words may be much the same, when we write “the wine-dark sea” we are really writing something quite different from what Homer was writing.
 
-When a translator chooses how to deal with Homer's seas, they are making a choice for their reader, too. The wine-dark seas are Homer's, as no reader today has seen a wine-dark sea. When we hear "wine-dark," we don't think of seas that can tear shops apart, we think of Homer. Translating poetry requires constant choices, but this problem is particular to poetry which has traveled millenia.{% sidenote "bibtr-id" "'Matthew Arnold advised the translator of Homer to have a Bible at his elbow. He said that the Bible in English might be a kind of standard for a translation of Homer. Yet if Matthew Arnold had looked closely into his Bible, he might have seen that the English Bible is full of literal translations, and that part of the great beauty of the English Bible lies in those literal translations.'" %} There's a surprisingly good [Wikipedia page on this question](https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)).
+When a translator chooses how to deal with Homer's seas, they are making a choice for their reader, too. The wine-dark seas are Homer's, as no reader today has seen a wine-dark sea. When we hear "wine-dark," we don't think of seas that can tear shops apart, we think of Homer. Translating poetry requires constant choices, but this problem is particular to poetry which has traveled millenia.{% sidenote "bibtr-id" "'Matthew Arnold advised the translator of Homer to have a Bible at his elbow. He said that the Bible in English might be a kind of standard for a translation of Homer. Yet if Matthew Arnold had looked closely into his Bible, he might have seen that the English Bible is full of literal translations, and that part of the great beauty of the English Bible lies in those literal translations.'" %} Virginia Woolf [tells us](https://antigonejournal.com/2023/01/on-not-knowing-greek/) that, when coming from Ancient Greek, "Translators can but offer us a vague equivalent; their language is necessarily full of echoes and associations." There's a surprisingly good [Wikipedia page on this question](https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)).
 
-Borges is full of these almost-metaphors, the necessities of translating poetry: 
+Borges is full of these elusive, allusive metaphors, the necessities of translating poetry: 
 
 > I remember that very common *kenning* which calls the sea “the whale road.” I wonder whether the unknown Saxon who first coined that *kenning* knew how fine it was. I wonder whether he felt (though this need hardly concern us) that the hugeness of the whale suggested and emphasized the hugeness of the sea.
 > 
@@ -89,7 +91,7 @@ como las piedras y los árboles.
 
 ## A familiar simplicity
 
-*To Haydée Lange*
+*For Haydée Lange*
 
 The garden gate opens <br>
 with the ease asked of a page<br>
