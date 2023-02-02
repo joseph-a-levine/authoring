@@ -13,7 +13,9 @@ Some translators are trying to recreate the essence instead of the meaning of a 
 
 {% epigraph ' I hate and love. Why? You may ask but <br> <br> It beats me. I feel it done to me, and ache. ' 'Catullus (trans. Pound)' ' LXXXV ' %}
 
-I can't emphasize how much I don't know Latin — I can't compare the merits of the translations. I'm comparing Pound's translations to Green's and Michie's, which are both interesting and well-regarded. Green, for example, turns the second line ("*nescio, sed fieri sentio et excrucior.*") into "I have no idea. I just feel it. I am crucified." Google Translate gave me "I do not know, but I feel it happening and I am tormented." Pound isn't as interested in the words (*excrucior,* I am crucified, I am tormented are rendered as I ache) as he is the experience of reading a poem about a passionate love affair. This translation is a function of Pound's experience reading the poem more than the poem itself. From Borges: 
+I can't emphasize how much I don't know Latin — I'm comparing Pound's translations to Green's and Michie's, which are both interesting and well-regarded. Green, for example, turns the second line ("*nescio, sed fieri sentio et excrucior.*") into "I have no idea. I just feel it. I am crucified." Google Translate gave me "I do not know, but I feel it happening and I am tormented." 
+
+Pound isn't as interested in the words ("*excrucior,*" "I am crucified," "I am tormented" are rendered as "I ache") as he is the experience of reading a poem about a passionate love affair. This translation is a function of Pound's experience reading the poem more than the poem itself. From Borges: 
 
 > [T]he first reading of a poem is a true one, and after that we delude ourselves into the belief that the sensation, the impression, is repeated.” 
 
@@ -25,7 +27,7 @@ I don't mean to condemn this. Faithful translations fail because words lose and 
 
 When a translator chooses how to deal with wine dark
 
-Borges is full of these almost-metaphors: 
+Borges is full of these almost-metaphors, necessities of translating poetry: 
 
 > I remember that very common *kenning* which calls the sea “the whale road.” I wonder whether the unknown Saxon who first coined that *kenning* knew how fine it was. I wonder whether he felt (though this need hardly concern us) that the hugeness of the whale suggested and emphasized the hugeness of the sea.
 > 
@@ -41,7 +43,23 @@ Borges is full of these almost-metaphors:
 > 
 > [T]he Hebrews had no superlatives, so they could not say “the highest song” or “the best song.” They said “the song of songs,” even as they might have said “the king of kings” for “the emperor” or “the highest king”; or “the moon of moons” for “the highest moon”; or “the night of nights” for the most hallowed of nights. If we compare the English rendering “song of songs” to the German by Luther, we see that Luther, who had no care for beauty, who merely wanted Germans to understand the text, translated it as “das hohe Lied,” “the high lay.”
 
+Borges loved metaphors about webs — see the poem at the bottom of this page for a particularly interesting use of "urdir." Alastair Reid, his friend and translator, writes of about Borges' "webbed scheme" — "a web of people and places, threads of curiosity, wires of impulse, a network of the people who have cropped up in our lives, and will always crop up." And in a lecture entitled "The Metaphor," Borges tells us about 
+
+> a very fine Norse and — strangely enough — Irish metaphor about [a battle]. It calls the battle “the web of men.” The word “web” is really wonderful here, for in the idea of a web we get the pattern of a medieval battle: we have the swords, the shields, the crossing of the weapons. Also, there is the nightmare touch of a web being made of living beings. “A web of men”: a web of men who are dying and killing each other.
+
 I would also quote the entirety of Borges' essay on the Rubiyat
+
+At risk of this being just a wall of Borges quotes, I'll end with another from his translator Reid:
+
+> It is an odd exercise of spirit, to enter another imagination in another language and then to try to make the movement of it happen in English. Untranslatability that no ingenuity can solve does arise, which is to say that some poems are untranslatable. (I keep a notebook of these untranslatables, for they are small mysteries, clues to the intricate nature of a language.) Borges learned English as a child, read voraciously in English, and has been influenced in the formal sense more by English writing—Stevenson, Kipling, Chesterton,{% sidenote "sidenote-id" "From Borges: 'If we are in a Chestertonian mood (one of the very best moods to be in, I think), we might say that we can define something only when we know nothing about it.'" %}  Anglo-Saxon poetry, and the English poetic tradition—than by Spanish literature. [...] In his poems, Borges leans heavily on English verse forms and on many of the formal mannerisms of English poetry, so that translating his poems calls for technical ingenuity and prosodic fluency, precision being all-important. His poems are so thoroughly objectified, however, that no great leaps of interpretation have to be made in translating them. It requires only the patience to refine and refine, closer and closer to the original.
+> 
+> [...]
+> 
+> [Borges'] work has been translated by many hands, giving English readers a choice of versions, and a chance to realize what every translator must: that there is no such thing as a definitive translation. [...] As might be expected, translation has always mesmerized Borges. In an essay on versions of Homer, he has a sentence that is also destined for my wall. "No problem is as consubstantial with the modest mystery of literature," he writes, "as that posed by a translation."
+
+
+
+
 
 And buried, here, after all of these quotes, I'll include my own translation of a Borges poem. I love this poem, and I like my translation. 
 
