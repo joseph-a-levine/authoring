@@ -74,7 +74,7 @@ como las piedras y los árboles.
 
 *To Haydée Lange*
 
-The garden gate opens
+The garden gate opens <br>
 with the ease asked of a page
 in a much-loved book
 and inside our gaze
