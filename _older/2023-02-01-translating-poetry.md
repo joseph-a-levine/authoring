@@ -5,9 +5,9 @@ date:   2023-02-01
 categories: post
 ---
 
-How do we rate translations of poetry? Should we preserve form at the expense of meaning? Or is the poetic experience itself what the translator seeks to recreate? I don't know; here are a bunch of thoughts, mostly other peoples', about translating poetry.{% sidenote "sidenote-id" "Parts of this copied from my letters to PP and SB." %}
+How do we rate translations of poetry? Should we preserve form at the expense of meaning? Or is the poetic experience itself what the translator seeks to recreate? I don't know; here are a bunch of thoughts, mostly other peoples', about translating poetry.{% sidenote "whomisp-id" "Parts of this copied from my letters to PP and SB." %}
 
-One way around this problem is to assign yourself a very specific goal — [this 2010 paper](https://aclanthology.org/D10-1016.pdf) from three Google engineers attempts to produce machine translations of poetry which conform to common rhyme and meter constraints. They are not interested in the quality of the output,{% sidenote "sidenote-id" "'We have no objective means of 'poetic' quality evaluation.'" %} but trying to machine translate the rhythm. Their results are really impressive! Look at the two verses from Oscar Wilde on the top of page 8. 
+One way around this problem is to assign yourself a very specific goal — [this 2010 paper](https://aclanthology.org/D10-1016.pdf) from three Google engineers attempts to produce machine translations of poetry which conform to common rhyme and meter constraints. They are not interested in the quality of the output,{% sidenote "objeaqa-id" "'We have no objective means of 'poetic' quality evaluation.'" %} but trying to machine translate the rhythm. Their results are really impressive! Look at the two verses from Oscar Wilde on the top of page 8. 
 
 This is cool, but the machine translation of poetry hasn't advanced much in the past decade. Human translation is I've translated poems between English and Spanish, and from Bangla to English,{% sidenote "bangwh-id" "I have never come across a poem which I wanted to put into Bangla, certainly out of a feeling of inadequacy." %} and found it a rewarding experience. These attempts have been motivated by a desire to understand the poem more deeply or to see it from a different angle. 
 
