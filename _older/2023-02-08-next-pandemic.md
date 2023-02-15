@@ -5,7 +5,7 @@ date:   2023-02-08
 categories: post
 ---
 
-*I am fairly worried about the H5N1 news. It's unlikely to be ≥ covid, but my information diet over the past week has me wondering — when I think backwards on the next pandemic, what will be my first recollection?*
+*I am somewhat worried about the H5N1 news. With no human cases yet, this is a good point to worry about being worried. It's unlikely to be ≥ covid, but my information diet over the past week has me wondering — when I think backwards on the next pandemic, what will be my first recollection?*
 
 I spent the first weekend of January 2020 in at an academic conference in Puerto Rico. My first memory of the Covid pandemic{% sidenote "confak-id" "I also have a strong memory, surely constructed, standing on the steps of my aunt's house in Morgantown, West Virginia on November 23rd, 2019, speaking to one of her Ph.D. students from Wuhan. This sent me down a rabbit hole looking for the first cases; 1 December, 2019 is still the consensus date for the index case, but that comes with enough controversy that I'm fairly certain of transmission in November. This is robust to the reports of [WIV staffers getting sick](https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228) in autumn 2019, which I'm sceptical of." %} is drinking something sweet and coconutty on a terrace over the Laguna del Condado — an academic used to flying between Beijing and New York{% sidenote "grcirfli-id" "I really want to take this flight someday, in the summer. Look [at this](http://gc.kls2.com/cgi-bin/gc?PATH=PEK-JFK&RANGE=&PATH-COLOR=red&PATH-UNITS=nm&PATH-MINIMUM=&SPEED-GROUND=&SPEED-UNITS=kts&RANGE-STYLE=best&RANGE-COLOR=navy&MAP-STYLE=) gorgeous great circle. Unfortunately, there are no direct flights from Argentina to Australia. " %} was complaining about the somewhat invasive health measures being implemented on his last trip. 
 
@@ -33,5 +33,5 @@ All my methods of hearing about pandemics rely on high-level distillation effort
 
 Larger concern — will vigilance fade?
 
-*Note* — I wrote the above on 9-10 February, and any forecasts represent my views on those days. I waited to publish this on XXXXXXX, after reading Zvi's post and personal communications from virology and epidemiology friends. 
+*Note* — I wrote the above on 9-10 February, and any forecasts represent my views on those days. I waited to publish this on XXXXXXX, after reading [Zvi's post](https://thezvi.substack.com/p/h5n1) and personal communications from virology and epidemiology friends. 
 
