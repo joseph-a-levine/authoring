@@ -29,11 +29,11 @@ title: What am I up to now?
 
 ### Monthly Le Guin
 
-*[She Unnames Them](https://archives.newyorker.com/newyorker/1985-01-21/flipbook/026)* was published in the New Yorker in 1985. The story jumps off from Genesis 2:19:
+*[She Unnames Them](https://archives.newyorker.com/newyorker/1985-01-21/flipbook/026)* ([pdf](https://lchc.ucsd.edu/mca/Mail/xmcamail.2013_01.dir/pdf4gQ1dofjT0.pdf)) was published in the New Yorker in 1985.{% sidenote "htmor-id" "H/T ML." %} The story jumps off from Genesis 2:19:
 
 > 19 Now the Lord God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name. 20 So the man gave names to all the livestock, the birds in the sky and all the wild animals.
 
-
+And the eponymous She is Eve. The philosophy is classically Le Guin throughout — "the issue was precisely one of individual choice, and that anybody who wanted to be called Rover, or Froufrou, or Polly, or even Birdie in the personal sense, was perfectly free to do so" — 
 
 ## Eating
 
