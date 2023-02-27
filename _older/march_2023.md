@@ -33,7 +33,13 @@ title: What am I up to now?
 
 > 19 Now the Lord God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name. 20 So the man gave names to all the livestock, the birds in the sky and all the wild animals.
 
-And the eponymous She is Eve. The philosophy is classically Le Guin throughout — "the issue was precisely one of individual choice, and that anybody who wanted to be called Rover, or Froufrou, or Polly, or even Birdie in the personal sense, was perfectly free to do so" — 
+And the eponymous She is Eve. Gender and language are central; the philosophy is classical Le Guin throughout — "the issue was precisely one of individual choice, and that anybody who wanted to be called Rover, or Froufrou, or Polly, or even Birdie in the personal sense, was perfectly free to do so." Le Guin has few other forays with biblical themes; tho other works do touch on religious concepts, including *The Word for World Is Forest*, which includes themes of spiritualism and environmentalism, and "The Telling," dealing with an alien but repressive religious culture.
+
+The story is short, less than a page, so I don't feel bad about spoiling it. Eve goes to Adam, and returns that which him and his father lent to her. Even 80s Le Guin can't help sounding sarcastic when she writes: 
+
+> It is hard to give back a gift without sounding peevish or ungrateful, and I did not want to leave him with that impression of me. He was not paying much attention, as it happened, and said only, "Put it down over there, O.K.?" and went on with what he was doing.
+
+Recommended.
 
 ## Eating
 
