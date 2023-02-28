@@ -9,7 +9,9 @@ I'll be in Oxford throughout this month, as revision begins to heat up for the A
 
 In once sense, I haven't studied for an exam since 2018; in a much more real sense, I haven't studied for an exam ever.{% sidenote "actstud-id" "I probably studied most intensely for the GRE, which I found wholly unrewarding." %} My strategies at the moment are rather scattershot — I make Anki decks, I ask ChatGPT to prove the Bondareva-Shapley theorem using linear programming, I pester Qingyu until he explains LASSO estimators — 
 
-Going through old material, ChatGPT has become embarrassingly invaluable. In lecture, I have a crippling inability to ask stupid questions, which can leave me floundering.{% sidenote "sumbclaqu-id" "Sure, maybe no one else knows what it means for a cooperative game to be 'balanced,' but *they're* not asking, so I must be the dumb one. Better just stay quiet." %} But ChatGPT can't judge! I've taken to keeping a ChatGPT tab open in lecture alongside the slides, and asking it about points of confusion. Previously, I'd mark a slide if I had a question worth coming back to.
+Going through old material, ChatGPT has become embarrassingly invaluable. In lecture, I have a crippling inability to ask stupid questions, which can leave me floundering.{% sidenote "sumbclaqu-id" "Sure, maybe no one else knows what it means for a cooperative game to be 'balanced,' but *they're* not asking, so I must be the dumb one. Better just stay quiet." %} But ChatGPT can't judge! I've taken to keeping a ChatGPT tab open in lecture alongside the slides, and asking it about points of confusion.{% sidenote "sidenote-id" "It's helpful to ask ChatGPT to keep its responses shorter. Also, it writes very good quality LaTeX." %} Then, after a lecture, I'll review my conversation and use it to fill in my notes. Last term, if I was confused about a definition or step in a proof, I'd mark the slide and come back to it later. 
+
+Out of some masochistic curiosity, I pasted a recent problem set into ChatGPT
 
 
 
