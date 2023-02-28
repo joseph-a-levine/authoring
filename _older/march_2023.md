@@ -5,8 +5,9 @@ title: What am I up to now?
 
 ## March, 2023
 
+I'll be in Oxford throughout this month, as revision begins to heat up for the April mega-exams. In once sense, I haven't studied for an exam since 2018; in a much more real sense, I haven't studied for an exam ever.{% sidenote "actstud-id" "I probably studied most intensely for the GRE, which I found wholly unrewarding." %} My strategies at the moment are a bit scattershot — I've made some comprehensive Anki decks, 
 
-
+Going through old material, ChatGPT has become embarrasingly invaluable. In lecture, I have a crippling inability to ask stupid questions, which leaves me floundering
 
 
 
@@ -24,9 +25,9 @@ Especially good books I read last month:
 
 - •"Computing taste: algorithms and the makers of music recommendation." 
 - •"A primate's memoir: a neuroscientist's unconventional life among the baboons", by Robert Sapolsky. A mix between a neuroscientist's fieldwork memoir and a critical look at the sociology of baboons. Despite Sapolsky's excellent raconteur-age, I ended up skipping more and more of the memoir chapters towards the end.{% sidenote "sidenote-id" "This is a random sidenote" %} The baboons steal the show — I was both thrilled and saddened to learn that the species in the book is of Least Concern conservation status, and are considered pests even by primatologists. Sapolsky's passion for the animals is infectious; one reviewer wrote that "it’s hard not to love what he loves, when he loves so well." Despite this, baboons continue to... suck? They take all the petty aggression of humanity and turn it to 10, with just enough of the good qualities necessary to sustain a somewhat functioning society. Loveable nonetheless.
-- •"Arguing about justice: essays for Philippe Van Parijs", collection. This book was intended as a birthday present for Van Parijs from his academic friends, a Belgian political theorist most associated with UBI. I downloaded this book to get a single essay, titled "If Marx or Freud had never lived?" Then I got sucked in by the table of contents. Other highlights included "Why has Cuban state socialism escaped its 1989? Reflections on a non-event;" "Love not war. On the chemistry of good and evil;" and "Lamentation in the face of historical necessity." 
+- •"Arguing about justice: essays for Philippe Van Parijs", collection. This book was intended as a birthday present for Van Parijs from his academic friends, a Belgian political theorist most associated with UBI. I downloaded it to get a single essay, titled "If Marx or Freud had never lived?" Then I got sucked in by the table of contents. Other highlights included "Why has Cuban state socialism escaped its 1989? Reflections on a non-event;" "Love not war. On the chemistry of good and evil;" and "Lamentation in the face of historical necessity." 
 - •"The war that doesn't say its name: the unending conflict in the Congo", by Jason Stearns. I wish there were more books like this. The Congolese Civil War{% sidenote "wikieconciv-id" "Which is Not A Thing, according to [Wikipedia](https://en.wikipedia.org/wiki/Congolese_Civil_War)" %} has been on-going since before I was born; how do we explain decades of low-level fighting? Continued fighting is in no-one's interest, but governments, rebels, and international organizations continue to instigate. The role of Rwanda in egging on the conflict is particularly egregious. The book has is based on years of field work in eastern Congo{% sidenote "kivfie-id" "Gosh I'm jealous." %} and has strong theoretical grounding. Stearns outs himself as a constructivist early on and I was immediately thrown back to my single year of international relations lectures at St Andrews. 
-- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist. I've been calling myself an anti-realist total utilitarian to anyone who asks{% sidenote "attotaut-id" "Not many people." %} since at least 2017, and it wasn't until that I really confronted this. The impetus
+- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist ([1](https://joecarlsmith.com/2023/02/16/why-should-ethical-anti-realists-do-ethics), 2). I've been calling myself an anti-realist total utilitarian to anyone who asks{% sidenote "attotaut-id" "Not many people." %} since at least 2017; given the anti-realist part of that identity, the total utilitarian part was merely an aesthetic preference. 
 
 ### Monthly Le Guin
 
@@ -43,20 +44,9 @@ The story is short, less than a page, so I don't feel bad about spoiling it. Eve
 
 ## Eating
 
-
-
-
+Lots of smoothies and tofu (not at the same time). I made pancakes three times in February, which felt like too few. I miss Mexican food.  
 
 ## Listening
-
-Some favorites. This month, [Finn's list](https://finmoorhouse.com/writing/media-2022-b/#music) provided the most new listening material. 
-
-- •*The Abduction from the Seraglio*, Wolfgang Amadeus Mozart, conducted by Nikolaus Harnoncourt. A very energetic recording. I don't have the patience to listen to opera straight through (even *Hamilton* took me three sessions my first listen through). This recording sounds stately & classical{% sidenote "clashar-id" "In some non-ironic sense." %} without dragging. If only my attention span could hold up to operatic standards. 
-- •*Welcome 2 America*, Prince. The first posthumous Prince album; very political and funkily infectious. Prince is not usually  on my must-listens (I couldn't name more than a few of his *40 albums*), but this is a re-listen.
-- •*El Arte Del Bolero*, Miguel Zenón & Luis Perdomo. 
-- •*50 Years of Funk & Soul: Live at the Fox Theater*, Tower of Power.{% sidenote "sidenote-id" "H/T Emma." %} Ooh this was good. 
-- •*Renaissance*, Apashe.{% sidenote "sidenote-id" "H/T Sam." %} Not my usual stuff. Thanks to the #music channel on the work Slack.
-- •*La Grande Folie*, San Salvador. French a capella with the intensity of the *Kill Bill* theme music.
 
 
 
