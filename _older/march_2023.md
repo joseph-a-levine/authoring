@@ -11,7 +11,8 @@ In once sense, I haven't studied for an exam since 2018; in a much more real sen
 
 Going through old material, ChatGPT has become embarrassingly invaluable. In lecture, I have a crippling inability to ask stupid questions, which can leave me floundering.{% sidenote "sumbclaqu-id" "Sure, maybe no one else knows what it means for a cooperative game to be 'balanced,' but *they're* not asking, so I must be the dumb one. Better just stay quiet." %} But ChatGPT can't judge! I've taken to keeping a ChatGPT tab open in lecture alongside the slides, and asking it about points of confusion.{% sidenote "sidenote-id" "It's helpful to ask ChatGPT to keep its responses shorter. Also, it writes very good quality LaTeX." %} Then, after a lecture, I'll review my conversation and use it to fill in my notes. Last term, if I was confused about a definition or step in a proof, I'd mark the slide and come back to it later. 
 
-Out of some masochistic curiosity, I pasted a recent problem set into ChatGPT. It would have scored perfectly on all sub-parts of Question 1, and gotten partial credit on most of Question 2. 
+Out of some masochistic curiosity, I pasted a recent [econometrics problem set](https://jablevine.com/papers/metrics_ht_ps5.pdf) into ChatGPT. It would have scored perfectly on all sub-parts of Question 1, and gotten partial credit on most of Question 2. Even when the LLM gets caught on some tangent — on Question 2a, ChatGPT completely mixes up the sample and the population quantities — it is able to provide insight into the structure of the problem. All of the results from 2a were useless, but the model "understood" the setting thoroughly enough to answer 2b,c,d correctly.{% sidenote "2edansr-id" "Neither ChatGPT nor Joseph Levine had any chance on 2e." %}
+
 
 
 
