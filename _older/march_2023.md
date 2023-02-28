@@ -17,6 +17,8 @@ The existential dread from seeing an LLM do well enough to pass a PhD-level econ
 
 I don't have any opinions worth reading about Sydney not borrowed from [Zvi](https://thezvi.substack.com/p/ai-1-sydney-and-bing). I have found [PoE](https://poe.com/) much more useful than ChatGPT for getting into the weeds of economic theory; PoE lies to me less and cites its sources better. But only being available for iPhone is a dealbreaker for the moment. ChatGPT remains my go-to.
 
+In other news, my hair is about as long as it's been since the Dark Days
+
 
 ## Contents
 1. [Reading](#books)
@@ -34,7 +36,7 @@ Especially-good books I read in February:
 - •"[A primate's memoir: a neuroscientist's unconventional life among the baboons](https://en.wikipedia.org/wiki/A_Primate%27s_Memoir)", by Robert Sapolsky. A mix between a neuroscientist's fieldwork memoir and a critical look at the sociology of baboons. Despite Sapolsky's excellent raconteur-age, I ended up skipping more and more of the memoir chapters towards the end.{% sidenote "sidenote-id" "This is a random sidenote" %} The baboons steal the show — I was both thrilled and saddened to learn that the species in the book is of Least Concern conservation status, and are considered pests even by primatologists. Sapolsky's passion for the animals is infectious; one reviewer wrote that "it’s hard not to love what he loves, when he loves so well." Despite this, baboons continue to... suck? They take all the petty aggression of humanity and turn it to 10, with just enough of the good qualities necessary to sustain a somewhat functioning society. Loveable nonetheless.
 - •"[Arguing about justice: essays for Philippe Van Parijs](https://www.amazon.co.uk/Arguing-about-justice-Philippe-collections-ebook/dp/B00HAKHOQ6)", collection. This book was intended as a birthday present for Van Parijs from his academic friends, a Belgian political theorist most associated with UBI. I downloaded it to get a single essay, titled "If Marx or Freud had never lived?" Then I got sucked in by the table of contents. Other highlights included "Why has Cuban state socialism escaped its 1989? Reflections on a non-event;" "Love not war. On the chemistry of good and evil;" and "Lamentation in the face of historical necessity." 
 - •"[The war that doesn't say its name: the unending conflict in the Congo](https://www.amazon.co.uk/War-That-Doesnt-Say-Name/dp/0691194084)", by Jason Stearns. I wish there were more books like this. The Congolese Civil War{% sidenote "wikieconciv-id" "Which is Not A Thing, according to [Wikipedia](https://en.wikipedia.org/wiki/Congolese_Civil_War)" %} has been on-going since before I was born; how do we explain decades of low-level fighting? Continued fighting is in no-one's interest, but governments, rebels, and international organizations continue to instigate. The role of Rwanda in egging on the conflict is particularly egregious. The book has is based on years of field work in eastern Congo{% sidenote "kivfie-id" "Gosh I'm jealous." %} and has strong theoretical grounding. Stearns outs himself as a constructivist early on and I was immediately thrown back to my single year of international relations lectures at St Andrews. 
-- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist ([1](https://joecarlsmith.com/2023/02/16/why-should-ethical-anti-realists-do-ethics), 2). I've been calling myself an anti-realist total utilitarian to anyone who asks{% sidenote "attotaut-id" "Not many people." %} since at least 2017; given the anti-realist part of that identity, the total utilitarian part was merely an aesthetic preference. 
+- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist ([1](https://joecarlsmith.com/2023/02/16/why-should-ethical-anti-realists-do-ethics), [2](https://joecarlsmith.com/2023/02/17/seeing-more-whole)). I've been calling myself an anti-realist total utilitarian to anyone who asks{% sidenote "attotaut-id" "Not many people." %} since at least 2017; I always felt that the anti-realist part of that identity rendered the total utilitarian part a "merely" aesthetic preference. 
 
 ### Monthly Le Guin
 
@@ -55,7 +57,11 @@ Lots of smoothies and tofu (not at the same time). I made pancakes three times i
 
 ## Listening
 
-
+- •This [John Clayton video](https://www.youtube.com/watch?v=zGQN8vdwVrI) is a treat. Gotta be in the top ten of artists I'd like to see live.
+- •I listened to three recordings of the [Oberammergau Passion Play](https://en.wikipedia.org/wiki/Oberammergau_Passion_Play), inspired by [this article](https://www.plough.com/en/topics/culture/literature/oberammergaus-broken-vow). The passion play is performed as repayment for a vow made by the villagers of Oberammergau in 1633 to save them from the plague and the Thirty Years War; in return for their salvation, they perform the five+ hour passion all summer in the decadal year. The overture is especially stunning. For reasons separate from the author of the above article, I found the 2022 performance underwhelming; I most recommend the [2010 recording](https://www.discogs.com/release/11843021-Solisten-Chor-Und-Orchester-Der-Passionsspiele-Oberammergau-Rochus-Dedler-Markus-Zwink-Passionsspiel). I didn't expect supersessionism to take such a large role.
+- •RAYE has a superb debut/comeback album out, *[My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH?si=AA_EU9-wT0eWAIavU-CfLg)*, positively [reviewed](https://www.ft.com/content/707dedeb-fb5a-4ad0-8c62-e2aece4d6339) in the FT. Unlike her massive, polished 2010s hits with the likes of David Guetta and Jonas Blue, the new album is old-fashioned and R&B and gritty and retro pop and addictive.
+- •
+- •
 
 ## Previously
 
