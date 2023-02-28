@@ -20,12 +20,13 @@ title: What am I up to now?
 
 ## Reading 
 
-- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist. 
-- •"Computing taste: algorithms and the makers of music recommendation", 
+Especially good books I read last month: 
+
+- •"Computing taste: algorithms and the makers of music recommendation." 
 - •"A primate's memoir: a neuroscientist's unconventional life among the baboons",
 - •"Arguing about justice: essays for Philippe Van Parijs",
-- •"The war that doesn't say its name: the unending conflict in the Congo",
-
+- •"The war that doesn't say its name: the unending conflict in the Congo", by Jason Stearns. I wish there were more books like this. The Congolese Civil War{% sidenote "wikieconciv-id" "Which is Not A Thing, according to [Wikipedia](https://en.wikipedia.org/wiki/Congolese_Civil_War)" %} has been on-going since before I was born; how do we explain decades of low-level fighting? Continued fighting is in no-one's interest, but governments, rebels, and international organizations continue to instigate. The role of Rwanda in egging on the conflict is particularly egregious. The book has is based on years of field work in eastern Congo{% sidenote "kivfie-id" "Gosh I'm jealous." %} and has strong theoretical grounding. Stearns outs himself as a constructivist early on and I was immediately thrown back to my single year of international relations lectures at St Andrews. 
+- •The most important thing I read this month were Joe Carlsmith's essays on doing ethics as an anti-realist. I've been calling myself an anti-realist total utilitarian to anyone who asks{% sidenote "attotaut-id" "Not many people." %} since at least 2017, and it wasn't until that I really confronted this. The impetus
 
 ### Monthly Le Guin
 
@@ -39,7 +40,6 @@ The story is short, less than a page, so I don't feel bad about spoiling it. Eve
 
 > It is hard to give back a gift without sounding peevish or ungrateful, and I did not want to leave him with that impression of me. He was not paying much attention, as it happened, and said only, "Put it down over there, O.K.?" and went on with what he was doing.
 
-Recommended.
 
 ## Eating
 
