@@ -13,7 +13,9 @@ Going through old material, ChatGPT has become embarrassingly invaluable. In lec
 
 Out of some masochistic curiosity, I pasted a recent [econometrics problem set](https://jablevine.com/papers/metrics_ht_ps5.pdf) into ChatGPT. It would have scored perfectly on all sub-parts of Question 1, and gotten partial credit on most of Question 2. Even when the LLM gets caught on some tangent — on Question 2a, ChatGPT completely mixes up the sample and the population quantities — it is able to provide insight into the structure of the problem. All of the results from 2a were useless, but the model "understood" the setting thoroughly enough to answer 2b,c,d correctly.{% sidenote "2edansr-id" "Neither ChatGPT nor Joseph Levine had any chance on 2e. We both find algebra irritating and deceivingly complex." %}
 
-The existential dread from seeing an LLM do well enough to pass a PhD-level econometrics course was... underwhelming. I should be feeling a lot more *something* than I am. Most of my friends would advocate for "fear" or at least "apprehension." I'm also confused by the shallowness of my curiosity about how the heck this works. 
+The existential dread from seeing an LLM do well enough to pass a PhD-level econometrics course was... underwhelming. I should be feeling a lot more *something* than I am. Most of my friends would advocate for "fear" or at least "apprehension." I'm also confused by the shallowness of my curiosity about how the heck this works.{% sidenote "curikasy-id" "Not that shallow, really. More coming on this soon (i.e., after exams)." %} 
+
+I don't have any opinions worth reading about Sydney not borrowed from [Zvi](https://thezvi.substack.com/p/ai-1-sydney-and-bing). I have found [PoE](https://poe.com/) much more useful than ChatGPT for getting into the weeds of economic theory; PoE lies to me less and cites its sources better. But only being available for iPhone is a dealbreaker for the moment. ChatGPT remains my go-to.
 
 
 ## Contents
