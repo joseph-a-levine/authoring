@@ -11,7 +11,7 @@ The Gibbard-Satterthwaite theorem is the second most important result in social 
 
 In a set of notes on the topic, I learned the theorem was substantially older. David Craven at Birmingham wrote, "The [] theorem was conjectured in 1961 by Michael Dummett and Robin Farquharson." And then, in a footnote: "Farquharson studied at Brasenose,{% sidenote "brasco-id" "My college, at Oxford." %} then Queen’s and Nuffield,{% sidenote "colnuf-id" "The college where I spend most of my time." %} before going insane."{% marginfigure "kacz-figure-id" "assets/img/Kacz_footnote.png" "A competitively-good footnote, from [this paper](https://www.jstor.org/stable/27643011)." %} The rabbit hole began.
 
-Robin Farquharson was born in 1930 in Pretoria, South Africa, and completed his first Bachelors at Rhodes University. He came to Brasenose to read "Modern Greats."{% sidenote "sidenote-id" "Which would eventually be renamed Politics, Philosphy, and Economics; this " %}
+Robin Farquharson was born in 1930 in Pretoria, South Africa, and completed his first Bachelors at Rhodes University. He came to Brasenose to read "Modern Greats."{% sidenote "sidenote-id" "Which would eventually be renamed Philosophy, Politics, and Economics; about half of the British Prime Minister's have studied this degree *at Oxford* since it was introduced about a century ago." %}
 
 
 
