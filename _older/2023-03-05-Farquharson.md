@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interesting People of Economics: Robin Farquhard"
+title:  "Interesting People of Economics: Robin Farquharson"
 date:   2023-03-05
 categories: post
 ---
@@ -11,8 +11,36 @@ The Gibbard-Satterthwaite theorem is the second most important result in social 
 
 In a set of notes on the topic, I learned the theorem was substantially older. David Craven at Birmingham wrote, "The [] theorem was conjectured in 1961 by Michael Dummett and Robin Farquharson." And then, in a footnote: "Farquharson studied at Brasenose,{% sidenote "brasco-id" "My college, at Oxford." %} then Queen’s and Nuffield,{% sidenote "colnuf-id" "The college where I spend most of my time." %} before going insane."{% marginfigure "kacz-figure-id" "assets/img/Kacz_footnote.png" "A competitively-good footnote, from [this paper](https://www.jstor.org/stable/27643011)." %} The rabbit hole began.
 
-Robin Farquharson was born in 1930 in Pretoria, South Africa, and completed his first Bachelors at Rhodes University. He came to Brasenose to read "Modern Greats."{% sidenote "sidenote-id" "Which would eventually be renamed Philosophy, Politics, and Economics; about half of the British Prime Minister's have studied this degree *at Oxford* since it was introduced about a century ago." %}
+Robin Farquharson was born in 1930 in Pretoria, South Africa, and completed his first Bachelors at Rhodes University. He came to Brasenose to read "Modern Greats"{% sidenote "sidenote-id" "Which would eventually be renamed Philosophy, Politics, and Economics; about half of the British Prime Minister's have studied this degree *at Oxford* since it was introduced about a century ago." %} at the age of 20. Like many growing up during the Second World War, he saw it as an avoidable tragedy. His choice of culprit was the US — in failing to join the League of Nations, they failed to 
 
+Here, I enter into a bit of speculation,{% sidenote "sidenote-id" "Based upon [Henry Cabot Lodge](https://en.wikipedia.org/wiki/Henry_Cabot_Lodge)'s [1925 book](https://www.amazon.co.uk/Senate-League-Nations-Henry-Cabot/dp/1289346356)." %} as I have been unable to track down Farquharson's undergraduate thesis on the topic. The situation in the US Senate in the fall of 1919 was complicated. There were (broadly, imprecisely) four factions. First, the Wilsonians, those supporting the  President and his treaty without reservation; second, the  pro-Versailles Democrats, who supported the Treaty of Versailles and the new League less fanatically; third [Reservationists](https://en.wikipedia.org/wiki/Lodge_Reservations), following Senator Henry Cabot Lodge, who proposed to join the League with reservations; and fourth, the [Irreconcilables](https://en.wikipedia.org/wiki/Irreconcilables), a small bipartisan minority (~15 Senators) who fought against the Treaty at all costs.  
+
+<table>
+  <tr>
+    <th>Wilsonians</th>
+    <th>Pro-Versailles Dems</th>
+    <th>Reservationists</th>
+    <th>Irreconcilables</th>
+  </tr>
+  <tr>
+    <td class="wilsonians">Row 1, Column 1</td>
+    <td class="pro-versailles-dems">Row 1, Column 2</td>
+    <td class="reservationists">Row 1, Column 3</td>
+    <td class="irreconcilables">Row 1, Column 4</td>
+  </tr>
+  <tr>
+    <td class="wilsonians">Row 2, Column 1</td>
+    <td class="pro-versailles-dems">Row 2, Column 2</td>
+    <td class="reservationists">Row 2, Column 3</td>
+    <td class="irreconcilables">Row 2, Column 4</td>
+  </tr>
+  <tr>
+    <td class="wilsonians">Row 3, Column 1</td>
+    <td class="pro-versailles-dems">Row 3, Column 2</td>
+    <td class="reservationists">Row 3, Column 3</td>
+    <td class="irreconcilables">Row 3, Column 4</td>
+  </tr>
+</table>
 
 
 
