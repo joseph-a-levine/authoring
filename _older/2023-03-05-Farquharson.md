@@ -34,21 +34,50 @@ For example, the preferences of the factions in the 1919 Senate could be ordered
   </tr>
   <tr>
     <td class="wilsonians">Treaty passes as-is</td>
-    <td class="pro-versailles-dems">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="pro-versailles-dems">Treaty passes as-is**~**Treaty passes with reservations</td>
     <td class="reservationists">Treaty passes with reservations</td>
     <td class="irreconcilables">Treaty doesn't pass</td>
   </tr>
   <tr>
     <td class="wilsonians">Treaty doesn't pass</td>
-    <td class="pro-versailles-dems">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="pro-versailles-dems">Treaty passes as-is**~**Treaty passes with reservations</td>
     <td class="reservationists">Treaty doesn't pass</td>
-    <td class="irreconcilables">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="irreconcilables">Treaty passes as-is**~**Treaty passes with reservations</td>
   </tr>
   <tr>
     <td class="wilsonians">Treaty passes with reservations</td>
     <td class="pro-versailles-dems">Treaty doesn't pass</td>
     <td class="reservationists">Treaty passes as-is</td>
-    <td class="irreconcilables">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="irreconcilables">Treaty passes as-is**~**Treaty passes with reservations</td>
+  </tr>
+</table>
+
+Or, to simplify: 
+
+<table>
+  <tr>
+    <th>Wilsonians</th>
+    <th>Pro-Versailles Dems</th>
+    <th>Reservationists</th>
+    <th>Irreconcilables</th>
+  </tr>
+  <tr>
+    <td class="wilsonians">A</td>
+    <td class="pro-versailles-dems">A **~** B</td>
+    <td class="reservationists">B</td>
+    <td class="irreconcilables">C</td>
+  </tr>
+  <tr>
+    <td class="wilsonians">C</td>
+    <td class="pro-versailles-dems">A **~** B</td>
+    <td class="reservationists">C</td>
+    <td class="irreconcilables">A **~** B</td>
+  </tr>
+  <tr>
+    <td class="wilsonians">B</td>
+    <td class="pro-versailles-dems">C</td>
+    <td class="reservationists">A</td>
+    <td class="irreconcilables">A **~** B</td>
   </tr>
 </table>
 
