@@ -107,9 +107,9 @@ He also spent a substantial amount of time in mental hospitals, active in the [M
 
 > [Robin] in full cry was able to wreck havoc in a commune of freaks as well as in a straight organisation and when this happened to us and we could not get through to him or calm him down we also ended calling for men in white coats. It must have been a terrible blow for Robin to be rejected by his own tribe and although he did not bear a permanent grudge, I understand now he would rather anything than fall into the hands of the men in white coats. I heard he put up a good fight when they cornered him and about ten men were needed to subdue him on this occasion, tho' on the grapevine the story may have growed a bit I dunnow.
 
-Other difficult-to-confirm anecdotes include an attempt to steal a military airplane, involvement with some of the earliest British hacking collectives{% sidenote "hack-id" "Decades before hacking was a word." %}, and conning a major film studio into giving him producer credits on two films. He also maintained some sort of a friendship with Rupert Murdoch until his death.{% sidenote "murdfr-id" "This one, oddly, is well-confirmed by multiple sources." %}
+Other difficult-to-confirm anecdotes include an attempt to steal a military airplane, involvement with some of the earliest British hacking collectives{% sidenote "hack-id" "Decades before hacking was a word." %}, and conning a major film studio into giving him producer credits on two films. He [may have been a White Panther](https://web.archive.org/web/20100206194349/http://members.fortunecity.com/timetortoise/iow-70-r-farquharson.html). He also maintained some sort of a friendship with Rupert Murdoch until his death.{% sidenote "murdfr-id" "This one, oddly, is well-confirmed by multiple sources." %}
 
-[Adam Steiner](https://adamsteiner.uk/), an author interested in grunge history, was working on a book about Farquharson in the 2010s, but nothing came of it. 
+[Adam Steiner](https://adamsteiner.uk/), an author interested in grunge history, was working on a book about Farquharson in the 2010s, but nothing came of it. Farquharson 
 
 
 
