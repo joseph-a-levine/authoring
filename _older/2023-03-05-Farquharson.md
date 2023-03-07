@@ -77,7 +77,7 @@ Or, to simplify:
     <td class="wilsonians">B</td>
     <td class="pro-versailles-dems">C</td>
     <td class="reservationists">A</td>
-    <td class="irreconcilables">A **~** B</td>
+    <td class="irreconcilables">A <b>~</b> B</td>
   </tr>
 </table>
 
