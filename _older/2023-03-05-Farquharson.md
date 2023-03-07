@@ -17,7 +17,7 @@ Here, I enter into a bit of speculation,{% sidenote "sidenote-id" "Based upon [H
 
 The fall 1919 session produced a fascinating failure in social choice theory; this is what captivated Farquharson. Two votes proceeded. The first was whether to advise and consent to ratify the Treaty *with* Lodge's Reservations: a group of 39 voted in support, made up of the **pro-Versailles Democrats** (who support the Treaty with or without reservations) and the **Reservationists**, and 55 voted in opposition: the **Wilsonians** (opposing the reservations) and the **Irreconcilables** (opposing the Treaty howsoever). The second vote was whether to advise and consent to ratify the Treat *without* amendments: it was voted down by almost the same margin (38-53, with some abstentions), but two factions flipped: now, the **pro-Versailles Democrats** and the **Wilsonians** were in favor, and were opposed by the **Reservationists** and the **Irreconcilables**.{% sidenote "sidenote-id" "A later vote, the next year, again went against the Treaty *with* reservations, but with a now-depleted group of Wilsonians — now figureheaded by a bed-bound president — many-but-not-enough became pro-Versailles Democrats." %} The result was a failure to ratify. 
 
-Farquharson had rediscovered the *[Condorcet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)*. A common assumption in social choice theory is that individuals have transitive{% sidenote "sidenote-id" "If someone prefers option A to option B, and also prefers option B to option C, then they must prefer option A to option C." %} preferences. Even with this neat property, however, the amalgamation of these individual preferences might be *intransitive*. The paradox is best illustarted when people are forced to choose between three{% sidenote "oremoreid" "Or more." %} options in a series of pairwise votes. 
+Farquharson, in searching for a cause of the Second World War, had come across an apt example of a famous result of social choice theory: he had rediscovered the *[Condorcet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)*.{% sidenote "othred-id" "Since the Marquis of Condorcet, other rediscoverers included Charles Dodgson/Lewis Carroll and Duncan Black, a criminally underrated early social choice theorist." %} A common assumption in social choice theory is that individuals have transitive{% sidenote "sidenote-id" "If someone prefers option A to option B, and also prefers option B to option C, then they must prefer option A to option C." %} preferences. Even with this neat property, however, the amalgamation of these individual preferences might be *intransitive*. The paradox is best illustarted when people are forced to choose between three{% sidenote "oremoreid" "Or more." %} options in a series of pairwise votes. 
 
 For example, the preferences of the factions in the 1919 Senate could be ordered as:
 
@@ -54,6 +54,8 @@ For example, the preferences of the factions in the 1919 Senate could be ordered
 
 Or, to simplify: 
 
+<br>
+
 <table>
   <tr>
     <th>Wilsonians</th>
@@ -81,7 +83,19 @@ Or, to simplify:
   </tr>
 </table>
 
-(This is not the simplest possible example; the *pro-Versailles Dems* are unnecessary.)
+(The symbol **~** means "indifferent between." The indifference between A**~**B is irrelevant, as these options are never compared in a pairwise vote.)
+
+When looked at this way, the outcome **C**, defeat of the treaty, is unavoidable, despite being the most preferred outcome of only a small (<15%) number of Senators.  As Farquharson saw, whenever the treaty was voted on in a pairwise fashion, other factions would move to block it. His short-lived but foundational interest in voting procedures stemmed from this one example.
+
+It was a productive few years. During his three years at Brasenose, and his subsequent eighteen months at Nuffield, he developed  a strong foundation for the study of voting as a subfield of game theory. This is not, now, how economists study voting — Ken Arrow's conception of a more general social choice theory won out. From 1950 to 1955, Farquharson wrote several papers and two monographs developing a framework for the study of voting. While the terminology is outdated now, the second monograph *The Theory of Voting* is a tight introduction to voting as a strategic game. Better known is his paper with Michael Dummett, "Stability in Voting". 
+
+This is paper, written in 1955, in which they first conjectured the theorem later known as the Gibbard-Satterthwaite theorem. They write:
+
+> We cannot assume that each voter's actual strategy will be determined uniquely by his preference scale. This would be to assume that every voter votes "sincerely", whereas it seems unlikely that there is any voting procedure in which it can never be advantageous for any voter to vote "strategically", i.e. non-sincerely.
+
+My first reaction in coming across the "Stability" paper is how much clearer Farquharson's vocabulary is than the standard social choice setting.{% sidenote "critar-id" "This is not really a critique of social choice theory. Arrow and Black's foundations enabled a much broader extension by Shapley and Sen and the rest of the giants than the narrow constraints of game theory." %} Reading the Satterthwaite paper,{% sidenote "gibp-id" "Gibbard's earlier paper in *Econometrica* proved beyond me." %} I get a sense of unwieldiness not generated by the Farquharson setting.
+
+The tragedy of Farquharson is that of his counterfactual work. This paper was his last published contribution.{% sidenote "lat-id" "*Theory of Voting* was finished before the paper, but not published until 1969 due to a disagreement with the publisher: Farquharson insisted the diagrams must be printed in color, and neither budged for a decade. In my copy, the diagrams are in white, black, and red. " %} 
 
 [Adam Steiner](https://adamsteiner.uk/), an author interested in grunge history, was working on a book about Farquharson in the 2010s, but nothing came of it. 
 
