@@ -27,6 +27,8 @@ For example, the preferences of the factions in the 1919 Senate could be ordered
 
 <br>
 
+<br>
+
 <table>
   <tr>
     <th>Wilsonians</th>
@@ -54,7 +56,7 @@ For example, the preferences of the factions in the 1919 Senate could be ordered
   </tr>
 </table>
 
-Or, to simplify: 
+Or, to simplify:{% sidenote "indff-id" "The symbol **~** means "indifferent between." The indifference between A**~**B is irrelevant, as these options are never compared in a pairwise vote." %}
 
 <br>
 
@@ -85,7 +87,7 @@ Or, to simplify:
   </tr>
 </table>
 
-(The symbol **~** means "indifferent between." The indifference between A**~**B is irrelevant, as these options are never compared in a pairwise vote.)
+
 
 When looked at this way, the outcome **C**, defeat of the treaty, is unavoidable, despite being the most preferred outcome of only a small (<15%) number of Senators.  As Farquharson saw, whenever the treaty was voted on in a pairwise fashion, other factions would move to block it. His short-lived but foundational interest in voting procedures stemmed from this one example.
 
