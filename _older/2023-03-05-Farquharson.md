@@ -15,11 +15,11 @@ Robin Farquharson was born in 1930 in Pretoria, South Africa, and completed his 
 
 Here, I enter into a bit of speculation,{% sidenote "sidenote-id" "Based upon [Henry Cabot Lodge](https://en.wikipedia.org/wiki/Henry_Cabot_Lodge)'s [1925 book](https://www.amazon.co.uk/Senate-League-Nations-Henry-Cabot/dp/1289346356)." %} as I have been unable to track down Farquharson's undergraduate thesis on the topic. In the fall of 1919, there were (broadly, imprecisely) four factions in the US Senate. First, the **Wilsonians**, those supporting the  President and his treaty without reservation; second, the  **pro-Versailles Democrats**, who supported the Treaty of Versailles and the new League less fanatically; third [**Reservationists**](https://en.wikipedia.org/wiki/Lodge_Reservations), following Senator Henry Cabot Lodge, who proposed to join the League with reservations; and fourth, the [**Irreconcilables**](https://en.wikipedia.org/wiki/Irreconcilables), a small bipartisan minority (~15 Senators) who fought against the Treaty at all costs. The first three groups easily made up two-thirds of the Senate, but Lodge and Wilson's factions were bitterly opposed over Lodge's Reservations. A two-thirds vote was required to ratify the Treaty. 
 
-The fall 1919 session produced a fascinating failure in social choice theory; this is what captivated Farquharson. Two votes proceeded. The first was whether to advise and consent to ratify the Treaty *with* Lodge's Reservations: a group of 39 voted in support, made up of the **pro-Versailles Democrats** (who support the Treaty with or without reservations) and the **Reservationists**, and 55 voted in opposition: the **Wilsonians** (opposing the reservations) and the **Irreconcilables** (opposing the Treaty howsoever). The second vote was whether to advise and consent to ratify the Treat *as is*: it was voted down by almost the same margin (38-53, with some abstentions), but two groups flipped: now, the **pro-Versailles Democrats** and the **Wilsonians** were in favor, and were opposed by the **Reservationists** and the **Irreconcilables**.{% sidenote "sidenote-id" "A later vote, the next year, again went against the Treaty *with* reservations, but with a now-depleted group of Wilsonians — now figureheaded by a bed-bound president — many-but-not-enough became pro-Versailles Democrats." %} The result was a failure to ratify. 
+The fall 1919 session produced a fascinating failure in social choice theory; this is what captivated Farquharson. Two votes proceeded. The first was whether to advise and consent to ratify the Treaty *with* Lodge's Reservations: a group of 39 voted in support, made up of the **pro-Versailles Democrats** (who support the Treaty with or without reservations) and the **Reservationists**, and 55 voted in opposition: the **Wilsonians** (opposing the reservations) and the **Irreconcilables** (opposing the Treaty howsoever). The second vote was whether to advise and consent to ratify the Treat *without* amendments: it was voted down by almost the same margin (38-53, with some abstentions), but two factions flipped: now, the **pro-Versailles Democrats** and the **Wilsonians** were in favor, and were opposed by the **Reservationists** and the **Irreconcilables**.{% sidenote "sidenote-id" "A later vote, the next year, again went against the Treaty *with* reservations, but with a now-depleted group of Wilsonians — now figureheaded by a bed-bound president — many-but-not-enough became pro-Versailles Democrats." %} The result was a failure to ratify. 
 
 Farquharson had rediscovered the *[Condorcet paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)*. A common assumption in social choice theory is that individuals have transitive{% sidenote "sidenote-id" "If someone prefers option A to option B, and also prefers option B to option C, then they must prefer option A to option C." %} preferences. Even with this neat property, however, the amalgamation of these individual preferences might be *intransitive*. The paradox is best illustarted when people are forced to choose between three{% sidenote "oremoreid" "Or more." %} options in a series of pairwise votes. 
 
-For example, the preferences of the factions in the 1919  could be ordered as:{% sidenote "notaccuid" "This is not really accurate historically, but how it would be presented in a microeconomics class." %} 
+For example, the preferences of the factions in the 1919 Senate could be ordered as:
 
 <br>
 
@@ -33,22 +33,22 @@ For example, the preferences of the factions in the 1919  could be ordered as:{%
     <th>Irreconcilables</th>
   </tr>
   <tr>
-    <td class="wilsonians">Row 1, Column 1</td>
-    <td class="pro-versailles-dems">Row 1, Column 2</td>
-    <td class="reservationists">Row 1, Column 3</td>
-    <td class="irreconcilables">Row 1, Column 4</td>
-  </tr>
-  <tr>
-    <td class="wilsonians">Treaty passes</td>
-    <td class="pro-versailles-dems">Treaty passes</td>
-    <td class="reservationists">Treaty passes, with reservations</td>
+    <td class="wilsonians">Treaty passes as-is</td>
+    <td class="pro-versailles-dems">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="reservationists">Treaty passes with reservations</td>
     <td class="irreconcilables">Treaty doesn't pass</td>
   </tr>
   <tr>
-    <td class="wilsonians">Row 3, Column 1</td>
-    <td class="pro-versailles-dems">Row 3, Column 2</td>
-    <td class="reservationists">Row 3, Column 3</td>
-    <td class="irreconcilables">Row 3, Column 4</td>
+    <td class="wilsonians">Treaty doesn't pass</td>
+    <td class="pro-versailles-dems">Treaty passes as-is~Treaty passes with reservations</td>
+    <td class="reservationists">Treaty doesn't pass</td>
+    <td class="irreconcilables">Treaty passes as-is~Treaty passes with reservations</td>
+  </tr>
+  <tr>
+    <td class="wilsonians">Treaty passes with reservations</td>
+    <td class="pro-versailles-dems">Treaty doesn't pass</td>
+    <td class="reservationists">Treaty passes as-is</td>
+    <td class="irreconcilables">Treaty passes as-is~Treaty passes with reservations</td>
   </tr>
 </table>
 
