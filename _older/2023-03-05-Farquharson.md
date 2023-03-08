@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Interesting People of Economics: Robin Farquharson"
+subtitle: "Decades before Gibbard and Satterthwaite, there was Farquharson"
 date:   2023-03-05
 categories: post
 ---
