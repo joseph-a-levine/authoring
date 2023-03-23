@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title:  "How I Will Learn About the Next Pandemic"
 date:   2023-02-16
