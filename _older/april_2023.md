@@ -37,7 +37,7 @@ ChatGPT(4) can prove things in a way ChatGPT(3.5) couldn't.
 
 ## Reading 
 
-March was my worst reading month since I've kept data. I didn't read much, and what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•How to Live Safely in a Science Fictional Universe, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •Your Driver is Waiting, by Priya Guns (much too rough and shallow) •What's Our Problem, by Tim Urban (*this* took you five years? will be a footnote on a great writing career)" %} the strong likes are:
+March was my worst reading month since I've kept data. I didn't read much, and what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•*How to Live Safely in a Science Fictional Universe*, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •*Your Driver is Waiting*, by Priya Guns (much too rough and shallow) •*What's Our Problem*, by Tim Urban (*this* took you five years? will be a footnote on a great long-form career)" %} the strong likes are:
 
 - •"The Written World and the Unwritten World," Essays by Italo Calvino. 
 - •"Red Plenty," by Francis Spufford.
