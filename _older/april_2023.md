@@ -45,9 +45,13 @@ March was my worst reading month since I've kept data. I didn't read much, and w
 
 {% maincolumn "assets/img/strangelove.png" "JC is John Cusack, who is also there." %}
 
-  You get the feeling that "Doomsday Machine" is the book which Ellsberg has wanted to write for his whole life. This version of him *is* an idealogue; he mentions, offhand, the weeks he spent hiding from the FBI, attempting to hide, uncover, and re-hide documents about US nuclear war plans. 
+    You get the feeling that "Doomsday Machine" is the book which Ellsberg has wanted to write for his whole life. This version of him *is* an idealogue; he mentions, offhand, the weeks he spent hiding from the FBI, attempting to hide, uncover, and re-hide documents about US nuclear war plans. His passion 
   
-  Ellsberg will [likely die](https://original.antiwar.com/daniel-ellsberg/2023/03/02/living-on-a-deadline-in-the-nuclear-age-some-personal-news-from-daniel-ellsberg/) this year. We will miss him. 
+    Ellsberg will [likely die](https://original.antiwar.com/daniel-ellsberg/2023/03/02/living-on-a-deadline-in-the-nuclear-age-some-personal-news-from-daniel-ellsberg/) this year. 
+  
+> When I copied the Pentagon Papers in 1969, I had every reason to think I would be spending the rest of my life behind bars. It was a fate I would gladly have accepted if it meant hastening the end of the Vietnam War, unlikely as that seemed (and was). Yet in the end, that action – in ways I could not have foreseen, due to Nixon’s illegal responses – did have an impact on shortening the war. In addition, thanks to Nixon’s crimes, I was spared the imprisonment I expected, and I was able to spend the last fifty years with Patricia and my family, and with you, my friends.
+  
+    We will miss him. 
 
 - •"Comedy of Errors," by William Shakespeare. The critics call 
 
