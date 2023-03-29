@@ -31,8 +31,8 @@ Because of that, ChatGPT remains my tool of choice. And especially since the mid
 
 My use case is, still, entirely learning economics. And the new model is a big improvement — ChatGPT(4) can prove things in a way ChatGPT(3.5) couldn't. But it still has flaws. In order, here are some things ChatGPT(4) is good at. 
  
-1. 1. Explaining concepts. Right now, instead of writing this, I should be trying to understand 2-state Markov process for asset pricing. 
-2. 2. Explaining notation. Economists are really really bad at this. We had five macro professors put five versions of the Taylor rule on the board with five sets of notation. ChatGPT has seen them all before
+1. 1. Explaining concepts. Right now, instead of writing this, I should be trying to understand 2-state Markov processes for asset pricing. When I do get back to it, I'll prompt ChatGPT with our professor's explanation of the concept, and ask ChatGPT to expound on this explanation. It might be perfectly clear to Prof. Rick van der Ploeg why the safe rate is countercyclical in such a Markov process, but it's not to me. ChatGPT can break it down. This is a use case where ChatGPT(4) rarely makes mistakes, and is more willing to admit confusion. If anything, it errs in the other direction — it's too easy for me to convince the model it made a mistake when it didn't. 
+2. 2. Explaining notation. Economists are really really bad at this. We had five macro professors put five versions of the Taylor rule on the board with five sets of notation. ChatGPT has seen them all before, and is eager to explain each one. 
 3. 3. Writing questions (and, less so, solutions). 
 4. 4. Proving theorems. Really, this is the only one that matters. How long until we can ask ChatGPT, here's a theorem on verifiable disclosure I just came up with, can you prove it for me? Or worse{% sidenote "betprefid" "Better?" %}, how long until we can ask it to come up with a theorem, then prove it? We're not there yet — and seeing how foolish ChatGPT(4)'s proofs occassionally are, I wouldn't be surprised if the "come up with a theorem" bit is easier than the "prove it" bit.{% sidenote "ramanuj-id" "Call that 'Ramanujan mode.' Could and should write a whole post on this. " %}
 
@@ -87,9 +87,9 @@ March was my worst reading month since I've kept data. I didn't read much, and w
 
 ## Listening
 
-- •This [John Clayton video](https://www.youtube.com/watch?v=zGQN8vdwVrI) is a treat. Gotta be in the top ten of artists I'd like to see live.
-- •I listened to three recordings of the [Oberammergau Passion Play](https://en.wikipedia.org/wiki/Oberammergau_Passion_Play), inspired by [this article](https://www.plough.com/en/topics/culture/literature/oberammergaus-broken-vow). The passion play is performed as repayment for a vow made by the villagers of Oberammergau in 1633 to save them from the plague and the Thirty Years War; in return for their salvation, they perform the five+ hour passion all summer in the decadal year. The overture is especially stunning. For reasons separate from the author of the above article, I found the 2022 performance underwhelming; I most recommend the [2010 recording](https://www.discogs.com/release/11843021-Solisten-Chor-Und-Orchester-Der-Passionsspiele-Oberammergau-Rochus-Dedler-Markus-Zwink-Passionsspiel). I didn't expect supersessionism to take such a large role.
-- •RAYE has a superb debut/comeback album out, *[My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH?si=AA_EU9-wT0eWAIavU-CfLg)*, positively [reviewed](https://www.ft.com/content/707dedeb-fb5a-4ad0-8c62-e2aece4d6339) in the FT. Unlike her massive, polished 2010s hits with the likes of David Guetta and Jonas Blue, the new album is old-fashioned and R&B and gritty and retro pop and addictive.
+- • North African music doesn't miss — my favorite album last year was "Music from Saharan WhatsApp" from Sahel Sounds. This month, "[GOJO](https://fendika-and-k-sanchis.bandcamp.com/album/gojo-2)" was another revelation. A collaboration between traditional Ethiopian group Fendika and woodwind duo K-Sanchis (whom you might know as Trio Kazanchis), GOJO is exuberant. I've heard Steve Buchanan's saxophone before, but never resonant like this. Loads of fun. 
+- •
+- •
 - •
 - •
 
