@@ -15,7 +15,7 @@ title: What am I up to now?
 
 At this point, you've read much too much about LLMs. But this page is about my life, and much of my last month has been about LLMs. So deal with it.
 
-I've probably talked more with ChatGPT this month than any individual person. When I downloaded my chat history, I've written tens of thousands of words, almost entirely about measure and social choice theory. That's way more than I've written in letters, emails, WhatsApp, or Telegram.{% sidenote "inpersd" "I might have spoken more words to some people this month than typed to ChatGPT. This is harder to count tho. Luis, Polina, and Ivan are the main contenders." %}
+I've probably talked more with ChatGPT in March than any individual person. When I downloaded my chat history, I've written tens of thousands of words, almost entirely about measure and social choice theory. That's way more than I've written in letters, emails, WhatsApp, or Telegram.{% sidenote "inpersd" "I might have spoken more words to some people this month than typed to ChatGPT. This is harder to count tho. Luis, Polina, and Ivan are the main contenders." %}
 
 Despite this massive growth in words-typed-in-conversation, talking to ChatGPT has no substitution effect on my other conversations. Or rather, the conversations it replaced wouldn't have happened anyway. Last month, I wrote
 
@@ -25,13 +25,18 @@ It's possible that exam stress would have eventually brought me to asking these 
 
 Unlike the most interesting examples floating around, I'm completely unable to hold a conversation with Bing. I don't think this is due to the recent handicapping, either, but a personal fault. I had access to Bing for about three days before it was hobbled, and I couldn't get it to go psychotic on me at all.{% sidenote "bingho-id" "Almost disappointing." %} Even now, Ethan Mollick is getting highly creative [long-form content](https://twitter.com/emollick/status/1640544340882644992/photo/1) from Bing,  while I struggle to provoke anything more interesting than the first few paragraphs of a wikipedia page. 
 
-The other tool I've gotten tons of use of is [Poe](https://poe.com/login?redirect_url=%2F). Far less supercilious than ChatGPT, Poe has an advantage in giving information and a disadvantage in giving explanations. 
+The other tool I've gotten use out of is [Poe](https://poe.com/login?redirect_url=%2F). Far less supercilious than ChatGPT, Poe has an advantage in giving information and a disadvantage in giving explanations. 
 
 Because of that, ChatGPT remains my tool of choice. And especially since the middle of the month when I canceled dinner with three friends because "GPT-4 just dropped and I want to see if it has any thoughts about cats or consciousness," I've been relying on it more and more. 
 
-ChatGPT(4) can prove things in a way ChatGPT(3.5) couldn't. 
+My use case is, still, entirely learning economics. And the new model is a big improvement — ChatGPT(4) can prove things in a way ChatGPT(3.5) couldn't. But it still has flaws. In order, here are some things ChatGPT(4) is good at. 
+ 
+1. Explaining concepts. Right now, instead of writing this, I should be trying to understand 2-state Markov process for asset pricing. 
+2. Explaining notation
+3. Writing questions (and, less so, solutions). 
+4. Proving theorems. Really, this is the only one that matters. How long until we can ask ChatGPT, here's a theorem on verifiable disclosure I just came up with, can you prove it for me? Or worse (better?), how long until we can ask it to come up with a theorem, then prove it? We're not there yet — and seeing how foolish ChatGPT(4)'s proofs occassionally are, I wouldn't be surprised if the "come up with a theorem" bit is easier than the "prove it" bit.{% sidenote "ramanuj-id" "Call that 'Ramanujan mode.' Could and should write a whole post on this. " %}
 
-[[Zvi Mowshowitz]] writes "if your question can be solved by such matching you are in good shape, if it can’t you are likely in bad shape." based on: https://twitter.com/cHHillee/status/1635790330854526981
+Zvi Mowshowitz writes "The AI is doing a lot of pattern matching on [previously asked] questions. That means that if your question can be solved by such matching you are in good shape, if it can’t you are likely in bad shape."{% sidenote "sidenote-id" "Cf. [this tweet](https://twitter.com/cHHillee/status/1635790330854526981). If you think the AI is 'retrieving' a 'known' answer, you're thinking of it wrong." %} 
 
   <br>
 
@@ -45,7 +50,7 @@ March was my worst reading month since I've kept data. I didn't read much, and w
 
 {% maincolumn "assets/img/strangelove.png" "JC is John Cusack, who is also there." %}
 
-   You get the feeling that "Doomsday Machine" is the book which Ellsberg has wanted to write for his whole life. This version of him *is* an ideologue; he mentions, offhand, the weeks he spent hiding from the FBI, attempting to hide, uncover, and re-hide documents about US nuclear war plans. He has devoted much of his post-Vietnam work to reducing the risk of nuclear war, with measurable success. I hope to review the book in full soon.
+   You get the feeling that "Doomsday Machine" is the book which Ellsberg has wanted to write for his whole life, if he hadn't been drawn in by Vietnam. This version of him *is* an ideologue; he mentions, offhand, the weeks he spent hiding from the FBI, attempting to hide, uncover, and re-hide documents about US nuclear war plans. He has devoted much of his post-Vietnam work to reducing the risk of nuclear war, with measurable success. I hope to review the book in full soon.
   
    Ellsberg will [likely die](https://original.antiwar.com/daniel-ellsberg/2023/03/02/living-on-a-deadline-in-the-nuclear-age-some-personal-news-from-daniel-ellsberg/) this year. 
   
