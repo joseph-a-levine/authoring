@@ -41,8 +41,11 @@ March was my worst reading month since I've kept data. I didn't read much, and w
 
 - •"The Written World and the Unwritten World," Essays by Italo Calvino. 
 - •"Red Plenty," by Francis Spufford.
-- •"The Doomsday Machine: Confessions of a Nuclear War Planner," by Daniel Ellsberg.
-- •"Comedy of Errors," by William Shakespeare. 
+- •"The Doomsday Machine: Confessions of a Nuclear War Planner," by Daniel Ellsberg. I was introduced to Daniel Ellsberg by Arundhati Roy's 2016 book "Things that Can and Cannot Be Said" — Roy and Ellsberg traveled to Moscow to sit down with Edward Snowden. Roy had an idea for a great conversation between the two great American whistleblowers. That version of Ellsberg wasn't an ideologue, just a disappointed academic. Ellsberg's passion was never the Vietnam war; that was just a tragedy he was forced by conscience to interact with. Nuclear policy was his true passion. In "Things," Ellsberg asks Snowden:
+
+{% maincolumn "assets/img/strangelove.png" "JC is John Cusack, who is also there." %}
+
+- •"Comedy of Errors," by William Shakespeare. The critics call 
 
 
 
