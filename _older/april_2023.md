@@ -31,18 +31,22 @@ Because of that, ChatGPT remains my tool of choice. And especially since the mid
 
 My use case is, still, entirely learning economics. And the new model is a big improvement — ChatGPT(4) can prove things in a way ChatGPT(3.5) couldn't. But it still has flaws. In order, here are some things ChatGPT(4) is good at. 
  
-1. 1, Explaining concepts. Right now, instead of writing this, I should be trying to understand 2-state Markov processes for asset pricing. When I do get back to it, I'll prompt ChatGPT with our professor's explanation of the concept, and ask ChatGPT to expound on this explanation. It might be perfectly clear to Prof. Rick van der Ploeg why the safe rate is countercyclical in such a Markov process, but it's not to me. ChatGPT can break it down. This is a use case where ChatGPT(4) rarely makes mistakes, and is more willing to admit confusion. If anything, it errs in the other direction — it's too easy for me to convince the model it made a mistake when it didn't. 
-2. 2, Explaining notation. Economists are really really bad at this. We had five macro professors put five versions of the Taylor rule on the board with five sets of notation. ChatGPT has seen them all before, and is eager to explain each one. 
-3. 3, Writing questions (and, less so, solutions). 
-4. 4, Proving theorems. Really, this is the only one that matters. How long until we can ask ChatGPT, here's a theorem on verifiable disclosure I just came up with, can you prove it for me? Or worse{% sidenote "betprefid" "Better?" %}, how long until we can ask it to come up with a theorem, then prove it? We're not there yet — and seeing how foolish ChatGPT(4)'s proofs occassionally are, I wouldn't be surprised if the "come up with a theorem" bit is easier than the "prove it" bit.{% sidenote "ramanuj-id" "Call that 'Ramanujan mode.' Could and should write a whole post on this. " %}
+1. 1) Explaining concepts. Right now, instead of writing this, I should be trying to understand 2-state Markov processes for asset pricing. When I do get back to it, I'll prompt ChatGPT with our professor's explanation of the concept, and ask ChatGPT to expound on this explanation. It might be perfectly clear to Prof. Rick van der Ploeg why the safe rate is countercyclical in a Markov process, but it's not to me. ChatGPT can break it down. This is a use case where ChatGPT(4) rarely makes mistakes, and is more willing to admit confusion. If anything, it errs in the other direction — it's too easy for me to convince the model it made a mistake when it didn't.{% sidenote "sdfud-id" "This happened repeatedly while trying to understand the stochastic discount factor. After ChatGPT apologized and flipped its explanation a fourth time, I opened up Cochrane's *Asset Pricing* book — ChatGPT had it right the first time. " %}
+2. 2) Explaining notation. Economists are really really bad at this. We had five macro professors put five versions of the Taylor rule on the board with five sets of notation. ChatGPT has seen them all before, and is eager to explain each one. 
+3. 3) Writing questions (and, less so, solutions). For macro, I have access to more than a decade's worth of previous exams. For micro and metrics, tho, there's only one previous exam — last year's. We don't have nearly enough practice problems to get a good sense of preparedness. But feed ChatGPT the problem set questions and it'll write you more to practice with! Only problem — sometimes, these are unsolvable. ChatGPT doesn't really know the difference. 
+4. 4) Proving theorems. Really, this is the only one that matters. How long until we can ask ChatGPT, here's a theorem on verifiable disclosure I just came up with, can you prove it for me? Or worse{% sidenote "betprefid" "Better?" %}, how long until we can ask it to come up with a theorem, then prove it? We're not there yet — and seeing how foolish ChatGPT(4)'s proofs occassionally are, I wouldn't be surprised if the "come up with a theorem" bit is easier than the "prove it" bit.{% sidenote "ramanuj-id" "Call that 'Ramanujan mode.' Could and should write a whole post on this. " %}
 
-Zvi Mowshowitz writes "The AI is doing a lot of pattern matching on [previously asked] questions. That means that if your question can be solved by such matching you are in good shape, if it can’t you are likely in bad shape."{% sidenote "sidenote-id" "Cf. [this tweet](https://twitter.com/cHHillee/status/1635790330854526981). But if you think the AI is 'retrieving' a 'known' answer, you're thinking about it wrong." %} 
+Zvi writes "The AI is doing a lot of pattern matching on [previously asked] questions. That means that if your question can be solved by such matching you are in good shape, if it can’t you are likely in bad shape."{% sidenote "sidenote-id" "Cf. [this tweet](https://twitter.com/cHHillee/status/1635790330854526981). But if you think the AI is 'retrieving' a 'known' answer, you're thinking about it wrong." %} For these last two use cases above, I'm asking ChatGPT to move outside of its LLM's training data. I prompted with a theorem from a recent paper Meg Meyer has with Edoardo Gallo, which is definitely *not* in the  training data. While Meg could (and did) prove this theorem, ChatGPT(4) couldn't. Or it tried to, but the thing it wrote was definitely not a proof. 
+
+But then I asked it to sketch four different approaches to proving this theorem. One of the sketches resembled Meg's proof, and I prompted ChatGPT(4) to try to build out that sketch.{% sidenote "profsc-id" "This took a lot of trial and error, and I gave up before getting the model to produce a real proof. But if you want screenshots, reach out." %} The AI was able to build out a proof from there, with my input and nudges, much more easily than it could generate a proof ex nihilo. 
+
+ChatGPT won't be replacing microeconomic theorists this month. But it has read more proofs than any individual academic, and if you're struggling to prove something, asking the model for suggestions is a no-brainer. For most AI advancements, there's a period where AI+Avg.Human will be better than either AI or the SmartestHuman. We're not there yet,{% sidenote "sidenote-id" "In the battle of GPT(4)+Me vs. Alex Teytelboym, Alex will still win everytime." %} but I'd be surprised if even the best proof-writers couldn't get value from an LLM.
 
   <br>
 
 ## Reading 
 
-March was my worst reading month since I've kept data. I didn't read much, and what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•*How to Live Safely in a Science Fictional Universe*, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •*Your Driver is Waiting*, by Priya Guns (much too rough and shallow) •*What's Our Problem*, by Tim Urban (*this* took you five years? will be a footnote on a great long-form career)" %} the strong likes are:
+March was my worst reading month since I've kept data. I didn't read much, and much of what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•*How to Live Safely in a Science Fictional Universe*, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •*Your Driver is Waiting*, by Priya Guns (much too rough and shallow) •*What's Our Problem*, by Tim Urban (*this* took you five years? will be a footnote on a great long-form career)" %} the strong likes are:
 
 - •"The Written World and the Unwritten World," Essays by Italo Calvino. 
 - •"Red Plenty," by Francis Spufford.
@@ -58,15 +62,7 @@ March was my worst reading month since I've kept data. I didn't read much, and w
   
    We will miss him. 
 
-- •"Comedy of Errors," by William Shakespeare. The critics call 
-
-
-
-
-
-
-
-
+- •"Comedy of Errors," by William Shakespeare. The play with the most consensus from critics. Impeccable farce; even as Shakespeare's earliest play, there's wit and beauty in the language, and just the right amount of mysticism. Hints of "Midsummer Night's Dream" and "Othello" recur. There are no good performances online; recommendations are welcome!
 
 
 
@@ -88,9 +84,9 @@ March was my worst reading month since I've kept data. I didn't read much, and w
 ## Listening
 
 - • North African music doesn't miss — my favorite album last year was "Music from Saharan WhatsApp" from Sahel Sounds. This month, "[GOJO](https://fendika-and-k-sanchis.bandcamp.com/album/gojo-2)" was another revelation. A collaboration between traditional Ethiopian group Fendika and woodwind duo K-Sanchis (whom you might know as Trio Kazanchis), GOJO is exuberant. I've heard Steve Buchanan's saxophone before, but never resonant like this. Loads of fun. 
-- •
-- •
-- •
+- • Mandolin
+- • Aberdeen
+- • Modern country
 - •
 
 ## Previously
