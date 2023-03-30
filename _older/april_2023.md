@@ -87,7 +87,7 @@ March was my worst reading month since I've kept data. I didn't read much, and m
 ## Listening
 
 - • North African music doesn't miss — my favorite album last year was "Music from Saharan WhatsApp" from Sahel Sounds. This month, "[GOJO](https://fendika-and-k-sanchis.bandcamp.com/album/gojo-2)" was another revelation. A collaboration between traditional Ethiopian group Fendika and woodwind duo K-Sanchis (whom you might know as Trio Kazanchis), GOJO is exuberant. I've heard Steve Buchanan's saxophone before, but never resonant like this. Loads of fun. 
-- • Mandolin
+- • At [Mallams](https://www.mallams.co.uk/) in Oxford, I saw a mandolin in the window. While I ended up bidding more than twice the auctioneer's estimate, someone else went home with the gorgeous thing. So I won't be learning to play the lute, but I did go on a Chris Thile kick this month. Nickel Creek holds a special place in my heart,{% sidenote "niktin-id" "You may as well watch [their Tiny Desk](https://www.youtube.com/watch?v=jFycqnOpifQ) over again. " %} but I listened to Thile's Bach Sonatas and Partitas over and over again. He's something special and worth cherishing.
 - • Aberdeen
 - • Modern country
 - •
