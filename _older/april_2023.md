@@ -8,11 +8,6 @@ title: What am I up to now?
 
 
 
-## Contents
-1. [Reading](#books)
-2. [Eating](#Eating)
-3. [Listening](#music)
-
 At this point, you've read much too much about LLMs. But this page is about my life, and much of my last month has been about LLMs. So deal with it.
 
 I've probably talked more with ChatGPT in March than any individual person. When I downloaded my chat history, I've written tens of thousands of words, almost entirely about measure and social choice theory. That's way more than I've written in letters, emails, WhatsApp, or Telegram.{% sidenote "inpersd" "I might have spoken more words to some people this month than typed to ChatGPT. This is harder to count tho. Luis, Polina, and Ivan are the main contenders." %}
@@ -46,12 +41,20 @@ But then I asked it to sketch four different approaches to proving this theorem.
 ChatGPT won't be replacing microeconomic theorists this month. But it has read more proofs than any individual academic, and if you're struggling to prove something, asking the model for suggestions is a no-brainer. For most AI advancements, there's a period where AI+Avg.Human will be better than either AI or the SmartestHuman. We're not there yet,{% sidenote "sidenote-id" "In the battle of GPT(4)+Me vs. Alex Teytelboym, Alex will still win every time." %} but I'd be surprised if even the best proof-writers couldn't get value from an LLM.
 
   <br>
+  
+  
+
+## Contents
+1. [Reading](#books)
+2. [Eating](#Eating)
+3. [Listening](#music)
 
 ## Reading 
 
-March was my worst reading month since I've kept data. I didn't read much, and much of what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•*How to Live Safely in a Science Fictional Universe*, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •*Your Driver is Waiting*, by Priya Guns (much too rough and shallow) •*What's Our Problem*, by Tim Urban (*this* took you five years? will be a footnote on a great long-form career)" %} the strong likes are:
+March was my worst reading month since I've been keeping data. I didn't read much, and much of what I did read, I didn't like. Usually, I'm much better at abandoning books early on, but I failed completely last month. I'll put the dislikes in a sidenote;{% sidenote "dislmuob-id" "•*How to Live Safely in a Science Fictional Universe*, by Charles Yu (a poor man's solipsistic *Hitchiker's Guide*) •*Your Driver is Waiting*, by Priya Guns (much too rough and shallow) •*What's Our Problem*, by Tim Urban (*this* took you five years? will be a footnote on a great long-form career)" %} the strong likes are:
 
-- •"The Written World and the Unwritten World," Essays by Italo Calvino. 
+- •"The Written World and the Unwritten World," Essays by Italo Calvino. A new set of non-fiction; superbly collected and translated. My favorite two essays were the eponymous and the first, "Good Intentions," about the universally thwarted desire to read on one's holiday. The last section is chock-full of Calvino's reviews of books on science and anthropology. As all of these are more than fifty years out of date, I would never pick them up — but Calvino's reviews are worth the time.{% sidenote "chesscal-id" "Another delightful tidbit: 'I love Chesterton because he wanted to be the Catholic Voltaire and I wanted to be the Communist Chesterton.' I've always needed a Communist Chesterton!" %}
+- •"Comedy of Errors," by William Shakespeare. The play with the most consensus from critics. Impeccable farce; even as Shakespeare's earliest play, there's wit and beauty in the language, and just the right amount of mysticism. Hints of "Midsummer Night's Dream" and "Othello" recur. There are no good performances online; recommendations are welcome!
 - •"Red Plenty," by Francis Spufford.
 - •"The Doomsday Machine: Confessions of a Nuclear War Planner," by Daniel Ellsberg. I was introduced to Daniel Ellsberg by Arundhati Roy's 2016 book "Things that Can and Cannot Be Said" — Roy and Ellsberg traveled to Moscow to sit down with Edward Snowden. Roy had an idea for a great conversation between the two great American whistleblowers. That version of Ellsberg wasn't an ideologue, just a disappointed academic. Ellsberg's passion was never the Vietnam war; that was just a tragedy he was forced by conscience to interact with. Nuclear policy was his true passion. In "Things," Ellsberg asks Snowden:
 
@@ -64,8 +67,6 @@ March was my worst reading month since I've kept data. I didn't read much, and m
 > "When I copied the Pentagon Papers in 1969, I had every reason to think I would be spending the rest of my life behind bars. It was a fate I would gladly have accepted if it meant hastening the end of the Vietnam War, unlikely as that seemed (and was). Yet in the end, that action – in ways I could not have foreseen, due to Nixon’s illegal responses – did have an impact on shortening the war. In addition, thanks to Nixon’s crimes, I was spared the imprisonment I expected, and I was able to spend the last fifty years with Patricia and my family, and with you, my friends."
   
    We will miss him. 
-
-- •"Comedy of Errors," by William Shakespeare. The play with the most consensus from critics. Impeccable farce; even as Shakespeare's earliest play, there's wit and beauty in the language, and just the right amount of mysticism. Hints of "Midsummer Night's Dream" and "Othello" recur. There are no good performances online; recommendations are welcome!
 
 
 
@@ -80,7 +81,7 @@ March was my worst reading month since I've kept data. I didn't read much, and m
 
 ## Eating
 
-
+Optimized for efficiency this month, except for one Michelin star. 
 
 
 
@@ -88,9 +89,8 @@ March was my worst reading month since I've kept data. I didn't read much, and m
 
 - • North African music doesn't miss — my favorite album last year was "Music from Saharan WhatsApp" from Sahel Sounds. This month, "[GOJO](https://fendika-and-k-sanchis.bandcamp.com/album/gojo-2)" was another revelation. A collaboration between traditional Ethiopian group Fendika and woodwind duo K-Sanchis (whom you might know as Trio Kazanchis), GOJO is exuberant. I've heard Steve Buchanan's saxophone before, but never resonant like this. Loads of fun. 
 - • At [Mallams](https://www.mallams.co.uk/) in Oxford, I saw a mandolin in the window. While I ended up bidding more than twice the auctioneer's estimate, someone else went home with the gorgeous thing. So I won't be learning to play the lute, but I did go on a Chris Thile kick this month. Nickel Creek holds a special place in my heart,{% sidenote "niktin-id" "You may as well watch [their Tiny Desk](https://www.youtube.com/watch?v=jFycqnOpifQ) over again. " %} but I listened to Thile's Bach Sonatas and Partitas over and over again. He's something special and worth cherishing.
-- • Aberdeen
-- • Modern country
-- •
+- • "[Held Together](https://open.spotify.com/album/6k4ZBWTrhUAiX561qY33tb?si=pSujxcAVS8ab3vGKNopK7w)," by Aberdeen. Funky, prog-rock, horn ensemble. Very dancey. 
+
 
 ## Previously
 
