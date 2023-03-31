@@ -72,7 +72,7 @@ March was my worst reading month since I've been keeping data. I didn't read muc
 
 ### Monthly Le Guin
 
-I read *The Dispossessed *sometime in college,{% sidenote "prcmo-id" "Unlike the supremely precocious ML, who read it at the age of seven." %} and at least three years after reading "The Day Before the Revolution." "Revolution" is a short story prologue to *Dispossessed*, published the same year, and stands well enough on its own. It's simpler than most Le Guin, most of the action takes place in a "nice large, sunny, room, proper for a drooling old woman who had started a world revolution," but sizzles. 
+I read *The Dispossessed* sometime in college,{% sidenote "prcmo-id" "Unlike the supremely precocious ML, who read it at the age of seven." %} and at least three years after reading "The Day Before the Revolution." "Revolution" is a short story prologue to *Dispossessed*, published the same year, and stands well enough on its own. It's simpler than most Le Guin, most of the action takes place in a "nice large, sunny, room, proper for a drooling old woman who had started a world revolution," but sizzles. 
 
 Odo, the aged revolutionary anarchist whose ideology inspired the anarchist society of *The Dispossessed*, also sizzles precociously. Facing the building revolution which will realize her dreams, her thoughts turn to lost loves, and death, and sex.  
 
