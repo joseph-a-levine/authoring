@@ -95,9 +95,9 @@ Optimized for efficiency this month, except for one Michelin star.
 
 ## Previously
 
-[*March, 2023*](https://jablevine.com/older/march_2023)
+*[March, 2023](https://jablevine.com/older/march_2023)*
 
-[*February, 2023*](https://jablevine.com/older/february_2023)
+*[February, 2023](https://jablevine.com/older/february_2023)*
 
 *[December, 2022](https://jablevine.com/older/december_2022)*
 
