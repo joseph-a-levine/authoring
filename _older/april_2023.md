@@ -72,12 +72,13 @@ March was my worst reading month since I've been keeping data. I didn't read muc
 
 ### Monthly Le Guin
 
+I read *The Dispossessed *sometime in college,{% sidenote "prcmo-id" "Unlike the supremely precocious ML, who read it at the age of seven." %} and at least three years after reading "The Day Before the Revolution." "Revolution" is a short story prologue to *Dispossessed*, published the same year, and stands well enough on its own. It's simpler than most Le Guin, most of the action takes place in a "nice large, sunny, room, proper for a drooling old woman who had started a world revolution," but sizzles. 
 
+Odo, the aged revolutionary anarchist whose ideology inspired the anarchist society of *The Dispossessed*, also sizzles precociously. Facing the building revolution which will realize her dreams, her thoughts turn to lost loves, and death, and sex.  
 
+> "Decency be damned. Even six months ago, before the stroke, she had made men look at her and like to look at her; and now, though she could give no pleasure, she could please herself."
 
-
-
-
+Odo, of course, never sees the world she makes for the dispossessed. It's a surprise we the readers ever met her at all — in her forward, Le Guin is also surprised when "Odo came out of the shadows and across the gulf of Probability, and wanted a story written, not about the world she made, but about herself." One has to expect Odo would have been disappointed. Not out of any failure from the young anarchists she leaves behind in this story, but out of an innate contrarianism she inherits from Le Guin. Satisfaction be damned, as well.
 
 ## Eating
 
