@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "An interesting, but mostly unrepetable, historical episode: South African denuclearization as a lesson and metaphor"
+title:  "An interesting, but mostly unrepetable, historical episode"
+subtitle: "South African denuclearization as a lesson and metaphor"
 date:   2023-05-17
 categories: post
 ---
