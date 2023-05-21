@@ -24,5 +24,5 @@ Oxford is an odd choice of domicile for someone with this passion. Until this pa
 
 Oxford had had seven straight days of sunshine, practically unheard of, which I took full advantage with three trips to the Cotswolds and Chilterns with PP, LT, and EV. On Friday, however, a mysterious two-hour block of rain appeared in my weather app for midafternoon. I walked to the Oxford train station to see LM and GA off to London when the heavens opened: 
 
-{% maincolumn "assets/img/station_rain.gif" " %}
+{% maincolumn "assets/img/station_rain.gif" "A circle bc of Telegram" %}
 
