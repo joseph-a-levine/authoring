@@ -20,15 +20,15 @@ When lightning flashes, it heats the surrounding air to temperatures five times 
 
 I think thunder is cooler than lightning. This feels slightly distinctive: thunder can seem the boring stepsibling of lightning. Lightning has pizzazz, it's what gets the party started, and is on to the next place just as quickly. Thunder is constantly late and possibly overstays its welcome. And yet — the joy I get from flashes of light pale next to the deep peals that follow.
 
-Oxford is an odd choice of domicile for someone with this passion. Until this past Friday, I hadn't heard thunder since last August in DC. 
+Oxford is an odd choice of domicile for someone with this passion. Until this past Friday, I hadn't heard thunder since last August in DC. As we'll uncover below, this wasn't atypical — the Thames River Valley is one of the least lightning struck places in Europe. 
 
-Oxford had had seven straight days of sunshine, practically unheard of, which I took full advantage with three trips to the Cotswolds and Chilterns with PP, LT, and EV. On Friday, however, a mysterious two-hour block of rain appeared in my weather app for midafternoon. I walked to the Oxford train station to see LM and GA off to London when the heavens opened: 
+Before last Friday, Oxford had had seven straight days of sunshine, practically unheard of, which I took full advantage with three trips to the Cotswolds and Chilterns with PP, LT, and EV. On Friday, however, a mysterious two-hour block of rain appeared in my weather app for midafternoon. I walked to the Oxford train station to see LM and GA off to London when the heavens opened: 
 
-{% maincolumn "assets/img/station_rain.gif" "A circle and potato quality bc of Telegram." %}
+{% maincolumn "assets/img/station_rain.gif" "A potato quality circle bc of Telegram." %}
 
 A cold front had finally, for the first time in my year+ in Oxford, navigated the Irish sea, the Cambrians and Brecon Beacons, and the Thames River Valley Environment Agency to deliver a thunderstorm. This lasted less than 45 minutes, completely soaking the only baseball field in Oxford{% sidenote "alumf-id" "To be used for the Oxford Blues alumni game the following day." %} and raising net flow through Iffley lock by 10% for a fleeting moment. 
 
-You can't hear it in the gif, but I'm cackling with joy. I missed thunder! Thunder cracks and growls and booms and roars and reverberates and, my personal favorite, *rumbles*. I've seen great lightning and heard great thunder in my life{% sidenote "blads-id" "I watched intra-cloud bolts glitter in the night near the Freetown port... no, that can't be right..." %} but never after such a dry spell. This got me wondering — where and when in my life did I have the most exposure to thunder? 
+You can't hear it in the gif, but I'm cackling with joy. I missed thunder! Thunder cracks and growls and booms and roars and reverberates and (my personal favorite) *rumbles*. I've seen great lightning and heard great thunder in my life{% sidenote "blads-id" "I watched intra-cloud bolts glitter in the night near the Freetown port... no, that can't be right..." %} but never after such a dry spell. This got me wondering — where and when in my life did I have the most exposure to thunder? 
 
 There are two public sources of lightning data — NOAA's recent GOES placements and NASA's OTD/LIS system.{% sidenote "sidenote-id" "IBM's The Weather Company sells most commercially-used lightning data (big industry! companies don't like their equipment experiencing anything measured in kiloamperes), but these are collected through a land-based global total lightning network. Satellites are cooler and US government data are available for free." %} The GOES geostationy datasets are more limited in time scope and richer and my laptop is old and tired and my AWS credits have expired so I decided to use the OTD/LIS data.
 
