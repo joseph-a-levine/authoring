@@ -52,3 +52,10 @@ Now, the data. Here's a map you have to look at because I made it. I removed the
 
 {% fullwidth "assets/img/lightning_strikes.png" "" %}
 
+The results were not what i expected! I've been through my code five times, and everything seems right. I've mapped it, plotted it, looked at the raw data. nothing, nothing would convince me that there was more lightning in August in Kabul than July in Freetown. But Maybe I have to accept it?
+
+
+## Some notes on William Blake, my favorite artist of lightning
+
+
+
