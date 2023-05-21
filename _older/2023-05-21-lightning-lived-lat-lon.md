@@ -34,9 +34,10 @@ There are two public sources of lightning data — NOAA's recent GOES placements
 
 Some fun mishaps from Joseph's first time working with lightning data:  
 
-1. Imported data sideways
-2. Imported data upside down
-3. Negative lightning strikes? 
+1. 1. First, I imported the data to Python with the latitude and the longitude flipped. As there's very little lightning at the poles (high *longitudes*), this resulted in a surprising gap at high *latitudes*, e.g., New Zealand, or the west coast of the US. This one I spotted and fixed right away. 
+2. 2. However, in fixing it, I somehow flipped latitude North and South (a vertical reflection over the equator). This one I didn't spot right away — I only noted a vague confusion over the plethora of lightning strikes in Sudan{% sidenote "bramai-id" "Reflected up from the African great lakes." %} and the paucity in Northern Australia{% sidenote "taiwaus-id" "Thieved by Taiwan." %} What gave it away was a suspiciously Madagascar-shaped blog in the middle of Saudi Arabia:
+{% fullwidth "assets/img/ud_lightning_strikes.png" "" %}
+3. 3. Negative lightning strikes? 
 
 For each month-place I lived, I calculated the flash-rate.{% sidenote "units-id" "Lightning flashes per square km per day, apparently this is the standard unit ¯\_(ツ)_/¯" %} for a 0.5°×0.5° box{% sidenote "smoothed" "Smoothed with 2.5° x 2.5° boxcar moving average." %}
 
