@@ -6,7 +6,7 @@ date:   2023-05-21
 categories: post
 ---
 
-Here's one of my favorite videos on the internet:{% sidenote "lonwa-id" "It's an hour long. I watched it all but I won't hold it against you if you just watch the 15 second I've queued it at. " %}
+Here's one of my favorite videos on the internet:{% sidenote "lonwa-id" "It's an hour long. I've watched it all, multiple times, but I won't hold it against you if you just watch the 15 second I've queued up. " %}
 
 <br>
 
@@ -24,5 +24,10 @@ Oxford is an odd choice of domicile for someone with this passion. Until this pa
 
 Oxford had had seven straight days of sunshine, practically unheard of, which I took full advantage with three trips to the Cotswolds and Chilterns with PP, LT, and EV. On Friday, however, a mysterious two-hour block of rain appeared in my weather app for midafternoon. I walked to the Oxford train station to see LM and GA off to London when the heavens opened: 
 
-{% maincolumn "assets/img/station_rain.gif" "A circle bc of Telegram" %}
+{% maincolumn "assets/img/station_rain.gif" "A circle and potato quality bc of Telegram." %}
+
+A cold front had finally, for the first time in my year+ in Oxford, navigated the Irish sea, the Cambrians and Brecon Beacons, and the Thames River Valley Environment Agency to deliver a thunderstorm. This lasted less than 45 minutes, completely soaking the one baseball field in Oxford{% sidenote "alumf-id" "To be used for the Oxford Blues alumni game the following day." %} and raising net flow through Iffley lock by 10% for a fleeting moment. 
+
+You can't hear it in the gif, but I'm cackling with joy. I missed thunder! Thunder cracks and growls and booms and roars and reverberates and, my personal favorite, *rumbles*. I've seen great lightning and heard great thunder in my life{% sidenote "blads-id" "I watched intra-cloud bolts glitter in the night near the Freetown port... no, that can't be right..." %} but never after such a dry spell. This got me wondering — where and when in my life did I have the most exposure to  thunder?
+
 
