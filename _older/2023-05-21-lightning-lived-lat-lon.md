@@ -30,6 +30,25 @@ A cold front had finally, for the first time in my year+ in Oxford, navigated th
 
 You can't hear it in the gif, but I'm cackling with joy. I missed thunder! Thunder cracks and growls and booms and roars and reverberates and, my personal favorite, *rumbles*. I've seen great lightning and heard great thunder in my life{% sidenote "blads-id" "I watched intra-cloud bolts glitter in the night near the Freetown port... no, that can't be right..." %} but never after such a dry spell. This got me wondering — where and when in my life did I have the most exposure to thunder? 
 
-There are two public sources of lightning data — NOAA's recent GOES placements and NASA's OTD/LIS system.{% sidenote "sidenote-id" "IBM's The Weather Company sells most commercially used lightning data (big industry! companies don't like their equipment experiencing anything measured in kiloamperes), but these are collected through a land-based global total lightning network. Satellites are cooler and US government data are available for free." %} The GOES geostationy datasets are more limited in time scope and richer and my laptop is old and tired and my AWS credits have expired so I decided to use the OTD/LIS data. 
+There are two public sources of lightning data — NOAA's recent GOES placements and NASA's OTD/LIS system.{% sidenote "sidenote-id" "IBM's The Weather Company sells most commercially-used lightning data (big industry! companies don't like their equipment experiencing anything measured in kiloamperes), but these are collected through a land-based global total lightning network. Satellites are cooler and US government data are available for free." %} The GOES geostationy datasets are more limited in time scope and richer and my laptop is old and tired and my AWS credits have expired so I decided to use the OTD/LIS data.
 
+Some fun mishaps from Joseph's first time working with lightning data:  
+
+1. Imported data sideways
+2. Imported data upside down
+3. Negative lightning strikes? 
+
+For each month-place I lived, I calculated the flash-rate.{% sidenote "units-id" "Lightning flashes per square km per day, apparently this is the standard unit ¯\_(ツ)_/¯" %} for a 0.5°×0.5° box{% sidenote "smoothed" "Smoothed with 2.5° x 2.5° boxcar moving average." %}
+
+Before running the code, I made a list of the best thunder-months I could remember.{% sidenote "pregreg-id" "Always pre-register your hypotheses!" %} 
+
+Freetown in the summer was surely the most memorable. 
+
+I will always have a soft spot for thunderstorms from my parent's porch in Maryland. These memories are particularly strong. My sister Olivia would often try to encourage me and Abigail to abandon the porch and splash barefoot to the park down the street, but I liked the coziness of the porch. My dad would warn against it — probably rightly. The tennis courts at the park are probably the only place on the leafy street kids are at risk of a lightning strike. 
+
+I remember the monsoon in Kolkata damply. Like Freetown, the downpours rarely lasted long, but they were ferocious. 
+
+Now, the data. Here's a map you have to look at because I made it. I removed the continents because they fuzz the facets, but you can clearly see Madagascar in winter, Florida in summer, and the DRC throughout. 
+
+{% fullwidth "assets/img/lightning_strikes.png" "" %}
 
