@@ -100,7 +100,10 @@ The romantics also have an advantage. Visiting a friend's house, much more than 
 
 <br>
 
-In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Blake's stormclouds and radiant sun remain evocative of lighting.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.jpg" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
+In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Blake's stormclouds and radiant sun remain evocative of lighting.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.jpg" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %} Blake's ecstatic poetry is naturalistic (often referencing "Job": " does he cry with a voice / Of thunder does he look upon the sun & laugh or stretch / His little hands into the depths of the sea). I adore the references to nature (here, I single out thunder) in both his illuminated and unilluminated poems: 
+
+> O for a voice like thunder, and a tongue
+> To drown the throat of war!
 
 This isn't to say realists haven't implied lightning. My computer screensaver is Bierstadt's *Among the Sierra Nevada, California*,{% sidenote "asier-id" "Well worth a visit if you're in DC. It's just so **big**." %} which has a relatively boring sky, but Bierstadt's *A Storm in the Rocky Mountains* has a dramatic sky. 
 
