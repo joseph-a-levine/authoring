@@ -84,6 +84,11 @@ My thunder exposure won't increase any time soon. Unfortunately, Oxford's *best*
 
 ## Some notes on artistic portrayals of thunder and lightning
 
+Lightning appears surprisingly rarely in painting. It seems technically quite difficult — because of the ephemerality of the return stroke (much less than a millisecond), we've all seen lightning, but never looked at it, studied it. Capturing such a brief, intense phenomenon is a challenge to any realist painter. 
+
+Impressionists attempt it well. When I first saw Turner's *Snow Storm: Steam-Boat off a Harbour's Mouth*{% sidenote "sidenote-id" "Turner, aged 67, reportedly asked sailors to lash him to the mast of their boat for four hours during a snow storm for inspiration." %} in London, I read the central pale light haloing the steamboat as a flash of lightning. No notes support this, so it'll be my word against Turner's: 
+
+{% fullwidth "assets/img/Turner_Snow_storm.jpg" "" %}
 
 
 
