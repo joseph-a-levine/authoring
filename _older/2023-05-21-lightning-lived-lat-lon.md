@@ -107,6 +107,17 @@ In my memory, God was throwing a lightning bolt — but he is [Urizen](https://e
 
 This isn't to say realists haven't implied lightning. My computer screensaver is Bierstadt's *Among the Sierra Nevada, California*,{% sidenote "asier-id" "Well worth a visit if you're in DC. It's just so **big**." %} which has a relatively boring sky, but Bierstadt's *A Storm in the Rocky Mountains* has a dramatic sky. 
 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 <br>
 
 {% fullwidth "assets/img/Bierstadt_Storm.jpg" "" %}
