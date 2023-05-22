@@ -86,10 +86,16 @@ My thunder exposure won't increase any time soon. Unfortunately, Oxford's *best*
 
 Lightning appears surprisingly rarely in painting. It seems technically quite difficult — because of the ephemerality of the return stroke (much less than a millisecond), we've all seen lightning, but never looked at it, studied it. Capturing such a brief, intense phenomenon is a challenge to any realist painter. 
 
-Impressionists attempt it well. When I first saw Turner's *Snow Storm: Steam-Boat off a Harbour's Mouth*{% sidenote "sidenote-id" "Turner, aged 67, reportedly asked sailors to lash him to the mast of their boat for four hours during a snow storm for inspiration." %} in London, I read the central pale light haloing the steamboat as a flash of lightning. No notes support this, so it'll be my word against Turner's: 
+Impressionists elide the problem well. When I first saw Turner's *Snow Storm: Steam-Boat off a Harbour's Mouth*{% sidenote "sidenote-id" "Turner, aged 67, reportedly asked sailors to lash him to the mast of their boat for four hours during a snow storm for inspiration." %} in London, I read the central pale light haloing the steamboat as a flash of lightning. No notes support this, so it'll be my word against Turner's: 
+
+<br>
 
 {% fullwidth "assets/img/Turner_Snow_storm.jpg" "" %}
 
+The romantics also have an advantage. Visiting a friend's house, much more than a decade ago, I came across a collection of William Blake's illuminated books. The frontispiece to "Europe a Prophecy," entitled *The Ancient of Days*, stuck with me at least until I bought my own collection of Blake books last year. 
 
+{% fullwidth "assets/img/ancient_of_days.jpg" "" %}
+
+In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Still, Blake's stormclouds and radiant sun are evocative.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.png" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
 
 
