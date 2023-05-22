@@ -10,6 +10,12 @@ Here's one of my favorite videos on the internet:{% sidenote "lonwa-id" "It's an
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2QRjwEYr9E8?start=1016" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br> 
@@ -118,10 +124,11 @@ This isn't to say realists haven't implied lightning. My computer screensaver is
 
 <br>
 
-<br>
 
 {% fullwidth "assets/img/Bierstadt_Storm.jpg" "" %}
 
 <br>
 
 No lightning flashes, but the thunderheads are threatening. One warning — Bierstadt had a complicated relationship with geology. One amateur trigonometrician calculated that Bierstadt had inflated the height of Mt. Rosalie by 60%. Similarly, *Sierra Nevada* has several geologically improbable formations.
+
+
