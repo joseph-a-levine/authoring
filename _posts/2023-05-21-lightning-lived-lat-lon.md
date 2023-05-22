@@ -14,8 +14,6 @@ Here's one of my favorite videos on the internet:{% sidenote "lonwa-id" "It's an
 
 <br>
 
-<br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2QRjwEYr9E8?start=1016" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br> 
@@ -24,7 +22,7 @@ Lightning is cool. Lances of heat and light bursting from the heavens and lighti
 
 When lightning flashes, it heats the surrounding air to temperatures five times hotter than the surface of the sun, and it does so almost instantly. The video above captures 7,000 frames per second, and the flash, the return stroke, occurs within a single frame. This rapid heating causes the air to expand explosively, creating a shock wave that travels outward from the lightning channel: thunder. 
 
-I think thunder is cooler than lightning. This feels slightly distinctive: thunder can seem the boring stepsibling of lightning. Lightning has pizzazz, it's what gets the party started, and is on to the next place just as quickly. Thunder is constantly late and possibly overstays its welcome. And yet — the joy I get from flashes of light pale next to the deep peals that follow.
+I think thunder is cooler than lightning. This opinion feels distinctive: thunder can seem the boring stepsibling of lightning. Lightning has pizzazz, it's what gets the party started, and is on to the next place just as quickly. Thunder is constantly late and possibly overstays its welcome. And yet — the joy I get from flashes of light pale next to the deep peals that follow.
 
 Oxford is an odd choice of domicile for someone with this passion. Until this past Friday, I hadn't heard thunder since last August in DC. As we'll uncover below, this wasn't atypical — the Thames River Valley is one of the least lightning struck places in Europe. 
 
