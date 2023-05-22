@@ -96,6 +96,8 @@ The romantics also have an advantage. Visiting a friend's house, much more than 
 
 {% fullwidth "assets/img/ancient_of_days.jpg" "" %}
 
-In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Still, Blake's stormclouds and radiant sun are evocative.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.png" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
+In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Blake's stormclouds and radiant sun remain evocative of lighting.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.png" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
 
+This isn't to say realists haven't implied lightning. My computer screensaver is Bierstadt's *Among the Sierra Nevada, California*,{% sidenote "asier-id" "Well worth a visit if you're in DC. It's just so **big**." %} which has a relatively boring sky, but Bierstadt's *A Storm in the Rocky Mountains* has a dramatic sky. 
 
+{% fullwidth "assets/img/Bierstadt_Storm.jpg" "" %}
