@@ -75,11 +75,11 @@ My memory, it turns out, is quite good. Bethesda in June takes the top spot, wit
 
 <br>
 
-And a map, picking August as a particularly exciting month lightningly: 
+And a map, picking August as a particularly exciting month, lightningly. All of the places I lived at marked with yellow stars.
 
 {% fullwidth "assets/img/lightning_lived_aug.png" "" %}
 
-
+Unfortunately, Oxford's *best* month (June) experiences two orders of magnitude fewer lightning strikes than any of my Kolkata months. 
 
 
 ## Some notes on artistic portrayals of thunder and lightning
