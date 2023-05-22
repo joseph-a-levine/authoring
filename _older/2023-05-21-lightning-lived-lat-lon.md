@@ -75,7 +75,9 @@ My memory, it turns out, is quite good. Bethesda in June takes the top spot, wit
 
 <br>
 
-And a map:
+And a map, picking August as a particularly exciting month lightningly: 
+
+{% fullwidth "assets/img/lightning_lived_aug.png" "" %}
 
 
 
