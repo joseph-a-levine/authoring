@@ -94,10 +94,20 @@ Impressionists elide the problem well. When I first saw Turner's *Snow Storm: St
 
 The romantics also have an advantage. Visiting a friend's house, much more than a decade ago, I came across a collection of William Blake's illuminated books. The frontispiece to "Europe a Prophecy," entitled *The Ancient of Days*, stuck with me at least until I bought my own collection of Blake books last year. 
 
+<br>
+
 {% fullwidth "assets/img/ancient_of_days.jpg" "" %}
 
-In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Blake's stormclouds and radiant sun remain evocative of lighting.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.png" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
+<br>
+
+In my memory, God was throwing a lightning bolt — but he is [Urizen](https://en.wikipedia.org/wiki/Urizen), not God, and the lightning bolt is a compass. Blake's stormclouds and radiant sun remain evocative of lighting.{% marginfigure "margin-figure-id" "assets/img/El_Greco_View_of_Toledo.jpg" "While not a romantic, and not containing any lightning, I will include here my favorite painted sky, El Greco's *View of Toledo*." %}
 
 This isn't to say realists haven't implied lightning. My computer screensaver is Bierstadt's *Among the Sierra Nevada, California*,{% sidenote "asier-id" "Well worth a visit if you're in DC. It's just so **big**." %} which has a relatively boring sky, but Bierstadt's *A Storm in the Rocky Mountains* has a dramatic sky. 
 
+<br>
+
 {% fullwidth "assets/img/Bierstadt_Storm.jpg" "" %}
+
+<br>
+
+No lightning flashes, but the thunderheads are threatening. One warning — Bierstadt had a complicated relationship with geology. One amateur trigonometrician calculated that Bierstadt had inflated the height of Mt. Rosalie by 60%. Similarly, *Sierra Nevada* has several geologically improbable formations.
