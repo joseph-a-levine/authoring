@@ -44,17 +44,40 @@ For each month-place I lived, I calculated the flash-rate{% sidenote "units-id" 
 Before running the code, I made a list of the best thunder-months I could remember:{% sidenote "pregreg-id" "Always pre-register your hypotheses!" %} 
 
 1. Freetown in the summer was surely the most memorable. After the dust of [the harmattan](https://en.wikipedia.org/wiki/Harmattan), the rainy season arrives with a vengeance. I had a balcony overlooking the port, and watched many of these storms roll in from the Atlantic and break against the Lion Mountains, pounding the city for minutes before evaporating in a humid mist.
-2. I will always have a soft spot for thunderstorms from my parent's porch in Maryland. These memories are particularly strong. My sister Olivia would often try to encourage me and Abigail to abandon the porch and splash barefoot to the park down the street, but I liked the coziness of the porch. My dad would warn against it — probably rightly. The tennis courts at the park are probably the only place on the leafy street kids are at risk of a lightning strike. 
+2. I will always have a soft spot for thunderstorms from my parent's porch in Maryland. These memories are particularly strong. My sister Olivia would often try to encourage me and Abigail to abandon the porch and splash barefoot to the park down the street, but I liked the coziness of the porch. My dad would warn against it — probably rightly. Those tennis courts are probably the only place on the leafy street we were at risk of a lightning strike. 
 3. I remember the monsoon in Kolkata damply. Like Freetown, the downpours rarely lasted long, but they were ferocious. My shoes, canvas crocs,{% sidenote "croc-id" "Not unlike [these](https://www.amazon.co.uk/Crocs-Classic-Sandals-Leisure-Sportwear/dp/B08G11G3QW)." %} were rotting off my feet by week three. The rain sticks more heavily in my memory, but there were afternoons and evenings when BP and I did nothing but watch lightning and listen for thunder. 
 
 Now, the data. Here's a map you have to look at because I made it. I removed the continents because they fuzz the facets, but you can clearly see Madagascar in winter, Florida in summer, and the DRC throughout. 
 
 {% fullwidth "assets/img/lightning_strikes.png" "" %}
 
+The winner is
+
+|   |Location         |Month | Flash Rate|     lat|      lon|
+|:--|:----------------|:-----|----------:|-------:|--------:|
+|1  |Bethesda         |Jun   |  14.024150| 38.9847| -77.0947|
+|2  |Kolkata          |Jun   |  10.653850| 22.5726|  88.3639|
+|3  |Freetown         |Oct   |  10.325800|  8.4657| -13.2317|
+|4  |Freetown         |May   |  10.251130|  8.4657| -13.2317|
+|5  |Williamsburg, VA |Aug   |  10.223150| 37.2707| -76.7075|
+|6  |Freetown         |Jun   |   9.033635|  8.4657| -13.2317|
+|7  |Bethesda         |Jul   |   8.988728| 38.9847| -77.0947|
+|8  |Freetown         |Nov   |   8.819298|  8.4657| -13.2317|
+|9  |Bethesda         |Aug   |   8.204527| 38.9847| -77.0947|
+|10 |Panjshir         |Aug   |   5.926090| 35.3122|  69.5153|
+|11 |Kolkata          |Jul   |   5.722551| 22.5726|  88.3639|
+|12 |Panjshir         |May   |   5.348469| 35.3122|  69.5153|
+|13 |Freetown         |Sep   |   5.318444|  8.4657| -13.2317|
+|14 |Kolkata          |Aug   |   4.411599| 22.5726|  88.3639|
+|15 |Lucknow          |Aug   |   4.256266| 26.8467|  80.9462|
+
+
 The results were not what i expected! I've been through my code five times, and everything seems right. I've mapped it, plotted it, looked at the raw data. nothing, nothing would convince me that there was more lightning in August in Kabul than July in Freetown. But Maybe I have to accept it?
 
 
-## Some notes on William Blake, my favorite artist of lightning
+## Some notes on artistic portrayals of thunder and lightning
+
+
 
 
 
