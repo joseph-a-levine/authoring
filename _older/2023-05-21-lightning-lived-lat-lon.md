@@ -51,7 +51,9 @@ Now, the data. Here's a map you have to look at because I made it. I removed the
 
 {% fullwidth "assets/img/lightning_strikes.png" "" %}
 
-The winner is
+My memory, it turns out, is quite good. Bethesda in June takes the top spot, with Kolkata and Freetown not far behind. 
+
+<br>
 
 |   |Location         |Month | Flash Rate|     lat|      lon|
 |:--|:----------------|:-----|----------:|-------:|--------:|
@@ -71,8 +73,11 @@ The winner is
 |14 |Kolkata          |Aug   |   4.411599| 22.5726|  88.3639|
 |15 |Lucknow          |Aug   |   4.256266| 26.8467|  80.9462|
 
+<br>
 
-The results were not what i expected! I've been through my code five times, and everything seems right. I've mapped it, plotted it, looked at the raw data. nothing, nothing would convince me that there was more lightning in August in Kabul than July in Freetown. But Maybe I have to accept it?
+And a map:
+
+
 
 
 ## Some notes on artistic portrayals of thunder and lightning
