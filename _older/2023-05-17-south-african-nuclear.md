@@ -20,7 +20,7 @@ Here, I'm going to look at South Africa's history building and dismantling nucle
 
 Who wouldn't? 
 
-## Why gave them up
+## Why South Africa gave up their nuclear weapons
 
 Money
 End of cold war
