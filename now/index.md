@@ -3,120 +3,139 @@ layout: page
 title: What am I up to now?
 ---
 
-## May, 2023
+## June, 2023
 
-Exams finished in mid-April — I'll learn the results in July, and update here once I do. For the next eight weeks, I'd prefer to think about _anything_ else. 
-
-Oxfordshire has been obliging. For most of the first week of Trinity Term, the sun has come out and the weather has tended warm. I've exploited my sudden free time and the weather with lots of time outside. Mostly river outings, but on April's last Wednesday, I took a day trip to Averbury and Silbury, a neolithic site 45 miles south of Oxford. For any tourists visiting the south of England, I recommend replacing the supposedly obligatory Stonehenge stop with the Avebury World Heritage site. It dominates Stonehenge on every metric — Avebury is older, larger, less crowded, and more important to our understanding of neolithic people. And — there is a town *inside* of the stone circle: 
-
-<br>
-
-{% maincolumn "assets/img/Avebury.jpg" "" %}
-
-
-Two kilometers south of Avebury is Silbury. If Avebury is a mysterious, interlocking and overlapping, convoluted complex of meticulous megaliths, Silbury is... a massive old pile of dirt. To be fair, it is the massivest, oldest pile of dirt in England, but it is just a big mound of dirt. 
-
-<br>
-
-{% maincolumn "assets/img/Silbury.jpg" "" %}
-
-
-Silbury hill was built about 4,500 years ago, almost contemporaneously with the pyramids of Giza, and of comparable volume. While we don't know the hill's purpose, of course there is plenty of speculation. More interesting than "why," however, is the labor cost. [Atkinson (1974)](https://www.jstor.org/stable/74279) wrote that it would have taken 500 men 15 years to build Silbury hill: 
-
-> In view of the small size of the neolithic population, this represents a fraction of the 'gross national product' at least as great as that currently devoted by the United States of America to the whole of its space programme. 
-
-This is even more striking given the (supposed) subsistence-level existence of neolithic Brits, challenging our assumptions and estimates of neolithic land productivity. If such a large fraction of the population could have been supported in non-productive{% sidenote "nonprodf-id" "Which meant non-food-productive at the time." %} labor for an extended period, the rest of the economy must have been well above subsistence. This remains true if the Silbury laborers were enslaved. 
-
-Further, our assumptions about the ability of neolithic societies to project power. Leaving aside the geographic dispersion of these sites — the bluestones at Stonehenge traveled from Wales{% sidenote "stonehswa-id" "Wales! This is my trump mind-blowing Stonehenge fact. The stones were brought more than 150 miles, at a time when the wheel was dubious. Or — they were brought almost *200* miles by sea, when the canoe was the height of seaworthiness. Everything about the past was so weird and we have [no idea](https://xkcd.com/1747/)." %} — there is something unexpected about the dedication and perseverence of the contemporary power structure's dedication to these stone structures. Return to Atkinson's analogy to the space program: in the US, we can't hold a space policy for more than a presidential administration. The current Artemis program, surviving from Trump to Biden, is the **first** new human NASA initiative to survive a presidential transition since the 1980s. Sure, neolithic Brits didn't have to put up with pesky elections, but think of the consistent draw on resources of a project, drawn out over decades, which has no tangible, "merely" spiritual, benefits. At that point, the dedication of this society becomes near fanatic. 
-
-OK — but this is supposed to be about my life. What am I up to now? This term, I'm taking a maths course and coding course through the econ department, neither of which are posing much of a challenge.{% sidenote "timesuco-id" "Tho both are a bit of a time suck." %} On the research side, I've started working with [Victor Pouliquen](https://sites.google.com/site/victorpouliquen/), a postdoc at Nuffield, on a project on property taxation and public service provision in the Gambia.{% sidenote "sengastcir-id" "Which also has some *great* [stone circles](https://en.wikipedia.org/wiki/Senegambian_stone_circles)." %} This just got off the ground after exams, and so far has involved cleaning some very messy excel spreadsheets. 
-
-In May, I'll have to (softly) commit to a thesis topic and supervisor. Because of the lock-in effects,{% sidenote "locthes-id" "Whom I pick as a supervisor for my second-year thesis will likely be the same person I work with for my full DPhil dissertation, and likely on the same topic." %} this is a somewhat stressful decision. Right now, I see three possibilities:
-
-1. **Development** — while Victor's project is in much too early stages to be a viable thesis topic/data source, there are other attractive topics. I have access to data from (some of) my West African and Afghan fieldwork, and could connect current research interests to those.  Alternatively, [Eva Vivalt](https://evavivalt.com/) arrived in Oxford in April, which has had me thinking about forecasting and development again. I could re-dip my toes in the water of cash transfers, which Eva has worked on, as has Dennis Egger.{% sidenote "wrisub-id" "While writing this bullet, my friend SB, who works for the most exciting cash transfer organization, texted me that she'll be in London next week! Could this be fate telling me to work on cash transfers? Probably not. But I will have the perfect sounding board to run my ideas past." %} Dennis' work on the general equilibrium effects of cash transfers was my favorite Econometrica paper from last year.
-2. **History** — I could return to my work on the persistence and corporate governance of long-lived institutions. A couple of years ago, MN gave me a dataset of long-lived institutions (think monasteries and universities, stuff that easily persisted over centuries) which I slowly augmented. The data aren't rich enough to support an empirical thesis on their own, probably, but a theoretical paper on institutional persistence could use monasteries as an illustrating example. I think it's a pretty cool project, and it would give me an excuse to read and write a lot about monasteries for the next year. 
-3. **Unawareness** — While the lock-in effects of the thesis are real, it also offers a good opportunity to try my hand in a research field I'm unfamiliar with and unsure of. I've repeatedly dipped my toes{% sidenote "miana-id" "Apoligies for the mixed anatomical metaphors." %} into the micro theory pool over the first couple of years, first on my own, then with Benjamin Tereick and the GPI crowd. I would be really excited to come back to a project on awareness growth. I'm building out a longer project proposal for myself right now, which I'll have to discuss with my supervisor Dr. Meg Meyer sometime this month! Watch this space. 
-
-
+*A bit of a different structure this month, as my reading was interwoven with the things I did.*
 
 ## Contents
-1. [Reading](#reading)
-2. [Listening](#listening)
-
+1. [School](#school)
+2. [Summer VIIIs](#summer-viiis)
+3. [Baseball](#baseball)
+4. [Chilterns](#chilterns)
+5. [Central Asia](#central-asia)
+6. [Listening](#listening)
 
   <br>
+  
+## School
+  
+As May ends, we have three weeks of classes left: a coding course{% sidenote "ermdbo-id" "In a language I've used for years." %} and a math course covering real analysis and measure theory.{% sidenote "fmmshad-id" "Both of which I've also studied before — measure theory, with the same professor who's teaching this course." %} Both are assessed pass/fail, so this couldn't be lower stress. I've supplemented these courses with some personal practice, such as excessive amounts of R coding for research projects and slowly re-learning Julia, and personal reading. I don't read much about math outside of coursework{% sidenote "metrext-id" "For econometrics last term, I read two textbooks front to back. That required a lot more discipline than reading textbooks about, say, meteorology. Motivation is weird, ok?" %} and decided to try it, a bit, this month. 
 
-## Reading
+My contrarian streak keeps me from reading a book if it has too many effusively positive reviews. This has kept me from ever opening *Godel, Escher, Bach* or *The Power Broker*. Earlier this year I broke this rule for *The Jesuits: A history*{% sidenote "sidenote-id" "Enthusiastically reviewed by [Dan Wang](https://danwang.co/2022-letter/) and [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2022/02/the-jesuits-a-history.html), whose enthusiasm about new history books I've learned to adjust down by half." %} and had a great time; as part of my math-y supplements I broke it again for Reviel Netz's *A New History of Greek Mathematics*.{% sidenote "sidenote-id" "I was *almost* scared away by the [TLS](https://www.the-tls.co.uk/articles/a-new-history-of-greek-mathematics-reviel-netz-book-review-liba-taub/), [Viktor Blåsjö](https://intellectualmathematics.com/blog/review-of-netzs-new-history-of-greek-mathematics/), and, again, [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2023/04/a-new-history-of-greek-mathematics.html). " %} I'm so glad I did — Netz is a genius science communicator, and is the first person to get me to understand optics. I'll write a review focusing on the astronomy aspects eventually, but want to write about the science communication here. 
 
-Another particularly bad month for reading — I read just one book before my exams finished on the 20th. I slightly made up for it in the past ten days. 
+*A New History* is not a math textbook, nor is it history book. Perhaps a third of the book is made up of proofs, but these wouldn't pass muster for academic mathematicians. This isn't due to the weakness of Archimedes or Eudoxus or Archytas, but the necessity of presentation. The fundamentals of Greek mathematics is alien to us — there are no negative numbers, no fractional or decimal numbers, and certainly no irrationals:
 
-I've been gearing up for Oxford's tourism season, the time of year the weather is pleasant enough to turn Oxford from a passably nice historical town to a downright idyllic spring postcard. I've already gotten limited chances to show off my tourguiding skills to PP, LR, LH, and Abigail, but the next couple of months will be chock-full of visitors expecting fun facts on every corner. I don't wanto to disappoint. 
+> For the Greeks, “number” meant what we think of as a positive integer (usually not always – the Greeks excluded the number 1 itself, which was not so much a number as the “unit” by which numbers are measured).{% sidenote "sidenote-id" "This turns out to not be much of a constraint, as the geometrical method is able to replicate all of these phenomena without the  need for numbers. The only Greek involvement with number theory came in the context of music, and this required genius workarounds." %} 
 
-The most invaluable resource has doubtless been Jan Morris' *Oxford*, a meandering travelogue written in the 90s but published just after the millenium. Morris remembers a version of Oxford which is recognizable but fading, and the book is most useful for the historical anecdotes. Of course, these are exactly what tourists want, the bloodier and more obscure, the better.
+So when Netz wants to demonstrate a proof from a Greek mathematician, he must translate, not just the language, but the basic mathematical system. Imagine explaining an extremely simple and familiar proof, e.g., that there is no largest prime number, but having to do so in base 13. The alien-ness between our system and Archimedes is even greater. Further, these proofs were not written to be deeply intelligible, just correct. Netz is writing for the public, and must elide some details. 
 
-> The blurred King Mephric was eaten by wolves at Wolvercote, Edmund Ironside is supposed to have been murdered in Oxford, Harold Barefoot died in the city, it was a *gemot* at Oxford which, by forcing King Harold to march northwards and crush a rebellion in 1066, left his southern flank open to William the Conqueror.
+> I relay all of this with a certain amount of guilt. I demand you to have faith in me that everything about this argument is rigorously proved, and then I ask you to be impressed by the proof and its rigor. I ask you to trust me that, if you could only see the proof, you would be struck by its beauty. And yet, I do not show it to you because it is so difficult. A fine matchmaker! In truth, Apollonius’s proof [of the parametric value for  the "smallest line" within a conic section] takes time – impressive subtlety and precision, rather than brilliant flashes.
 
-A warning, tho, Morris is not to be trusted, possibly not even in the paragraph above. While certainly not a work of fiction,{% sidenote "havfic-id" "Unlike her travelogue *Hav*, which I recommend for altogether different reasons." %} Morris' book plays fast and loose reporting legend as fact. On three too many occasions, I came across a story too-good-to-be-true, which Google proved false. 
+The mathy-y parts of the book are not excessively math-y, then. The history is clean and entertaining, however. None of my previous reading, mostly philosophical or hagiographic, gave me a true impression of the absolute *dickishness* of Archimedes. Archimedes was the most productive mathematician of his day, and wanted everyone to know it. Math moved slowly at the time, relying on the Mediterranean trade flows, and precedence for results was often difficult to establish. Archimedes had to share his results, of course, but couldn't abide the thought of other mathematicians in the Greek world getting credit. In one letter, introducing his results on spiral lines, Archimedes: 
 
-One gets the impression she overheard some of these stories in a college bar, jotted them in her notebook, and moved on to the next pint. Another one of my favorite resources, an internet [book on Trill Mill stream](https://trillmillstream.wordpress.com/), takes Morris to task for her claim that, "beneath the very centre of the city runs the Trill Mill stream, a gloomy underground waterway in which was discovered, one day in the 1920s, a rotted Victorian punt with two Victorian skeletons in it." The Trill Millian expert writes:
+> made a bold claim: “I have provided proof to all those results.” But at the same time, he asked much more of his potential respondents: to play the game, they had to provide the actual proofs explicitly. But of course, nothing prevented them from simply asserting – repeating Archimedes’s own bold assertion – that they, too, have found those results, perhaps even independently. To prevent this – Archimedes now reveals in retrospect – he planted two poisoned results. Two of the claims were wrong, so anyone claiming to have proved them all would be revealed as a fraud. Furthermore, as a kind of insurance against anyone revealing the falsity of the poisoned claims and implying that Archimedes made an error, Archimedes started out by positioning the false claims in the wrong order (to provide some credibility to his counterclaim, in such case, that he knew all along that the claims were false and planted them deliberately).
 
-> Unless evidence to the contrary emerges, I believe that the story of the skeletons in the punt is fiction. It was first recorded in print by Jan Morris... From there, [it] has entered the mythology of the city, and been repeated by writers and tour guides.
+And then, when proving results, Archimdes would often approach the results in the most roundabout way. He would introduce propositions key to his main results in the most off-hand way, burying them early in a treatise like Chekov's gun.
 
-This knowledge should take no enjoyment away from Morris' book, and it has helped me discover a half dozen well-hidden gems in the past week, including one perfectly mouldering cemetery less than ten meters from my old flat. And the writing is just as good when restricted to the best-known spots:
+> Archimedes aims at surprise. The key point is that as [the key] proposition is introduced, Archimedes makes all efforts to disguise its potential application. It is sandwiched between unrelated results, and it is presented in opaque language, its key takeaway relegated to a corollary. The key observation – that the sectors in a circle behave as the series of squares on an arithmetical progression{% sidenote "calcs-id" "Aside — Archimedes' reasoning in this proof is equivalent to the delta-epsilon limit. If he had generalized it beyond spirals, the invention of calculus would not have been far behind." %} – is not asserted in advance.
 
-> Happiest of all is the surprise that awaits you in the Fellows' garden at Exeter College (closed to the public, so a notice says, at four o'clock each day). This is best seen in winter, and preferably—for Oxford prohibitions are meant to be ignored—somewhere around five, when the dusk is closing in and the lights are coming on. You must walk the length of the garden first, and climb the steps at the bottom, and presently you will find yourself sitting on a seat on the top of a wall, to survey the most satisfying of Oxford compositions. Below you there lies Radcliffe Square, the focus of the University, like the stage of a theatre. It is dramatically alive. The street lights glint on the shiny cobblestones, and the handle-bars of the bicycles in their racks. Everywhere there is movement: undergraduates hastening towards the Bodleian, porters looking out of Brasenose gate, the vicar of St. Mary's, cassocked and belted, talking to a parishioner in his porch. The great dome of the Radcliffe Camera almost fills this stage; the balcony of St. Mary's looks down like a royal box; and even as you watch from your position in the wings the lights go up in the Bodleian and the Codrington Library across the way, and the gilded crests spring into brilliance on the ceiling of Duke Humfrey's, and the whole scene is diffused in a glow of theatrically sumptuous learning. Do not stay too long. Oxford rules are flexible, but there may be something chilling to the manner of the porter, when he courteously approaches you through the garden, and asks with innocent interest if you are a Fellow of this College.
+Then, in the same proof, of the area of a spiral, Archimedes declines to connect this key proposition to the conclusion. Archimedes "clearly wants us to be flustered.” He
 
-LM lent me his copy of Vicky Wilson's *Walking Oxford*, a dense 400 pages of self-guided walking tours. Wilson is thorough: she spends a page on my [unremarkable block ](https://goo.gl/maps/6p8ALmQpmBMGbUtT7) in west Jericho. There are perhaps too many references to *Inspector Morse* and lists of dead, almost-famous people, but these faults are more charming than tedious. The research Wilson put into these walks is evident, but her own theorizing is just as informative and far more charming:
+> never explains how [the key] proposition applies. Everything is designed for the sake of this denouement where, finally, the narrative of the treatise would make sense in a surprising turn. [This] ugly, misshapen proposition is really about sectors in spirals: the duckling was a swan all along.
 
-> Looking left up Albert Street you can see the Oxford Baptist Chapel, built in 1881 and still in use today. The building opposite, now converted into houses, used to be the back of the Bakers Arms pub: its blank wall is perhaps a nod to its neighbours' abhorrence of alcohol.
+The explanation of this proof, of the area of the spiral, is my favorite in Netz's book. Archimedes' argument is subtle and surprising, and Netz (correctly) black-boxes the two most complex propositions. The resulting explanation provides simultaneous insight into the sociology and mathematics of Archimedes.
 
-Who knows if Wilson's image of the the Victorian Baptists and Lucy ironworkers leaving their respective chapels and avoiding eye contact across Albert Street is true. It is good historical writing.
+Elsewhere, I'm slowly working through Paul Nahim's *An Imaginary Tale*, on *i*. It's far more technical and less accessible, but an excellent history. 
 
-In the fiction of Oxford, nothing beats *Zuleika Dobson*, the book which brought the Sheldonian and its plinthed Emperors' heads to life.{% sidenote "pllin-id" "*Dobson* was written in the 1910s, and the heads were recarved in the 70s by Michael Black. This saddens me, that I'll never see Wood and Byrd's original soft faded sandstone sculptures silently judging the Duke of Dorset and the rest of the Oxford men." %} In the tea room at the Randolph Hotel, there are a series of exuberant illustrations done by Osbert Lancaster of the *Dobson* saga. Don't 
 
-Another great, more modern novel of Oxford is Javier Marías' *Todas las almas* (*All Souls*), which I read in Spanish last year and English this month.{% sidenote "epoalsou-id" "There's only the most tenuous relation to the eponymous college." %} It's a startling portrayal of Oxford and its characters, and one of the few which would make relatively less sense to an undergrad. The plot is unfortunately a bit too french, by which I mean, too much sad, well-read Europeans with tragic backstories having sex with other sad, well-read Europeans with tragic backstories. And the most interesting bit — related to the tragic backstories, not Oxford — is the non-fictional epilogue; the relevant search word is "Redonda." 
+## Summer VIIIs
 
-There's much more — surveys of Oxford literature range from *Alice* and *Wind in the Willows* to *Jude the Obscure*, *Brideshead*, and *Jill*. Oxford attracts and inspires writers, of course, but there are just as many writers whom Oxford failed (or the other way around). *Zuleika*'s author, Max Beerbohm, left without a degree, as did Waugh. The poets Shelley and Swinburne were both rusticated, the former for contumacy in his pamphlet *The Necessity of Atheism*; the latter for publicly advocating and supporting the assassination of Napoleon III. Gibbons was trundled away from Oxford by his family after an unexpected conversion to Catholicism, and De Quincey's addiction to opium was sufficiently advanced that he "simply gave up in the middle of [his] final examination, and left the city for ever."
+> [I]n Eights Week the pleasures of Oxford are in their fullest bloom—possibly, like the evening of some splendid rose, getting a little blowzy. 
+> 
+> ...
+> 
+> [T]his is golden vicarage stuff, a dreamy Edwardian Oxford, all on a summer afternoon. A noisy crowd of undergraduates seethes up and down the towpath, threaded by earnest rowing coaches carrying megaphones on bicycles. Wherever you look there are colours, blazers and white flannels, straw hats with ribbons, lemonade bottles and crested caps. A ferryman conveys a crew from one bank to the other, its oars standing upright in the punt like lances in a Spanish painting.
+> 
+> ...
+> 
+> A flash of oars you see first, with the drip of the water off their painted blades, and then the first of the racing shells comes sweeping to the finishing line—eight very English young men, with the wiry little coxswain bawling at them from the stern, and a raggle-taggle party of supporters still staggering breathless along the bank; and the girl beside you turns to her brother and asks vacuously which boat it is, and the father says testily that it's all on the race card anyway, and the mother tidies her back hair and murmurs well, Susan only asked, after all it is only a sort of game, and presently the whole affair bursts into strawberries, cool drinks, the splashing of coxswains thrown into the water, and happy little groups of people, white and blue and polka-dotted, strolling through the meadows back to college.
 
-Great writers don't need degrees, and perhaps do need isolation, so these losses are understandable. Still, one is left with the feeling that Oxford is a place you can write about, but not a place you can write from. 
 
-I crammed some non-Oxford, non-academic reading into the last week of April — two of William Blake's illuminated prophecies, an earlier Marías novel, and three books about South African nuclear disarmament. I'm still looking for the definitive explanation of the denuclearization decision process that goes beyond "nukes are expensive and the Afrikaner government was racist," if anyone has any recommendations. Even LT failed me, tho, so my hopes aren't high!
+> Jan Morris, *Oxford*
+
+
+[Summer Eights](https://en.wikipedia.org/wiki/Eights_Week) was the last week of May — and my crew, Brasenose M2, were the highest{% sidenote "sidenote-id" "Non-headship, go away Oriole." %} men's boat to get blades. 
+
+<br>
+
+{% maincolumn "assets/img/m2_blades.jpeg" "With our cox Ulla and coaches Tim & Branwen." %}
+
+Summer Eights is the second and final annual bumps event held at Oxford University. Everywhere except Oxford and Cambridge, rowing competitions are regattas — like every other type of race, everyone starts together and the first person to the finish line wins. The Thames{% sidenote "cambcop" "And presumably the Cam." %} is too narrow for this — there's only a short section by Boathouse Island where even *two* can row side-by-side, let alone the 85 men's and 85 women's crews which qualify for Summer Eights. So in each division, 13 boats line up, bow to stern, a length and a half separate, and proceed to chase each other two kilometers upstream. If you "bump"{% sidenote "bumsru-id" "Most of the time, bumping is actual physical contact, but every year coxes are reminded and scolded to concede before it comes to this. They rarely do, the devils." %} the boat ahead of you, you take its spot the next day and vice versa. Rinse and repeat for four days. The next year, boats start in the order the finished on the last day. {% sidenote "vidsie-id" "In the video below, we're in the second boat, we just miss Merton (the first boat) about thirty second in, but end up catching them at 1:10. " %}
+
+<br>
+
+<br>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bkTDm8GM7MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+There are two ways to "win" bumps. The first is to take the headship, be the first boat at the top of the first division. Oriel College has held the men's headship since 2019, and rowed over{% sidenote "ovrow-id" "I.e., rowed the entire course. They haven't been bumped since 2017." %} four times this year with clear water behind them to retain it. The second and third boats on the river, from Christ Church and Keble, also rowed over without bumping or being bumped — it seems the men's first division has reached some equilibrium.
+
+The second way to "win" is to bump on all four days. This is what we did — Brasenose M2 won "blades" for the first time since 2005, bumping Queens, Merton, Lincoln,{% sidenote "linc-id" "This tasted particularly sweet, as Lincoln had bedeviled us on three of the four days of Torpids last term " %} and Jesus on our way. This win will be celebrated with a painting on the college walls and trophies for each. 
+
+Just three of the 85 men's crews won blades this year. Could this be the supreme athletic achievement of my life? I've fenced at the Junior Olympics,{% sidenote "jofenc-id" "A glorified national championship with absolutely no connection to the real Olympics." %} won the College of William & Mary intramural indoor soccer league, and hit .600 on the Bethesda-Chevy Chase High School Junior Varsity baseball squad. None of these stages compare to Eights Week, and Jan Morris certainly hasn't written about any of them as beautifully. The win feels underwhelming, tho. Our last bump, on Jesus, was painfully anticlimactic,{% sidenote "blaps-id" "In winning blades, we gave them spoons — being *bumped* four days in a row. Sorry to my friend Esther, the Jesus cox." %} and none of our bumps took more than a minute. 
+
+That's not to say it was easy; we trained hard and improved hugely over the past months. Yet — the role of luck in a bumps campaign was painfully clear. Our first bump was controversial, as some drone footage *might* show Queens bumping Merton moments before we bump Queens. This wasn't recorded by the umpires, so it didn't happen. One of our later bumps occurred just seconds before a klaxon{% sidenote "klax-id" "Canceling the race for safety or cygenic reasons. Any bump after a klaxon doesn't count." %} And our success was really only possible because our M2 boat had gotten spoons in 2019, and languished in lower divisions ever since. 
+
+Ah but I can't bring myself to care. What a week, what a river! Let's do it again. 
+
+<br>
+
+{% fullwidth "assets/img/for_zuleika.jpg" "Straight out of *Zuleika Dobson*, but without the horniest mass suicide in literature." %}
+
+
+## Baseball
+
+Elsewhere in athletics, the Oxford Blues qualified for the British Universities baseball semifinals. To avoid the suspense, we lost handily to Loughborough University,{% sidenote "sidenote-id" "Loughborough's dominance isn't limited to baseball — they've been the dominant sports university [since the early 1980s](https://www.lboro.ac.uk/news-events/news/2022/july/loughborough-win-another-bucs-title/). My year at St Andrews, our fencing team came close to beating them, thanks to IvG, but their foilists took it away from us. " %} who went on to win the championship. We played some good baseball and I got extremely sunburnt. The central problem at this level is finding pitchers who can throw strikes. I caught all of two games that day, and these fields have the furthest backstops of any we'd played on. It was a good workout. 
+
+<br>
+
+{% maincolumn "assets/img/rangers.jpg" "" %}
+
+
+## Chilterns
+
+The weekend after Eights Week, I spent a couple of days in a cottage in the Chilterns with a fun group of old and new friends. RJ gifted me tie dye shirt the group had made the day before, and I played my first game of mini-golf in at least a decade. 
+
+<br>
+
+{% maincolumn "assets/img/minigolf.JPG" "" %}
+
+The Chilterns aren't nearly as nice as the Cotswolds, but they make up for it with accessibility. A well-spent May weekend. 
 
 ### Monthly Le Guin
 
-In keeping with the Oxford theme, I tracked down a copy of a lecture given by Le Guin at Keble College in 1992, titled "Children, Women, Men and Dragons". A gorgeous parchment edition was published by Children's Literature New England, retitling this "challenging lecture *Earthsea Revisioned*", a reference to Le Guin's famous children's trilogy. 
-
-Children and dragons show up towards the end of the lecture; the majority is about gendered heroism and ability in fantasy settings. Until ~2nd wave feminism, making the hero of a fantasy novel female was revolutionary in itself; any such book was "political" by its existence. By writing Earthsea as children books, Le Guin gained some leeway, but she always viewed them as political. Making her original (male) hero brown and black puts them outside the whole "European heroic tradition" — "I was making him an Outsider, an Other, like a woman, like me." Even when she wrote a book in *Earthsea* from a woman's perspective, cross-sectionality may have been too much — "In the sequel it was my heroine who was white. I'm not sure why... Perhaps I simply lacked the courage to make my heroine doubly Other."
-
-Le Guin's fourth *Earthsea* book, coming almost two decades after the original trilogy, was from this women's perspective. Another speaker at the conference, calls this book "doing penance" for the earlier, male-dominated fantasy world. Le Guin:
-
-> Irredeemably secular, I'd call it affirmative action. In my lifetime as a writer, I have lived through a revolution, a great and ongoing revolution. When the world turns over, you can't go on thinking upside down. What was innocence is now irresponsibility.
-
-Le Guin ends with a reference to her unrelated short story "Buffalo Gals, Won't You Come Out Tonight?", where a young girl survives a plane crash in Oregon, but loses her eye. "Coyote, who created the world, according to the people there, and made quite a mess of it in the process," restores her sight, but her new eye sees a world slightly out of kilter with our own. Le Guin, in Oxford: 
-
-> For a long time we've been seeing with only one eye. We've blinded the woman's eye, said it doesn't see anything worth seeing, said all it can see is kids and cooking, said it's weak, short-sighted, said it's wicked, the evil eye. A woman's gaze is a fearful thing.
-
-The end of the lecture is well-written and would have been well-delivered ("The child who is our care, the child we have betrayed, is our guide") but leaves me cold. Le Guin couldn't resolve her metaphor of the dragon{% sidenote "dragmet-id" "Which I have neglected here because it felt unresolved." %} clearly towards gender representation in fantasy or the sight of children. She can't be faulted for this — we're all prone to reading too much into children's books, even ones we write — so the lecture ends well. But it does serve as good warning not to write yourself into a corner. 
 
 
+## Central Asia
+
+Not something I've done, but a quick bleg for next month's activities. My dad, ML, and I will be in Uzbekistan and Kazakhstan at the end of June and beginning of July. FB and AB have given me good tips, but I'm eager to hear from anyone else! Places to visit in Tashkent, Samarqand, Bukhara, Almaty, Astana? Books to read? Music to listen to or food to try? [Let me know](https://jablevine.com/hi)!
 
 ## Listening
 
-I'm not someone who sat down and listened to The Beatles when I was a kid. Music was playing in our house less often than my friend's houses, and I was too busy developing my own faux-quirky taste in the early 2010s to listen to choose to listen to a legendary group.{% sidenote "hipne-id" "Related to the recent drama on [hipsters vs. nerds](https://samkriss.substack.com/p/all-the-nerds-are-dead)." %}
+Exceptional stuff I listened to with love this month. 
 
-Scrolling through [this list](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles), there are dozens of titles I don't recognize, mostly from Help! and The White Album. But I've probably heard 90% of these songs at least once in my life? They're *The Beatles*. Some disc jockey is going to throw "Glass Onion" or "One After 909" on the radio; Spotify is suprisingly good at including "deep" cuts on its algorithmic playlists; plus I have friends who are proud of their taste in music and want you to know it. All of this means that even the obscure songs will come up eventually. 
+- *Outliers*, Sylvan Weekend
+- *Win&Lose*, Chinese Football
+- *The Heartland Hurricanes*, Daniel Champagne
+- *The Tale of Jenny & Screech*, Ren
+- *Millenium*, Backstreet Boys
 
-So it shocks me that every few months, I hear a Beatles song for the "first time" and get immediately swept up. Last summer, it was "Got to Get You Into My Life," in December, "She Came In Through The Bathroom Window," last week, "I've Just Seen a Face." This effect is remarkably consistent, and looking at the catalog above, potentially sustainable. In five years, I might hear "Why Don't We Do It in the Road?" and have it stuck in my head for weeks. What a nice thought.
-
-I came across [this obituary](https://lostinthecloudblog.com/2010/03/13/john-stump-composer-of-faeries-aire-and-death-waltz/) of musical typesetter and "composer"{% sidenote "slubid" "We'll get to the quotes in a moment." %} John Stump, who was such a fan of the Beatles he "sent corrections to the early 1980’s published Beatles song collection “The Compleat Beatles” because he knew the minute details of the songs and scores so well." This effort was rewarded gratefully by Paul. Stump was best known, though underrecognized for his composition "Faerie's Aire and Death Waltz." 
-
-<br>
-
-{% maincolumn "assets/img/faeries-aire.gif" "Tag yourself." %}
-
-This was on the wall of my high school's music room, as some insane tribute, or perhaps threat? It is also, of course, unplayable.{% sidenote "stoptr-id" "That hasn't stopped some from trying. A Stump appreciation society has the stated goal of getting his 'music compositions published, performed, known and appreciated.' I can't find any videos online, unfortunately, of the crescendoing moment when penguins are released, or Lakers in 6." %} Stump has other such compositions, such as a quartet for "Strings in A Minor (Motoring Accident)," all of which were equally "incredibly creative, erudite and rigorous acts of nonsense."
 
 ## Previously
+
+*[May, 2023](https://jablevine.com/older/May_2023)*
 
 *[April, 2023](https://jablevine.com/older/April_2023)*
 
