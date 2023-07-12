@@ -3,137 +3,57 @@ layout: page
 title: What am I up to now?
 ---
 
-## June, 2023
+## July, 2023
 
-*A bit of a different structure this month, as my reading was interwoven with the things I did.*
+In the 42 months since I bought this laptop, my time tracking app recorded only three days without activity. For 1,274 of the past 1,277 days, I opened my laptop and did something or other. 
 
-## Contents
-1. [School](#school)
-2. [Summer VIIIs](#summer-viiis)
-3. [Baseball](#baseball)
-4. [Chilterns](#chilterns)
-5. [Central Asia](#central-asia)
-6. [Listening](#listening)
-
-  <br>
-  
-## School
-  
-As May ends, we have three weeks of classes left: a coding course{% sidenote "ermdbo-id" "In a language I've used for years." %} and a math course covering real analysis and measure theory.{% sidenote "fmmshad-id" "Both of which I've also studied before — measure theory, with the same professor who's teaching this course." %} Both are assessed pass/fail, so this couldn't be lower stress. I've supplemented these courses with some personal practice, such as excessive amounts of R coding for research projects and slowly re-learning Julia, and personal reading. I don't read much about math outside of coursework{% sidenote "metrext-id" "For econometrics last term, I read two textbooks front to back. That required a lot more discipline than reading textbooks about, say, meteorology. Motivation is weird, ok?" %} and decided to try it, a bit, this month. 
-
-My contrarian streak keeps me from reading a book if it has too many effusively positive reviews. This has kept me from ever opening *Godel, Escher, Bach* or *The Power Broker*. Earlier this year I broke this rule for *The Jesuits: A history*{% sidenote "sidenote-id" "Enthusiastically reviewed by [Dan Wang](https://danwang.co/2022-letter/) and [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2022/02/the-jesuits-a-history.html), whose enthusiasm about new history books I've learned to adjust down by half." %} and had a great time; as part of my math-y supplements I broke it again for Reviel Netz's *A New History of Greek Mathematics*.{% sidenote "sidenote-id" "I was *almost* scared away by the [TLS](https://www.the-tls.co.uk/articles/a-new-history-of-greek-mathematics-reviel-netz-book-review-liba-taub/), [Viktor Blåsjö](https://intellectualmathematics.com/blog/review-of-netzs-new-history-of-greek-mathematics/), and, again, [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2023/04/a-new-history-of-greek-mathematics.html). " %} I'm so glad I did — Netz is a genius science communicator, and is the first person to get me to understand optics. I'll write a review focusing on the astronomy aspects eventually, but want to write about the science communication here. 
-
-*A New History* is not a math textbook, nor is it history book. Perhaps a third of the book is made up of proofs, but these wouldn't pass muster for academic mathematicians. This isn't due to the weakness of Archimedes or Eudoxus or Archytas, but the necessity of presentation. The fundamentals of Greek mathematics is alien to us — there are no negative numbers, no fractional or decimal numbers, and certainly no irrationals:
-
-> For the Greeks, “number” meant what we think of as a positive integer (usually not always – the Greeks excluded the number 1 itself, which was not so much a number as the “unit” by which numbers are measured).{% sidenote "sidenote-id" "This turns out to not be much of a constraint, as the geometrical method is able to replicate all of these phenomena without the  need for numbers. The only Greek involvement with number theory came in the context of music, and this required genius workarounds." %} 
-
-So when Netz wants to demonstrate a proof from a Greek mathematician, he must translate, not just the language, but the basic mathematical system. Imagine explaining an extremely simple and familiar proof, e.g., that there is no largest prime number, but having to do so in base 13. The alien-ness between our system and Archimedes is even greater. Further, these proofs were not written to be deeply intelligible, just correct. Netz is writing for the public, and must elide some details. 
-
-> I relay all of this with a certain amount of guilt. I demand you to have faith in me that everything about this argument is rigorously proved, and then I ask you to be impressed by the proof and its rigor. I ask you to trust me that, if you could only see the proof, you would be struck by its beauty. And yet, I do not show it to you because it is so difficult. A fine matchmaker! In truth, Apollonius’s proof [of the parametric value for  the "smallest line" within a conic section] takes time – impressive subtlety and precision, rather than brilliant flashes.
-
-The mathy-y parts of the book are not excessively math-y, then. The history is clean and entertaining, however. None of my previous reading, mostly philosophical or hagiographic, gave me a true impression of the absolute *dickishness* of Archimedes. Archimedes was the most productive mathematician of his day, and wanted everyone to know it. Math moved slowly at the time, relying on the Mediterranean trade flows, and precedence for results was often difficult to establish. Archimedes had to share his results, of course, but couldn't abide the thought of other mathematicians in the Greek world getting credit. In one letter, introducing his results on spiral lines, Archimedes: 
-
-> made a bold claim: “I have provided proof to all those results.” But at the same time, he asked much more of his potential respondents: to play the game, they had to provide the actual proofs explicitly. But of course, nothing prevented them from simply asserting – repeating Archimedes’s own bold assertion – that they, too, have found those results, perhaps even independently. To prevent this – Archimedes now reveals in retrospect – he planted two poisoned results. Two of the claims were wrong, so anyone claiming to have proved them all would be revealed as a fraud. Furthermore, as a kind of insurance against anyone revealing the falsity of the poisoned claims and implying that Archimedes made an error, Archimedes started out by positioning the false claims in the wrong order (to provide some credibility to his counterclaim, in such case, that he knew all along that the claims were false and planted them deliberately).
-
-And then, when proving results, Archimdes would often approach the results in the most roundabout way. He would introduce propositions key to his main results in the most off-hand way, burying them early in a treatise like Chekov's gun.
-
-> Archimedes aims at surprise. The key point is that as [the key] proposition is introduced, Archimedes makes all efforts to disguise its potential application. It is sandwiched between unrelated results, and it is presented in opaque language, its key takeaway relegated to a corollary. The key observation – that the sectors in a circle behave as the series of squares on an arithmetical progression{% sidenote "calcs-id" "Aside — Archimedes' reasoning in this proof is equivalent to the delta-epsilon limit. If he had generalized it beyond spirals, the invention of calculus would not have been far behind." %} – is not asserted in advance.
-
-Then, in the same proof, of the area of a spiral, Archimedes declines to connect this key proposition to the conclusion. Archimedes "clearly wants us to be flustered.” He
-
-> never explains how [the key] proposition applies. Everything is designed for the sake of this denouement where, finally, the narrative of the treatise would make sense in a surprising turn. [This] ugly, misshapen proposition is really about sectors in spirals: the duckling was a swan all along.
-
-The explanation of this proof, of the area of the spiral, is my favorite in Netz's book. Archimedes' argument is subtle and surprising, and Netz (correctly) black-boxes the two most complex propositions. The resulting explanation provides simultaneous insight into the sociology and mathematics of Archimedes.
-
-Elsewhere, I'm slowly working through Paul Nahim's *An Imaginary Tale*, on *i*. It's far more technical and less accessible, but an excellent history. 
-
-
-## Summer VIIIs
-
-> [I]n Eights Week the pleasures of Oxford are in their fullest bloom—possibly, like the evening of some splendid rose, getting a little blowzy. 
-> 
-> ...
-> 
-> [T]his is golden vicarage stuff, a dreamy Edwardian Oxford, all on a summer afternoon. A noisy crowd of undergraduates seethes up and down the towpath, threaded by earnest rowing coaches carrying megaphones on bicycles. Wherever you look there are colours, blazers and white flannels, straw hats with ribbons, lemonade bottles and crested caps. A ferryman conveys a crew from one bank to the other, its oars standing upright in the punt like lances in a Spanish painting.
-> 
-> ...
-> 
-> A flash of oars you see first, with the drip of the water off their painted blades, and then the first of the racing shells comes sweeping to the finishing line—eight very English young men, with the wiry little coxswain bawling at them from the stern, and a raggle-taggle party of supporters still staggering breathless along the bank; and the girl beside you turns to her brother and asks vacuously which boat it is, and the father says testily that it's all on the race card anyway, and the mother tidies her back hair and murmurs well, Susan only asked, after all it is only a sort of game, and presently the whole affair bursts into strawberries, cool drinks, the splashing of coxswains thrown into the water, and happy little groups of people, white and blue and polka-dotted, strolling through the meadows back to college.
-
-
-> Jan Morris, *Oxford*
-
-
-[Summer Eights](https://en.wikipedia.org/wiki/Eights_Week) was the last week of May — and my crew, Brasenose M2, were the highest{% sidenote "sidenote-id" "Non-headship, go away Oriole." %} men's boat to get blades. 
+But! For each of the past three weeks, I received an email which would have been surprising any other time. 
 
 <br>
 
-{% maincolumn "assets/img/m2_blades.jpeg" "With our cox Ulla and coaches Tim & Branwen." %}
+{% maincolumn "assets/img/fantastic_adventures.png" "" %}
 
-Summer Eights is the second and final annual bumps event held at Oxford University. Everywhere except Oxford and Cambridge, rowing competitions are regattas — like every other type of race, everyone starts together and the first person to the finish line wins. The Thames{% sidenote "cambcop" "And presumably the Cam." %} is too narrow for this — there's only a short section by Boathouse Island where even *two* can row side-by-side, let alone the 85 men's and 85 women's crews which qualify for Summer Eights. So in each division, 13 boats line up, bow to stern, a length and a half separate, and proceed to chase each other two kilometers upstream. If you "bump"{% sidenote "bumsru-id" "Most of the time, bumping is actual physical contact, but every year coxes are reminded and scolded to concede before it comes to this. They rarely do, the devils." %} the boat ahead of you, you take its spot the next day and vice versa. Rinse and repeat for four days. The next year, boats start in the order the finished on the last day. {% sidenote "vidsie-id" "In the video below, we're in the second boat, we just miss Merton (the first boat) about thirty second in, but end up catching them at 1:10. " %}
 
-<br>
+It was the former. When I packed up and left for Uzbekistan on 22 June with ML and my dad, I left my laptop behind. I felt a bit of separation anxiety, sure, but thrived with only my e-ink tablet. 
 
-<br>
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bkTDm8GM7MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-There are two ways to "win" bumps. The first is to take the headship, be the first boat at the top of the first division. Oriel College has held the men's headship since 2019, and rowed over{% sidenote "ovrow-id" "I.e., rowed the entire course. They haven't been bumped since 2017." %} four times this year with clear water behind them to retain it. The second and third boats on the river, from Christ Church and Keble, also rowed over without bumping or being bumped — it seems the men's first division has reached some equilibrium.
-
-The second way to "win" is to bump on all four days. This is what we did — Brasenose M2 won "blades" for the first time since 2005, bumping Queens, Merton, Lincoln,{% sidenote "linc-id" "This tasted particularly sweet, as Lincoln had bedeviled us on three of the four days of Torpids last term " %} and Jesus on our way. This win will be celebrated with a painting on the college walls and trophies for each. 
-
-Just three of the 85 men's crews won blades this year. Could this be the supreme athletic achievement of my life? I've fenced at the Junior Olympics,{% sidenote "jofenc-id" "A glorified national championship with absolutely no connection to the real Olympics." %} won the College of William & Mary intramural indoor soccer league, and hit .600 on the Bethesda-Chevy Chase High School Junior Varsity baseball squad. None of these stages compare to Eights Week, and Jan Morris certainly hasn't written about any of them as beautifully. The win feels underwhelming, tho. Our last bump, on Jesus, was painfully anticlimactic,{% sidenote "blaps-id" "In winning blades, we gave them spoons — being *bumped* four days in a row. Sorry to my friend Esther, the Jesus cox." %} and none of our bumps took more than a minute. 
-
-That's not to say it was easy; we trained hard and improved hugely over the past months. Yet — the role of luck in a bumps campaign was painfully clear. Our first bump was controversial, as some drone footage *might* show Queens bumping Merton moments before we bump Queens. This wasn't recorded by the umpires, so it didn't happen. One of our later bumps occurred just seconds before a klaxon{% sidenote "klax-id" "Canceling the race for safety or cygenic reasons. Any bump after a klaxon doesn't count." %} And our success was really only possible because our M2 boat had gotten spoons in 2019, and languished in lower divisions ever since. 
-
-Ah but I can't bring myself to care. What a week, what a river! Let's do it again. 
+All of this is in the path of apology — I usually crank out the ~3,000 monthly words on this page in the last 72 hours of each month. For those three days of June I should have been writing this post, I was in Gulkam canyon and the Chimagan mountains near the border with Kyrgyzstan. 
 
 <br>
 
-{% fullwidth "assets/img/for_zuleika.jpg" "Straight out of *Zuleika Dobson*, but without the horniest mass suicide in literature." %}
+{% maincolumn "assets/img/gulkam.JPG" "" %}
 
-
-## Baseball
-
-Elsewhere in athletics, the Oxford Blues qualified for the British Universities baseball semifinals. To avoid the suspense, we lost handily to Loughborough University,{% sidenote "sidenote-id" "Loughborough's dominance isn't limited to baseball — they've been the dominant sports university [since the early 1980s](https://www.lboro.ac.uk/news-events/news/2022/july/loughborough-win-another-bucs-title/). My year at St Andrews, our fencing team came close to beating them, thanks to IvG, but their foilists took it away from us. " %} who went on to win the championship. We played some good baseball and I got extremely sunburnt. The central problem at this level is finding pitchers who can throw strikes. I caught all of two games that day, and these fields have the furthest backstops of any we'd played on. It was a good workout. 
+Other highlights included an old Soviet radio telescope,
 
 <br>
 
-{% maincolumn "assets/img/rangers.jpg" "" %}
+{% maincolumn "assets/img/rad_telescope.jpg" "" %}
 
-
-## Chilterns
-
-The weekend after Eights Week, I spent a couple of days in a cottage in the Chilterns with a fun group of old and new friends. RJ gifted me tie dye shirt the group had made the day before, and I played my first game of mini-golf in at least a decade. 
+Bukhara and Khiva,
 
 <br>
 
-{% maincolumn "assets/img/minigolf.JPG" "" %}
+{% maincolumn "assets/img/khiva.jpg" "Not my picture (from Wiki Commons), but I can attest this is what it looked like. " %}
 
-The Chilterns aren't nearly as nice as the Cotswolds, but they make up for it with accessibility. A well-spent May weekend. 
+and the diplomatic circuit in Astana. 
 
-### Monthly Le Guin
+I only got back to Oxford, and this dear machine, this weekend. While I read lots of books and ate lots of food in June, I'd rather just put life updates here, and save reviews for another time.
+
+### School
+
+I passed all five of my first year PhD courses!{% sidenote "metr-id" "I passed metrics by the closest possible margin; much love to QC, AG, DB, and EC for getting me through that." %} This means a) I don't have to re-sit any of the exams, freeing up the rest of my summer for research, travel, and lovely people, and b) I get to focus on all new content in the second year of the PhD. 
+
+I have to choose my second year courses. This isn't urgent — there's no need to choose which classes to attend,{% sidenote "attend-id" "One can attend any or no classes; the department doesn't care." %} only which courses to be assessed on. Some courses are assessed with exams; others coursework. Examination choices aren't due until the end of the winter term, so I'll get a chance to taste test. 
+
+### Travels
+
+At the end of July, I'll head to Geneva, and spend most of August in Switzerland and the surrounding countries. I'm very happy to travel to any friends in the area, so let me know if you'll be around! I'm willing to travel further than you think, so don't be shy, Dubrovnik and Munich.
 
 
-
-## Central Asia
-
-Not something I've done, but a quick bleg for next month's activities. My dad, ML, and I will be in Uzbekistan and Kazakhstan at the end of June and beginning of July. FB and AB have given me good tips, but I'm eager to hear from anyone else! Places to visit in Tashkent, Samarqand, Bukhara, Almaty, Astana? Books to read? Music to listen to or food to try? [Let me know](https://jablevine.com/hi)!
-
-## Listening
-
-Exceptional stuff I listened to with love this month. 
-
-- *Outliers*, Sylvan Weekend
-- *Win&Lose*, Chinese Football
-- *The Heartland Hurricanes*, Daniel Champagne
-- *The Tale of Jenny & Screech*, Ren
-- *Millenium*, Backstreet Boys
 
 
 ## Previously
+
+*[June, 2023](https://jablevine.com/older/June_2023)*
 
 *[May, 2023](https://jablevine.com/older/May_2023)*
 
