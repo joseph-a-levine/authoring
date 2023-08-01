@@ -8,14 +8,18 @@ title: What am I up to now?
 
 
 ## Contents
-1. [Reading](#reading)
-2. [Music](#music)
-3. [Sport](#sport)
+1. [Updates](#updates)
+2. [Reading](#reading)
+3. [Music](#music)
+4. [Sport](#sport)
 
 
   <br>
   
-I started July in Almaty, and I'm finishing the month in Bonn. In between was a fun week in Astana, and three weeks in Oxford. Tomorrow, I'll head south to Geneva. This is not as whirlwind as [last summer](https://jablevine.com/older/august_2022#travel), but it's enough to sate the threat of stagnancy which looms all around the PhD.
+  
+## Updates 
+
+I started July in Almaty, and I'm finishing the month in Bonn.{% sidenote "ivg-id" "A friend from uni, IvG, is putting me up for a couple of nights. It's the first time we've caught up in person since 2017, and our last chance for a while — she's off to Dhaka for a two-year tour in October, where I'd love to visit if I ever find the time. Also she's the 17th ranked sabreist in Germany? That's pretty cool." %} In between was a fun week in Astana, and three weeks in Oxford. Tomorrow, I'll head south to Geneva. This is not as whirlwind as [last summer](https://jablevine.com/older/august_2022#travel), but it's enough to sate the threat of stagnancy which looms all around the PhD.
 
 I'll be in Geneva for a few weeks as a mentor to [CHERI](https://www.xrisk.ch/) fellows, as well as catching up with friends and colleagues in the area. I'm very grateful to CHERI for inviting me back after last year's debacle,{% sidenote "cherimonk-id" "I was bedridden with monkeypox for most of the week, and CHERI's organizers, Ishana and Ivan, to whom I'm forever grateful, spent more time taking care of me than I provided mentorship to their fellows. " %} tho my central research questions are much less existential than they were a year ago. 
 
@@ -73,12 +77,13 @@ Also this month was the new Derek Parfit biography,{% sidenote "p-arid" "Worth r
 
 ## Music
 
-- Zakir Hussein
-- Lifestylez Ov Da Poor & Dangerous
+The new Zakir Hussein, Edgar Meyer, and Béla Fleck album is self-recommending, and I really loved it. Other fantastic new listens from the past week: 
+
+- Big L — Lifestylez Ov Da Poor & Dangerous
 - Qasim Naqvi – Two Centuries
 - New Carly Rae Jepsen album
 - Lain Huuto — Valoon!
-- Almach: Don’t Look Back
+- Almach — Don’t Look Back
 
 
 ## Sport
