@@ -11,9 +11,7 @@ title: What am I up to now?
 1. [Reading](#reading)
 2. [Music](#music)
 3. [Sport](#sport)
-4. [Chilterns](#chilterns)
-5. [Central Asia](#central-asia)
-6. [Listening](#listening)
+
 
   <br>
   
@@ -43,7 +41,9 @@ My post [last month](https://jablevine.com/older/july_2023) skipped most of the 
 
 The most interesting and useful book I read prior to the trip was Adeeb Khalid's *Central Asia*. The book is focused on how imperial conquests integrated Central Asia into global exchanges of goods and ideas. The Western sense of the region originates in the Silk Road era, as is most tourism; Khalid's book is instead centered on Chinese and Russian imperialism in the 19th and 20th centuries. The most interesting aspects come from comparisons of the management by the Qing and Tsarist empires, and later by Soviet and Chinese Communist regimes.
 
-The most widely recommended Uzbek novel is Hamid Ismailov's *The Devils' Dance*. 
+The most widely recommended Uzbek novel is Hamid Ismailov's *The Devils' Dance*. The novel spans both of these periods — the central character, the historical Uzbek novelist Abdulla Qodiriy, is arrested, interrogated, and executed by the Soviet police, a story interspersed with Ismailov's version of Qodiriy's last unpublished novel, about a late 19th century poet in the Bukhara Khanate. Ismailov himself completes a triptych of Uzbek history — he was suppressed by Karimov in the early 90s, and his works are still banned in Uzbekistan. 
+
+Not to sell *Devils' Dance* short as "merely interesting" — the writing is also excellent. I find myself skipping most poetry in novels I read,{% sidenote "sidenote-id" "I'm pushing through Seth's *Golden Gate*, his early novel-in-verse. I can either focus on the story — which is fascinating — or the poetry — which is captivating — but often lose track of the other. Shakespeare elides this entirely by being thoroughly derivative in his stories." %} but Ismailov's Persian couplets interspersed throughout are gorgeous! The translation is FitzGeraldian. 
 
 I expected Astana to be relatively less interesting than the previous cities we spent time in. It's a young city, as these things go, mostly relevant only because Nazarbayev relocated the capital there from Almaty in the late 90s.{% sidenote "sidenote-id" "After his resignation in 2019, the city was renamed Nur-Sultan, his first name. The name went back to Astana in 2022, but there are still some garbage cans and various public infrastructure with the short-lived name printed." %} The oldest building we saw, on a tour with a passionate architecture student, was a log cabin from the mid-19th century, which had possibly burned down a few times. All of this is in contrast to the other Central Asian cities, which emphasized how *old* everything is, sometimes gracefully inflating the ages of monuments or mosques.{% sidenote "ayub-id" "One fun example in this category was the [Chashma-Ayub Mausoleum](https://en.wikipedia.org/wiki/Chashma-Ayub_Mausoleum#History) in Bukhara, the name lightly implying Job (of the book of Job) is buried there. He is obviously not, and it's unlikely he ever visited the region. But a great little spot, and certainly many hundreds of years old." %}
 
