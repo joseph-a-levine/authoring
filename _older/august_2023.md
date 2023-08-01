@@ -53,7 +53,7 @@ It's in a weird place, stuck between Russia, China, and the west. Largely Russia
 
 Khalid's book is firmly historical; I tried a few more current affairs-y books and found them overly wrought and dramatized.{% sidenote "lill-id" "Joanna Lillis' *Dark Shadows* was widely recommended; this  weak criticism is based mostly there." %} 
 
-One book I picked up after the stay in the embassy was *Satow's Diplomatic Practice*
+One book I picked up after the stay in the embassy was *Satow's Diplomatic Practice.* First published in 1917 by the British Minister to Japan, it has been updated and re-published six times by later distinguished diplomats. The book evolved from a handbook for young diplomats to an authoritative, quasi-academic text on international diplomacy. I found the most recent version information dense, almost encyclopedic on arcane matters of diplomatic protocol, and full of amusingly instructive anecdotes about how things in the diplomatic world go right (or more often, wrong). While Satow was very focused on ambassadorial and consular work, the new editions delve into alternative forms of diplomacy, such as the work of NGOs and a fascinating history of secret envoys. I ended up buying an epub; if anyone has a good quality pdf I could keep on reference, that would be appreciated.
 
 Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. They focus on village dogs, those semi-feral, lion-colored canines that make up 85% of the world's dog population, attempting to identify the "essential essence of dog." These dogs, found in places like Vietnam, India, Africa, and Mexico, are strikingly similar and have adapted to a life of scavenging alongside humans. The Coppingers spend most of the book comparing dogs to wolves,{% sidenote "wod-id" "Despite noting in the introduction that dogs should be the central category — they outnumber wolves 2,500 to 1. " %} but are interested in wider questions of behavioural ecology and the philosophy of taxonomy. Some fun quotes: 
 
@@ -101,11 +101,11 @@ Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. 
 
 ## Music
 
-- Carly Rae Jepsen
 - Zakir Hussein
 - Lifestylez Ov Da Poor & Dangerous
 - Qasim Naqvi – Two Centuries
-- Lain Huuto: Valoon!
+- New Carly Rae Jepsen album
+- Lain Huuto — Valoon!
 - Almach: Don’t Look Back
 
 
