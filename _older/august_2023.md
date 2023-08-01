@@ -45,13 +45,11 @@ The most widely recommended Uzbek novel is Hamid Ismailov's *The Devils' Dance*.
 
 Not to sell *Devils' Dance* short as "merely interesting" — the writing is also excellent. I find myself skipping most poetry in novels I read,{% sidenote "sidenote-id" "I'm pushing through Seth's *Golden Gate*, his early novel-in-verse. I can either focus on the story — which is fascinating — or the poetry — which is captivating — but often lose track of the other. Shakespeare elides this entirely by being thoroughly derivative in his stories." %} but Ismailov's Persian couplets interspersed throughout are gorgeous! The translation is FitzGeraldian. 
 
-I expected Astana to be relatively less interesting than the previous cities we spent time in. It's a young city, as these things go, mostly relevant only because Nazarbayev relocated the capital there from Almaty in the late 90s.{% sidenote "sidenote-id" "After his resignation in 2019, the city was renamed Nur-Sultan, his first name. The name went back to Astana in 2022, but there are still some garbage cans and various public infrastructure with the short-lived name printed." %} The oldest building we saw, on a tour with a passionate architecture student, was a log cabin from the mid-19th century, which had possibly burned down a few times. All of this is in contrast to the other Central Asian cities, which emphasized how *old* everything is, sometimes gracefully inflating the ages of monuments or mosques.{% sidenote "ayub-id" "One fun example in this category was the [Chashma-Ayub Mausoleum](https://en.wikipedia.org/wiki/Chashma-Ayub_Mausoleum#History) in Bukhara, the name lightly implying Job (of the book of Job) is buried there. He is obviously not, and it's unlikely he ever visited the region. But a great little spot, and certainly many hundreds of years old." %}
+I expected Astana to be relatively less interesting than the previous cities we spent time in. It's a young city, as these things go, mostly relevant only because Nazarbayev relocated the capital there from Almaty in the late 90s.{% sidenote "sidenote-id" "After his resignation in 2019, the city was renamed Nur-Sultan, his first name. The name went back to Astana in 2022, but there are still some garbage cans and various public infrastructure with the short-lived name printed." %} The oldest building we saw, on a tour with a passionate architecture student, was a log cabin from the mid-19th century, which had possibly burned down a few times. All of this is in contrast to the other Central Asian cities, which emphasized how *old* everything is, sometimes gracefully inflating the ages of monuments or mosques.{% sidenote "ayub-id" "One fun example in this category was the [Chashma-Ayub Mausoleum](https://en.wikipedia.org/wiki/Chashma-Ayub_Mausoleum#History) in Bukhara, the name lightly implying Job is buried there. He is obviously not, and it's unlikely he ever visited the region. But a great little spot, and certainly many hundreds of years old." %}
 
 Astana made up for it's lack of old buildings with interesting stories. The World Expo was held there recently, and a Death Star-shaped museum is leftover and quite interesting. There is inexplicably a life-size, Chinese-manufactured, steel model of a Buran on an overgrown plaza in the outskirts of the city. And then there was the diplomatic circuit. We stayed with [a friend](https://kz.usembassy.gov/our-ambassador/) at the US Embassy and boy is there a lot of diplomacy to be done in Kazakhstan. 
 
-It's in a weird place, stuck between Russia, China, and the west. Largely Russian-speaking, but at least occasionally Russian-hating
-
-Khalid's book is firmly historical; I tried a few more current affairs-y books and found them overly wrought and dramatized.{% sidenote "lill-id" "Joanna Lillis' *Dark Shadows* was widely recommended; this  weak criticism is based mostly there." %} 
+It's in a weird place, stuck between Russia, China, and the west. Largely Russian-speaking, but at least occasionally Russian-hating. There was, and is, a gap in my understanding of the region — I don't have any sense of Kazakhstan's *aspirations*. The books didn't help much. Khalid's book is firmly historical; I tried a few more current affairs-y books and found them overly wrought and dramatized.{% sidenote "lill-id" "Joanna Lillis' *Dark Shadows* was widely recommended; this  weak criticism is based mostly there." %} 
 
 One book I picked up after the stay in the embassy was *Satow's Diplomatic Practice.* First published in 1917 by the British Minister to Japan, it has been updated and re-published six times by later distinguished diplomats. The book evolved from a handbook for young diplomats to an authoritative, quasi-academic text on international diplomacy. I found the most recent version information dense, almost encyclopedic on arcane matters of diplomatic protocol, and full of amusingly instructive anecdotes about how things in the diplomatic world go right (or more often, wrong). While Satow was very focused on ambassadorial and consular work, the new editions delve into alternative forms of diplomacy, such as the work of NGOs and a fascinating history of secret envoys. I ended up buying an epub; if anyone has a good quality pdf I could keep on reference, that would be appreciated.
 
@@ -71,33 +69,7 @@ Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. 
 > ...
 > Our grandson has trained the school bus driver to stop so he can pick up [roadkill] carcasses in the plastic bags he carries in his pocket.
 
-
-
-
-- On the Natural History of Destruction
-- When There Was No Aid
-
-- Parfit
-- The Colonel Who Would Not Repent
-
-- Black Hearts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Also this month was the new Derek Parfit biography,{% sidenote "p-arid" "Worth reading if you care, but not as generally interesting as the recent Ramsey or Warhol biographies." %} two books on Somaliland, and a collection of Geoff Dyer's non-fiction. I highly recommend the last, for Dyer's commentary on modern photography. It also wins the award for "book which caused me to download the most new books".
 
 ## Music
 
