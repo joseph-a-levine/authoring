@@ -83,8 +83,20 @@ Also this month was the new Derek Parfit biography,{% sidenote "p-arid" "Worth r
 
 ## Sport
 
+As Oxford undergrads disappear in the summer, the Thames changes. Fours replace eights, coaches become increasingly desperate for work, and boats spin willy-nilly, up or downstream of the designated areas. After Kazakhstan, and my first ever session in a scull, the Brasenose coach Tim suggested I sign up to row at Henley opens — just two weeks later. This was a terrible idea and I immediately agreed. 
+
+Eight sculling sessions in the next eleven days abosolutely *skinned* my hands, but also got me to the point of a non-embarrassing racing start. I was prepared to lose with open water, but had almost reached the point of confidence where I wouldn't go for a swim in the Henley Reach. Unfortunately, both Tim and I were struck by an administrative delay which forbade our participation. While he called it "gutting", and I empathized (perhaps too much...), I can't say I'm *too* disappointed my sculling debut has been postponed.
 
 
+Oxford University baseball also has it's 2023-2024 schedule!
+
+- @ Essex MT1
+- @ Surrey MT3
+- vs Kent MT4
+- vs KCL HT4
+- @ Imperial HT6
+
+With three games in October, I'm excited to see how an understaffed Rangers get along. We'll definitely have sell-out crowds, so book your travel and seats early. 
 
 
 
