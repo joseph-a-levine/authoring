@@ -75,7 +75,9 @@ Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. 
 > “Lions? A lion will eat that dog!” 
 >  
 > “Yes,” he replied, “but we hope it will bark first."
+> 
 > ...
+> 
 > Our grandson has trained the school bus driver to stop so he can pick up [roadkill] carcasses in the plastic bags he carries in his pocket.
 
 Also this month was the new Derek Parfit biography,{% sidenote "p-arid" "Worth reading if you care, but not as generally interesting as the recent Ramsey or Warhol biographies." %} two books on Somaliland, and a collection of Geoff Dyer's short writing. I highly recommend the last, for Dyer's commentary on modern photography and exceptional autofiction. It also wins the award for "book which caused me to download the most new books".
