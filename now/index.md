@@ -59,11 +59,17 @@ One book I picked up after the stay in the embassy was *Satow's Diplomatic Pract
 Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. They focus on village dogs, those semi-feral, lion-colored canines that make up 85% of the world's dog population, attempting to identify the "essential essence of dog." These dogs, found in places like Vietnam, India, Africa, and Mexico, are strikingly similar and have adapted to a life of scavenging alongside humans. The Coppingers spend most of the book comparing dogs to wolves,{% sidenote "wod-id" "Despite noting in the introduction that dogs should be the central category — they outnumber wolves 2,500 to 1. " %} but are interested in wider questions of behavioural ecology and the philosophy of taxonomy. Some fun quotes: 
 
 > If I drop a seventy-day-old wolf in the middle of a caribou herd, what are its chances of surviving? Just about zero. If I drop a seventy-day-old dog pup in the Mexico City dump, what are its chances of finding enough to live on? Not great—but a lot better than the wolf pup among large robust ruminants.
+> 
 > ...
+> 
 > Most wolves starve to death. The 850 million village dogs’ pups starve to death. Most individuals of most wild species starve to death.
+> 
 > ...
+> 
 > If humans disappeared from the face of the earth today, dogs as we recognize them would go extinct. Why couldn’t they go back to the wilderness and hunt rabbits or moose? Because wolves, coyotes, jackals, and foxes already occupy those wilderness niches, and those species already adapted to those niches would outcompete the dog. Those wild critters have the right shape and instinct, and the dog would have to evolve into something else. One niche—one species.
+> 
 > ...
+> 
 > an older warrior was asked what the dog was supposed to guard the cattle from, and he said, “Lions!” 
 >  
 > “Lions? A lion will eat that dog!” 
