@@ -49,7 +49,7 @@ The Yupno use a body-tally number system. This is similar to how most base-10 sy
 
 The problem, I think, is obvious.
 
-However, we don't have any evidence for the claim of gendered base systems. According to the authors, their "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30.{% sidenote "sidenote-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleven-one or whatever. Of course, you can call eleven-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %}
+However, we don't have any evidence for the claim of gendered base systems. According to the authors, their "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30.{% sidenote "sidenote-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleventy-one or whatever. Of course, you can call eleventy-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %}
 
 That's the outline of how the Yupno ended up with a gendered base system. 
 
