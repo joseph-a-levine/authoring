@@ -35,9 +35,21 @@ Both the ethnographic (interesting anthropological studies of human interactions
 
 While the geometry is fun (and it's what captures Netz's and Gerdes' curiosity), the original point of curiosity among ethnomathematicians is certainly number theory. This is partly because the first ethnomathematics was conducted by linguists.{% sidenote "sapwh-id" "I will not, I will not, I will not discuss Sapir-Whorf directly." %} A culture's number words and base reveal foundational mathematical concepts. That is, if they have number words as we understand them. The Pirahã, an indigenous people in Brazil are an extremely well-studied example{% sidenote "frak-id" "This section taken from Frank et al.'s *[Number as a cognitive technology](doi:10.1016/j.cognition.2008.04.007)*." %} due to their lack of numbers. Explicitly, they "have no linguistic method whatsoever for expressing exact quantity, not even 'one'." 
 
-Despite extreme exceptions such as the Pirahã, numbers are almost universal. But even then, 
+Despite extreme exceptions such as the Pirahã, numbers are almost universal. But even then there is great variety. 
 
-My favorite example I've come across is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} My fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Second, the authors 
+My favorite example I've come across is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} My fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Second, the authors had only limited access to the Yupno community. My claim about the Yupno — which the authors imply, but do not make — is that their men count in base 33 and women count in base 30. 
+
+The Yupno use a body-tally number system. This is similar to how most base-10 systems, what we're used to, came about: you start at one finger, and move to the next until you get to ten. But the Yupno made the observation that there are more body parts than just fingers. Wassman provides this diagram:
+
+<br>
+
+{% maincolumn "assets/img/yupno.png" "" %}
+
+<br>
+
+The problem, I think, is obvious.
+
+
 
 ## Music
 
