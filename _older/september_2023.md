@@ -37,9 +37,9 @@ While the geometry is fun (and it's what captures Netz's and Gerdes' curiosity),
 
 Despite extreme exceptions such as the Pirahã, numbers are almost universal. But even then there is great variety. 
 
-My favorite example I've come across is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} My fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Second, the authors had only limited access to the Yupno community. My claim about the Yupno — which the authors imply, but do not make — is that their men count in base 33 and women count in base 30. 
+My favorite example is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} My fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Only the oldest members of the are familiar with their counting system; children "usually know only the vernacular words for 1, 2, and 3; they usually count in Tok Pisin even when they use the vernacular." Second, the authors had only limited access to the Yupno community. My claim about the Yupno — which the authors imply, but do not state — is that their men count in base 33 and women count in base 30. 
 
-The Yupno use a body-tally number system. This is similar to how most base-10 systems, what we're used to, came about: you start at one finger, and move to the next until you get to ten. But the Yupno made the observation that there are more body parts than just fingers. Wassman provides this diagram:
+The Yupno use a body-tally number system. This is similar to how most base-10 systems, what we're used to, came about: you start at one finger, and move to the next until you get to ten. But the Yupno observe that there are more body parts than just fingers. Wassman provides this diagram:
 
 <br>
 
@@ -48,6 +48,10 @@ The Yupno use a body-tally number system. This is similar to how most base-10 sy
 <br>
 
 The problem, I think, is obvious.
+
+However, we don't have any evidence for the claim of gendered base systems. According to the authors, their "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30.{% sidenote "sidenote-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleven-one or whatever. Of course, you can call eleven-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %}
+
+That's the outline of how the Yupno ended up with a gendered base system. 
 
 
 
