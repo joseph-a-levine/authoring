@@ -28,6 +28,8 @@ My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed 
 
 
 ## Reading
+
+### Ethnomathematics
   
 A [few months ago](https://jablevine.com/older/june_2023), I wrote a bit about Netz's *A New History of Greek Mathematics*, in particular his translations of fundamental Greek mathematical concepts.{% sidenote "grenu-id" "For example, the Greeks' broadest conception of the word 'number' referred to positive integers excluding 1 — which was not a number, but the unit by which other numbers are measured." %} This book spun me into a slight enthnomathematical reading spell, which has developed into a middling addiction. 
 
@@ -49,12 +51,26 @@ The Yupno use a body-tally number system. This is similar to how most base-10 sy
 
 The problem, I think, is obvious.
 
-However, we don't have any evidence for the claim of gendered base systems. According to the authors, their "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30.{% sidenote "obs-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleventy-one or whatever. Of course, you can call eleventy-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %} The primary example is the payment of bride prices, which are also notable for being the only occasion when men and women count together. Wassman again:
+However, we don't have any *direct* evidence for the claim of gendered base systems. According to the authors, their "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30, and therefore the practical different is mostly irrelevant.{% sidenote "obs-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleventy-one or whatever. Of course, you can call eleventy-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %} The primary example is the payment of bride prices, which is also notable for being the only occasion when men and women count together. Wassman again:
 
 > Occasions to go beyond two or three men{% sidenote "bodmen-id" "When the Yupno men reached 33, they would pick another man present and count using his bodyparts." %} would have been rare; traditionally, higher numbers were only used in the exchange of bride price, and even then it would have been unusual to count more than 33 pigs.
 
 That's the outline of how the Yupno ended up with a gendered base system. 
 
+### The Shadow of the Sun
+
+My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one travelled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge anyone" %} 
+
+
+
+
+From the start, I tried to counterattack: „You were colonized? We, Poles, were
+also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They
+laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive
+them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
+
+Almost diametric to a story i heard xx tell (ezra klein)
+so are jews more african than poles?
 
 
 ## Music
