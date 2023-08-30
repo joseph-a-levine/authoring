@@ -61,13 +61,6 @@ That's the outline of how the Yupno ended up with a gendered base system.
 
 My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one traveled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge you to find post-colonial travelers with such a spread. Kapuściński doesn't mention South Africa, and neglects Egypt and Libya, but there are no other unvisited regions in the 150 page book." %} Kapuściński's journalism is not consistent; he is torn between covering the sigular events of decolonization and describing the quotidian lives of Africans
 
-"the essence of Africa is its endless variety."
-
-
-
-
-
-
 Kapuściński's lecture on the Rwandan genocide, given shortly after, placed the tragedy firmly in time and place. While taking place in a small, isolated{% sidenote "fie-id" "Kapuściński claims the first European entered Rwanda in 1894. I have not googled." %} country, the genocide was a regional phenomena. Refugees scattered far; Tutsi fighters were trained in Uganda; the conflicts of the DRC are — to this day — worsened on by both Tutsis and Hutus based in Rwanda. In time, while the 100 days in 1994 are what we know, massacres of comparable{% sidenote "psoc-id" "*Possibly* comparable size. As Kapuściński writes, ''Many wars in Africa are waged without witnesses, secretively, in unreachable places, in silence, without the world's knowledge, or even the slightest attention.''" %} size occurred in 1959, 1963, 1972, 1986, and 1990. 1994 was just the climax of a centuries long struggle following the upset of the status quo by decolonization.
 
 Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and the 1994 explosion itself. In the 50s, among the European countries, Belgium was uniquely unprepared for decolonization. 
@@ -77,8 +70,6 @@ Kapuściński indicts the colonial powers, both for creating the conditions lead
 The Belgians washed their hands of Africa as well as they could. The French have done the opposite. Without their intervention in 1990, "maybe it would never have come to that hecatomb and carnage—the genocide of 1994." 
 
 > Whereas the majority of European capitals had radically broken with their colonial past, Paris had not.{% sidenote "frsu-id" "I remain upset at French policy in Africa. Across the Sahel, and further south, they have started and worsened conflicts which kill hundreds every day. I notice I'm being vague here, but I am referring to events much more recent than Rwanda. Who was the first head of state with their arm around Chadian ''Transitional'' President Mahamat Deby? You get one guess. " %} [...] The divisions of the Rwandan Patriotic Front were already closing in on the capital, and Habyarimana's government and clan were packing their bags, when airplanes deposited French paratroopers at the airport in Kigali.
-
-
 
 All of this is in a lecture rich with historical context{% sidenote "fashcn-id" "I vaguely remembered Fashoda from my high school history class, another of those fascinating and forgotten almost-wars. " %} and visual imagery:
 
