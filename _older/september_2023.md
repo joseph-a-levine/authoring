@@ -70,7 +70,15 @@ My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuści
 
 Kapuściński's lecture on the Rwandan genocide, given shortly after, placed the tragedy firmly in time and place. While taking place in a small, isolated{% sidenote "fie-id" "Kapuściński claims the first European entered Rwanda in 1894. I have not googled." %} country, the genocide was a regional phenomena. Refugees scattered far; Tutsi fighters were trained in Uganda; the conflicts of the DRC are — to this day — worsened on by both Tutsis and Hutus based in Rwanda. In time, while the 100 days in 1994 are what we know, massacres of comparable{% sidenote "psoc-id" "*Possibly* comparable size. As Kapuściński writes, ''Many wars in Africa are waged without witnesses, secretively, in unreachable places, in silence, without the world's knowledge, or even the slightest attention.''" %} size occurred in 1959, 1963, 1972, 1986, and 1990. 1994 was just the climax of a centuries long struggle following the upset of the status quo by decolonization.
 
-Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and the 1994 explosion itself. 
+Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and the 1994 explosion itself. In the 50s, among the European countries, Belgium was uniquely unprepared for decolonization. 
+
+> Until now, the Belgians ruled Rwanda through the Tutsis, leaning on them and using them. But the Tutsis are the most educated and ambitious sector of the Banyarwanda, and it is they who now are demanding freedom. And they want it immediately, something for which the Belgians are utterly unprepared. So Brussels abruptly switches tactics: it abandons the Tutsis and begins to support the more submissive, docile Hutus. It begins to incite them against the Tutsis. These politics rapidly bear fruit. The emboldened, encouraged Hutus take up arms. A peasant revolt erupts in Rwanda in 1959. [...] A great massacre began, such as Africa had not seen for a long time. The peasants set fire to the households of their lords, slit their throats, and crushed their skulls. Rwanda flowed with blood, stood in flames.
+
+The Belgians washed their hands of Africa as well as they could. The French have done the opposite. Without their intervention in 1990, "maybe it would never have come to that hecatomb and carnage—the genocide of 1994." 
+
+> Whereas the majority of European capitals had radically broken with their colonial past, Paris had not.{% sidenote "frsu-id" "I remain upset at French policy in Africa. Across the Sahel, and further south, they have started and worsened conflicts which kill hundreds every day. I notice I'm being vague here, but I am referring to events much more recent than Rwanda. Who was the first head of state with their arm around Chadian ''Transitional'' President Mahamat Deby? You get one guess. " %} [...] The divisions of the Rwandan Patriotic Front were already closing in on the capital, and Habyarimana's government and clan were packing their bags, when airplanes deposited French paratroopers at the airport in Kigali.
+
+
 
 All of this is in a lecture rich with historical context{% sidenote "fashcn-id" "I vaguely remembered Fashoda from my high school history class, another of those fascinating and forgotten almost-wars. " %} and visual imagery:
 
@@ -82,11 +90,11 @@ Did Kapuściński understand Africa? He generalizes often — "Africans apprehen
 > 
 > I had what I wanted, and more: tenderness, warmth, goodwill.
 
-This is what I found the hardest about Sierra Leone. Genuine relationships are possible — but they can only be bought. The transactional is at the center of every interaction. It is not always economic, exchanges are made — and, as a white man, the economic is expected. Kapuściński looks back at his earliest, most naive efforts to relate to Africans, and recognizes them for what they were. 
+This is what I found the hardest about Sierra Leone. Genuine relationships are possible — but they can only be bought. The transactional is at the center of every interaction. It is not always economic — attention, promises, presence, gifts, or information are easily exchanged — but, as a white man, the economic is expected. Kapuściński looks back at his earliest, most naive efforts to relate to Africans, and recognizes them for what they were. 
 
 > In their eyes, I was guilty. Slavery, colonialism, five hundred years of injustice—after all, it's the white men's doing. The white men's. Therefore mine. Mine? I was not able to conjure within myself that cleansing, liberating emotion—guilt; to show contrition; to apologize. On the contrary! From the start, I tried to counterattack: „You were colonized? We, Poles, were also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
 
-I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he was in Rwanda, he told a local coworker about his grandparents, three of whom were Holocaust survivors. Later, when she introduced Gordon to her husband, she introduced him as a "brother in genocide."
+I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he was in Rwanda, he told a local coworker about his grandparents, three of whom were Holocaust survivors. Later, when she introduced Gordon to her husband, she introduced him as a "brother in genocide." No morals here (people are different); I just thought of these two stories together.
 
 
 ## Music
