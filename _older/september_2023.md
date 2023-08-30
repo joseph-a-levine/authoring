@@ -59,18 +59,34 @@ That's the outline of how the Yupno ended up with a gendered base system.
 
 ### The Shadow of the Sun
 
-My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one travelled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge anyone" %} 
+My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one traveled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge you to find post-colonial travelers with such a spread. Kapuściński doesn't mention South Africa, and neglects Egypt and Libya, but there are no other unvisited regions in the 150 page book." %} Kapuściński's journalism is not consistent; he is torn between covering the sigular events of decolonization and describing the quotidian lives of Africans
+
+"the essence of Africa is its endless variety."
 
 
 
 
-From the start, I tried to counterattack: „You were colonized? We, Poles, were
-also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They
-laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive
-them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
 
-Almost diametric to a story i heard xx tell (ezra klein)
-so are jews more african than poles?
+
+Kapuściński's lecture on the Rwandan genocide, given shortly after, placed the tragedy firmly in time and place. While taking place in a small, isolated{% sidenote "fie-id" "Kapuściński claims the first European entered Rwanda in 1894. I have not googled." %} country, the genocide was a regional phenomena. Refugees scattered far; Tutsi fighters were trained in Uganda; the conflicts of the DRC are — to this day — worsened on by both Tutsis and Hutus based in Rwanda. In time, while the 100 days in 1994 are what we know, massacres of comparable{% sidenote "psoc-id" "*Possibly* comparable size. As Kapuściński writes, ''Many wars in Africa are waged without witnesses, secretively, in unreachable places, in silence, without the world's knowledge, or even the slightest attention.''" %} size occurred in 1959, 1963, 1972, 1986, and 1990. 1994 was just the climax of a centuries long struggle following the upset of the status quo by decolonization.
+
+Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and the 1994 explosion itself. 
+
+All of this is in a lecture rich with historical context{% sidenote "fashcn-id" "I vaguely remembered Fashoda from my high school history class, another of those fascinating and forgotten almost-wars. " %} and visual imagery:
+
+> The image of the [mountainous fortress of Rwanda] is not poetic license. Whether you enter Rwanda from Uganda, Tanzania, or Zaire, you will always have the same impression of stepping through the gates of a stronghold that rises up before you, fashioned from immense, magnificent mountains. And so it is now for the Tutsi, a freshly exiled and homeless vagabond; when he awakens in the morning in a refugee camp and walks out in front of his shabby tent, he beholds the mountains of Rwanda. In those early hours of the day, they are a startlingly beautiful sight. I myself often jumped up at dawn just to look. High yet gentle peaks stretch before you into infinity. They are emerald, violet, green, and drenched in sunlight. It is a landscape devoid of the dread and darkness of rocky, windswept peaks, precipices, and cliffs; no deadly avalanches, falling rocks, or loose rubble are lying in wait for you here. No. The mountains of Rwanda radiate warmth and benevolence, tempt with beauty and silence, a crystal clear, windless air, the peace and exquisiteness of their lines and shapes. In the mornings, a transparent haze suffuses the green valleys. It is like a bright veil, airy, light and glimmering in the sun, through which are softly visible the eucalyptus and banana trees, and the people working in the fields
+
+Did Kapuściński understand Africa? He generalizes often — "Africans apprehend time differently;" "Africans valued and liked to make contact on the higher, spiritual plane;" "Africans are collectivist by nature" — and some fall flat. His portraits shine the brightest. The most touching was with a driver in Nigeria, Omenka. 
+
+> On the day we first met, I gave him nothing as we parted. He walked away without so much as a good-bye. I dislike cold, formal relations between people and I felt bad. So the next time I gave him 50 naira (the local currency). He said good-bye, and even smiled. Encouraged, I gave him 100 naira the following time. He said good-bye, smiled, and shook my hand. At the subsequent parting, I gave him 150 naira. He said good-bye, smiled, wished me well, and warmly shook my hand, grasping it in both of his. The next time I raised the rate again and paid him 200 naira. He said good-bye, smiled, shook and squeezed my hand, asked me to pay his respects to my family, and with concern in his voice inquired after my health. Without stretching this story out any longer, suffice it to say that I ended up showering him with so many naira that we were simply unable to part. Omenka's voice was always trembling with emotion, and with tears in his eyes he would swear his everlasting devotion and fidelity. 
+> 
+> I had what I wanted, and more: tenderness, warmth, goodwill.
+
+This is what I found the hardest about Sierra Leone. Genuine relationships are possible — but they can only be bought. The transactional is at the center of every interaction. It is not always economic, exchanges are made — and, as a white man, the economic is expected. Kapuściński looks back at his earliest, most naive efforts to relate to Africans, and recognizes them for what they were. 
+
+> In their eyes, I was guilty. Slavery, colonialism, five hundred years of injustice—after all, it's the white men's doing. The white men's. Therefore mine. Mine? I was not able to conjure within myself that cleansing, liberating emotion—guilt; to show contrition; to apologize. On the contrary! From the start, I tried to counterattack: „You were colonized? We, Poles, were also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
+
+I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he was in Rwanda, he told a local coworker about his grandparents, three of whom were Holocaust survivors. Later, when she introduced Gordon to her husband, she introduced him as a "brother in genocide."
 
 
 ## Music
