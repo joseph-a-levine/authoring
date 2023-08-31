@@ -25,7 +25,7 @@ I was happy to be back in Switzerland. Geneva is less interesting than Bern or a
 
 I also got mountains! We stayed under Mt. Blanc for a long weekend and climbed an Alp or two. Besides this, highlights were swimming the Aare again, sailing, gelato, and sunrise concerts on the edge of the lake. 
 
-My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed WC for a proper anonym, after Martha Gelhorn's use of Unwilling Companion for her less-well-known [traveling partner](https://en.wikipedia.org/wiki/Ernest_Hemingway) in her delightful collection *[Travels With Myself and Another](https://jablevine.com/older/june_2021)*. We mutually rejected it due to latrinic connotations and it making her sound like a sidekick." %} left for China at the end of August, where she'll be for the next year. I plan to head east over the holidays, either to Beijing or a third country — so far, friends are bidding for us to visit Sri Lanka, Singapore, and Bangladesh. Further suggestions are welcome. 
+My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed WC for a proper anonym, after Martha Gelhorn's use of Unwilling Companion for her less-well-known [traveling partner](https://en.wikipedia.org/wiki/Ernest_Hemingway) in her collection *[Travels With Myself and Another](https://jablevine.com/older/june_2021)*. We mutually rejected it due to latrinic connotations and it making her sound like a sidekick." %} left for China at the end of August, where she'll be for the next year. I plan to head east over the holidays, either to Beijing or a third country — so far, friends are bidding for us to visit Sri Lanka, Singapore, or Bangladesh. Further suggestions are welcome. 
 
 
 
@@ -92,13 +92,18 @@ I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he
 
 ## Music
 
-The new Zakir Hussein, Edgar Meyer, and Béla Fleck album is self-recommending, and I really loved it. Other fantastic new listens from the past week: 
+Good stuff from this month:
 
-- Big L — Lifestylez Ov Da Poor & Dangerous
-- Qasim Naqvi – Two Centuries
-- New Carly Rae Jepsen album
-- Lain Huuto — Valoon!
-- Almach — Don’t Look Back
+- *Tongues* — Amy Denio
+- *Inde de Sud* — Lakshminarayana Subramaniam
+- *Say So* — Bent Knee
+- *Loveless* — My Bloody Valentine
+- *Danzon* — Turtle Island String Quartet
+- *Marry Me* — St. Vincent
+- *Dizzy Gillespie at Newport* — Dizzy Gillespie
+
+This post was written with the Grateful Dead's "Bertha" from *Skull and Roses*{% sidenote "rubgr-id" "The eponymous [album cover](https://www.rollingstone.com/music/music-features/grateful-dead-original-art-logo-1316160/) was based on an illustration from a Victorian-era edition of the [*Rubaiyat of Omar Khayyam*
+](https://gwern.net/doc/borges/1951-borges-theenigmaofedwardfitzgerald.pdf)! The illustration was apparently on the same page as [this poem](https://www.goodreads.com/quotes/100135-oh-threats-of-hell-and-hopes-of-paradise-one-thing)." %} on repeat. 
 
 
 ## Sport
