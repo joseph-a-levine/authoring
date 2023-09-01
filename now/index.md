@@ -3,7 +3,7 @@ layout: page
 title: What am I up to now?
 ---
 
-## August, 2023
+## September, 2023
 
 
 
@@ -19,100 +19,103 @@ title: What am I up to now?
   
 ## Updates 
 
-I started July in Almaty, and I'm finishing the month in Bonn.{% sidenote "ivg-id" "A friend from uni, IvG, is putting me up for a couple of nights. It's the first time we've caught up in person since 2017, and our last chance for a while — she's off to Dhaka for a two-year tour in October, where I'd love to visit if I ever find the time. Also she's the 17th ranked sabreist in Germany? That's pretty cool." %} In between was a fun week in Astana, and three weeks in Oxford. Tomorrow, I'll head south to Geneva. This is not as whirlwind as [last summer](https://jablevine.com/older/august_2022#travel), but it's enough to sate the threat of stagnancy which looms all around the PhD.
+I started August in Bonn, on my way to Geneva, and I'm ending the month back in Oxford. Though the school year is still six weeks away, it feels like the home stretch of summer. Besides a trip to The Gambia next month, I'm likely to be in Oxford until the Christmas break. 
 
-I'll be in Geneva for a few weeks as a mentor to [CHERI](https://www.xrisk.ch/) fellows, as well as catching up with friends and colleagues in the area. I'm very grateful to CHERI for inviting me back after last year's debacle,{% sidenote "cherimonk-id" "I was bedridden with monkeypox for most of the week, and CHERI's organizers, Ishana and Ivan, to whom I'm forever grateful, spent more time taking care of me than I provided mentorship to their fellows. " %} tho my central research questions are much less existential than they were a year ago. 
+I was happy to be back in Switzerland. Geneva is less interesting than Bern or any of the small towns I've stayed in, but makes up for it with the wonderful variety of license plates. I was there as a mentor for the [CHERI](https://www.xrisk.ch/) fellas, an accomplished and eclectic group of students working on existential risk projects. A supermajority of them were focused on AI, for which I abdicated any mentoring responsibility, but I learned a lot. The fellowship's research side was superbly organized by Tobias Häberli, a fellow from last year; Tobias was a big help vector to all of this years fellows whom I talked to. 
 
-While with CHERI, I'm going to be focusing on one of my more longtermist research projects. Many of you have heard me talk about monasteries recently — I mostly dropped this project during the academic year, and would love to make progress on it again. I also hope to make progress on a more empirical project on autonomous weapons. 
+As a fun perk, I got to work closely with a sharp student working on space policy — his "other" mentor being Brian Weeden, at the Secure World Foundation. While I didn't have as much to contribute, it was really fun dipping my toes back into relevant space topics again, and not the super out-there stuff from the Centre for Space Governance. This project also confused me about all the potential meanings of an "abstain" vote in legislative chambers. 
 
-Finally, in upcoming research+travel, I'm hoping to be in The Gambia late in September for the project (with Victor Pouliquen) on property taxes and public good provision. If anyone reading this has any locally-relevant advice or connections, let me know!! Or just stories. MP and ML{% sidenote "mlgamb-id" "The other one. No, the *other*
- other one." %} have already been tremendously helpful.
+I also got mountains! We stayed under Mt. Blanc for a long weekend and climbed an Alp or two. Besides this, highlights were swimming the Aare again and again, sailing, gelato, and sunrise concerts on the edge of the lake. 
 
-Lots of excitement over the past month. An observatory on the Assy Plauteu, my parents visiting Oxford and meeting all of my friends in town, the central European trip.{% sidenote "centeur-id" "An Italian friend, AG, has the strong opinion that Eastern Europe is everything east of Rome, making the due south Bonn -> Geneva run pretty close to a direct Central European trip." %} But the absolute highlight was the opening of the new Sainsbury's Local on the corner of Walton and Cranham streets last Thursday, just a block from my house. Previously, Jericho{% sidenote "jeric-id" "Jericho is a fascinating neighborhood, I love living here. It's the inspiration for the Beersheba neighborhood of Christminster in Thomas Hardy's *Jude the Obscure*. A few houses down from mine, renovation just finished on what is now my favorite house in Oxford. It was built in 1881 as a Weslyan chapel, and despite being deconsecrated in the 1920s, maintains its gorgeous ugly-duckling pediment among the more traditional gothic rowhouses alongside. Since then, the chapel was an architectural studio, Oxford's primary ice cream factory, a garage, and a physics lab. Now it's a residential house and I'm fruitlessly jealous." %} had only two shops, two Co-ops located 150 meters from each other on Walton Street.{% sidenote "coops-id" "The placement of these two same-brand shops has puzzled me. One 2011 newspaper article says Co-op opened their second shop on the road to prevent a Tescos from moving in, which I suppose is believable. " %} The shop opened at 7am, and ML{% sidenote "firs-id" "The first one." %} and I woke up at 6:15 to get in line.
+My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed WC for a proper anonym, after Martha Gelhorn's use of Unwilling Companion for her less-talented [traveling partner](https://en.wikipedia.org/wiki/Ernest_Hemingway) in her collection *[Travels With Myself and Another](https://jablevine.com/older/june_2021)*. We mutually rejected it due to latrinic connotations and it making her sound like a sidekick." %} left for China at the end of August, where she'll be for the next year. I plan to head east over the holidays, either to Beijing or a third country — so far, friends are bidding for us to visit Sri Lanka, Singapore, or Bangladesh. Further suggestions are welcome. 
 
-Oddly enough, the line was one person. I guess the grand opening of a local shop isn't as exciting to everyone else as it is to us. I'm still puzzled by our predecessor — he was about my age, maybe a bit younger, in running shorts and a gym top (it was maybe 50 degrees), and he looked stoically, miserably, bored. 
 
-But! four minutes before opening, a noticeably blue BMW gently rides up onto the sidewalk, askew and slightly in a crosswalk. Just in time, an elderly woman in a bright pink dress and matching wide-brimmed hat (set for the Ascot, I suppose) walks past me, Morgan, and the grumpy runner, and plants both palms on the still-locked automatic door. She does not move until 7am, when the manager, holding a bottle of champagne, unlocks the door and allows us inside. The old lady doesn't have any sense of ceremony, and beelines for the tabloid rack, but the manager wouldn't have given ol' BMW the champagne anyway. Instead, she carries it over to our rival, the lonely runner, who had beaten us all. I was hoping she would, like an F1 pit crew member, shake the bottle, pop the cork, and spray the victorious shopper with glory and bubbly wine. We were out of luck. She handed it over soberly, more like a Spanish admiral surrendering their sword to Lord Nelson than a local mayor handing an oversized check to a lottery winner. 
-
-And that was that. The runner, with prize in hand, had no interest in actually shopping — he immediately turned around and walked out. Ms. BMW was still buried in *The Sun*. There is an upside — tho she was the first one through the door, and the runner was the first in line, we were the first customers to purchase anything at **our** new Sainsbury's Local. We bought four Gala apples and a pack of triple chocolate cookies. I consider that true victory.
-
-My August will, hopefully, live up to this experience. I love you all, and can't wait to see you soon.
 
 ## Reading
+
+### Ethnomathematics
   
-My post [last month](https://jablevine.com/older/july_2023) skipped most of the reading I'd done — I didn't bring my laptop, so it was written on my phone. There are  a few books relevant to that trip I wanted to write about. 
+A [few months ago](https://jablevine.com/older/june_2023), I wrote a bit about Netz's *A New History of Greek Mathematics*, in particular his translations of fundamental Greek mathematical concepts.{% sidenote "grenu-id" "For example, the Greeks' broadest conception of the word 'number' referred to the positive integers excluding 1 — which was not a number, but the unit by which other numbers are measured." %} This book spun me into a slight enthnomathematical reading spell, which has developed into a middling addiction. 
 
-The most interesting and useful book I read prior to the trip was Adeeb Khalid's *Central Asia*. The book is focused on how imperial conquests integrated Central Asia into global exchanges of goods and ideas. The Western sense of the region originates in the Silk Road era, as is most tourism; Khalid's analysis centers on Chinese and Russian imperialism in the 19th and 20th centuries. The book excels in comparisons of the management by the Qing and Tsarist empires, and later by Soviet and Chinese Communist regimes.
+Both the ethnographic (interesting anthropological studies of human interactions with mathematics) and the mathematical (how these interactions are interpreted and decoded mathematically) sides are interesting. This distinction is fine: many human actions can be explained mathematically — by you and me — without the actors having the same knowledge. Paulus Gerdes gives the example of four-fold basket weaving in his wonderful teaching book *Geometry from Africa*:{% sidenote "basym-id" "For images of the basket designs, see section 2.2, 'From Decorative Designs With Fourfold Symmetry to Pythagoras', available on LibGen or from [me](https://jablevine.com/hi/)." %} these designs implicitly reflect the earliest proofs of Pythagoras's theorem. The weaver follows an inherited artistic and utilitarian tradition, not mathematical calculation. We know what we're looking for: a larger square of four identical triangles, enclosing a smaller square — the rest of the proof is something I saw in eighth grade. Their practical art bears mathematical reasoning embedded within. 
 
-The most widely recommended Uzbek novel is Hamid Ismailov's *The Devils' Dance*. The novel spans both of these periods — the central character, the historical Uzbek novelist Abdulla Qodiriy, is arrested, interrogated, and executed by the Soviet police, a story interspersed with Ismailov's version of Qodiriy's last unpublished novel, about a late 19th century poet in the Bukhara Khanate. Ismailov himself completes a triptych of Uzbek history — he was suppressed by Karimov in the early 90s, and his works are still banned in Uzbekistan. 
+While the geometry is fun (and it's what captures Netz's and Gerdes' curiosity), the original point of curiosity among ethnomathematicians is certainly number theory. This is partly because the first ethnomathematics was conducted by linguists.{% sidenote "sapwh-id" "I will not, I will not, I will not discuss Sapir-Whorf. [Distraction](https://www.smbc-comics.com/comic/how-to-pick-up-a-linguist)!" %} A culture's number words and base reveal foundational mathematical concepts. That is, if they have number words as we understand them. The Pirahã, an indigenous people in Brazil are an extremely well-studied example{% sidenote "frak-id" "My recommendation here is Frank et al.'s *[Number as a cognitive technology](doi:10.1016/j.cognition.2008.04.007)*." %} due to their lack of numbers. Explicitly, they "have no linguistic method whatsoever for expressing exact quantity, not even 'one'." 
 
-Not to sell *Devils' Dance* short as "merely interesting" — the writing is also excellent. I find myself skipping most poetry in novels I read,{% sidenote "vik-id" "I'm pushing through Vikram Seth's *Golden Gate*, his early novel-in-verse. I can either focus on the story — which is fascinating — or the poetry — which is captivating — but often lose track of the other. Shakespeare elides this entirely by being thoroughly derivative in his stories." %} but Ismailov's Persian couplets interspersed throughout are gorgeous! The translation is FitzGeraldian. 
+Beside extreme exceptions such as the Pirahã, numbers are almost universal. But even then there is great variety. Our base-10 won out, universal among the Romans and Chinese going back millenia. Base-5 was particularly common in indigenous America; the Babylonian base-60 is the largest common example. 
 
-I expected Astana to be relatively less interesting than the previous cities we spent time in. It's a young city, as these things go, mostly relevant only because Nazarbayev relocated the capital there from Almaty in the late 90s.{% sidenote "sidenote-id" "After his resignation in 2019, the city was renamed Nur-Sultan, his first name. The name went back to Astana in 2022, but there are still some garbage cans and various public infrastructure with the short-lived name printed." %} The oldest building we saw, on a tour with a passionate architecture student,{% sidenote "timr-id" "Timurtas, our guide, made an amazing animation of an *amazing* mural in the Soviet Youth Palace in Astana. I haven't been able to find a high quality image of the mural itself, but it was one of the most interesting pieces of art I saw during the trip. Watch the animation [here](https://www.youtube.com/watch?v=A6RlGe3qVbM)." %} was a log cabin from the mid-19th century, which had possibly burned down a few times. All of this is in contrast to the other Central Asian cities, which emphasized how *old* everything is, sometimes gracefully inflating the ages of monuments or mosques.{% sidenote "ayub-id" "One fun example in this category was the [Chashma-Ayub Mausoleum](https://en.wikipedia.org/wiki/Chashma-Ayub_Mausoleum#History) in Bukhara, the name lightly implying Job is buried there. He is obviously not, and it's unlikely he ever visited the region. But a great little spot, and certainly many hundreds of years old." %}
+My favorite example is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} We don't know much about their mathematics, and my fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Only the oldest members of the are familiar with their counting system; children "usually know only the vernacular words for 1, 2, and 3; they usually count in Tok Pisin even when they use the vernacular." Second, the authors had only limited access to the Yupno community. My claim about the Yupno — which the authors imply, but do not state — is that their men count in base 33 and women count in base 30. 
 
-Astana made up for it's lack of old buildings with interesting stories. The World Expo was held there recently, and a Death Star-shaped museum is leftover and quite interesting. There is inexplicably a life-size, Chinese-manufactured, steel model of a Buran on an overgrown plaza in the outskirts of the city. And then there was the diplomatic circuit. We stayed with [a friend](https://kz.usembassy.gov/our-ambassador/) at the US Embassy and boy is there a lot of diplomacy to be done in Kazakhstan. 
+The Yupno use a body-tally number system. This is similar to how most base-10 systems, what we're used to, came about: you start at one finger, and move to the next until you get to ten. Then start over. But the Yupno observe that there are more body parts than just fingers. Wassman provides this diagram:
 
-It's in a weird place, stuck between Russia, China, and the west. Largely Russian-speaking, but at least occasionally Russian-hating. There was, and is, a gap in my understanding of the region — I don't have any sense of Kazakhstan's *aspirations*. The books didn't help much. Khalid's book is firmly historical; I tried a few more current affairs-y books and found them overly wrought and dramatized.{% sidenote "lill-id" "Joanna Lillis' *Dark Shadows* was widely recommended; this  weak criticism is based mostly on that." %} 
+<br>
 
-One book I picked up after the stay in the embassy was *Satow's Diplomatic Practice.* First published in 1917 by the British Minister to Japan, it has been updated and re-published six times by later distinguished diplomats. The book evolved from a handbook for young diplomats to an authoritative, quasi-academic text on international diplomacy. I found the most recent version information dense, almost encyclopedic on arcane matters of diplomatic protocol, and full of amusingly instructive anecdotes about how things in the diplomatic world go right (or more often, wrong). While Satow was very focused on ambassadorial and consular work, the new editions delve into alternative forms of diplomacy, such as the work of NGOs and a fascinating history of secret envoys. I ended up buying an epub; if anyone has a good quality pdf I could keep on reference, that would be appreciated.
+{% maincolumn "assets/img/yupno.png" "" %}
 
-Also, I super highly recommend *What Is a Dog?* by Raymond and Lorna Coppinger. They focus on village dogs, those semi-feral, lion-colored canines that make up 85% of the world's dog population, attempting to identify the "essential essence of dog." These dogs, found in places like Vietnam, India, Africa, and Mexico, are strikingly similar and have adapted to a life of scavenging alongside humans. The Coppingers spend most of the book comparing dogs to wolves,{% sidenote "wod-id" "Despite noting in the introduction that dogs should be the central category — they outnumber wolves 2,500 to 1. " %} but are interested in wider questions of behavioural ecology and the philosophy of taxonomy. Some fun quotes: 
+<br>
 
-> If I drop a seventy-day-old wolf in the middle of a caribou herd, what are its chances of surviving? Just about zero. If I drop a seventy-day-old dog pup in the Mexico City dump, what are its chances of finding enough to live on? Not great—but a lot better than the wolf pup among large robust ruminants.
+The problem, I think, is obvious.{% sidenote "sidenote-id" "Proofreader LH asks whether this implies that ''the vagina is the absence of a body part.'' Definitely, yes. Anthropologists have, by varying degrees, addressed or ignored anthrocentrism. Sally Slocum has a few fun papers, of which I've read one, years ago." %}
+
+However, we don't have any *direct* evidence for the claim of gendered base systems. The authors' "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30, and therefore the practical difference is often irrelevant.{% sidenote "obs-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleventy-one or whatever. Of course, you can call eleventy-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %} The primary example is the payment of bride prices, which is also notable for being the only occasion when men and women count together. Wassman again:
+
+> Occasions to go beyond two or three men{% sidenote "bodmen-id" "When the Yupno men reached 33, they would pick another man present and count using his body parts." %} would have been rare; traditionally, higher numbers were only used in the exchange of bride price, and even then it would have been unusual to count more than 33 pigs.
+
+That's the outline of how the Yupno ended up with a gendered base system. When I tried to think about mathematics in the Yupno system, it was clunky for reasons beyond the unfamiliarity. The important question, I think, and this is the closest I'm getting to Sapir-Whorf, is this: would a Yupno [Ramanjuan](https://kristinposehn.substack.com/p/ramanujan-dreams) have been possible?
+
+### The Shadow of the Sun
+
+My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one traveled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge you to find post-colonial travelers with such a spread. Kapuściński doesn't mention South Africa, and neglects Egypt and Libya, but there are no other unvisited African regions in the 150 page book." %} Kapuściński's journalism is not consistent; he is often torn between covering the sigular events of decolonization and describing the quotidian lives of the people he meets. Highlights include bouts of malaria and tuberculosis; an explosively written battle with a cobra; intense cross-desert logistics; unexpected churches of every variety; coups, revolutions, elections, and wars; and endless sweating. 
+
+Kapuściński's lecture on the Rwandan genocide, given shortly after, placed the tragedy firmly in time and place. While taking place in a small, isolated{% sidenote "fie-id" "Kapuściński claims the first European entered Rwanda in 1894. I have not googled." %} country, the genocide was a regional phenomena. Refugees scattered far; Tutsi fighters were trained in Uganda; the conflicts of the DRC are — to this day — worsened on by both Tutsis and Hutus based in Rwanda. In time, while the 100 days in 1994 are what we know, massacres of comparable{% sidenote "psoc-id" "*Possibly* comparable size. As Kapuściński writes, ''Many wars in Africa are waged without witnesses, secretively, in unreachable places, in silence, without the world's knowledge, or even the slightest attention.''" %} size occurred in 1959, 1963, 1972, 1986, and 1990. 1994 was just the climax of a centuries long struggle following the upset of the status quo by decolonization.
+
+Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and for the 1994 explosion itself. In the 50s, among the European countries, Belgium was uniquely unprepared for decolonization. 
+
+> Until now, the Belgians ruled Rwanda through the Tutsis, leaning on them and using them. But the Tutsis are the most educated and ambitious sector of the Banyarwanda, and it is they who now are demanding freedom. And they want it immediately, something for which the Belgians are utterly unprepared. So Brussels abruptly switches tactics: it abandons the Tutsis and begins to support the more submissive, docile Hutus. It begins to incite them against the Tutsis. These politics rapidly bear fruit. The emboldened, encouraged Hutus take up arms. A peasant revolt erupts in Rwanda in 1959. [...] A great massacre began, such as Africa had not seen for a long time. The peasants set fire to the households of their lords, slit their throats, and crushed their skulls. Rwanda flowed with blood, stood in flames.
+
+The Belgians washed their hands of Africa as well as they could. The French have done the opposite. Without their intervention in 1990, "maybe it would never have come to that hecatomb and carnage—the genocide of 1994." 
+
+> Whereas the majority of European capitals had radically broken with their colonial past, Paris had not.{% sidenote "frsu-id" "I remain upset at French policy in Africa. Across the Sahel, and further south, they have started and worsened conflicts which kill hundreds every day. I notice I'm being vague here, but I am referring to events much more recent than Rwanda. Who was the first head of state with their arm around Chadian ''Transitional'' President Mahamat Deby? You get one guess. " %} [... In 1990,] The divisions of the Rwandan Patriotic Front were already closing in on the capital, and Habyarimana's government and clan were packing their bags, when airplanes deposited French paratroopers at the airport in Kigali.
+
+All of this is in a lecture rich with historical context{% sidenote "fashcn-id" "I vaguely remembered Kapuściński's version of Fashoda from my high school history class, another of those fascinating and forgotten almost-wars. " %} and visual imagery:
+
+> The image of the [mountainous fortress of Rwanda] is not poetic license. Whether you enter Rwanda from Uganda, Tanzania, or Zaire, you will always have the same impression of stepping through the gates of a stronghold that rises up before you, fashioned from immense, magnificent mountains. And so it is now for the Tutsi, a freshly exiled and homeless vagabond; when he awakens in the morning in a refugee camp and walks out in front of his shabby tent, he beholds the mountains of Rwanda. In those early hours of the day, they are a startlingly beautiful sight. I myself often jumped up at dawn just to look. High yet gentle peaks stretch before you into infinity. They are emerald, violet, green, and drenched in sunlight. It is a landscape devoid of the dread and darkness of rocky, windswept peaks, precipices, and cliffs; no deadly avalanches, falling rocks, or loose rubble are lying in wait for you here. No. The mountains of Rwanda radiate warmth and benevolence, tempt with beauty and silence, a crystal clear, windless air, the peace and exquisiteness of their lines and shapes. In the mornings, a transparent haze suffuses the green valleys. It is like a bright veil, airy, light and glimmering in the sun, through which are softly visible the eucalyptus and banana trees, and the people working in the fields
+
+Did Kapuściński understand Africa? He generalizes often — "Africans apprehend time differently;" "Africans valued and liked to make contact on the higher, spiritual plane;" "Africans are collectivist by nature" — and some fall flat. His interactions with individuals shine the brightest. The most touching was with a driver in Nigeria, Omenka. 
+
+> On the day we first met, I gave him nothing as we parted. He walked away without so much as a good-bye. I dislike cold, formal relations between people and I felt bad. So the next time I gave him 50 naira (the local currency). He said good-bye, and even smiled. Encouraged, I gave him 100 naira the following time. He said good-bye, smiled, and shook my hand. At the subsequent parting, I gave him 150 naira. He said good-bye, smiled, wished me well, and warmly shook my hand, grasping it in both of his. The next time I raised the rate again and paid him 200 naira. He said good-bye, smiled, shook and squeezed my hand, asked me to pay his respects to my family, and with concern in his voice inquired after my health. Without stretching this story out any longer, suffice it to say that I ended up showering him with so many naira that we were simply unable to part. Omenka's voice was always trembling with emotion, and with tears in his eyes he would swear his everlasting devotion and fidelity. 
 > 
-> ...
-> 
-> Most wolves starve to death. The 850 million village dogs’ pups starve to death. Most individuals of most wild species starve to death.
-> 
-> ...
-> 
-> If humans disappeared from the face of the earth today, dogs as we recognize them would go extinct. Why couldn’t they go back to the wilderness and hunt rabbits or moose? Because wolves, coyotes, jackals, and foxes already occupy those wilderness niches, and those species already adapted to those niches would outcompete the dog. Those wild critters have the right shape and instinct, and the dog would have to evolve into something else. One niche—one species.
-> 
-> ...
-> 
-> an older warrior was asked what the dog was supposed to guard the cattle from, and he said, “Lions!” 
->  
-> “Lions? A lion will eat that dog!” 
->  
-> “Yes,” he replied, “but we hope it will bark first."
-> 
-> ...
-> 
-> Our grandson has trained the school bus driver to stop so he can pick up [roadkill] carcasses in the plastic bags he carries in his pocket.
+> I had what I wanted, and more: tenderness, warmth, goodwill.
 
-Also this month was the new Derek Parfit biography,{% sidenote "p-arid" "Worth reading if you care, but not as generally interesting as the recent Ramsey or Warhol biographies." %} two books on Somaliland, and a collection of Geoff Dyer's short writing. I highly recommend the last, for Dyer's commentary on modern photography and exceptional autofiction. It also wins the award for "book which caused me to download the most new books".
+This is what I found the hardest about Sierra Leone. Genuine relationships are possible — but they can only be bought. The transactional is at the center of every interaction. It is not always economic — attention, promises, presence, gifts, or information are easily exchanged — but, as a white man, the economic is expected. Kapuściński looks back at his earliest, most naive efforts to relate to Africans, and recognizes them for what they were. 
+
+> In their eyes, I was guilty. Slavery, colonialism, five hundred years of injustice—after all, it's the white men's doing. The white men's. Therefore mine. Mine? I was not able to conjure within myself that cleansing, liberating emotion—guilt; to show contrition; to apologize. On the contrary! From the start, I tried to counterattack: „You were colonized? We, Poles, were also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
+
+I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he was in Rwanda, he told a local coworker about his grandparents, three of whom were Holocaust survivors. Later, when she introduced Gordon to her husband, she introduced him as a "brother in genocide." No morals here (people are different); I just thought of these two stories together.
+
 
 ## Music
 
-The new Zakir Hussein, Edgar Meyer, and Béla Fleck album is self-recommending, and I really loved it. Other fantastic new listens from the past week: 
+Good stuff from this month:
 
-- Big L — Lifestylez Ov Da Poor & Dangerous
-- Qasim Naqvi – Two Centuries
-- New Carly Rae Jepsen album
-- Lain Huuto — Valoon!
-- Almach — Don’t Look Back
+- *Tongues* — Amy Denio
+- *Inde de Sud* — Lakshminarayana Subramaniam
+- *Say So* — Bent Knee
+- *Loveless* — My Bloody Valentine
+- *Danzon* — Turtle Island String Quartet
+- *Marry Me* — St. Vincent
+- *Dizzy Gillespie at Newport* — Dizzy Gillespie
 
-
-## Sport
-
-As Oxford undergrads disappear in the summer, the Thames changes. Fours replace eights, coaches become increasingly desperate for work, and boats spin willy-nilly, up or downstream of the designated areas. After Kazakhstan, and my first ever session in a scull, the Brasenose coach Tim suggested I sign up to row at Henley opens — just two weeks later. This was a terrible idea and I immediately agreed. 
-
-Eight sculling sessions in the next eleven days abosolutely *skinned* my hands, but also got me to the point of a non-embarrassing racing start. I was prepared to lose with open water, but had almost reached the point of confidence where I wouldn't go for a swim in the Henley Reach. Unfortunately, both Tim and I were struck by an administrative delay which forbade our participation. While he called it "gutting", and I empathized (perhaps too much...), I can't say I'm *too* disappointed my sculling debut has been postponed.
+This post was written with the Grateful Dead's "Bertha" from *Skull and Roses*{% sidenote "rubgr-id" "The eponymous [album cover](https://www.rollingstone.com/music/music-features/grateful-dead-original-art-logo-1316160/) was based on an illustration from a Victorian-era edition of the [*Rubaiyat of Omar Khayyam*
+](https://gwern.net/doc/borges/1951-borges-theenigmaofedwardfitzgerald.pdf)! The illustration was apparently on the same page as [this poem](https://www.goodreads.com/quotes/100135-oh-threats-of-hell-and-hopes-of-paradise-one-thing)." %} on repeat. 
 
 
-Oxford University baseball also has it's 2023-2024 schedule!
-
-- @ Essex MT1
-- @ Surrey MT3
-- vs Kent MT4
-- vs KCL HT4
-- @ Imperial HT6
-
-With three games in October, I'm excited to see how an understaffed Rangers get along. We'll definitely have sell-out crowds, so book your travel and seats early. 
 
 
 
 ## Previously
+
+*[August, 2023](https://jablevine.com/older/August_2023)*
+
+*[July, 2023](https://jablevine.com/older/July_2023)*
 
 *[June, 2023](https://jablevine.com/older/June_2023)*
 
