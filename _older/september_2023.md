@@ -23,7 +23,9 @@ I started August in Bonn, on my way to Geneva, and I'm ending the month back in 
 
 I was happy to be back in Switzerland. Geneva is less interesting than Bern or any of the small towns I've stayed in, but makes up for it with the wonderful variety of license plates. I was there as a mentor for the [CHERI](https://www.xrisk.ch/) fellas, an accomplished and eclectic group of students working on existential risk projects. A supermajority of them were focused on AI, for which I abdicated any mentoring responsibility, but I learned a lot. The fellowship's research side was superbly organized by Tobias Häberli, a fellow from last year; Tobias was a big help vector to all of this years fellows whom I talked to. 
 
-I also got mountains! We stayed under Mt. Blanc for a long weekend and climbed an Alp or two. Besides this, highlights were swimming the Aare again, sailing, gelato, and sunrise concerts on the edge of the lake. 
+As a fun perk, I got to work closely with a sharp student working on space policy — his "other" mentor being Brian Weeden, at the Secure World Foundation. While I didn't have so much to contribute, it was really fun dipping my toes back into relevant space topics again, and not the super out-there stuff from the Centre for Space Governance. This project also confused me about all the potential meanings of an "abstain" vote in legislative chambers. 
+
+I also got mountains! We stayed under Mt. Blanc for a long weekend and climbed an Alp or two. Besides this, highlights were swimming the Aare again and again, sailing, gelato, and sunrise concerts on the edge of the lake. 
 
 My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed WC for a proper anonym, after Martha Gelhorn's use of Unwilling Companion for her less-well-known [traveling partner](https://en.wikipedia.org/wiki/Ernest_Hemingway) in her collection *[Travels With Myself and Another](https://jablevine.com/older/june_2021)*. We mutually rejected it due to latrinic connotations and it making her sound like a sidekick." %} left for China at the end of August, where she'll be for the next year. I plan to head east over the holidays, either to Beijing or a third country — so far, friends are bidding for us to visit Sri Lanka, Singapore, or Bangladesh. Further suggestions are welcome. 
 
@@ -106,26 +108,14 @@ This post was written with the Grateful Dead's "Bertha" from *Skull and Roses*{%
 ](https://gwern.net/doc/borges/1951-borges-theenigmaofedwardfitzgerald.pdf)! The illustration was apparently on the same page as [this poem](https://www.goodreads.com/quotes/100135-oh-threats-of-hell-and-hopes-of-paradise-one-thing)." %} on repeat. 
 
 
-## Sport
-
-As Oxford undergrads disappear in the summer, the Thames changes. Fours replace eights, coaches become increasingly desperate for work, and boats spin willy-nilly, up or downstream of the designated areas. After Kazakhstan, and my first ever session in a scull, the Brasenose coach Tim suggested I sign up to row at Henley opens — just two weeks later. This was a terrible idea and I immediately agreed. 
-
-Eight sculling sessions in the next eleven days abosolutely *skinned* my hands, but also got me to the point of a non-embarrassing racing start. I was prepared to lose with open water, but had almost reached the point of confidence where I wouldn't go for a swim in the Henley Reach. Unfortunately, both Tim and I were struck by an administrative delay which forbade our participation. While he called it "gutting", and I empathized (perhaps too much...), I can't say I'm *too* disappointed my sculling debut has been postponed.
-
-
-Oxford University baseball also has it's 2023-2024 schedule!
-
-- @ Essex MT1
-- @ Surrey MT3
-- vs Kent MT4
-- vs KCL HT4
-- @ Imperial HT6
-
-With three games in October, I'm excited to see how an understaffed Rangers get along. We'll definitely have sell-out crowds, so book your travel and seats early. 
 
 
 
 ## Previously
+
+*[August, 2023](https://jablevine.com/older/August_2023)*
+
+*[July, 2023](https://jablevine.com/older/July_2023)*
 
 *[June, 2023](https://jablevine.com/older/June_2023)*
 
