@@ -10,3 +10,5 @@ title: Things I've Written
     </li>
   {% endfor %}
 </ul>
+
+For a full archive of my posts, see the bottom of my [Now](https://jablevine.com/now/) page.
