@@ -41,6 +41,12 @@ I lived in Freetown, Sierra Leone for all of 2021 — and I finished something c
 
 ### *Travels with Herodotus* — Kapuściński
 
+I wrote about Kapuściński's collection *The Shadow of the Sun* last month, and after finishing *The Histories* I picked up this one. The writing is almost as good, the topics are much more varied.
+
+Herodotus and Kapuściński have similar attitudes to sources, but coming from different professional directions: Herodotus was a historian who made history by citing his sources; Kapuściński was a journalist who wrote news by avoiding sources entirely. Herodotus is notable, among other reasons, for being the first historian to *cite* his sources. Specifically, I found three cited sources in the 800 page book. Kapuściński's collection of journalism contains about as many. He once said:
+
+> There are so many complaints: Kapuscinski never mentions dates, Kapuscinski never gives us the name of the minister, he has forgotten the order of events. All that, of course, is exactly what I avoid. If those are the questions you want answered, you can visit your local library, where you will find everything you need: the newspapers of the time, the reference books, a dictionary.
+
 
 ### *HHhH* — Laurent Binet
 
