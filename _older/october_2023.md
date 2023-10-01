@@ -44,10 +44,12 @@ I lived in Freetown, Sierra Leone for all of 2021 — and I finished something c
 
 ### *HHhH* — Laurent Binet
 
+Entirely lives up to the hype. A limpid and engaging work of autofiction? historical fiction? memoir? I'm not sure. Apparently, boyfriends all over the world are thinking about the Roman empire at an [alarmingly high rate](https://en.wikipedia.org/wiki/Legacy_of_the_Roman_Empire#In_popular_culture). *HHhH* is about being a boyfriend who think about a [single May morning in Prague](https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich) way too much. 
+
 
 ### *The Book of Strange New Things* — Michel Faber
 
-Great story, but underwhelming characters. I had read, years ago, James Blish's classic *A Case of Conscience* about a Jesuit clerk on a mission to an alien planet.{% sidenote "lemid-id" "While trying to find the title of Blish's book, I came across Lem's *Fiasco*" %}
+Great story, but underwhelming characters. I had read, years ago, James Blish's classic *A Case of Conscience* about a Jesuit clerk on a mission to an alien planet.{% sidenote "lemid-id" "While trying to find the title of Blish's book, I came across Lem's *Fiasco*, about a Dominican on a doomed-to-fail first contact mission of his own. See also Clarke award winner *The Sparrow*. Lem's will go on my list." %} Faber writes a priest sent by a corporation to an alien planet at the request of the local population. The reason the local species wants a Christian priest is treated as the big reveal, but falls a bit flat. Faber can't seem to decide how much sci-fi belongs in his book
 
 
 
