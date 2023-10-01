@@ -31,9 +31,13 @@ I was working in the offices of the Kanifing Municipal Council on two connected 
 
 ## Reading
 
-I lived in Freetown, Sierra Leone for all of 2021 — and I finished something close to 200 books that year. It's the slow, expensive internet. I lucked out this time — there was no wifi in my hotel in Kanifing, and I had the best reading week of 2023, coinciding with the best workweek of the year. Some of the highlights are below.
+I lived in Freetown, Sierra Leone for all of 2021 — and I finished something close to 200 books that year. It's the slow, expensive internet. I lucked out this time — there was no wifi in my hotel in Kanifing, and I had the best reading week of 2023, coinciding with the most productive workweek of the year. Some of the highlights are below.
 
 ### *Till We Have Faces* — C.S. Lewis
+
+This was Lewis' last book, and he considered it his best. It's also the first book I've read by an Inkling with a well-written, a remarkably well-written, female protagonist. The book is told from the deathbed of the queen of Glome, the invented sister of [Psyche](https://en.wikipedia.org/wiki/Cupid_and_Psyche). Lewis' narrative argues with the theology he dedicated most of his works to — how to live in a world with beings beyond our understanding, whether or not you call them divine. 
+
+The Narnia books are sometimes teased for being heavy-handed with Christian imagery.{% sidenote "asln-id" "I for one just thought Aslan was just a cool lion. But I was like seven years old, and we hadn't gotten to the Gospel yet in hebrew school." %} Critics juxtapose the Narnia books to Lewis' later writings, which are more detached from his beliefs — sure it's about spirituality, but in the abstract! gods, not God. I think this is wrong. First, the Narnia books were for children — *Faces* wasn't. Second, it's not that there's now Chestertonian subtlety or trickery; Lewis is just a better writer. The title comes from a passage close to the end of the book, when the queen comes to present her complain to a tribunal of maybe-gods: She asks herself, "How can [the gods] meet us face to face till we have faces?" This is exactly Lewis' conception of Christian prayer.{% sidenote "mere-id" "My thoughts here are taken from *Mere Christianity*. I'm not a theologian." %} He thought the act of understanding oneself and opening ones bare face and desires to God, whether those desires be for good or bad, is the betterment expected of prayer.{% sidenote "sidenotecath" "Think about how non-Catholic this is. Tolkien must have hated it." %}
 
 
 ### *The Histories* — Herodotus
