@@ -27,9 +27,9 @@ The Gambia is an oddly shaped country, looking like some British colonial office
 
 I was working in the offices of the Kanifing Municipal Council on two connected research projects: improving property tax collection and implementing a solid waste collection service. Both projects are going really well, though we're in a holding pattern while waiting for funding for implementation. More importantly, I got to fulfill someone's childhood dream of throwing trash into the back of a compactor truck — Alpha, the driver, even let me push the button which did the compacting.
 
-I can recommend Matt Lakeman's "[Notes on The Gambia](https://mattlakeman.org/2023/07/10/notes-on-the-gambia/)"; most of my interesting observations were relative to my experience in Sierra Leone. The sex tourism was noticeable and initially disconcerting. The food was excellent — I had the ["world's best" jollof rice](https://punchng.com/mixed-reactions-as-gambia-beats-nigeria-to-win-best-jollof-2023/); chef Bojang's maafe was even better, and it remains my favorite west African dish. Gambian Muslims are remarkably observant — relative to other Muslim cities I've lived in or visited, prayer is relatively more noticeable and less of a social activity. While I was there, three police officers were shot, which apparently hadn't happened in years — it occupied the news for the next two weeks. 
+I can recommend Matt Lakeman's "[Notes on The Gambia](https://mattlakeman.org/2023/07/10/notes-on-the-gambia/)". Matt does a good job of presenting the "generally surprising&interesting" bits of a country; most of my interesting observations were relative to my experience in Sierra Leone. The sex tourism was noticeable and initially disconcerting. The food was excellent — I had the ["world's best" jollof rice](https://punchng.com/mixed-reactions-as-gambia-beats-nigeria-to-win-best-jollof-2023/); chef Bojang's maafe was even better, and it remains my favorite west African dish. Gambian Muslims are remarkably observant — relative to other Muslim cities I've lived in or visited, prayer is relatively more noticeable and less of a social activity. While I was there, three police officers were shot, which apparently hadn't happened in years; it occupied the news for the next two weeks. 
 
-It's a fascinating country, and I learned a lot. I hope to return as these research projects move forward.
+It's a fascinating country, and I learned a lot. I hope to return as our research projects move forward.
 
 ## Reading
 
@@ -61,7 +61,7 @@ Entirely lives up to the hype. A limpid and engaging work of autofiction? histor
 
 ### *The Book of Strange New Things* — Michel Faber
 
-Great story, but underwhelming characters. I had read, years ago, James Blish's classic *A Case of Conscience* about a Jesuit clerk on a mission to an alien planet.{% sidenote "lemid-id" "While trying to find the title of Blish's book, I came across Lem's *Fiasco*, about a Dominican on a doomed-to-fail first contact mission of his own. See also Clarke award winner *The Sparrow*. Lem's will go on my list." %} Faber writes a priest sent by a corporation to an alien planet at the request of the local population. The reason the local species wants a Christian priest is treated as the big reveal, but falls a bit flat. Faber can't seem to decide how much sci-fi belongs in his book
+Great story, but underwhelming characters. I had read, years ago, James Blish's classic *A Case of Conscience* about a Jesuit clerk on a mission to an alien planet.{% sidenote "lemid-id" "I've also previously read Lem's *Fiasco*, with a similar premise — it's good, but I wouldn't recommend it over *Solaris*. See also Clarke award winner *The Sparrow*. The crown of the priest-meets-aliens genre is Arthur C. Clarke's *[The Star](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)*." %} Faber writes a priest sent by a corporation to an alien planet at the request of the local population. The reason the local species wants a Christian priest is treated as the big reveal, but falls a bit flat. Faber can't seem to decide how much sci-fi belongs in his book
 
 
 
