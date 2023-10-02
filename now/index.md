@@ -3,7 +3,7 @@ layout: page
 title: What am I up to now?
 ---
 
-## September, 2023
+## October, 2023
 
 
 
@@ -13,105 +13,69 @@ title: What am I up to now?
 3. [Music](#music)
 4. [Previously](#previously)
 
-
   <br>
   
   
 ## Updates 
 
-I started August in Bonn, on my way to Geneva, and I'm ending the month back in Oxford. Though the school year is still six weeks away, it feels like the home stretch of summer. Besides a trip to The Gambia next month, I'm likely to be in Oxford until the Christmas break. 
+I'm back in Oxford, with the academic year all set to start next week. I spent most of September in:
 
-I was happy to be back in Switzerland. Geneva is less interesting than Bern or any of the small towns I've stayed in, but makes up for it with the wonderful variety of license plates. I was there as a mentor for the [CHERI](https://www.xrisk.ch/) fellas, an accomplished and eclectic group of students working on existential risk projects. A supermajority of them were focused on AI, for which I abdicated any mentoring responsibility, but I learned a lot. The fellowship's research side was superbly organized by Tobias Häberli, a fellow from last year; Tobias was a big help vector to all of this years fellows whom I talked to. 
+### The Gambia
 
-As a fun perk, I got to work closely with a sharp student working on space policy — his "other" mentor being Brian Weeden, at the Secure World Foundation. While I didn't have as much to contribute, it was really fun dipping my toes back into relevant space topics again, and not the super out-there stuff from the Centre for Space Governance. This project also confused me about all the potential meanings of an "abstain" vote in legislative chambers. 
+The Gambia is an oddly shaped country, looking like some British colonial officer used the QGIS buffer tool 10mi above and below the Gambia river.{% sidenote "stor-id" "There's a fun, but apocryphal, story, that the British sailed a warship up the Gambia and fired its guns out both sides. Where the cannon shot landed, they drew the border, as that was the furthest they could project power." %} The only urban area to speak of grew up around Banjul, the island capital at the mouth of the river to the Atlantic. The island is not even five square miles, and the metropolitan area spilled over the causeway, eventually encompassing most of the attached peninsula. 
 
-I also got mountains! We stayed under Mt. Blanc for a long weekend and climbed an Alp or two. Besides this, highlights were swimming the Aare again and again, sailing, gelato, and sunrise concerts on the edge of the lake. 
+I was working in the offices of the Kanifing Municipal Council on two connected research projects: improving property tax collection and implementing a solid waste collection service. Both projects are going really well, though we're in a holding pattern while waiting for funding for implementation. More importantly, I got to fulfill someone's childhood dream of throwing trash into the back of a compactor truck — Alpha, the driver, even let me push the button which did the compacting.
 
-My Wonderful Girlfriend (hereafter MWG){% sidenote "mwg-id" "She first proposed WC for a proper anonym, after Martha Gelhorn's use of Unwilling Companion for her less-talented [traveling partner](https://en.wikipedia.org/wiki/Ernest_Hemingway) in her collection *[Travels With Myself and Another](https://jablevine.com/older/june_2021)*. We mutually rejected it due to latrinic connotations and it making her sound like a sidekick." %} left for China at the end of August, where she'll be for the next year. I plan to head east over the holidays, either to Beijing or a third country — so far, friends are bidding for us to visit Sri Lanka, Singapore, or Bangladesh. Further suggestions are welcome. 
+I can recommend Matt Lakeman's "[Notes on The Gambia](https://mattlakeman.org/2023/07/10/notes-on-the-gambia/)". Matt does a good job of presenting the "generally surprising&interesting" bits of a country; most of my interesting observations were relative to my experience in Sierra Leone. The sex tourism was noticeable and initially disconcerting. The food was excellent — I had the ["world's best" jollof rice](https://punchng.com/mixed-reactions-as-gambia-beats-nigeria-to-win-best-jollof-2023/); chef Bojang's maafe was even better, and it remains my favorite west African dish. Gambian Muslims are remarkably observant — relative to other Muslim cities I've lived in or visited, prayer is relatively more noticeable and less of a social activity. While I was there, three police officers were shot, which apparently hadn't happened in years; it occupied the news for the next two weeks. 
 
-
+It's a fascinating country, and I learned a lot. I hope to return as our research projects move forward.
 
 ## Reading
 
-### Ethnomathematics
-  
-A [few months ago](https://jablevine.com/older/june_2023), I wrote a bit about Netz's *A New History of Greek Mathematics*, in particular his translations of fundamental Greek mathematical concepts.{% sidenote "grenu-id" "For example, the Greeks' broadest conception of the word 'number' referred to the positive integers excluding 1 — which was not a number, but the unit by which other numbers are measured." %} This book spun me into a slight enthnomathematical reading spell, which has developed into a middling addiction. 
+I lived in Freetown, Sierra Leone for all of 2021 — and I finished something close to 200 books that year. It's the slow, expensive internet that does it. I lucked out again this time — there was no wifi in my hotel in Kanifing, and I had the best reading week of 2023, coinciding with the most productive workweek of the year. Some of the highlights are below.
 
-Both the ethnographic (interesting anthropological studies of human interactions with mathematics) and the mathematical (how these interactions are interpreted and decoded mathematically) sides are interesting. This distinction is fine: many human actions can be explained mathematically — by you and me — without the actors having the same knowledge. Paulus Gerdes gives the example of four-fold basket weaving in his wonderful teaching book *Geometry from Africa*:{% sidenote "basym-id" "For images of the basket designs, see section 2.2, 'From Decorative Designs With Fourfold Symmetry to Pythagoras', available on LibGen or from [me](https://jablevine.com/hi/)." %} these designs implicitly reflect the earliest proofs of Pythagoras's theorem. The weaver follows an inherited artistic and utilitarian tradition, not mathematical calculation. We know what we're looking for: a larger square of four identical triangles, enclosing a smaller square — the rest of the proof is something I saw in eighth grade. Their practical art bears mathematical reasoning embedded within. 
+### *Till We Have Faces* — C.S. Lewis
 
-While the geometry is fun (and it's what captures Netz's and Gerdes' curiosity), the original point of curiosity among ethnomathematicians is certainly number theory. This is partly because the first ethnomathematics was conducted by linguists.{% sidenote "sapwh-id" "I will not, I will not, I will not discuss Sapir-Whorf. [Distraction](https://www.smbc-comics.com/comic/how-to-pick-up-a-linguist)!" %} A culture's number words and base reveal foundational mathematical concepts. That is, if they have number words as we understand them. The Pirahã, an indigenous people in Brazil are an extremely well-studied example{% sidenote "frak-id" "My recommendation here is Frank et al.'s *[Number as a cognitive technology](doi:10.1016/j.cognition.2008.04.007)*." %} due to their lack of numbers. Explicitly, they "have no linguistic method whatsoever for expressing exact quantity, not even 'one'." 
+This was Lewis' last book, and he considered it his best. It's also the first book I've read by an Inkling with a well-written — a remarkably well-written — female protagonist. The book is told from the deathbed of the queen of Glome, the invented sister of [Psyche](https://en.wikipedia.org/wiki/Cupid_and_Psyche). Lewis' narrative argues with the theology he dedicated most of his works to: how to live in a world with beings beyond our understanding, whether or not you call them divine. 
 
-Beside extreme exceptions such as the Pirahã, numbers are almost universal. But even then there is great variety. Our base-10 won out, universal among the Romans and Chinese going back millenia. Base-5 was particularly common in indigenous America; the Babylonian base-60 is the largest common example. 
+The Narnia books are sometimes teased for being heavy-handed with Christian imagery.{% sidenote "asln-id" "I for one just thought Aslan was just a cool lion. But I was like seven years old, and we hadn't gotten to the Gospel yet in Hebrew school." %} Critics juxtapose the Narnia books to Lewis' later writings, which are more detached from his beliefs — sure it's about spirituality, but in the abstract! gods, not God. I think this is wrong. First, the Narnia books were for children — *Faces* wasn't. Second, it's not that there's now Chestertonian subtlety or trickery; Lewis is just a better writer. The title comes from a passage close to the end of the book, when the queen comes to present her complain to a tribunal of maybe-gods: She asks herself, "How can [the gods] meet us face to face till we have faces?" This is exactly Lewis' conception of Christian prayer.{% sidenote "mere-id" "My thoughts here are taken from *Mere Christianity*. I'm not a theologian." %} He thought the act of understanding oneself and opening one's bare face and desires to God, whether those desires are good or bad, is the betterment expected of prayer.{% sidenote "sidenotecath" "Think about how non-Catholic this is. Tolkien must have hated it." %}
 
-My favorite example is the Yupno of Papua New Guinea.{% sidenote "sorpis-id" "Sources here are [Wassman and Dasen 1994](https://doi.org/10.1177/0022022194251005) and Wassman 1991." %} We don't know much about their mathematics, and my fascination with them is inherently a bit speculative. First, they were only studied ethnographically decades after the national government began providing language{% sidenote "tokp" "Tok Pisin." %} and mathematical schooling to the region. Only the oldest members of the are familiar with their counting system; children "usually know only the vernacular words for 1, 2, and 3; they usually count in Tok Pisin even when they use the vernacular." Second, the authors had only limited access to the Yupno community. My claim about the Yupno — which the authors imply, but do not state — is that their men count in base 33 and women count in base 30. 
 
-The Yupno use a body-tally number system. This is similar to how most base-10 systems, what we're used to, came about: you start at one finger, and move to the next until you get to ten. Then start over. But the Yupno observe that there are more body parts than just fingers. Wassman provides this diagram:
+### *The Histories* — Herodotus
 
-<br>
+Lots of fun. The chapter I've heard most discussed — online, among undergraduate classics students, among random nerdy friends — is chapter two, about the Egyptians. It really is a shocker of a chapter. The through line of the histories is the Greco-Persian Wars. Chapter one jumps right in with the rise of Cyrus and the culture of the Persians; chapters three through nine detail battles and conspiracies and seductions and the clash of civilizations. Chapter two is about how cool crocodiles are. Also, the Egyptians are mentioned literally twice more in the entire book after chapter two, it's a good thing no one had invented the copy editor yet.
 
-{% maincolumn "assets/img/yupno.png" "" %}
+### *Travels with Herodotus* — Kapuściński
 
-<br>
+I wrote about Kapuściński's collection *The Shadow of the Sun* last month, and after finishing *The Histories* I picked up this one. The writing is almost as good, the topics are much more varied.
 
-The problem, I think, is obvious.{% sidenote "sidenote-id" "Proofreader LH asks whether this implies that ''the vagina is the absence of a body part.'' Definitely, yes. Anthropologists have, by varying degrees, addressed or ignored anthrocentrism. Sally Slocum has a few fun papers, of which I've read one, years ago." %}
+Herodotus and Kapuściński have similar attitudes to sources, but coming from different professional directions: Herodotus was a historian who made history by citing his sources; Kapuściński was a journalist who wrote news by avoiding sources entirely. Herodotus is notable, among other reasons, for being the first historian to *cite* his sources. Specifically, I found three cited sources in the 800 page book. Kapuściński's collection of journalism contains about as many. He once said:
 
-However, we don't have any *direct* evidence for the claim of gendered base systems. The authors' "sample does not include any women because tradition does not allow them to count in public; attempts to question some of them in spite of this failed because the situation was too strange for them." Further, it was rare for the Yupno to deal with numbers larger than 30, and therefore the practical difference is often irrelevant.{% sidenote "obs-id" "Base only becomes relevant mathematically once the base is exceeded. In a base-11 system, our 11 and their 11 are the same, but our 12 is equivalent to their eleventy-one or whatever. Of course, you can call eleventy-one 'twelve' but then you're in a baseless linguistic system and being purposefully obtuse so stop it." %} The primary example is the payment of bride prices, which is also notable for being the only occasion when men and women count together. Wassman again:
+> There are so many complaints: Kapuscinski never mentions dates, Kapuscinski never gives us the name of the minister, he has forgotten the order of events. All that, of course, is exactly what I avoid. If those are the questions you want answered, you can visit your local library, where you will find everything you need: the newspapers of the time, the reference books, a dictionary.
 
-> Occasions to go beyond two or three men{% sidenote "bodmen-id" "When the Yupno men reached 33, they would pick another man present and count using his body parts." %} would have been rare; traditionally, higher numbers were only used in the exchange of bride price, and even then it would have been unusual to count more than 33 pigs.
 
-That's the outline of how the Yupno ended up with a gendered base system. When I tried to think about mathematics in the Yupno system, it was clunky for reasons beyond the unfamiliarity. The important question, I think, and this is the closest I'm getting to Sapir-Whorf, is this: would a Yupno [Ramanjuan](https://kristinposehn.substack.com/p/ramanujan-dreams) have been possible?
+### *HHhH* — Laurent Binet
 
-### The Shadow of the Sun
+Entirely lives up to the hype. A limpid and engaging work of... autofiction? historical fiction? memoir? I'm not sure. Apparently, boyfriends all over the world are thinking about the Roman empire at an [alarmingly high rate](https://en.wikipedia.org/wiki/Legacy_of_the_Roman_Empire#In_popular_culture). *HHhH* is about being a boyfriend who think about a [single May morning in Prague](https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich) way too much. 
 
-My favorite book from this month was *The Shadow of the Sun* by Ryszard Kapuściński. Almost no one traveled as widely in Africa as Kapuściński, a (*the*) Polish journalist covering the third world from the ~1960s to the ~1990s.{% sidenote "widesm-id" "This is quite a claim but I challenge you to find post-colonial travelers with such a spread. Kapuściński doesn't mention South Africa, and neglects Egypt and Libya, but there are no other unvisited African regions in the 150 page book." %} Kapuściński's journalism is not consistent; he is often torn between covering the sigular events of decolonization and describing the quotidian lives of the people he meets. Highlights include bouts of malaria and tuberculosis; an explosively written battle with a cobra; intense cross-desert logistics; unexpected churches of every variety; coups, revolutions, elections, and wars; and endless sweating. 
 
-Kapuściński's lecture on the Rwandan genocide, given shortly after, placed the tragedy firmly in time and place. While taking place in a small, isolated{% sidenote "fie-id" "Kapuściński claims the first European entered Rwanda in 1894. I have not googled." %} country, the genocide was a regional phenomena. Refugees scattered far; Tutsi fighters were trained in Uganda; the conflicts of the DRC are — to this day — worsened on by both Tutsis and Hutus based in Rwanda. In time, while the 100 days in 1994 are what we know, massacres of comparable{% sidenote "psoc-id" "*Possibly* comparable size. As Kapuściński writes, ''Many wars in Africa are waged without witnesses, secretively, in unreachable places, in silence, without the world's knowledge, or even the slightest attention.''" %} size occurred in 1959, 1963, 1972, 1986, and 1990. 1994 was just the climax of a centuries long struggle following the upset of the status quo by decolonization.
+### *The Book of Strange New Things* — Michel Faber
 
-Kapuściński indicts the colonial powers, both for creating the conditions leading to the decades of blood and recrimination and for the 1994 explosion itself. In the 50s, among the European countries, Belgium was uniquely unprepared for decolonization. 
+Great story, but underwhelming characters. I had read, years ago, James Blish's classic *A Case of Conscience* about a Jesuit clerk on a mission to an alien planet.{% sidenote "lemid-id" "I've also previously read Lem's *Fiasco*, with a similar premise — it's good, but I wouldn't recommend it over *Solaris*. See also Clarke award winner *The Sparrow*. The crown of the priest-meets-aliens genre is Arthur C. Clarke's *[The Star](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)*." %} Faber writes a priest sent by a corporation to an alien planet at the request of the local population. The reason the local species wants a Christian priest is treated as the big reveal, but falls a bit flat. Faber can't seem to decide how much sci-fi belongs in his book
 
-> Until now, the Belgians ruled Rwanda through the Tutsis, leaning on them and using them. But the Tutsis are the most educated and ambitious sector of the Banyarwanda, and it is they who now are demanding freedom. And they want it immediately, something for which the Belgians are utterly unprepared. So Brussels abruptly switches tactics: it abandons the Tutsis and begins to support the more submissive, docile Hutus. It begins to incite them against the Tutsis. These politics rapidly bear fruit. The emboldened, encouraged Hutus take up arms. A peasant revolt erupts in Rwanda in 1959. [...] A great massacre began, such as Africa had not seen for a long time. The peasants set fire to the households of their lords, slit their throats, and crushed their skulls. Rwanda flowed with blood, stood in flames.
-
-The Belgians washed their hands of Africa as well as they could. The French have done the opposite. Without their intervention in 1990, "maybe it would never have come to that hecatomb and carnage—the genocide of 1994." 
-
-> Whereas the majority of European capitals had radically broken with their colonial past, Paris had not.{% sidenote "frsu-id" "I remain upset at French policy in Africa. Across the Sahel, and further south, they have started and worsened conflicts which kill hundreds every day. I notice I'm being vague here, but I am referring to events much more recent than Rwanda. Who was the first head of state with their arm around Chadian ''Transitional'' President Mahamat Deby? You get one guess. " %} [... In 1990,] The divisions of the Rwandan Patriotic Front were already closing in on the capital, and Habyarimana's government and clan were packing their bags, when airplanes deposited French paratroopers at the airport in Kigali.
-
-All of this is in a lecture rich with historical context{% sidenote "fashcn-id" "I vaguely remembered Kapuściński's version of Fashoda from my high school history class, another of those fascinating and forgotten almost-wars. " %} and visual imagery:
-
-> The image of the [mountainous fortress of Rwanda] is not poetic license. Whether you enter Rwanda from Uganda, Tanzania, or Zaire, you will always have the same impression of stepping through the gates of a stronghold that rises up before you, fashioned from immense, magnificent mountains. And so it is now for the Tutsi, a freshly exiled and homeless vagabond; when he awakens in the morning in a refugee camp and walks out in front of his shabby tent, he beholds the mountains of Rwanda. In those early hours of the day, they are a startlingly beautiful sight. I myself often jumped up at dawn just to look. High yet gentle peaks stretch before you into infinity. They are emerald, violet, green, and drenched in sunlight. It is a landscape devoid of the dread and darkness of rocky, windswept peaks, precipices, and cliffs; no deadly avalanches, falling rocks, or loose rubble are lying in wait for you here. No. The mountains of Rwanda radiate warmth and benevolence, tempt with beauty and silence, a crystal clear, windless air, the peace and exquisiteness of their lines and shapes. In the mornings, a transparent haze suffuses the green valleys. It is like a bright veil, airy, light and glimmering in the sun, through which are softly visible the eucalyptus and banana trees, and the people working in the fields
-
-Did Kapuściński understand Africa? He generalizes often — "Africans apprehend time differently;" "Africans valued and liked to make contact on the higher, spiritual plane;" "Africans are collectivist by nature" — and some fall flat. His interactions with individuals shine the brightest. The most touching was with a driver in Nigeria, Omenka. 
-
-> On the day we first met, I gave him nothing as we parted. He walked away without so much as a good-bye. I dislike cold, formal relations between people and I felt bad. So the next time I gave him 50 naira (the local currency). He said good-bye, and even smiled. Encouraged, I gave him 100 naira the following time. He said good-bye, smiled, and shook my hand. At the subsequent parting, I gave him 150 naira. He said good-bye, smiled, wished me well, and warmly shook my hand, grasping it in both of his. The next time I raised the rate again and paid him 200 naira. He said good-bye, smiled, shook and squeezed my hand, asked me to pay his respects to my family, and with concern in his voice inquired after my health. Without stretching this story out any longer, suffice it to say that I ended up showering him with so many naira that we were simply unable to part. Omenka's voice was always trembling with emotion, and with tears in his eyes he would swear his everlasting devotion and fidelity. 
-> 
-> I had what I wanted, and more: tenderness, warmth, goodwill.
-
-This is what I found the hardest about Sierra Leone. Genuine relationships are possible — but they can only be bought. The transactional is at the center of every interaction. It is not always economic — attention, promises, presence, gifts, or information are easily exchanged — but, as a white man, the economic is expected. Kapuściński looks back at his earliest, most naive efforts to relate to Africans, and recognizes them for what they were. 
-
-> In their eyes, I was guilty. Slavery, colonialism, five hundred years of injustice—after all, it's the white men's doing. The white men's. Therefore mine. Mine? I was not able to conjure within myself that cleansing, liberating emotion—guilt; to show contrition; to apologize. On the contrary! From the start, I tried to counterattack: „You were colonized? We, Poles, were also! For one hundred and thirty years we were the colony of three foreign powers. White ones, too.” They laughed, tapped their foreheads, walked away. I angered them, because they thought I wanted to deceive them. I knew that despite my inner certainty about my own innocence, to them I was guilty.
-
-I'll end with a story from Grant Gordon, a former UNDPO and IRC officer. When he was in Rwanda, he told a local coworker about his grandparents, three of whom were Holocaust survivors. Later, when she introduced Gordon to her husband, she introduced him as a "brother in genocide." No morals here (people are different); I just thought of these two stories together.
 
 
 ## Music
 
-Good stuff from this month:
-
-- *Tongues* — Amy Denio
-- *Inde de Sud* — Lakshminarayana Subramaniam
-- *Say So* — Bent Knee
-- *Loveless* — My Bloody Valentine
-- *Danzon* — Turtle Island String Quartet
-- *Marry Me* — St. Vincent
-- *Dizzy Gillespie at Newport* — Dizzy Gillespie
-
-This post was written with the Grateful Dead's "Bertha" from *Skull and Roses*{% sidenote "rubgr-id" "The eponymous [album cover](https://www.rollingstone.com/music/music-features/grateful-dead-original-art-logo-1316160/) was based on an illustration from a Victorian-era edition of the [*Rubaiyat of Omar Khayyam*
-](https://gwern.net/doc/borges/1951-borges-theenigmaofedwardfitzgerald.pdf)! The illustration was apparently on the same page as [this poem](https://www.goodreads.com/quotes/100135-oh-threats-of-hell-and-hopes-of-paradise-one-thing)." %} on repeat. 
+While I read a lot more when I don't have wifi, I listen to a lot less new music. The only shockingly good new thing I heard was Betty Benedeadly's "At the Institute of Mentalphysics." Weird and fun. 
 
 
 
 
 
 ## Previously
+
+*[September, 2023](https://jablevine.com/older/September_2023)*
 
 *[August, 2023](https://jablevine.com/older/August_2023)*
 
