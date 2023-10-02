@@ -11,7 +11,6 @@ title: What am I up to now?
 1. [Updates](#updates)
 2. [Reading](#reading)
 3. [Music](#music)
-4. [Sport](#sport)
 
 
   <br>
@@ -44,6 +43,7 @@ The Narnia books are sometimes teased for being heavy-handed with Christian imag
 
 ### *The Histories* — Herodotus
 
+Lots of fun. The chapter I've heard most discussed — online, among undergraduate classics students, among random nerdy friends — is chapter two, about the Egyptians. It really is a shocker of a chapter. The through line of the histories is the Greco-Persian Wars. Chapter one jumps right in with the rise of Cyrus and the culture of the Persians; chapters three through nine detail battles and conspiracies and seductions and the clash of civilizations. Chapter two is about how cool crocodiles are. Also, the Egyptians are mentioned literally twice more in the entire book after chapter two, it's a good thing no one had invented the copy editor yet.
 
 ### *Travels with Herodotus* — Kapuściński
 
@@ -56,7 +56,7 @@ Herodotus and Kapuściński have similar attitudes to sources, but coming from d
 
 ### *HHhH* — Laurent Binet
 
-Entirely lives up to the hype. A limpid and engaging work of autofiction? historical fiction? memoir? I'm not sure. Apparently, boyfriends all over the world are thinking about the Roman empire at an [alarmingly high rate](https://en.wikipedia.org/wiki/Legacy_of_the_Roman_Empire#In_popular_culture). *HHhH* is about being a boyfriend who think about a [single May morning in Prague](https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich) way too much. 
+Entirely lives up to the hype. A limpid and engaging work of... autofiction? historical fiction? memoir? I'm not sure. Apparently, boyfriends all over the world are thinking about the Roman empire at an [alarmingly high rate](https://en.wikipedia.org/wiki/Legacy_of_the_Roman_Empire#In_popular_culture). *HHhH* is about being a boyfriend who think about a [single May morning in Prague](https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich) way too much. 
 
 
 ### *The Book of Strange New Things* — Michel Faber
@@ -67,6 +67,7 @@ Great story, but underwhelming characters. I had read, years ago, James Blish's 
 
 ## Music
 
+While I read a lot more when I don't have wifi, I listen to a lot less new music. The only shockingly good new thing I heard was Betty Benedeadly's "At the Institute of Mentalphysics." Weird and fun. 
 
 
 
