@@ -18,7 +18,10 @@ title: What am I up to now?
   
 ## Updates 
 
-Oxford term time is back, which means perhaps too much routine in my days. I have a new chair with corduroy upholstery and a brown felt blanket, where I read most mornings from 6-8am. The same smoothie{% sidenote "sidenote-id" "One banana <br> One apple <br> Fifteen ml of peanut butter <br> One fistful of frozen blueberries <br> Five ml tbsp of milled flaxseed <br> Fifty ml of greek yoghurt <br> " %} is back
+Oxford term time is back, which means perhaps too much routine in my days. I have a new chair with corduroy upholstery and a brown felt blanket, where I read most mornings from 6-8am. The same smoothie{% sidenote "smoot-id" "One banana <br> One apple <br> Fifteen ml of peanut butter <br> One fistful of frozen blueberries <br> Five ml tbsp of milled flaxseed <br> Fifty ml of greek yoghurt <br> Fifty g of chocolate protein powder <br> Half a liter of milk" %} is back, at 8am every morning.{% sidenote "nf-id" "Except on Thursdays, when I get breakfast at Nuffield with DB, NE, CS, etc. " %} My desk has become more comfortable and productive, especially after dropping one of my three monitors.{% sidenote "char-id" "The desk chair has mysteriously dropped three screws in the past week, and I can't figure out where they came from. I expect to end up on the floor at any moment." %} This is especially good, as I've lost any ability to focus at my old office Trajan House — I end up talking to people or playing table tennis or reading on a beanbag or something. 
+
+Evenings are much less structured, especially having just suffered falling-back. This isn't the furthest north I've spent a winter, but the prospect of <eight-hour days remains unappetizing. I have no idea if this routine makes me more productive. I've reached the self-directed stage of the PhD,{% sidenote "sidenotestru" "Tho I'll return to a coursework structure for one term later this year." %} and "time sitting at a desk" isn't the best measure of productivity. I've been keeping myself accountable, both weekly with [MWG](https://jablevine.com/older/september_2023) and to everyone supporting my studies.
+
 
 My PhD is being funded by the Heffernan Sinclair Endowment from Brasenose College. Peter Sinclair was the economics tutor at Brasenose in the 1980s and 90s, and passed away during the cruel, disorienting first Covid wave in spring 2020. Many current economists have fond memories of Professor Sinclair: the [condolence book](https://intranet.birmingham.ac.uk/social-sciences/peter-sinclair.aspx) at his final university, Birmingham, is over 40,000 words and would take me almost four hours to read aloud. There are notes from undergraduates he taught at Oxford and Birmingham; colleagues and coauthors; government officials from Indonesia, the UK, and Lesotho{% sidenote "sidenote-id" "The [King of Lesotho](https://en.wikipedia.org/wiki/Letsie_III), in fact." %}; bankers and nurses; childhood friends. 
 
@@ -62,10 +65,17 @@ Coup D'etat
 
 ## Music
 
+*Penguin Cafe Orchestra*, Penguin Cafe Orchestra, 1981
 
+*Preludes, Airs & Yodels*, Penguin Cafe Orchestra, 1996
 
+*I Just Can't Stop It*, The Beat, 1980
 
+*Synthesized Sudan: Astro​-​Nubian Electronic Jaglara Dance Sounds from the Fashaga Underground*, Jantra, 2023
 
+*Bocelli*, Andrea Bocelli, 1995
+
+*Viva la Woman*, Cibo Matto, 1996{% sidenote "sugg-id" "This post was written with 'Sugar Water' on repeat." %}
 
 
 ## Previously
