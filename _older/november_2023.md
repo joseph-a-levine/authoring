@@ -18,17 +18,15 @@ title: What am I up to now?
   
 ## Updates 
 
-Oxford term time is 
+Oxford term time is back, which means perhaps too much routine in my days. I have a new chair with corduroy upholstery and a brown felt blanket, where I read most mornings from 6-8am. The same smoothie{% sidenote "sidenote-id" "One banana <br> One apple <br> Fifteen ml of peanut butter <br> One fistful of frozen blueberries <br> Five ml tbsp of milled flaxseed <br> Fifty ml of greek yoghurt <br> " %} is back
 
-My PhD is being funded by the Heffernan Sinclair Endowment from Brasenose College. Peter Sinclair was the economics tutor at Brasenose in the 1980s and 90s, and passed away during the cruel, disorienting first Covid wave in spring 2020. Many current economists have fond memories of Professor Sinclair: his condolence book at his final university, Birmingham, is over 40,000 words and would take me almost four hours to read aloud. There are notes from undergraduates he taught at Oxford and Birmingham; colleagues and coauthors; government officials from Indonesia, the UK, and Kenya; bankers and nurses; childhood friends
+My PhD is being funded by the Heffernan Sinclair Endowment from Brasenose College. Peter Sinclair was the economics tutor at Brasenose in the 1980s and 90s, and passed away during the cruel, disorienting first Covid wave in spring 2020. Many current economists have fond memories of Professor Sinclair: the [condolence book](https://intranet.birmingham.ac.uk/social-sciences/peter-sinclair.aspx) at his final university, Birmingham, is over 40,000 words and would take me almost four hours to read aloud. There are notes from undergraduates he taught at Oxford and Birmingham; colleagues and coauthors; government officials from Indonesia, the UK, and Lesotho{% sidenote "sidenote-id" "The [King of Lesotho](https://en.wikipedia.org/wiki/Letsie_III), in fact." %}; bankers and nurses; childhood friends. 
 
-Brasenose established the endowment a few days after Professor Sinclair's death, naming it after him and his first wife, Shelagh Heffernan, whom I know much less about. She passed away in 2010, as a professor of banking at City University in London. She did her MPhil and DPhil at Oxford{% sidenote "oneyeml" "Back when a 3-term, 9 month DPhil was possible. Jealous." %} and wrote various books on *Sovereign Risk Analysis* and *Modern Banking in Theory and Practice*. Sinclair himself [donated £25,000](https://governance.admin.ox.ac.uk/legislation/shelagh-heffernan-awards-fund) in her name to the University later in the 2010s.
+Brasenose established the endowment [immediately](https://www.bnc.ox.ac.uk/downloads/news/Professor_Peter_SinclairBowersappreciation2020.pdf) after Professor Sinclair's death, naming it after him and his first wife, Shelagh Heffernan, whom I know much less about. She passed away in 2010; her life's work was as a professor of banking at City University in London. She did her MPhil and DPhil at Oxford{% sidenote "oneyeml" "Back when a 3-term, 9 month DPhil was possible. Jealous." %} and wrote various books on *Sovereign Risk Analysis* and *Modern Banking in Theory and Practice*. Sinclair himself [donated £25,000](https://governance.admin.ox.ac.uk/legislation/shelagh-heffernan-awards-fund) in her name to the University later in the 2010s.
 
-I never met Professors Heffernan nor Sinclair. Dozens of their loved ones have donated hundreds of thousands of pounds to support my studies and to pay my stipend. 
+I never met Professors Heffernan or Sinclair. Dozens of their loved ones have donated hundreds of thousands of pounds to support my studies and to pay my stipend, but the connection I feel with these two much-loved academics is degrees removed and elusive. I don't even work in the same field: their most cited papers, mostly on banking, are largely impenetrable to me. I was the inaugural recipient of this scholarship, but their legacy will fund students every two years, going forward. For two professors who touched [hundreds](https://intranet.birmingham.ac.uk/social-sciences/peter-sinclair.aspx) of [students](https://twitter.com/David_Cameron/status/1245352500477263873)' [lives](https://www.legacy.com/ca/obituaries/theglobeandmail/name/shelagh-heffernan-obituary?id=41541153), their memory will certainly remain a blessing.	
 
-I also don't work in the same field as either of them. Their most cited papers, mostly on banking, are largely impenetrable to me
-
-
+OK, onto schoolwork (which Professors Heffernan and Sinclair are actually expecting me to do). This term, I'm only taking one course, a mandatory methods course, meaning I'll take three in the spring term. I'm also auditing Noam Yuchtman's new course on political economy
 
 
 
@@ -37,6 +35,16 @@ I also don't work in the same field as either of them. Their most cited papers, 
 
 
 ## Reading
+
+*Good Omens*
+
+Elephants and Octopuses (The Lives of Animals re-read)
+
+Incest Diary
+
+Coup D'etat
+
+*Paradise from Hell*
 
 
 
