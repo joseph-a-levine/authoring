@@ -52,13 +52,16 @@ Humans do eat **primates**. It's now well-agreed that AIDS originated from bush 
 
 Humans do eat **elephants**. The elephant Orwell [shot](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/) was eaten: "Burmans were bringing dash and baskets even before I left, and I was told they had stripped his body almost to the bones by the afternoon." Eating elephants has never been common,{% sidenote "djjljdel-id" "Except for geologically brief eras during the human migration out of Africa, with various Proboscidea." %} and is becoming rarer, due to effective conservation among dwindling populations. 
 
+My elephant spree started with Caitrin Keiper's massive "[Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)" in The New Atlantis. Many of the epigraphs scattered throughout were drawn from Lyall Watson's *Elephantoms*. Watson was a South African zoologist; an excellent writer, but wholly too credible.{% sidenote "whbel-id" "The most fantastic moment in his book, which Keiper ended her essay with, was when 'the last remaining Knysna elephant' apparently has a conversation with a blue whale. I'm willing to accept nature is weird and animals are capable of much more than we imagine but the circumstances are much weirder than my short summary suggests and seriously come on dude." %} He is a great enough writer to make the book worth our time. 
+
 Humans do eat **octopuses**. They are the worst off. It has always been difficult to catch and preserve octopuses, but technology is [making life easier for us and harder for them](https://www.bbc.co.uk/news/science-environment-64814781).
 
-*Good Omens*
+### *Good Omens*
 
-Elephants and Octopuses (The Lives of Animals re-read)
+OK, something cheerier. Me and MWG read *Good Omens* to each other over the phone and voice messages, and I can confirm Neil Gaiman doesn't Do It For Me. 
 
-Incest Diary
+
+
 
 Coup D'etat
 
