@@ -71,6 +71,8 @@ Coup D'etat
 
 *I Just Can't Stop It*, The Beat, 1980
 
+*Take it Home*, B.B. King, 1979
+
 *Synthesized Sudan: Astro​-​Nubian Electronic Jaglara Dance Sounds from the Fashaga Underground*, Jantra, 2023
 
 *Bocelli*, Andrea Bocelli, 1995
