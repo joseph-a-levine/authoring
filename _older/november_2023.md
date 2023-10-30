@@ -39,6 +39,21 @@ OK, onto schoolwork (which Professors Heffernan and Sinclair are actually expect
 
 ## Reading
 
+### Should I care about the intelligence of the animals I eat
+
+> The question is not, Can they reason?, nor Can they talk? but, Can they suffer? 
+Jeremy Bentham, *Introduction to the Principles of Morals and Legislation*
+
+Not separate from suffering, but above it — is it worse to torture, kill, and eat an intelligent than unintelligent animal? Many of my friends are v*gan; have worked at organizations promoting [animal welfare](https://animalcharityevaluators.org/) or started [websites](https://www.animalwelfarelibrary.org/). I eat meat. I also read a lot about non-human animals and how our society interacts with them. This isn't about that, but rather about animals most of us don't — currently — eat.{% sidenote "doeat-id" "Of course, we do eat intelligent animals. Pigs  solve mazes, pass mirror tests, vocalize, engage in complex play. " %}
+
+Any list of the smartest animal would include great apes, elephants, some parrots, octopuses, maybe dolphins. This month, I read books about baboons, octopuses, and elephants.{% sidenote "banb-id" "The book about baboons — which are not great apes — was an accident, I read about octopuses largely for this purpose, and the essay and two books about elephants were prompted by MWG." %} I don't plan to change my eating habits because of these books — I wouldn't have eaten any of these species before, and still won't — but I did prod my intuition about how factors into my moral patience.
+
+Humans do eat **primates**. It's now well-agreed that AIDS originated from bush meat, almost certainly from a chimpanzee, hunted and consumed in the Congo, soon before 1921.{% sidenote "orig-id" "Jacques Pépin's *The Origins of AIDS* is the scientific and legible history. I read it in 2020 and have returned to certain chapters for various reasons. The final chapter, *Assembling the puzzle*, tells the full story clearly. " %} But it is becoming rarer, which I attribute to unavoidable  and logical anthropomorphization. 
+
+Humans do eat **elephants**. The elephant Orwell [shot](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/) was eaten: "Burmans were bringing dash and baskets even before I left, and I was told they had stripped his body almost to the bones by the afternoon." Eating elephants has never been common,{% sidenote "djjljdel-id" "Except for geologically brief eras during the human migration out of Africa, with various Proboscidea." %} and is becoming rarer, due to effective conservation among dwindling populations. 
+
+Humans do eat **octopuses**. They are the worst off. It has always been difficult to catch and preserve octopuses, but technology is [making life easier for us and harder for them](https://www.bbc.co.uk/news/science-environment-64814781).
+
 *Good Omens*
 
 Elephants and Octopuses (The Lives of Animals re-read)
