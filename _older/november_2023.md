@@ -40,9 +40,22 @@ The Gambian project is also beginning to speed up. Victor Pouliquen, who pulled 
 
 ## Reading
 
+### The Coup
+
+I read a lot of books about coups. My favorite book about history — have I written about this before? I don't recall — is *The Anatomy of a Moment* by Javier Cercas, levelly translated by Anne McLean. The 1981 Spanish attempted coup was the last serious coup in an EU/Western European country. {EDIT: Apparently [I have written](https://jablevine.com/older/july_2021) about this book before: "Cercas attempted to write a novel about the 1981 Spanish coup, but failed upwards into a brilliantly researched and written account of the crisis and its personalities." I stand by it.}
+
+I hadn't read the coup bible until this month — *Coup D'Etat: A Practical Handbook* by Edward Luttwak.{% sidenote "st-id" "I remember getting it out of the St Andrews library in 2015, but unlikely I actually read it at the time." %} I read the new edition, published in 2016, and wish I hadn't. Luttwak has lost the plot, as the kids say these days. He was the subject of my [favorite interview of 2022](https://www.tabletmag.com/sections/news/articles/three-blind-kings-edward-luttwak),{% sidenote "favr-id" "I made this claim in June, so really it's my favorite interview of the first half of 2022. I don't remember reading anything better tho. " %}{% sidenote "crimant-id" "EDIT: Oh yes I totally do, [this one](https://annehelen.substack.com/p/inside-the-mind-boggling-world-of)." %} the first two-thirds are extraordinary; the last third is straight up psychotic. I read [another interview](https://im1776.com/2023/10/04/edward-luttwak-interview/), from last month, and he seemed oddly excited for the next world war:
+
+> [T]his leaves us with our best ally, Vietnam. After a complicated history together, we now have a full-scale alliance with that country. They have a small, capable navy able to operate at sea, but the most important quality is their willingness to recruit themselves on land. 
+> 
+> Vietnam is adjacent to the Yunnan province, which is home to various minority groups like the Yi and Bai; it is mostly jungle with slums like downtown Beijing. The Vietnamese line is this: if you outnumber us at sea with your ships, we will cross the border and we will fight you. The Vietnamese are rather eager to fight the Chinese, and they are convinced that they will win. These are two important assets.  
+
+Anyway, I'm just being cranky — but the new *Coup D'Etat* reads as heavily editorialized. It's clear which sections were pulled from the original, and which were updated based upon recent events — events which always support a very specific geopolitical view. The update was necessary: the single most "practical" point for coup-leaders in the original edition was "Move into the city center, hold the Parliament building and the radio station.” 
+
 ### Should I care about the intelligence of the animals I eat
 
 > The question is not, Can they reason?, nor Can they talk? but, Can they suffer? 
+> 
 Jeremy Bentham, *Introduction to the Principles of Morals and Legislation*
 
 Not separate from suffering, but above it — is it worse to torture, kill, and eat an intelligent than unintelligent animal? Many of my friends are v*gan; have worked at organizations promoting [animal welfare](https://animalcharityevaluators.org/) or started [websites](https://www.animalwelfarelibrary.org/). I eat meat. I also read a lot about non-human animals and how our society interacts with them. This isn't about that, but rather about animals most of us don't — currently — eat.{% sidenote "doeat-id" "Of course, we do eat intelligent animals. Pigs  solve mazes, pass mirror tests, vocalize, engage in complex play. " %}
