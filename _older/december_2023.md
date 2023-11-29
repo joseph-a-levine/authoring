@@ -3,8 +3,7 @@ layout: page
 title: What am I up to now?
 ---
 
-## October, 2023
-
+## December, 2023
 
 
 ## Contents
@@ -18,12 +17,38 @@ title: What am I up to now?
   
 ## Updates 
 
+It doesn't snow in Oxford. I mean, I'm sure it does sometimes, I've seen the postcards, but this is my third winter here and I would be surprised.
+
+A high-pressure front
+
+Related to what [I wrote about last month](https://jablevine.com/older/november_2023#reading): my dad texted me last week, asking if I knew what was [going on in Sierra Leone](https://www.bbc.co.uk/news/world-africa-67558078). No, I don't, and any analysis will probably age badly.{% sidenote "afghnote-id" "Further reminding me of [this old post on Afghanistan](https://jablevine.com/older/september_2021) which aged not all." %} We never really got closure on [July coup plot](https://en.wikipedia.org/wiki/2023_Sierra_Leone_coup_plot);
+
+Zooming out, I'm skeptical of any insight I feel to have about this situation, and you should be too.{% sidenote "wagn-id" "To answer another question, I would be surprised if the Russians had anything to do with this. They wouldn't mind the chaos, of course, but it's out of Wagner's way, for a pretty minimal reward." %} [Timothy Garton Ash](https://www.nybooks.com/articles/1997/08/14/the-curse-and-blessing-of-south-africa/) provides a good metric for this sort of analysis:
+
+> If you want to judge anything written by a foreigner about a country, you need to know when the writer first went there. Was it in the bad old days? Or perhaps for him they were the good old days? Was it before the revolution, war, coup, occupation, liberation or whatever the local caesura is? Of course the writer’s own previous background and current politics are important too. But so often the first encounter is formative. Emotionally and implicitly, if not intellectually and explicitly, it remains the standard by which all subsequent developments are judged.
+
+I spent 13 months in Sierra Leone; my only interactions with the national government were at customs and army checkpoints. The Covid years, late 2020 into 2021, were when the  national government flexed its state capacity for the first time since the reconstruction period. The lockdowns and curfews were enforced by the army; Bio's motorcade reportedly doubled in length; vaccines were transported in armed convoys. None of this felt particularly authoritarian — Sierra Leone{% sidenote "greeber-id" "And the US." %} has put a lot of effort into having an effective military, it makes sense to rely on it. I didn't observe an election while I was there, but both the major parties — Bio's SLPP and the opposition APC — were everpresent on the streets of Freetown. The presidential election this past summer — reelecting Bio — was contested. I, again, have no particular insight into this but my instinct is that even if the election wasn't fair, it was probably free. 
+
+We have some other good elections coming up this year. The big one, of course, is the DRC general on 20 December. Last year, it looked like the opposition candidate — Martin Fayulu — had a chance to unseat President Tshisekedi, but the resurgent conflict in the Kivus makes me less optimistic. 
+
+
+
+
+
 
 
 
 
 
 ## Reading
+
+### Complaining about papers
+
+This is actually a re-hash of an [old complaint](https://jablevine.com/articles/23/ambulances-and-research), but it's a [new paper](https://web.stanford.edu/~chand04/papers/va_nonva_paper.pdf). David Chan, David Card, and Lowell Taylor (hence CCT) ask if there's a VA advantage — and find persistent benefits. HERE IS HWERE SIDENOTE SCHOOLS?
+
+I don't have much of a problem with this paper
+
+
 
 
 
