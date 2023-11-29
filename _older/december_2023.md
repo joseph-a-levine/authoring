@@ -35,7 +35,7 @@ I spent 13 months in Sierra Leone; my only interactions with the national govern
 
 We have some other good elections coming up this year. The big one, of course, is the DRC general on 20 December. Last year, it looked like the opposition candidate — Martin Fayulu — had a chance to unseat President Tshisekedi, but the resurgent conflict in the Kivus makes me less optimistic. 
 
-
+Also exciting is the 3 December Venezuelan referendum over Guayana Esequiba, the western two-thirds of neighboring Guyana.{% sidenote "sidenote-id" "Note this is not a *secession* referendum — it's the people of Venezuela voting about whether or not they respect the old treaties defining their eastern border. If they vote the way the questions are [leading them](https://en.wikipedia.org/wiki/2023_Venezuelan_referendum), then oops, I guess we're going to war to regain our old territory and oil." %} This is a clever but somewhat blatant oil-grab by Nicolás Maduro. Venezuela's military has been massing on their border with Guyana, and Brazil's military is making noise too, so we might see another slight scuffle while the superpower(s) are busy elsewhere.
 
 
 
