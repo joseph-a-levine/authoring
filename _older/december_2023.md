@@ -17,9 +17,13 @@ title: What am I up to now?
   
 ## Updates 
 
-It doesn't snow in Oxford. I mean, I'm sure it does sometimes, I've seen the postcards, but this is my third winter here and I would be surprised.
+It doesn't snow in Oxford. I mean, I'm sure it does sometimes, I've seen the postcards, but this is my third winter here and I don't expect to see any flurries. 
 
-A high-pressure front
+A high-pressure front arrived in Oxford the last week of November, clearing the skies and plunging the thermometers. To get below freezing in the Thames River Valley, you have to accept blue skies. This is a trade I'll accept, after a dreary and soaking Michaelmas term. A few Oxfordians missed the rain and rushing Thames, especially the blue heron who fishes on Isis weir each morning, but the town feels more cheerful in the seven hours of hoary sunlight we get each day. 
+
+The immediate benefits came for sports — the river level dropped enough for rowing to resume{% sidenote "isilev-id" "The Thames/Isis was too fast for rowing for most of the academic term. [This ](https://eodg.atm.ox.ac.uk/user/dudhia/rowing/river.html) might have been the most visited site in Oxford this month." %} and fields dried enough for soccer and baseball. The Oxford baseball team is undefeated, putting us on track for the national championships in Slough in March. 
+
+Academically, Michaelmas is wrapping up, and it was as boring as I expected. I've registered for my exams, which doesn't mean anything at all, it's barely a commitment at all. 
 
 Related to what [I wrote about last month](https://jablevine.com/older/november_2023#reading): my dad texted me last week, asking if I knew what was [going on in Sierra Leone](https://www.bbc.co.uk/news/world-africa-67558078). No, I don't, and any analysis will probably age badly.{% sidenote "afghnote-id" "Further reminding me of [this old post on Afghanistan](https://jablevine.com/older/september_2021) which aged not all." %} We never really got closure on [July coup plot](https://en.wikipedia.org/wiki/2023_Sierra_Leone_coup_plot);
 
@@ -82,13 +86,17 @@ Humans do eat **octopuses**. They are the worst off. It has always been difficul
 
 ## Music
 
-While I read a lot more when I don't have wifi, I listen to a lot less new music. The only shockingly good new thing I heard was Betty Benedeadly's "At the Institute of Mentalphysics." Weird and fun. 
+
 
 
 
 
 
 ## Previously
+
+*[November, 2023](https://jablevine.com/older/November_2023)*
+
+*[October, 2023](https://jablevine.com/older/October_2023)*
 
 *[September, 2023](https://jablevine.com/older/September_2023)*
 
