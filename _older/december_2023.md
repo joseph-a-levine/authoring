@@ -25,6 +25,10 @@ The immediate benefits came for sports — the river level dropped enough for ro
 
 Academically, Michaelmas is wrapping up, and it was as boring as I expected. I've registered for my exams, which doesn't mean anything at all, it's barely a commitment at all. 
 
+I'll be back in the US mid-December through mid-January. Definitely reach out if you'd like to meet up!
+
+## Reading
+
 Related to what [I wrote about last month](https://jablevine.com/older/november_2023#reading): my dad texted me last week, asking if I knew what was [going on in Sierra Leone](https://www.bbc.co.uk/news/world-africa-67558078). No, I don't, and any analysis will probably age badly.{% sidenote "afghnote-id" "Further reminding me of [this old post on Afghanistan](https://jablevine.com/older/september_2021) which aged not all." %} We never really got closure on [July coup plot](https://en.wikipedia.org/wiki/2023_Sierra_Leone_coup_plot);
 
 Zooming out, I'm skeptical of any insight I feel to have about this situation, and you should be too.{% sidenote "wagn-id" "To answer another question, I would be surprised if the Russians had anything to do with this. They wouldn't mind the chaos, of course, but it's out of Wagner's way, for a pretty minimal reward." %} [Timothy Garton Ash](https://www.nybooks.com/articles/1997/08/14/the-curse-and-blessing-of-south-africa/) provides a good metric for this sort of analysis:
@@ -40,11 +44,6 @@ Also exciting is the 3 December Venezuelan referendum over Guayana Esequiba, the
 
 
 
-
-
-
-
-## Reading
 
 ### Complaining about papers
 
