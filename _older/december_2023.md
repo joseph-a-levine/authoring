@@ -49,11 +49,30 @@ Also exciting is the 3 December Venezuelan referendum over Guayana Esequiba, the
 
 This is actually a re-hash of an [old complaint](https://jablevine.com/articles/23/ambulances-and-research), but it's a [new paper](https://web.stanford.edu/~chand04/papers/va_nonva_paper.pdf). David Chan, David Card, and Lowell Taylor (hence CCT) ask if there's a VA advantage — and find persistent benefits. HERE IS HWERE SIDENOTE SCHOOLS?
 
-I don't have much of a problem with this paper
+Last time I talked about this identification strategy, I focused on how patient preferences for certain hospitals messes up the exogenous assignment of healthcare to patients. I still think this is an issue,{% sidenote "sss-id" "But, as I wrote, an easily solvable one! Data on patient facility choice is available." %} but CCT deal specifically with VA/military hospitals — something else I have experience with. 
 
+When asked, I used to say that I grew up "outside of DC." I've stopped doing this because a surprising amount of people knows where Bethesda is, even in Oxford. If they do, it's often because of either NIH or Walter Reed (WRNMMC), the Naval medical center. Both of these facilities have their own emergency services. NIH has an ambulance and three fire trucks;{% sidenote "nihfire-id" "For the nerds: a 2019 Pierce center pivot, a 2003 Pierce rear pivot, and a 2005 Pierce custom HazMat. Their ambulance is a sick custom Freightliner with a full bio-hazard containment unit." %} Walter Reed has a paramedic ambulance and a couple of engines. While they're dedicated to the campuses they're based on, these units can and do respond to 911 calls in Bethesda. My fire station was right next to both campuses, and our response areas overlapped.{% sidenote "fdresc-id" "This often left us to respond to calls inside the campuses, if their ambulance was busy elsewhere. My very first call as an EMT was dispatched for NIH, for a scientist whose finger was bitten off by a monkey, offended at being used as a test subject. Since I left Bethesda, the NIH units have cut back on external calls, but the WRNMMC paramedic ambulance still sorties often." %} 
 
+Now, the WRNMMC ambulance isn't the only military-affiliated ambulance in the country which services both civilian and non-civilian populations. Some VA hospitals have ambulances which respond to 
+There's heterogeneity even within civilian ambulance services. My station developed a reputation at one nursing home for veterans — Knollwood, in NW DC — for always taking our patients their destination of choice (often WRNMMC), relative to other nearby stations.{% sidenote "absnin-id" "This would often lead to absurd situations, like nurses telling 911 not to bother upon hearing which ambulance was dispatched." %} 
 
+What this comes down is, there are *patient fundamentals* which affect their hospital assignment, beyond and separate from the ambulance fundamentals. With this in mind, let's see how CCT approach their identification:
 
+> We use the ambulance design proposed by Doyle et al. (2015) to study the causal effect of receiving emergency care at the VA versus a non-VA facility. Our approach compares veterans sharing key characteristics—zip code of residence, prior VA and non-VA health care utilization, and location of pickup (e.g., home residence, nursing home)—who receive the same dispatched level of ambulance service (i.e., advanced versus basic life support) from different ambulance companies. [...] Specifically, we study veterans who arrive at a hospital via a 911-dispatched ambulance, comparing veterans from the same zip code who could have been transported by different ambulance companies with different propensities to transport patients to a VA hospital. 
+
+Honestly, I think that the CCT paper is "right", in the important way; I even believe the Doyle strategy is useful in an important way. But this data-generating process is messier than the authors give it credit for. I wrote in my original blog post:
+
+> Joseph Doyle, at MIT, wrote the first paper to use the ambulance identification strategy I described above — if he wanted a ridealong with Boston EMS, we could have hooked him up! If Doyle had heard a grandmother arguing that she needs to go to Tufts and not BMC because her cardiologist is at Tufts, and if he had seen the look on the face of the paramedic who hadn’t slept since Wednesday, his identification strategy would have been strengthened. The paper would have survived learning about what it means for an ambulance to take a patient to a hospital. 
+
+I'll stand by that. To any academic working with ambulance data,{% sidenote "rid-id" "Or more realistically, their RA." %} [email me](https://jablevine.com/hi) and I'll find you an ambulance house near you to go see what it's like. Just buy the crew pizza at the end of the day.   
+
+### Weinersmith
+
+I'm usually pretty strict about only writing about books I've read here, but I'll break that rule here for Zach and Kelly Weinersmith's new book, *A City on Mars*. 
+
+A couple of years ago, my friend AC asked a great question, one I recommend asking to any reader in your life: if you could be the literary executor to any living writer, whom would you choose? My answer — Zach Weinersmith — surprised me. But I love it all. I love his [weird political manifesto](https://www.amazon.co.uk/Polystate-Thought-Experiment-Distributed-Government-ebook/dp/B00IM5EM7W). I love [his poetry](https://www.smbc-comics.com/covid/files/Mini-Sonnets-web-v2.pdf). I love his children's books.{% sidenote "ggdnk" "I just read [*Augie and the Green Knight*](https://www.amazon.co.uk/Augie-Green-Knight-Zach-Weinersmith/dp/0978501691) aloud and it was great! Weird and rough and beautiful." %} 
+
+Another book I haven't read yet is my good friend Savannah Mandel's upcoming [*Ground Control.*](https://www.amazon.com/Ground-Control-Argument-Human-Exploration/dp/1641609923) As these two end up in the same place (let's not go to space) for very different reasons, I think a joint book review could be a lot of fun. Ask me about that if you haven't heard anything in six months.
 
 ### Should I care about the intelligence of the animals I eat
 
