@@ -66,6 +66,13 @@ Honestly, I think that the CCT paper is "right", in the important way; I even be
 
 I'll stand by that. To any academic working with ambulance data,{% sidenote "rid-id" "Or more realistically, their RA." %} [email me](https://jablevine.com/hi) and I'll find you an ambulance house near you to go see what it's like. Just buy the crew pizza at the end of the day.   
 
+{% newthought "Another mini-complaint, not about a paper," %} but about the world, highlighted by a paper. Here's [an AER](https://www.aeaweb.org/articles?id=10.1257/aeri.20210422) from last year I recently discussed with CM; a [free version](https://akhandelwal8.github.io/files/aeri_NN/aeri_NN.pdf). I remember seeing an older version of this, and dismissing it, but CM talked me into reading it last week, and I'm upset that the world and CNNs are weirder than I thought. Night lights have been on their way out for a while;{% sidenote "nldea-id" "LH shared a good summary [here](https://twitter.com/yohaniddawela/status/1727595227987206428)." %} Khachiyan et al. isn't a dataset which you can download and start working with tomorrow, but it shows 
+The Khachiyan paper is a reminder of two things I particularly don't want to be reminded of. 
+
+First, we're a lot less subtle than we think we are.
+
+Second, with all of this information in front of us, we don't know what it means. If you showed me hundreds of low-resolution squares of America, and asked me to rate their wealth, I could come up with some 
+
 ### Weinersmith
 
 I'm usually pretty strict about only writing about books I've read here, but I'll break that rule here for Zach and Kelly Weinersmith's new book, *A City on Mars*. 
