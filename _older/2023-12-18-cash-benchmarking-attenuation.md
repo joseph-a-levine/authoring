@@ -50,4 +50,28 @@ We only have data from three studies of cost-equivalent cash benchmarking, and o
 
 In the previous post, I discussed the spectrum of cost-effectiveness — projects which are certainly more or less effective than cash, and the goldilocks zone of interestingness. These projects, the ones we’re not sure if they’re more or less effective than cash, and at what timescale, are the ones worth testing against cash. Even if the effects of both cash and the project it’s being compared to attenuate, the effects discussed above mean cash’s effects would fall faster, all else equal.
 
+# How to test this
+
+The relative performance of cash matters a lot, and we should learn more. After this first wave of cost-equivalent cash benchmarking experiments, the general takeaway from the development field is that “basically all of the programmes that USAID has compared to cash have ended up looking like cash outperforms those programmes on most metrics.” And luckily, this motivates more testing — USAID is working with GiveDirectly on thirteen new projects, and has announced that they’ll (separate from GiveDirectly) be benchmarking their next round of East African food security projects.
+
+We should wait before we declare the supremacy of cash — ideally, for research targeted to detect and define an attenuation effect.
+
+## Longer follow-ups
+
+Most obviously, following up on benchmarking projects five years, ten years after implementation will provide insight to attenuation. This is, generally, a difficult and unpopular sell. Academia moves fast — ten years is a long time to wait for a publication — and government budgets move even faster. 
+
+Long-term development studies are hopefully coming into their own. Egger et al. have ten-year results from their unconditional cash transfer program in Kenya. Julian Jamison at the Global Priorities Institute often talks about his plans for long-run RCTs. Victor Wang, also at GPI, used the Athey et al. (2016) surrogate method to forecast long-run effects of cash transfers. Follow-ups specifically on this first round of cost-equivalent cash benchmarking projects will hopefully follow soon.
+
+## Conditional cash transfers
+
+Development projects, like the ones USAID benchmarked against cash, often come with incentives, which are “free”, as in “costless”, to those running the programs. Those incentives (e.g., you must go to a thing, do a thing, talk to certain people) have effects, and those effects have value. But that value won’t be counted in cost-equivalent cash transfers. 
+
+One approach would be to put a value on these behaviors. For closer-to-true equivalency, conditioning cash transfers on the behaviors is simpler. Consider a treatment bundle where childhood nutrition materials are provided in-kind to new mothers after a class at the local medical facility. The marginal cost of another new mother attending that class is very low, and cost-equivalent cash transfers will probably underprovide relative to the value of that class. Randomizing cash against in-kind after class attendance is closer to what we care about. 
+
+## Greater focus on direct spillovers, especially informal transfers
+
+Economists discuss spillovers as the indirect effects of a policy. But cash transfers also have direct spillovers – recipients send the cash to non-recipients, share goods purchased with cash transfers, or reduce their own informal borrowing. Spillover effects from traditional projects will also have spillovers, but these will manifest at longer timescales: improved community resources or increased local employment opportunities. 
+
+Cash has its own GE effects, moving prices and wages for the treated and untreated. Assessing the direct spillovers, the spread of the immediate cash treatment, is more of an evaluation question than modeling the GE effects. 
+
 
