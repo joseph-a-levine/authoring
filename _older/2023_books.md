@@ -73,7 +73,13 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Incest Diary**, Anonymous
 
+**Rosencrantz & Guildenstern Are Dead**, Tom Stoppard
+
+**Arcadia**, Tom Stoppard
+
 **The Soul of an Octopus**, Sy Montgomery
+
+**John Prendergast**, Jane Bussman
 
 **The Politics of Reform in Ghana, 1982-1991**, Jeffrey Herbst
 
