@@ -9,10 +9,6 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ————————————————
 
-**Title**, author
-
-
-
 **The Yiddish Policeman's Union**, Michael Chabon
 
 **The Gadfly Papers**, Rev. Dr. Todd Eklof
