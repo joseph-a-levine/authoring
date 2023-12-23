@@ -1,3 +1,37 @@
+
+---
+layout: page
+title: What am I up to now?
+---
+
+## December, 2023
+
+
+## Contents
+1. [Updates](#updates)
+2. [Links](#links)
+3. [Reading](#reading)
+4. [Music](#music)
+5. [Previously](#previously)
+
+  <br>
+  
+  
+## Updates 
+
+Happy New Year! 2023 was much less busy than 2022, but still packed. 
+
+Also — I've added a links section below. 
+
+## Links
+
+
+## Reading
+
+Here is [the list of books I've read this year](https://jablevine.com/older/2023_books), and here's [last year's list](https://jablevine.com/older/2022_books). I have fewer 
+
+
+
 ### Should I care about the intelligence of the animals I eat
 
 > The question is not, Can they reason?, nor Can they talk? but, Can they suffer? 
@@ -15,3 +49,57 @@ Humans do eat **elephants**. The elephant Orwell [shot](https://www.orwellfounda
 My elephant spree started with Caitrin Keiper's massive "[Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)" in The New Atlantis. Many of the epigraphs scattered throughout were drawn from Lyall Watson's *Elephantoms*. Watson was a South African zoologist; an excellent writer, but wholly too credible.{% sidenote "whbel-id" "The most fantastic moment in his book, which Keiper ended her essay with, was when 'the last remaining Knysna elephant' apparently has a conversation with a blue whale. I'm willing to accept nature is weird and animals are capable of much more than we imagine but the circumstances are much weirder than my short summary suggests and seriously come on dude." %} He is a great enough writer to make the book worth our time. 
 
 Humans do eat **octopuses**. They are the worst off. It has always been difficult to catch and preserve octopuses, but technology is [making life easier for us and harder for them](https://www.bbc.co.uk/news/science-environment-64814781).
+
+
+
+
+
+
+
+## Previously
+
+*[December, 2023](https://jablevine.com/older/December_2023)*
+
+*[November, 2023](https://jablevine.com/older/November_2023)*
+
+*[October, 2023](https://jablevine.com/older/October_2023)*
+
+*[September, 2023](https://jablevine.com/older/September_2023)*
+
+*[August, 2023](https://jablevine.com/older/August_2023)*
+
+*[July, 2023](https://jablevine.com/older/July_2023)*
+
+*[June, 2023](https://jablevine.com/older/June_2023)*
+
+*[May, 2023](https://jablevine.com/older/May_2023)*
+
+*[April, 2023](https://jablevine.com/older/April_2023)*
+
+*[March, 2023](https://jablevine.com/older/march_2023)*
+
+*[February, 2023](https://jablevine.com/older/february_2023)*
+
+*[December, 2022](https://jablevine.com/older/december_2022)*
+
+*[November, 2022](https://jablevine.com/older/november_2022)*
+
+*[October, 2022](https://jablevine.com/older/october_2022)*
+
+*[September, 2022](https://jablevine.com/older/september_2022)*
+
+*[August, 2022](https://jablevine.com/older/august_2022)*
+
+...
+
+*[November, 2021](https://jablevine.com/older/november_2021)*
+
+*[October, 2021](https://jablevine.com/older/october_2021)*
+
+*[September, 2021](https://jablevine.com/older/september_2021)*
+
+*[July, 2021](https://jablevine.com/older/july_2021)*
+
+*[June, 2021](https://jablevine.com/older/june_2021)*
+
+*[May, 2021](https://jablevine.com/older/may_2021)*

@@ -25,13 +25,15 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Active Defense**, M. Taylor Fravel
 
+**How to Launch a High-Impact Nonprofit**, Joey Savoie, Patrick Stadler, & Antonia Shann 
+
 **The Shadow List**, Todd Moss 
 
 **Ghosts of Havana**, Todd Moss
 
 **Diplomatic Security**, ed. Eugene Cusumano & Christopher Kinsey
 
-**The Mission Song**, John Le Carré
+★ **The Mission Song**, John Le Carré 
 
 **Minute Zero**, Todd Moss
 
@@ -41,7 +43,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Teen Couple Have Fun Outdoors**, Aravind Jayan
 
-**A City on Mars**, Kelly Weinersmith & Zach Weinersmith
+★ **A City on Mars**, Kelly Weinersmith & Zach Weinersmith
 
 **The Little Flowers of St Francis**, St. Francis of Assisi, *Florilegium*
 
@@ -55,7 +57,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Soccer War**, Ryszard Kapuściński
 
-**The Sum of All Fears**, Tom Clancy
+★ **The Sum of All Fears**, Tom Clancy
 
 **The Origins of AIDS**, Jacques Pepin
 
@@ -65,7 +67,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Strategy of Antelopes**, Jean Hatzfeld
 
-**Africa's World War**, Gérard Prunier
+★★ **Africa's World War**, Gérard Prunier
 
 **Elephantoms**, Lyall Watson
 
@@ -79,15 +81,17 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **The Soul of an Octopus**, Sy Montgomery
 
-**John Prendergast**, Jane Bussman
+**The Worst Date Ever**, Jane Bussman
 
 **The Politics of Reform in Ghana, 1982-1991**, Jeffrey Herbst
 
 **Augie & the Green Knight**, Zach Weinersmith
 
+**The Jesuits**, Markus Friedrich
+
 **The Entrepreneurial State**, Mariana Mazzucato{% sidenote "mazmar-id" "Implausible and flawed; good to have to argue against." %}
 
-**A Paradise Built in Hell**, Rebecca Solnit 
+★ **A Paradise Built in Hell**, Rebecca Solnit 
 
 **Yellowface**, R.F. Kuang
 
@@ -101,7 +105,11 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Six: The Untold Story of America's First Women in Space**, Loren Grush
 
-**Till We Have Faces: A Myth Retold**, C.S. Lewis 
+**Last Letters from Hav**, Jan Morris
+
+**Hav of the Myrmidons**, Jan Morris
+
+★ **Till We Have Faces: A Myth Retold**, C.S. Lewis 
 
 **Good Omens**, Neil Gaiman and Terry Pratchett
 
@@ -113,7 +121,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Axiomatic**, Greg Egan 
 
-**Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity**, Katherine Boo
+★★ **Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity**, Katherine Boo
 
 **A Zoo in my Luggage**, Gerald Durrell
 
@@ -137,11 +145,17 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **On The Natural History of Destruction**, W.G. Sebald
 
-**The Shadow of the Sun**, Ryszard Kapuściński
+**HHhH**, Laurent Binet
+
+★ **The Shadow of the Sun**, Ryszard Kapuściński
 
 **The Hunters**, James Salter
 
+**The Lord of the Rings**, J.R.R. Tolkien
+
 **Burning the Days**, James Salter
+
+**Last Chance to See**, Douglas Adams & Mark Carwardine
 
 **Samuel Johnson is Indignant**, Lydia Davis
 
@@ -155,7 +169,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **One Giant Leap: The Impossible Mission that Flew Us to the Moon**, Charles Fishman
 
-**What Is a Dog?**, Raymond Coppinger & Lorna Coppinger
+★ **What Is a Dog?**, Raymond Coppinger & Lorna Coppinger
 
 **Stalingrad**, Antony Beevor
 
@@ -173,15 +187,15 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Disorientation**, Elaine Hsieh Chou
 
-**A New History of Greek Mathematics**, Reviel Netz
+★ **A New History of Greek Mathematics**, Reviel Netz
 
 **South Africa's Weapons of Mass Destruction**, Helen Purkitt & Stephen Franklin Burgess
 
-**Conundrum**, Jan Morris
+★ **Conundrum**, Jan Morris
 
 **Your Driver is Waiting**, Priya Guns
 
-**Oxford**, Jan Morris
+★ **Oxford**, Jan Morris
 
 **How to Live Safely in a Science Fiction Univerise**, Charles Yu
 
@@ -207,7 +221,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **South**, Ernest Shackleton
 
-**The Disappearance of Joseph Mengele**, Georgia de Guez
+★ **The Disappearance of Joseph Mengele**, Georgia de Guez
 
 **The Spy Who Came in from the Cold**, John Le Carré
 
@@ -215,84 +229,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **All Souls**, Javier Marías
 
-**Chip War: The Fight for the World's Most Critical Technology**, Chris Miller
-
-2023
-2022
-
-
-**Dialogues Concerning Vegatarianism**, Michael Huemer
-
-**The Joy of Vegan Baking: The Compassionate Cooks' Traditional Treats**, Colleen Patrick-Goudreau{% sidenote "jvbcctt" "This book is singlehandedly responsible for most of my new friends in 2022." %} 
-
-**Termination Shock**, Neal Stephenson
-
-**The Lowland**, Jhumpa Lahiri
-
-**Inter Ice Age 4**, Kobo Abe (trans. Dale E. Saunders)
-
-**Emily Dickinson's Poems: As She Preserved Them**, Emily Dickinson (collected by Cristanne Miller){% sidenote "edpaspt" "I tried ~five different collections. If you need to own one, I recommend this one." %} 
-
-**The Anomaly**, Hervé Le Tellier (trans. Adriana Hunter){% sidenote "tahlt" "Even more sad French people having sex with each other. Also, time travel assassins." %} 
-
-**Expert Political Judgement**, Phil Tetlock
-
-**The Goldfinch**, Donna Tartt
-
-**Stone Age Economics**, Marshall Sahlins
-
-**Right Ho, Jeeves**, P.G. Wodehouse ⟳
-
-**Beowulf**, unknown (trans. Maria Dahvana Headley)
-
-**The Foundation: How Private Wealth Is Changing the World**, Joel L. Fleishman
-
-**What We Owe the Future**, Will MacAskill
-
-**The Poems of Catullus**, Gaius Valerius Catullus (trans. Peter Green)
-
-**The Oxford Book of Essays**, collection by John Gross
-
-**Underground**, Haruki Murakami (trans. Alfred Birnbaum and Philip Gabriel){% sidenote "harmur" "Unable to finish a single Murakami novel, I tried his non-fiction. Stayed on my mind for weeks." %} 
-
-**King Kong Theory**, Virginie Despentes (trans. Stéphanie Benson){% sidenote "kktvd" "As good as Srinvasan; only misses a ★ for the lackluster translation (just guessing)." %} 
-
-**Job: A New Translation**, Unknown (trans. Edward L. Greenstein) ⟳
-
-**The Secret History**, Donna Tartt
-
-**War With the Newts**, Karel Čapek (trans. Ewald Osers){% sidenote "wwtnkar" "H/T Lizka" %} 
-
-★ **The Gulf War Did Not Take Place**, Jean Baudrillard (trans. )
-
-**What to Listen For in Music**, Aaron Copland
-
-**Book of Imaginary Beings**, Jorge Luis Borges and Margarita Guerrero
-
-**Every Cradle is a Grave**, Sarah Perry{% sidenote "eciags" "H/T Luis, I think" %} 
-
-**Israel and the Bomb**, Avner Cohen
-
-**A Swim in the Pond in the Rain**, collection and commentary by George Saunders
-
-★ **At the Heart of the White Rose**, Sophie Scholl and Hans Scholl (trans. and commentary by Inge Jens)
-
-**The Sexuality of Christ in Renaissance Art and in Modern Oblivion**, Leo Steinberg{% sidenote "tsocirnan" "Some books live up to their titles. Steinberg exceeded his. " %} 
-
-**Atomic Accidents: A History of Nuclear Meltdowns and Disasters**, James A. Mahaffey
-
-★ **The Hedonic Imperative**, David Pearce
-
-**In Praise of Shadows**, Jun'ichirō Tanizaki (trans. Thomas J. Harper)
-
-**Sum: Forty Tales from the Afterlives**, David Eagleman
-
-**Zero Fail: The Rise and Fall of the Secret Service**, Carol Leonnig
-
-**The Making of the Atomic Bomb**, Richard Rhodes
-
-**The Apollo Murders**, Chris Hadfield{% sidenote "tamch" "My favorite book by an astronaut. Not good." %} 
-
+★ **Chip War: The Fight for the World's Most Critical Technology**, Chris Miller
 
 
 
