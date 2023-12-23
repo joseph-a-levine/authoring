@@ -28,7 +28,7 @@ Also — I've added a links section below.
 
 ## Reading
 
-Here is [the list of books I've read this year](https://jablevine.com/older/2023_books), and here's [last year's list](https://jablevine.com/older/2022_books). I have fewer 
+Here is [the list of books I've read this year](https://jablevine.com/older/2023_books), and here's [last year's list](https://jablevine.com/older/2022_books). Last year, I read 30 books in translation; this year, it was six, and three of those were by Kapuściński. My ratio skewed more towards non-fiction this year, with a few  interesting intermediate (**HHhH**, **Behind the Beautiful Forevers**, **Incest Diary**, all of Kapuściński).
 
 
 
