@@ -5,7 +5,7 @@ title: Books I read in 2023
 
 This is a list of the books I read in 2023. ★ means I loved it.
 
-The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for four or ten months until the time was right. I read all but five of these books on my tablet.  
+The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for five or ten months until the time was right. I read all but five of these books on my tablet.  
 
 ————————————————
 
