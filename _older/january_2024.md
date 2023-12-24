@@ -31,7 +31,7 @@ Here is [the list of books I've read this year](https://jablevine.com/older/2023
 
 This list is shorter than last year's, for two reasons. First, I had less time.
 
-Second, there was a prolific debate this year about reading, kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
+Second, there was a prolific debate this year about why we read, what counts as reading, and how to read well. This was kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
 
 > I’m not sure what to say. I’ve read a book a week for my entire adult life and have written three of my own.
 > 
@@ -41,9 +41,11 @@ Everyone else has had an attempt at psychoanalyzing Sam over the past year; I'll
 
 Richard Hanania riffed on SBF — his [contribution](https://www.richardhanania.com/p/the-case-against-most-books) to the debate — "The Case Against (Most) Books" — attacks popular non-fiction{% sidenote "hoel-id" "Eric Hoel, whose second non-fiction books is coming out this year, has another good [article](https://www.theseedsofscience.pub/p/why-do-most-popular-science-books) in this genre." %} and the classics. 
 
-I'm actually not going to defend against these attacks; that's The Atlantic's [job](https://www.theatlantic.com/ideas/archive/2023/01/kanye-west-sam-bankman-fried-books-reading/672823/). I'll even agree that popular non-fiction can stay on the shelf forever. But I think my reading habit is closer to a TikTok addiction than a sign of high conscientiousness, intelligence, or any other [high status thing](https://arjunpanickssery.substack.com/i/135613869/reading-books-is-incredibly-high-status). Reading books is my default activity, the first thing I do when I have *nothing* else to do; my sister goes on a run; my girlfriend downloads more law journal articles; my mom gardens; one friend in my PhD does gig data science tasks.{% sidenote "sadatsc-id" "He gets paid, a pittance, but says it's mostly a way to 'relax.'" %}
+I'm actually not going to defend against these attacks; that's The Atlantic's [job](https://www.theatlantic.com/ideas/archive/2023/01/kanye-west-sam-bankman-fried-books-reading/672823/). I'll even agree that popular non-fiction can stay on the shelf forever. But I think my reading habit is closer to a TikTok addiction than a sign of high conscientiousness, intelligence, or any other [high status thing](https://arjunpanickssery.substack.com/i/135613869/reading-books-is-incredibly-high-status). Reading books is my default activity, the first thing I do when I have *nothing* else to do; my sister goes on a run; my girlfriend downloads more law journal articles; my mom gardens; one friend in my PhD does gig data science tasks.{% sidenote "sadatsc-id" "He gets paid, a pittance, but says it's mostly a way to 'relax.'" %} I don't think my reading habit is defensible because it [funges](https://slatestarcodex.com/2013/03/28/thank-you-for-doing-something-ambiguously-between-smoking-and-not-smoking/) against other things I'd like to be doing.{% sidenote "funge-id" "Including, sometimes, the things other people do without trying, like exercising, gardening, or writing." %}
 
 The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this blog was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard 
+
+There is one way I am *extremely* annoying about books: gifts. If you've gotten me a book as a gift,{% sidenote "bsw-id" "This only applies to non-*Star Wars* books, but as I haven't gotten one of those as a gift since 2012, it applies to all books I've received as a gift since 2012." %} I have almost certainly not read it. There is one well-publicized exception, which is my [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0?ref_=wl_share). If you buy me a book off this list, it is close to certain I will read it. One reason for this is I also have a need to read a book immediately.
 
 
 
