@@ -29,9 +29,15 @@ Also — I've added a links section below.
 
 Here is [the list of books I've read this year](https://jablevine.com/older/2023_books), and here's [last year's list](https://jablevine.com/older/2022_books). Last year, I read 30 books in translation; this year, it was six, and three of those were by Kapuściński. My ratio skewed more towards non-fiction this year, with a few  interesting intermediate (**HHhH**, **Behind the Beautiful Forevers**, **Incest Diary**, all of Kapuściński).
 
-This list is shorter than last year's, for two reasons. First, I had less time.
+This list is shorter than last year's, for two reasons. First, I had less time. 
 
-Second, there was a prolific debate this year about why we read, what counts as reading, and how to read well. This was kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
+Second, there was a prolific debate this year about why we read, what counts as reading, and how to read well. An often-cited concept in my circle is Holden Karnofsky's "[Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/)." Karnofsky claims what we call "reading" is inefficient and inaccurate,{% sidenote "tab-id" "The first table in that link." %} and advocates for a more roundabout path to gleaning knowledge from books.{% sidenote "abl" "The second table." %} His (implied) preferred efficient method of getting knowledge from/of a book "in areas one isn't an expert in" is: 
+
+> Read reviews/discussions of the book; locate the parts of the book they’re referencing, and read those parts carefully, independently checking footnotes, and referring back to other parts of the book for any unfamiliar terms. Write down who I think is being more fair; lay out the exact quotes that give the best evidence that my judgment is right. (But never read the whole book)	
+
+This is defensible — and [other people](https://arjunpanickssery.substack.com/i/135613869/most-people-remember-roughly-nothing-that-they-read){% sidenote "scsta-id" "Tho I think [Tanner Greer](https://scholars-stage.blogspot.com/2015/02/the-education-of-american-strategist.html) is a better citation for the claim at that link than Karnofsky." %} have found it useful. My main problem is that this strategy is often not possible. Finding reviews and (importantly) author replies for most books is very difficult! Here are three books ([one](https://www.amazon.com/-/he/Suzanne-Levi-Sanchez/dp/0815356218), [two](https://www.amazon.com/Legislative-Development-Africa-Politics-Postcolonial/dp/110849210X), [three](https://www.amazon.com/Active-Defense-Military-Princeton-International/dp/0691152136)) which I would like to understand deeply, and I'm willing to put Karnofsky's suggested 16 hours into each. But there is not a rigorous debate on these these books; I could find a single academic reviews of two, but no author replies. Often, a book is the last word on itself.
+
+This year's reading discourse was kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
 
 > I’m not sure what to say. I’ve read a book a week for my entire adult life and have written three of my own.
 > 
@@ -43,11 +49,9 @@ Richard Hanania riffed on SBF — his [contribution](https://www.richardhanania.
 
 I'm actually not going to defend against these attacks; that's The Atlantic's [job](https://www.theatlantic.com/ideas/archive/2023/01/kanye-west-sam-bankman-fried-books-reading/672823/). I'll even agree that popular non-fiction can stay on the shelf forever. But I think my reading habit is closer to a TikTok addiction than a sign of high conscientiousness, intelligence, or any other [high status thing](https://arjunpanickssery.substack.com/i/135613869/reading-books-is-incredibly-high-status). Reading books is my default activity, the first thing I do when I have *nothing* else to do; my sister goes on a run; my girlfriend downloads more law journal articles; my mom gardens; one friend in my PhD does gig data science tasks.{% sidenote "sadatsc-id" "He gets paid, a pittance, but says it's mostly a way to 'relax.'" %} I don't think my reading habit is defensible because it [funges](https://slatestarcodex.com/2013/03/28/thank-you-for-doing-something-ambiguously-between-smoking-and-not-smoking/) against other things I'd like to be doing.{% sidenote "funge-id" "Including, sometimes, the things other people do without trying, like exercising, gardening, or [writing](https://slatestarcodex.com/2016/02/20/writing-advice/)." %}
 
+There is one way I am *extremely* annoying about books: gifts. If you've gotten me a book as a gift,{% sidenote "bsw-id" "This only applies to non-*Star Wars* books, but as I haven't gotten one of those as a gift since 2012, it applies to all books I've received as a gift since 2012." %} I have almost certainly not read it. There is one well-publicized exception, which is my [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0?ref_=wl_share). If you buy me a book off this list, it is close to certain I will read it. 
+
 The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this blog was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard 
-
-There is one way I am *extremely* annoying about books: gifts. If you've gotten me a book as a gift,{% sidenote "bsw-id" "This only applies to non-*Star Wars* books, but as I haven't gotten one of those as a gift since 2012, it applies to all books I've received as a gift since 2012." %} I have almost certainly not read it. There is one well-publicized exception, which is my [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0?ref_=wl_share). If you buy me a book off this list, it is close to certain I will read it. One reason for this is I also have a need to read a book immediately.
-
-
 
 ### Should I care about the intelligence of the animals I eat
 
