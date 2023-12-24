@@ -30,6 +30,22 @@ Also — I've added a links section below.
 
 Here is [the list of books I've read this year](https://jablevine.com/older/2023_books), and here's [last year's list](https://jablevine.com/older/2022_books). Last year, I read 30 books in translation; this year, it was six, and three of those were by Kapuściński. My ratio skewed more towards non-fiction this year, with a few  interesting intermediate (**HHhH**, **Behind the Beautiful Forevers**, **Incest Diary**, all of Kapuściński).
 
+This list is shorter than last year's, for two reasons. First, I had less time.
+
+Second, there was a prolific debate this year about reading, kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
+
+> I’m not sure what to say. I’ve read a book a week for my entire adult life and have written three of my own.
+> 
+> “I’m very skeptical of books. I don’t want to say no book is ever worth reading, but I actually do believe something pretty close to that,” explains SBF. “I think, if you wrote a book, you fucked up, and it should have been a six-paragraph blog post.”
+
+Everyone else has had an attempt at psychoanalyzing Sam over the past year; I'll have my go on this quote. Our culture attributes great status to people who write books; book authors get a lot of respect from other high-status people, in a way that bloggers, tweeters, long-form journalists don't. But a book is a 5-10 hour imposition on someone's time, and by reading a book, you're putting yourself and your attention into the author's hands for that time. SBF saw his own time as too valuable for anything like that.{% sidenote "blvg-id" "Cf. videogames on Bloomberg." %} He was an extreme: I've met CEOs and heads of state — people much busier than SBF was — who read much more widely than I do. It often comes from a place of humility.{% sidenote "pribo-id" "I don't know how prison works — if he has access to six-paragraph blog posts— and this is not meant as a gotcha but I am curious to know if he is reading books now." %}
+
+Richard Hanania riffed on SBF — his [contribution](https://www.richardhanania.com/p/the-case-against-most-books) to the debate — "The Case Against (Most) Books" — attacks popular non-fiction{% sidenote "hoel-id" "Eric Hoel, whose second non-fiction books is coming out this year, has another good [article](https://www.theseedsofscience.pub/p/why-do-most-popular-science-books) in this genre." %} and the classics. 
+
+I'm actually not going to defend against these attacks; that's The Atlantic's [job](https://www.theatlantic.com/ideas/archive/2023/01/kanye-west-sam-bankman-fried-books-reading/672823/). I'll even agree that popular non-fiction can stay on the shelf forever. But I think my reading habit is closer to a TikTok addiction than a sign of high conscientiousness, intelligence, or any other [high status thing](https://arjunpanickssery.substack.com/i/135613869/reading-books-is-incredibly-high-status). Reading books is my default activity, the first thing I do when I have *nothing* else to do; my sister goes on a run; my girlfriend downloads more law journal articles; my mom gardens; one friend in my PhD does gig data science tasks.{% sidenote "sadatsc-id" "He gets paid, a pittance, but says it's mostly a way to 'relax.'" %}
+
+The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this blog was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard 
+
 
 
 ### Should I care about the intelligence of the animals I eat
