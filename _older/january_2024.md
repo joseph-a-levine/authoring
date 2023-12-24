@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: What am I up to now?
