@@ -49,23 +49,12 @@ https://twitter.com/YoshidaArtBot/status/1720863235308433642
 
 By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had come to power and would have guillotined Genêt if he came back. Hamilton got him asylum. He married the daughter of the governor of New York, and lived the rest of his life outside Albany.
 
-{% newthought "While in the US for the holidays, I was thinking of" %} going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's service to the Union:
+{% newthought "While in the US for the holidays, I was thinking of" %} going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's Service to the Union:
 
 {% maincolumn "assets/img/bragg.png" "" %}
 
 
 
-
-i was thinking of going down to fort bragg to visit some friends over hte break and learned it was renamed to fort liberty because mr bragg was a confederate general
-https://en.wikipedia.org/wiki/Fort_Liberty#Name_change_to_Fort_Liberty
-
-and of course "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president"
-
-and obviosly yes, let's not name things after confdederate generals, let's name things after amorphous, positively-valenced concepts, i fully support this
-
-but i was wondering if mr bragg has _anything_ going for him, why pence and desantis have chose this hill to die on. and. [no](https://en.wikipedia.org/wiki/Braxton_Bragg):
-
-> Bragg is generally considered among the worst generals of the Civil War. Most of the battles he engaged in ended in defeat. Bragg was extremely unpopular with both the officers and ordinary men under his command, who criticized him for numerous perceived faults, including poor battlefield strategy, a quick temper, and overzealous discipline. Bragg has a generally poor reputation with historians, though some point towards the failures of Bragg's subordinates, especially Major General and former Bishop Leonidas Polk—a close ally of Davis and known enemy of Bragg—as more significant factors in the many Confederate defeats under Bragg's command. The losses suffered by Bragg's forces are cited as highly consequential to the ultimate defeat of the Confederacy.
 
 [[USAID]] hired [[NASA]]'s previous head of contracts. [write up](https://unlockaid.substack.com/p/welcoming-a-new-hire-from-nasa). optimistic stuff. could bring in strong py for perfomrnce stuff
 
