@@ -36,17 +36,23 @@ Anders Sandberg factchecked:
 
 > The names do not match Humboldt’s journals, and the story seems to appear some 60 years after the expedition. The Maipure language is indeed extinct, but was a lingua franca language along the upper Orinoco rather than local. However, Humboldt does mention a story relating to the Ature tribe{% sidenote "a-id" "Sandberg isn't quite right here — that Ature didn't go extinct, but became known by other names, the Piaroa or Adole. The language also survived in human speakers, under these names." %} that went extinct in the mid1700s and that an old parrot that might have spoken their language was shown in Maypures — but it is unclear if he actually saw it and there is no evidence he recorded any words.
 
-This is a good enough story to include anyway.
-
 {% newthought "A long, funny [story](https://ofgeography.tumblr.com/post/735900283288387584/so-at-the-time-i-was-traveling-a-lot-for-work) about BTS in the" %} airport in Santiago, Chile.
 
-An amazing story about the k-pop band BTS located [here](https://etirabys.tumblr.com/post/735990256985423872/i-blinked-at-molly-plus-your-username-and#notes) 
+
 
 I think [woodcuts](https://twitter.com/FedeItaliano76/status/1733175137917108413/photo/1) might be my favorite visuaal art
 ![[Pasted image 20231209103125.png]]
 https://twitter.com/YoshidaArtBot/status/1720863235308433642
 
-[Edmond-Charles Genêt](https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt#Citizen_Gen%C3%AAt_affair), what a dude. french foreign officer in [[Russia]] during the [[French revolution]], then ambassador to the US [[diplomacy]] but never made it to the capital, just hung out in North Carolina recruiting privateers against the british. Delightfully named boats the Republicaine, the Anti-George, the Sans-Culotte, and the Citizen Genêt (after himself). Then a new revolutionary group came to power and he knew he'd get the guillotine so he stayed in the US for the rest of his life.
+
+{% newthought "[Edmond-Charles Genêt](https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt) was Louis XI's" %} ambassador to Russia when the French Revolution hit, was personally evicted from St. Petersburg by Catherin the Great{% sidenote "ctgr-id" "'not only superfluous but even intolerable'" %} in 1792, and was then immediately appointed French ambassador to the US by the Girondins.{% sidenote "t-dd" "In high school, I was fascinated by Tallyerand's ability to surf the tides of French politics. Now, I'm convinced that the foreign policy institutions were more robust to revolution." %} He took a ship directly to Charleston, South Carolina, where he hung out for two years recruiting American privateers against the British (including one ship named after himself, the *Citzen Genêt*). This pissed off Alexander Hamilton and Thomas Jefferson, who, working together, got the French government to recall Genêt. 
+
+By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had come to power and would have guillotined Genêt if he came back. Hamilton got him asylum. He married the daughter of the governor of New York, and lived the rest of his life outside Albany.
+
+{% newthought "While in the US for the holidays, I was thinking of" %} going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's service to the Union:
+
+{% maincolumn "assets/img/bragg.png" "" %}
+
 
 
 
