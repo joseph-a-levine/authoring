@@ -20,10 +20,67 @@ title: What am I up to now?
 
 Happy New Year! 2023 was much less busy than 2022, but still packed. 
 
-Also — I've added a links section below. 
+Also — I've added a links section below. These are various interesting or fun things I've found on the internet this month.
 
 ## Links
 
+
+{% newthought "''[Palazzo Corpi](https://tr.usembassy.gov/embassy-consulates/istanbul/history/)" %} thereby acquired the unique distinction of being the first and only U.S. diplomatic premises to be won in a poker game."
+
+
+https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni
+This is a) a great name for a unviersity and b) wow kind of like mid-century national liberation who's who
+
+Also read about [[Zhang Xianzhong]]. He was a 17th century Chinese general, rebel and [[genocide]]. Led a peasant rebellion. Killed *everyone* in [[Sichuan]]. 
+
+> The last Ming census figure for Sichuan in 1578 (more than 60 years before Zhang entered Sichuan) gave a population of 3,102,073. However, by 1661 (55), only 16,096 adult males were registered in Sichuan, and Chengdu was said to have become a virtual ghost town frequented by tigers.
+
+
+A footnote from [[Anders Sandberg]] [[Grand Futures (Manuscript)]], on [[language]] and parrots
+
+> There is also the poignant legend about Alexander von Humboldt’s parrot. As is commonly recounted, during his 1800 expedition to map the Orinoco river he encountered pet parrots among the local Carib tribe that spoke a different language than their hosts. Inquiring, he found that they were spoils of war from the Maypure, a neighbouring tribe that had recently been defeated and exterminated. The parrots were the only living speakers of the language left. Humboldt recorded some 40 words from this language, and this is the only remnant that exist: the sounds of the words, not their meaning. The language was later “recreated” by Rachel Betwick as an art installation by teaching the words to parrots again (http://www.rachelberwick.com/Maypore. php). In this case there is some cultural continuity — some of the language sounds persist — yet all meaning has been shorn from the words and it is only spoken by parrots. 
+> Like all great stories the truth of this legend is doubtful. The names do not match Humboldt’s journals, and the story seems to appear some 60 years after the expedition. The Maipure language is indeed extinct, but was a lingua franca language along the upper Orinoco rather than local. However, Humboldt does mention a story relating to the Ature tribe that went extinct in the mid1700s and that an old parrot that might have spoken their language was shown in Maypures — but it is unclear if he actually saw it and there is no evidence he recorded any words [2624][[vol 5, p. 620] (http://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). 
+> This meta-story is also a good illustration of how easily historical information can be lost or distorted even when there is no intervening language death and a mere two and a half centuries of distance
+
+
+
+An amazing story about the k-pop band BTS located [here](https://etirabys.tumblr.com/post/735990256985423872/i-blinked-at-molly-plus-your-username-and#notes) 
+
+I think [woodcuts](https://twitter.com/FedeItaliano76/status/1733175137917108413/photo/1) might be my favorite visuaal art
+![[Pasted image 20231209103125.png]]
+https://twitter.com/YoshidaArtBot/status/1720863235308433642
+
+[Edmond-Charles Genêt](https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt#Citizen_Gen%C3%AAt_affair), what a dude. french foreign officer in [[Russia]] during the [[French revolution]], then ambassador to the US [[diplomacy]] but never made it to the capital, just hung out in North Carolina recruiting privateers against the british. Delightfully named boats the Republicaine, the Anti-George, the Sans-Culotte, and the Citizen Genêt (after himself). Then a new revolutionary group came to power and he knew he'd get the guillotine so he stayed in the US for the rest of his life.
+
+
+
+i was thinking of going down to fort bragg to visit some friends over hte break and learned it was renamed to fort liberty because mr bragg was a confederate general
+https://en.wikipedia.org/wiki/Fort_Liberty#Name_change_to_Fort_Liberty
+
+and of course "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president"
+
+and obviosly yes, let's not name things after confdederate generals, let's name things after amorphous, positively-valenced concepts, i fully support this
+
+but i was wondering if mr bragg has _anything_ going for him, why pence and desantis have chose this hill to die on. and. [no](https://en.wikipedia.org/wiki/Braxton_Bragg):
+
+> Bragg is generally considered among the worst generals of the Civil War. Most of the battles he engaged in ended in defeat. Bragg was extremely unpopular with both the officers and ordinary men under his command, who criticized him for numerous perceived faults, including poor battlefield strategy, a quick temper, and overzealous discipline. Bragg has a generally poor reputation with historians, though some point towards the failures of Bragg's subordinates, especially Major General and former Bishop Leonidas Polk—a close ally of Davis and known enemy of Bragg—as more significant factors in the many Confederate defeats under Bragg's command. The losses suffered by Bragg's forces are cited as highly consequential to the ultimate defeat of the Confederacy.
+
+[[USAID]] hired [[NASA]]'s previous head of contracts. [write up](https://unlockaid.substack.com/p/welcoming-a-new-hire-from-nasa). optimistic stuff. could bring in strong py for perfomrnce stuff
+
+
+https://www.ca5.uscourts.gov/opinions/pub/22/22-30686-CV0.pdf
+
+I know you just finished exams and probably don't want to do law stuff but can you explain what happened here? my understanding is Landor can't get any damages because the warden and officers were acting in "individual capacities" which doesn't fit my understanding of the phrase (they were on the clock? in uniform?). 
+
+Bigger question, is there, then, no protection here? if he can't get damages, etc, is he just unprotected by religion stuff? can corrections officers knock kippahs off, pull off dastars, etc, even if a court rules that they are religiously exempt
+
+Smller question: don't you think these judges were pissed that the officers threw their literal jdugement in the literal trash?
+
+According to sam, this was jsut a judgemnt under RLUIPA, not [1983](https://en.wikipedia.org/wiki/Ku_Klux_Klan_Act). He'll probably do alrightunder 1983
+
+>Acting preemptively, Landor explained that he was a practicing Rastafarian and provided proof of past religious accommodations. And, amazingly, Landor also handed the guard a copy of our decision in Ware v. Louisiana Department of Corrections, 866 F.3d 263 (5th Cir. 2017), which held that Louisiana’s policy of cutting the hair of Rastafarians violated RLUIPA. Unmoved by our caselaw, the guard threw Landor’s papers in the trash and summoned RLCC’s warden, Marcus Myers. When Myers arrived, he demanded Landor hand over documentation from his sentencing judge that corroborated his religious beliefs. When Landor couldn’t instantly meet that demand, two guards carried him into another room, handcuffed him to a chair, held him down, and shaved his head.
+
+>We *emphatically* condemn the treatment that Landor endured. Still, we remain bound by our prior decision in Sossamon I that, under RLUIPA, he cannot seek money damages from officials in their individual capacities. In re Bonvillian, 19 F.4th at 792 (the rule of orderliness). Because the district court correctly held so, we AFFIRM.
 
 ## Reading
 
