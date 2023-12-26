@@ -51,6 +51,8 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 
 {% newthought "While in the US for the holidays, I was thinking of" %} going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's Service to the Union:
 
+<br>
+
 {% maincolumn "assets/img/bragg.png" "" %}
 
 
