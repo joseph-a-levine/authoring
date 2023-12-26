@@ -25,24 +25,20 @@ Also — I've added a links section below. These are various interesting or fun 
 ## Links
 
 
-{% newthought "''[Palazzo Corpi](https://tr.usembassy.gov/embassy-consulates/istanbul/history/)" %} thereby acquired the unique distinction of being the first and only U.S. diplomatic premises to be won in a poker game."
+{% newthought "''[Palazzo Corpi](https://tr.usembassy.gov/embassy-consulates/istanbul/history/) thereby acquired" %} the unique distinction of being the first and only U.S. diplomatic premises to be won in a poker game."
 
 
-https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni
-This is a) a great name for a unviersity and b) wow kind of like mid-century national liberation who's who
+{% newthought "The Communist University of the Toilers of the East is" %}, first, a great name for a university, and second, [graduated](https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni) a *shocking * number of mid-20th century revolutionaries who created chaos in Mexico, India, Syria, Thailand, and further afield.
 
-Also read about [[Zhang Xianzhong]]. He was a 17th century Chinese general, rebel and [[genocide]]. Led a peasant rebellion. Killed *everyone* in [[Sichuan]]. 
+{% newthought "The ( somewhat apocryphal) story of Alexander von Humboldt's" %} [parrot](https://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). As normally told, while on the Orinoco River{% sidenote "ene" "Somewhere in modern-day Venezuela." %} in the early 19th century, the German naturalist encountered parrots kept by one tribe, which had captured them from another tribe they had recently massacred. These parrots were the only reservoir of the Maypure language. This version of the legend was made famous by Darwin, but the truth is a bit more complicated. 
 
-> The last Ming census figure for Sichuan in 1578 (more than 60 years before Zhang entered Sichuan) gave a population of 3,102,073. However, by 1661 (55), only 16,096 adult males were registered in Sichuan, and Chengdu was said to have become a virtual ghost town frequented by tigers.
+Anders Sandberg factchecked: 
 
+> The names do not match Humboldt’s journals, and the story seems to appear some 60 years after the expedition. The Maipure language is indeed extinct, but was a lingua franca language along the upper Orinoco rather than local. However, Humboldt does mention a story relating to the Ature tribe{% sidenote "a-id" "Sandberg isn't quite right here — that Ature didn't go extinct, but became known by other names, the Piaroa or Adole. The language also survived in human speakers, under these names." %} that went extinct in the mid1700s and that an old parrot that might have spoken their language was shown in Maypures — but it is unclear if he actually saw it and there is no evidence he recorded any words.
 
-A footnote from [[Anders Sandberg]] [[Grand Futures (Manuscript)]], on [[language]] and parrots
+This is a good enough story to include anyway.
 
-> There is also the poignant legend about Alexander von Humboldt’s parrot. As is commonly recounted, during his 1800 expedition to map the Orinoco river he encountered pet parrots among the local Carib tribe that spoke a different language than their hosts. Inquiring, he found that they were spoils of war from the Maypure, a neighbouring tribe that had recently been defeated and exterminated. The parrots were the only living speakers of the language left. Humboldt recorded some 40 words from this language, and this is the only remnant that exist: the sounds of the words, not their meaning. The language was later “recreated” by Rachel Betwick as an art installation by teaching the words to parrots again (http://www.rachelberwick.com/Maypore. php). In this case there is some cultural continuity — some of the language sounds persist — yet all meaning has been shorn from the words and it is only spoken by parrots. 
-> Like all great stories the truth of this legend is doubtful. The names do not match Humboldt’s journals, and the story seems to appear some 60 years after the expedition. The Maipure language is indeed extinct, but was a lingua franca language along the upper Orinoco rather than local. However, Humboldt does mention a story relating to the Ature tribe that went extinct in the mid1700s and that an old parrot that might have spoken their language was shown in Maypures — but it is unclear if he actually saw it and there is no evidence he recorded any words [2624][[vol 5, p. 620] (http://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). 
-> This meta-story is also a good illustration of how easily historical information can be lost or distorted even when there is no intervening language death and a mere two and a half centuries of distance
-
-
+{% newthought "A long, funny [story](https://ofgeography.tumblr.com/post/735900283288387584/so-at-the-time-i-was-traveling-a-lot-for-work) about BTS in the" %} airport in Santiago, Chile.
 
 An amazing story about the k-pop band BTS located [here](https://etirabys.tumblr.com/post/735990256985423872/i-blinked-at-molly-plus-your-username-and#notes) 
 
@@ -81,6 +77,12 @@ According to sam, this was jsut a judgemnt under RLUIPA, not [1983](https://en.w
 >Acting preemptively, Landor explained that he was a practicing Rastafarian and provided proof of past religious accommodations. And, amazingly, Landor also handed the guard a copy of our decision in Ware v. Louisiana Department of Corrections, 866 F.3d 263 (5th Cir. 2017), which held that Louisiana’s policy of cutting the hair of Rastafarians violated RLUIPA. Unmoved by our caselaw, the guard threw Landor’s papers in the trash and summoned RLCC’s warden, Marcus Myers. When Myers arrived, he demanded Landor hand over documentation from his sentencing judge that corroborated his religious beliefs. When Landor couldn’t instantly meet that demand, two guards carried him into another room, handcuffed him to a chair, held him down, and shaved his head.
 
 >We *emphatically* condemn the treatment that Landor endured. Still, we remain bound by our prior decision in Sossamon I that, under RLUIPA, he cannot seek money damages from officials in their individual capacities. In re Bonvillian, 19 F.4th at 792 (the rule of orderliness). Because the district court correctly held so, we AFFIRM.
+
+
+{% newthought "Zhan Xianzhong" %}
+Also read about [[Zhang Xianzhong]]. He was a 17th century Chinese general, rebel and [[genocide]]. Led a peasant rebellion. Killed *everyone* in [[Sichuan]]. 
+
+> The last Ming census figure for Sichuan in 1578 (more than 60 years before Zhang entered Sichuan) gave a population of 3,102,073. However, by 1661 (55), only 16,096 adult males were registered in Sichuan, and Chengdu was said to have become a virtual ghost town frequented by tigers.
 
 ## Reading
 
