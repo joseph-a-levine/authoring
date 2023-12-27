@@ -38,10 +38,10 @@ This is defensible — and [other people](https://arjunpanickssery.substack.com/
 
 The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this site was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard is an even stronger advocate of non-reading than Karnofsky. The key, at the beginning of the book, puts books into four categories:
 
-{% maincolumn "assets/img/ba.png" "This is the caption" %}
+{% maincolumn "assets/img/bayard.png" "" %}
 
 
-The more I read — and I've read, by any definition, fewer than 1,000 books — the more this categorization appeals to me. There are so many great books, life-changing books, which will be unknown to me forever. 
+The more I read — and I've read, by any definition, fewer than 1,000 books — the more this categorization appeals to me. There are so many great books, life-changing books, which will be unknown to me forever. The ones I do read fade from my memory more quickly each year. I went over my list of books from 2022 and 
 
 This year's reading discourse was kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
 
