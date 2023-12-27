@@ -36,13 +36,6 @@ This list is shorter than last year's, although I'm not sure that I read less. P
 
 This is defensible — and [other people](https://arjunpanickssery.substack.com/i/135613869/most-people-remember-roughly-nothing-that-they-read){% sidenote "scsta-id" "I think [Tanner Greer](https://scholars-stage.blogspot.com/2015/02/the-education-of-american-strategist.html) is another good citation for the claim at that link." %} have found it useful. I would too, but I find that this strategy is often not possible. Finding reviews and (importantly) author replies for most books is very difficult! Here are three books ([one](https://www.amazon.com/-/he/Suzanne-Levi-Sanchez/dp/0815356218), [two](https://www.amazon.com/Legislative-Development-Africa-Politics-Postcolonial/dp/110849210X), [three](https://www.amazon.com/Active-Defense-Military-Princeton-International/dp/0691152136)) which I would like to understand deeply, and I'm willing to put Karnofsky's suggested 16 hours into each. But there is not a rigorous debate on these books; I could find a single academic reviews of two, but no author replies. Often, a book is the last word on itself.
 
-The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this site was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard is an even stronger advocate of non-reading than Karnofsky. The key, at the beginning of the book, puts books into four categories:
-
-{% maincolumn "assets/img/bayard.png" "" %}
-
-
-The more I read — and I've read, by any definition, fewer than 1,000 books — the more this categorization appeals to me. There are so many great books, life-changing books, which will be unknown to me forever. The ones I do read fade from my memory more quickly each year. I went over my list of books from 2022 and 
-
 This year's reading discourse was kicked off by Sam Bankman-Fried's [comments](https://archive.ph/Yg64e#selection-1695.320-1707.251) in an interview with Sequoia Capital. “I would never read a book," SBF tells the interviewer.
 
 > I’m not sure what to say. I’ve read a book a week for my entire adult life and have written three of my own.
@@ -57,6 +50,18 @@ I'm actually not going to defend against these attacks; that's The Atlantic's [j
 
 There is one way I am *extremely* annoying about books: gifts. If you've gotten me a book as a gift,{% sidenote "bsw-id" "This only applies to non-*Star Wars* books, but as I haven't gotten one of those as a gift since 2012, it applies to all books I've received as a gift since 2012." %} I have almost certainly not read it. There is one well-publicized exception, which is my [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0?ref_=wl_share). If you buy me a book off this list, it is close to certain I will read it. 
 
+The very first book I [reviewed](https://jablevine.com/older/may_2021#books) on this site was *How to talk about books you haven’t read*, by Pierre Bayard. Bayard is an even stronger advocate of non-reading than Karnofsky. The key, at the beginning of the book, puts books into four categories:
+
+<br> 
+
+{% maincolumn "assets/img/bayard.png" "" %}
+
+
+The more I read — and I've read, by any definition, fewer than 1,000 books — the more this categorization appeals to me. There are so many great books, life-changing books, which will be unknown to me forever. The ones I do read fade from my memory more quickly each year. I went over my list of books from 2022 and, for many books, I can probably tell you no more than a sentence about it. Bayard has the same problem: 
+
+> Even as I read, I start to forget what I have read, and this process is unavoidable. It extends to the point where it's as though I haven't read the book at all, so that in effect I find myself rejoining the ranks of non-readers, where I should no doubt have remained in the first place. [...] When we talk about books, then, to ourselves and to others, it would be more accurate to say that we are talking about our approximate recollections of books, rearranged as a function of current circumstances. 
+
+The forgetting is inevitable, and in a way comforting. The best method of remembering a book is to re-read it. Knowing that I have this option available to me, to return to a book every year until it is seared into my memory, makes me less needful of that memory, and so I return to books less and less often. 
 
 
 
