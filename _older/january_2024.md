@@ -74,58 +74,30 @@ These are various interesting or fun things I've found on the internet this mont
 {% newthought "''[Palazzo Corpi](https://tr.usembassy.gov/embassy-consulates/istanbul/history/) thereby acquired" %} the unique distinction of being the first and only U.S. diplomatic premises to be won in a poker game."
 
 
-{% newthought "The Communist University of the Toilers of the East is" %}, first, a great name for a university, and second, [graduated](https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni) a *shocking * number of mid-20th century revolutionaries who created chaos in Mexico, India, Syria, Thailand, and further afield.
+{% newthought "The Communist University of the" %} Toilers of the East is, first, a great name for a university, and second, [graduated](https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni) a **shocking** number of mid-20th century revolutionaries who created chaos in Mexico, India, Syria, Thailand, and further afield.
 
-{% newthought "The ( somewhat apocryphal) story of Alexander von Humboldt's" %} [parrot](https://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). As normally told, while on the Orinoco River{% sidenote "ene" "Somewhere in modern-day Venezuela." %} in the early 19th century, the German naturalist encountered parrots kept by one tribe, which had captured them from another tribe they had recently massacred. These parrots were the only reservoir of the Maypure language. This version of the legend was made famous by Darwin, but the truth is a bit more complicated. 
+{% newthought "The (somewhat apocryphal) story" %} of Alexander von Humboldt's [parrot](https://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). As traditionally told, while on the Orinoco River{% sidenote "ene" "Somewhere in modern-day Venezuela." %} in the early 19th century, the German naturalist encountered parrots kept by one tribe, which had captured them from another tribe they had recently massacred. These parrots were the only remaining reservoir of the Maypure language. This version of the legend was made famous by Darwin, but the truth is a bit more complicated. 
 
 Anders Sandberg factchecked: 
 
 > The names do not match Humboldt’s journals, and the story seems to appear some 60 years after the expedition. The Maipure language is indeed extinct, but was a lingua franca language along the upper Orinoco rather than local. However, Humboldt does mention a story relating to the Ature tribe{% sidenote "a-id" "Sandberg isn't quite right here — that Ature didn't go extinct, but became known by other names, the Piaroa or Adole. The language also survived in human speakers, under these names." %} that went extinct in the mid1700s and that an old parrot that might have spoken their language was shown in Maypures — but it is unclear if he actually saw it and there is no evidence he recorded any words.
 
-{% newthought "A long, funny [story](https://ofgeography.tumblr.com/post/735900283288387584/so-at-the-time-i-was-traveling-a-lot-for-work) about BTS in the" %} airport in Santiago, Chile.
-
-
-
-I think [woodcuts](https://twitter.com/FedeItaliano76/status/1733175137917108413/photo/1) might be my favorite visuaal art
-![[Pasted image 20231209103125.png]]
-https://twitter.com/YoshidaArtBot/status/1720863235308433642
+{% newthought "A long, funny [story](https://ofgeography.tumblr.com/post/735900283288387584/so-at-the-time-i-was-traveling-a-lot-for-work)" %} about BTS in the airport in Santiago, Chile.
 
 
 {% newthought "[Edmond-Charles Genêt](https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt) was Louis XI's" %} ambassador to Russia when the French Revolution hit, was personally evicted from St. Petersburg by Catherin the Great{% sidenote "ctgr-id" "'not only superfluous but even intolerable'" %} in 1792, and was then immediately appointed French ambassador to the US by the Girondins.{% sidenote "t-dd" "In high school, I was fascinated by Tallyerand's ability to surf the tides of French politics. Now, I'm convinced that the foreign policy institutions were more robust to revolution." %} He took a ship directly to Charleston, South Carolina, where he hung out for two years recruiting American privateers against the British (including one ship named after himself, the *Citzen Genêt*). This pissed off Alexander Hamilton and Thomas Jefferson, who, working together, got the French government to recall Genêt. 
 
 By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had come to power and would have guillotined Genêt if he came back. Hamilton got him asylum. He married the daughter of the governor of New York, and lived the rest of his life outside Albany.
 
-{% newthought "While in the US for the holidays, I was thinking of" %} going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's Service to the Union:
+{% newthought "While in the US" %} for the holidays, I was thinking of going down to Fort Bragg to visit some friends, but I learned that it was recently renamed to Fort Liberty, because Mr. Bragg was a Confederate general. Of, course, "Republican candidates Ron DeSantis and Mike Pence in the 2024 presidential election have both pledged to rename the base back to Fort Bragg if elected president." I think Democrats could add this to their platform as well, based on Bragg's Service to the Union:
 
 <br>
 
 {% maincolumn "assets/img/bragg.png" "" %}
 
+{% newthought "A recent [essay](https://www.atvbt.com/kids/)" %} from Atoms vs. Bits entitled "On the Beating of Children and Other Apparently Fine Things" reminded me of my favorite David Deutsch piece, "[The Final Prejudice](https://www.youthrights.org/the-final-prejudice/)" about a Star Trek TNG episode. In the episode, Picard and a few others are rejuvenated to the age of 12; Deutsch tells the story of how the Captain no longer commands the respect of the *Enterprise* crew — not a surprise in itself — and is stripped of his rights, based on his new appearance. 
 
-
-
-[[USAID]] hired [[NASA]]'s previous head of contracts. [write up](https://unlockaid.substack.com/p/welcoming-a-new-hire-from-nasa). optimistic stuff. could bring in strong py for perfomrnce stuff
-
-
-https://www.ca5.uscourts.gov/opinions/pub/22/22-30686-CV0.pdf
-
-I know you just finished exams and probably don't want to do law stuff but can you explain what happened here? my understanding is Landor can't get any damages because the warden and officers were acting in "individual capacities" which doesn't fit my understanding of the phrase (they were on the clock? in uniform?). 
-
-Bigger question, is there, then, no protection here? if he can't get damages, etc, is he just unprotected by religion stuff? can corrections officers knock kippahs off, pull off dastars, etc, even if a court rules that they are religiously exempt
-
-Smller question: don't you think these judges were pissed that the officers threw their literal jdugement in the literal trash?
-
-According to sam, this was jsut a judgemnt under RLUIPA, not [1983](https://en.wikipedia.org/wiki/Ku_Klux_Klan_Act). He'll probably do alrightunder 1983
-
->Acting preemptively, Landor explained that he was a practicing Rastafarian and provided proof of past religious accommodations. And, amazingly, Landor also handed the guard a copy of our decision in Ware v. Louisiana Department of Corrections, 866 F.3d 263 (5th Cir. 2017), which held that Louisiana’s policy of cutting the hair of Rastafarians violated RLUIPA. Unmoved by our caselaw, the guard threw Landor’s papers in the trash and summoned RLCC’s warden, Marcus Myers. When Myers arrived, he demanded Landor hand over documentation from his sentencing judge that corroborated his religious beliefs. When Landor couldn’t instantly meet that demand, two guards carried him into another room, handcuffed him to a chair, held him down, and shaved his head.
-
->We *emphatically* condemn the treatment that Landor endured. Still, we remain bound by our prior decision in Sossamon I that, under RLUIPA, he cannot seek money damages from officials in their individual capacities. In re Bonvillian, 19 F.4th at 792 (the rule of orderliness). Because the district court correctly held so, we AFFIRM.
-
-
-{% newthought "Zhan Xianzhong" %}
-Also read about [[Zhang Xianzhong]]. He was a 17th century Chinese general, rebel and [[genocide]]. Led a peasant rebellion. Killed *everyone* in [[Sichuan]]. 
-
-> The last Ming census figure for Sichuan in 1578 (more than 60 years before Zhang entered Sichuan) gave a population of 3,102,073. However, by 1661 (55), only 16,096 adult males were registered in Sichuan, and Chengdu was said to have become a virtual ghost town frequented by tigers.
+> What is going on here? The Captain of a Starship is not being taken seriously by his own subordinates. Why? Whatever the reason is, it must be very powerful if it takes precedence over these people’s loyalty, their training, their personal respect and admiration for Picard — to say nothing of elementary decency and commonsense! For when it comes down to it, *nothing of any significance has really changed.*
 
 
 
