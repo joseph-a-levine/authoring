@@ -101,8 +101,6 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 
 {% newthought "[Reviews](https://www.thechatner.com/p/waking-up-times-in-order) of waking up" %} times, in order.
 
-
-
 ## Previously
 
 *[December, 2023](https://jablevine.com/older/December_2023)*
