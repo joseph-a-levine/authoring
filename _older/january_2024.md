@@ -99,6 +99,7 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 
 > What is going on here? The Captain of a Starship is not being taken seriously by his own subordinates. Why? Whatever the reason is, it must be very powerful if it takes precedence over these people’s loyalty, their training, their personal respect and admiration for Picard — to say nothing of elementary decency and commonsense! For when it comes down to it, *nothing of any significance has really changed.*
 
+{% newthought "[Reviews](https://www.thechatner.com/p/waking-up-times-in-order) of waking up" %} times, in order.
 
 
 
