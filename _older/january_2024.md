@@ -76,6 +76,8 @@ These are various interesting or fun things I've found on the internet this mont
 
 {% newthought "The Communist University of the" %} Toilers of the East is, first, a great name for a university, and second, [graduated](https://en.wikipedia.org/wiki/Communist_University_of_the_Toilers_of_the_East#Notable_alumni) a **shocking** number of mid-20th century revolutionaries who created chaos in Mexico, India, Syria, Thailand, and further afield.
 
+{% newthought "[Reviews](https://www.thechatner.com/p/waking-up-times-in-order) of waking up" %} times, in order.
+
 {% newthought "The (somewhat apocryphal) story" %} of Alexander von Humboldt's [parrot](https://www.strangehistory.net/2010/11/02/the-parrots-of-the-atures/). As traditionally told, while on the Orinoco River{% sidenote "ene" "Somewhere in modern-day Venezuela." %} in the early 19th century, the German naturalist encountered parrots kept by one tribe, which had captured them from another tribe they had recently massacred. These parrots were the only remaining reservoir of the Maypure language. This version of the legend was made famous by Darwin, but the truth is a bit more complicated. 
 
 Anders Sandberg factchecked: 
@@ -99,7 +101,17 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 
 > What is going on here? The Captain of a Starship is not being taken seriously by his own subordinates. Why? Whatever the reason is, it must be very powerful if it takes precedence over these people’s loyalty, their training, their personal respect and admiration for Picard — to say nothing of elementary decency and commonsense! For when it comes down to it, *nothing of any significance has really changed.*
 
-{% newthought "[Reviews](https://www.thechatner.com/p/waking-up-times-in-order) of waking up" %} times, in order.
+## Music
+
+Some good albums: 
+
+• **catharsis**, Covet
+• **Another Land**, Dave Holland
+• **Ears of the People: Ekonting Songs from Senegal and Gambia**, Various
+• **Held Together**, Aberdeen
+• **My 21st Century Symphony (Live)**, Raye
+• **Latopa**, Àbájade
+• **Sounding a Mosaic**, Bedouin Soundclash
 
 ## Previously
 
