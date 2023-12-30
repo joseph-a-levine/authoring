@@ -19,6 +19,7 @@ title: What am I up to now?
 ## Updates 
 
 Happy New Year! 2023 was much less busy than 2022, but still packed. Highlights include:
+<br>
 • hikes in Uzbekistan, 
 <br>
 • thunderstorms on the beach in The Gambia, 
