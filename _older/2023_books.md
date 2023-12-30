@@ -109,7 +109,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★ **Till We Have Faces: A Myth Retold**, C.S. Lewis 
 
-**Good Omens**, Neil Gaiman and Terry Pratchett
+**Good Omens**, Neil Gaiman and Terry Pratchett{% sidenote "gaig-mre" "Read aloud with MWG." %}
 
 **A Preface to Paradise Lost**, C.S. Lewis
 
@@ -121,11 +121,11 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★★ **Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity**, Katherine Boo
 
-**A Zoo in my Luggage**, Gerald Durrell
+**A Zoo in my Luggage**, Gerald Durrell{% sidenote "zoo-mre" "Read aloud with MWG." %}
 
 **Steve Jobs**, Walter Isaacson
 
-**The Hitchhiker's Guide to the Galaxy**, Douglas Adams
+**The Hitchhiker's Guide to the Galaxy**, Douglas Adams{% sidenote "sidenote-mre" "Read aloud with MWG." %}
 
 **Ducks: Two Years in the Oil Sands**, Kate Beaton
 
