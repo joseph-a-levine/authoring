@@ -133,7 +133,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Autobiography**, John Stuart Mill
 
-**The Golden Gate: A Novel in Verse**, Vikram Seth
+**The Golden Gate: A Novel in Verse**, Vikram Seth{% sidenote "gate-id" "Inconceivable to me that the man who wrote **A Suitable Boy** wrote this next. I can't think of two more different first and sophomore novels." %}
 
 **The Russo-Ukrainian War**, Serhii Plokhy
 
@@ -143,9 +143,9 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **On The Natural History of Destruction**, W.G. Sebald
 
-**HHhH**, Laurent Binet
+**HHhH**, Laurent Binet{% sidenote "bi-id" "Apparently, boyfriends all over the world are thinking about the Roman empire at an [alarmingly high rate](https://en.wikipedia.org/wiki/Legacy_of_the_Roman_Empire#In_popular_culture). HHhH is about being a boyfriend who think about a [single May morning in Prague](https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich) way too much." %}
 
-★ **The Shadow of the Sun**, Ryszard Kapuściński
+★ **The Shadow of the Sun**, Ryszard Kapuściński{% sidenote "kap-id" "The archetypal Kapuściński, if not his best." %}
 
 **The Hunters**, James Salter
 
@@ -153,13 +153,15 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Burning the Days**, James Salter
 
+**Otherwise Known as the Human Condition**, Geoff Dyer
+
 **Last Chance to See**, Douglas Adams & Mark Carwardine
 
 **Samuel Johnson is Indignant**, Lydia Davis
 
 **When There Was No Aid: War and Peace in Somaliland**, Sarah Phillips
 
-**Why We Fight**, Chris Blattman
+**Why We Fight**, Chris Blattman{% sidenote "baaa-id" "I was unimpressed, but finished out of respect for the project." %}
 
 **Parfit**, David Edmonds
 
