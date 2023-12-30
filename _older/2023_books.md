@@ -29,11 +29,11 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 **Diplomatic Security**, ed. Eugene Cusumano & Christopher Kinsey
 
-★ **The Mission Song**, John Le Carré 
+**The Mission Song**, John Le Carré 
 
 **Minute Zero**, Todd Moss
 
-**Darfur: A 21st Century Genocide**, Gérard Prunier
+**Darfur: A 21st Century Genocide**, Gérard Prunier{% sidenote "art" "Fifteen years old, but sadly relevant again. Prunier avoids biography, but the portrait of al-Bashir in this book provides context for events across the Sahel." %}
 
 **The Dyer's Hand, and other essays**, W.H. Auden
 
@@ -41,25 +41,25 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★ **A City on Mars**, Kelly Weinersmith & Zach Weinersmith
 
-**The Little Flowers of St Francis**, St. Francis of Assisi, *Florilegium*
+**The Little Flowers of St Francis**, St. Francis of Assisi, *Florilegium*{% sidenote "fase-id" "Read aloud with JB." %}
 
-**The Golden Hour**, Todd Moss 
+**The Golden Hour**, Todd Moss{% sidenote "dfs-id" "The first of Moss' fiction. It's fun, and more technocrats should write fiction about their job, but even the interested reader should stop here." %}
 
 **The Birthday of the World**, Ursula Le Guin
 
 **Red Storm Rising**, Tom Clancy
 
-**The Selected Works of Edward Said, 1966-2006**, Edward Said, ed. Moustafa Bayoumi & Andrew Rubin
+**The Selected Works of Edward Said, 1966-2006**, Edward Said, ed. Moustafa Bayoumi & Andrew Rubin{% sidenote "sai-id" "**The Question of Palestine** is the most interesting thing a confused, humanist Jew can read on the long durée." %}
 
 **The Soccer War**, Ryszard Kapuściński
 
-★ **The Sum of All Fears**, Tom Clancy
+★ **The Sum of All Fears**, Tom Clancy{% sidenote "sidenote-id" "Read because of [this tweet](https://twitter.com/GoldwagNathan/status/1720148769470046392)." %}
 
 **The Origins of AIDS**, Jacques Pepin
 
 **When We Were Very Young**, A. A. Milne
 
-**What Led to the Discovery of the Source of the Nile**, John Hanning Speke
+★ **What Led to the Discovery of the Source of the Nile**, John Hanning Speke{% sidenote "sape-id" "Ridiculous, true book. Little insight into East Africa; great insight into the late British colonial psychology." %}
 
 **The Strategy of Antelopes**, Jean Hatzfeld
 
@@ -89,7 +89,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★ **A Paradise Built in Hell**, Rebecca Solnit 
 
-**Yellowface**, R.F. Kuang
+**Yellowface**, R.F. Kuang{% sidenote "kdu-id" "Kuang's next novel is reportedly about two magical PhD students as they travel to Hell 'to rescue the soul of their advisers so that they can write their job recommendation letters'. Instant buy." %}
 
 **Travels with Herodotus**, Ryszard Kapuściński
 
