@@ -18,7 +18,8 @@ title: What am I up to now?
   
 ## Updates 
 
-Happy New Year! 2023 was much less busy than 2022, but still packed. Fun highlights include hikes in Uzbekistan, thunderstorms on the beach in The Gambia, roadtripping around Germany and Switzerland, summer sculls on the Thames, a volcano in Mexico, and lots of time in the Cotswolds. Professional highlights include completing comprehensive exams, receiving my first major research grant, riding a trash truck, a couple specific blog posts, and my first serious mentoring.
+Happy New Year! 2023 was much less busy than 2022, but still packed. Highlights 
+include hikes in Uzbekistan, thunderstorms on the beach in The Gambia, roadtripping around Germany and Switzerland, summer sculls on the Thames, a volcano in Mexico, and lots of time in the Cotswolds. Professional highlights include completing comprehensive exams, receiving my first major research grant, riding a trash truck, a couple specific blog posts, and my first serious mentoring.
 
 I have high hopes for 2024. If all goes well, I'll receive my masters in the spring, and start the DPhil in the fall. Two big research projects are moving forward, which will have me traveling to The Gambia a few times, and hopefully further afield. 
 
@@ -106,9 +107,13 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 Some good albums: 
 
 • **catharsis**, Covet
+
 • **Another Land**, Dave Holland
+
 • **Ears of the People: Ekonting Songs from Senegal and Gambia**, Various
+<br>
 • **Held Together**, Aberdeen
+<br>
 • **My 21st Century Symphony (Live)**, Raye
 • **Latopa**, Àbájade
 • **Sounding a Mosaic**, Bedouin Soundclash
