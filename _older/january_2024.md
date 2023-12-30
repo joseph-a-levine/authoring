@@ -32,7 +32,7 @@ Happy New Year! 2023 was much less busy than 2022, but still packed. Highlights 
 <br>
 • lots of time in the Cotswolds. 
 
-That's just the fun side — on the work side, I completed my comprehensive exams, received my first major research grant, rode on trash trucks, wrote a couple specific blog posts I'm proud of, and did my first serious mentoring.
+That's just the fun side — for work, I completed my comprehensive exams, received my first major research grant, rode on trash trucks, wrote a couple specific blog posts I'm proud of, and did my first serious mentoring.
 
 I have high hopes for 2024. If all goes well, I'll receive my masters in the spring, and start the DPhil in the fall. Two big research projects are moving forward, which will have me traveling to The Gambia a few times, and hopefully further afield. My research agenda for the first half of the year is going to focus on the political economy of development and global health. Later in the year, I will be spending time working on farmed animal welfare. 
 
