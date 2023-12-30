@@ -18,10 +18,22 @@ title: What am I up to now?
   
 ## Updates 
 
-Happy New Year! 2023 was much less busy than 2022, but still packed. Highlights 
-include hikes in Uzbekistan, thunderstorms on the beach in The Gambia, roadtripping around Germany and Switzerland, summer sculls on the Thames, a volcano in Mexico, and lots of time in the Cotswolds. Professional highlights include completing comprehensive exams, receiving my first major research grant, riding a trash truck, a couple specific blog posts, and my first serious mentoring.
+Happy New Year! 2023 was much less busy than 2022, but still packed. Highlights include:
+• hikes in Uzbekistan, 
+<br>
+• thunderstorms on the beach in The Gambia, 
+<br>
+• roadtripping around Germany and Switzerland, 
+<br>
+• summer sculls on the Thames, 
+<br>
+• food and volcanoes in Mexico, and 
+<br>
+• lots of time in the Cotswolds. 
 
-I have high hopes for 2024. If all goes well, I'll receive my masters in the spring, and start the DPhil in the fall. Two big research projects are moving forward, which will have me traveling to The Gambia a few times, and hopefully further afield. 
+That's just the fun side — on the work side, I completed my comprehensive exams, received my first major research grant, rode on trash trucks, wrote a couple specific blog posts I'm proud of, and did my first serious mentoring.
+
+I have high hopes for 2024. If all goes well, I'll receive my masters in the spring, and start the DPhil in the fall. Two big research projects are moving forward, which will have me traveling to The Gambia a few times, and hopefully further afield. The next five months are going to focus on the political economy of development and global health
 
 I'm in DC/NYC/New Haven for the next week, then back to Oxford. I'll also be in CDMX in February. If you'll be in any of these spots, let me know!
 
@@ -107,15 +119,17 @@ By that point, the [Mountain](https://en.wikipedia.org/wiki/The_Mountain) had co
 Some good albums: 
 
 • **catharsis**, Covet
-
+<br>
 • **Another Land**, Dave Holland
-
+<br>
 • **Ears of the People: Ekonting Songs from Senegal and Gambia**, Various
 <br>
 • **Held Together**, Aberdeen
 <br>
 • **My 21st Century Symphony (Live)**, Raye
+<br>
 • **Latopa**, Àbájade
+<br>
 • **Sounding a Mosaic**, Bedouin Soundclash
 
 ## Previously
