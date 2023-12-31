@@ -36,7 +36,7 @@ That's just the fun side — for work, I completed my comprehensive exams, recei
 
 I have high hopes for 2024. If all goes well, I'll receive my masters in the spring, and start the DPhil in the fall. Two big research projects are moving forward, which will have me traveling to The Gambia a few times, and hopefully further afield. My research agenda for the first half of the year is going to focus on the political economy of development and global health. Later in the year, I will be spending time working on farmed animal welfare. 
 
-I'm in DC/NYC/New Haven for the next week, then back to Oxford. I'll also be in CDMX in February. If you'll be in any of these spots, let me know!
+I'm in DC/NYC/New Haven for the first week of January, then back to Oxford. I'll also be in CDMX in February. If you'll be in any of these spots, let me know!
 
 
 
@@ -44,7 +44,7 @@ I'm in DC/NYC/New Haven for the next week, then back to Oxford. I'll also be in 
 
 Here is [the list of books I read in 2023](https://jablevine.com/older/2023_books), and here's [2022's list](https://jablevine.com/older/2022_books). Last year, I read 30 books in translation; this year, it was six, and three of those were by Kapuściński. My ratio skewed more towards non-fiction this year, with a few  interesting intermediate (**HHhH**, **Behind the Beautiful Forevers**, **Incest Diary**, all of Kapuściński). 
 
-This list is shorter than last year's. Part of this is from a desire to count more accurately, or at least more consistently: I'm only counting cover-to-cover reads, books I feel that I saw in their entirety. This is partly in response to Holden Karnofsky's "[Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/)." Karnofsky claims what we call "reading" is inefficient and inaccurate,{% sidenote "tab-id" "The first table in that link." %} and advocates for a more roundabout path to gleaning knowledge from books.{% sidenote "abl" "The second table." %} His (implied) preferred efficient method of learning from a book in an area you aren't an expert in is to: 
+This list is shorter than last year's. Part of this is from a desire to count more accurately, or at least more consistently: I'm only counting cover-to-cover reads, books I feel that I saw in their entirety. In turn, *this* is partly in response to Holden Karnofsky's "[Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/)." Karnofsky claims what we call "reading" is inefficient and inaccurate,{% sidenote "tab-id" "The first table in that link." %} and advocates for a more roundabout path to gleaning knowledge from books.{% sidenote "abl" "The second table." %} His (implied) preferred efficient method of learning from a book in an area you aren't an expert in is to: 
 
 > Read reviews/discussions of the book; locate the parts of the book they’re referencing, and read those parts carefully, independently checking footnotes, and referring back to other parts of the book for any unfamiliar terms. Write down who I think is being more fair; lay out the exact quotes that give the best evidence that my judgment is right. (But never read the whole book)	
 

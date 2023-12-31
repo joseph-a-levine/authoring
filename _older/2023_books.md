@@ -89,7 +89,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★ **A Paradise Built in Hell**, Rebecca Solnit 
 
-**Yellowface**, R.F. Kuang{% sidenote "kdu-id" "Kuang's next novel is reportedly about two magical PhD students as they travel to Hell 'to rescue the soul of their advisers so that they can write their job recommendation letters'. Instant buy." %}
+**Yellowface**, R.F. Kuang{% sidenote "kdu-id" "Kuang's next novel is reportedly about two magical PhD students who travel to Hell 'to rescue the soul of their advisers so that they can write their job recommendation letters'. Instant buy." %}
 
 **Travels with Herodotus**, Ryszard Kapuściński
 
