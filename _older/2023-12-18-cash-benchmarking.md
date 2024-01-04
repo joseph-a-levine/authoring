@@ -5,12 +5,7 @@ date:   2023-12-18
 categories: post
 ---
 
-
-
-*This is a background post on cash benchmarking — there’s nothing novel here. The next post will present an hypothesis based on this framework. *
-
-
-Cash transfers are intrinsically good — giving people in extreme poverty will make them richer. Cash transfers also help us understand what works better or worse in making people richer. The key phrase here is “cash benchmarking”: comparing an economic development project to a cash transfer program, transferring the per capita cost of the development project you’re implementing. 
+{% marginnote "epi-note-id" "This is a background post on cash benchmarking — there’s nothing novel here. The next post contains my thoughts on long-term benchmarking." %}Cash transfers are intrinsically good — giving people in extreme poverty will make them richer. Cash transfers also help us understand what works better or worse in making people richer. The key phrase here is “cash benchmarking”: comparing an economic development project to a cash transfer program, transferring the per capita cost of the development project you’re implementing. 
 
 We can analogize this to the standard of care, or the standard treatment, in medicine. A common approach in clinical trials is to give the control group the standard treatment for their condition, while the treatment group receives the experimental treatment. Cash benchmarking treats cash transfers as the standard treatment for poverty alleviation, against which all other treatments should be tested.
 
