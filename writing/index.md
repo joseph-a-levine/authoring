@@ -11,4 +11,4 @@ title: Things I've Written
   {% endfor %}
 </ul>
 
-For a full archive of my posts, see the bottom of my [Now](https://jablevine.com/now/) page.
+For a full archive of my posts, see the bottom of my [Now](https://jablevine.com/now/#previously) page.
