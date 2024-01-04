@@ -5,7 +5,7 @@ date:   2023-12-27
 categories: post
 ---
 
-{% marginnote "bac-note-id" "For background on cash benchmarking, see this earlier post." %}Consider cash transfers as a numeraire: if a development project is more effective than cash transfers, it is effective; if it is less effective, it is ineffective. 
+{% marginnote "bac-note-id" "For background on cash benchmarking, see [this earlier post](https://jablevine.com/articles/23/cash-benchmarking)." %}Consider cash transfers as a numeraire: if a development project is more effective than cash transfers, it is effective; if it is less effective, it is ineffective. 
 
 There are certain types of development projects which are very likely to be effective at all time horizons, especially projects providing public goods (e.g., improving highways) or relying on information asymmetries (e.g., providing bednets). There are also certain types of projects which are very likely to be ineffective at all time horizons.{% sidenote "trunfim-id" "Trivially, say, providing electric incubators and ventilators to clinics without electricity. Shapiro 2017 suggests solar energy and stress reduction coaching, which we explored in the earlier post." %}
 
