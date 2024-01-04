@@ -5,13 +5,13 @@ date:   2023-12-18
 categories: post
 ---
 
-{% marginnote "epi-note-id" "This is a background post on cash benchmarking — there’s nothing novel here. The next post contains my thoughts on long-term benchmarking." %}Cash transfers are intrinsically good — giving people in extreme poverty will make them richer. Cash transfers also help us understand what works better or worse in making people richer. The key phrase here is “cash benchmarking”: comparing an economic development project to a cash transfer program, transferring the per capita cost of the development project you’re implementing. 
+{% marginnote "epi-note-id" "This is a background post on cash benchmarking — there’s nothing novel here. The next post contains my thoughts on long-term benchmarking." %}Cash transfers are intrinsically good — giving people in extreme poverty will make them richer. They also help us understand what works better or worse in development economics. The key phrase here is “cash benchmarking”: comparing an economic development project to a cash transfer program, transferring the per capita cost of the development project you’re implementing. 
 
-We can analogize this to the standard of care, or the standard treatment, in medicine. A common approach in clinical trials is to give the control group the standard treatment for their condition, while the treatment group receives the experimental treatment. Cash benchmarking treats cash transfers as the standard treatment for poverty alleviation, against which all other treatments should be tested.
+There's a direct analogy to the standard of care in medical research. A common approach in clinical trials is to give the control group the standard treatment for their condition, while the treatment group receives the experimental treatment. Cash benchmarking treats cash transfers as the standard treatment for poverty alleviation, against which all other treatments should be tested.
 
 This is rare in practice, and I think that’s understandable. People and organizations run aid projects because they think they will work; academics evaluate those projects hoping to find positive effects. The worst case is pretty demoralizing: imagine putting all this effort into your great project, and finding out that everyone would have been better off with something far simpler. 
 
-It’s rare, but it’s been done. First, I’m going to discuss the spectrum of cost-effectiveness with cash transfers as the numeraire. Then I’ll present the few examples of cash benchmarking: some of these projects saw cash outperform standard development interventions; some had mixed evidence. In the next post, I’ll discuss why we should expect the differential effects of cash to diminish over time.
+It’s rare, but it’s been done. First, I’m going to discuss the spectrum of cost-effectiveness with cash transfers as the numeraire. Then I’ll present the few projects which have used a cash benchmark: some of these projects saw cash outperform standard development interventions; some had mixed evidence. In the next post, I’ll discuss why we should expect the differential effects of cash to diminish over time.
 
 ## The spectrum of cost-effectiveness
 
@@ -34,7 +34,7 @@ We haven’t yet seen a benchmarking study where the project being compared to c
 
 ### Projects certainly less effective than cash
 
-Projects based on flawed assumptions or executed poorly will perform poorly.{% sidenote "oslpc-id" "[OLPC](https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now) is a fun example; for a flip side of malaria, see the TVA’s efforts in the 30s and 40s." %}
+Projects based on flawed assumptions or executed poorly will perform poorly.{% sidenote "oslpc-id" "[OLPC](https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now) is a fun example; for a flip side of malaria, see the [TVA’s efforts in the 30s and 40s](https://www.jstor.org/stable/24550628)." %}
 
 Jeremy Shapiro, a co-founder of GiveDirectly, explored an alternative: preferenced-based benchmarking. He asked recipients their valuation in cash for common aid and development programs, and compared their values to a) the per capita cost and b) the forecasted value of development professionals. After eliciting these preferences, he finds “both recipients and development professionals value public good interventions more than interventions with spillovers, and interventions with spillovers more than private goods.”
 
@@ -48,10 +48,10 @@ These are the two uninteresting cases. But benchmarking is still useful; there a
 
 In 2018, USAID and GiveDirectly partnered to evaluate some of USAID’s projects against a GiveDirectly cash benchmark. So far, we only have results from two of these studies. Of the five USAID/GiveDirectly benchmark studies:
 
-1. In Rwanda, cash was benchmarked against a workforce training program
-2. Also in Rwanda, cash was benchmarked against a child nutrition bundle{% sidenote "nutbu-id" "'superior information, direct transfer of productive assets, and improvements in household diet and sanitation'" %}
-3. In the DRC, cash was benchmarked against a project consisting of “support and training activities to help youth create Savings and Internal Lending Communities, develop entrepreneurial knowledge, and start income-generating activities”
-4. Two projects, in Liberia and Malawi, did not run a “a head-to-head comparison with a particular USAID program,” but only “define[d] the “benchmark” of what cash can deliver, against which traditional programming can be measured”
+1. • In Rwanda, cash was benchmarked against a workforce training program
+2. • Also in Rwanda, cash was benchmarked against a child nutrition bundle{% sidenote "nutbu-id" "'superior information, direct transfer of productive assets, and improvements in household diet and sanitation'" %}
+3. • In the DRC, cash was benchmarked against a project consisting of “support and training activities to help youth create Savings and Internal Lending Communities, develop entrepreneurial knowledge, and start income-generating activities”
+4. • Two projects, in Liberia and Malawi, did not run a “a head-to-head comparison with a particular USAID program,” but only “define[d] the “benchmark” of what cash can deliver, against which traditional programming can be measured”
 
 So this is what cash is being compared to. Such programs can be generally characterized as an investment in human capital: in the case of workforce training, this is direct; in nutrition, this is less obvious. 
 
@@ -64,6 +64,6 @@ Not surprisingly, GiveDirectly has pioneered cash benchmarking — and the only 
 
 While those are the only results we have comparing aid projects against traditional development projects, there are others which are comparable. 
 
-- Abebe et al. (forthcoming) compare a job application workshop in urban Ethiopia to a much smaller cash transfer. Both have large positive effects on employment in the short-term; only the workshop effects persist for four years.
-- Phillips, D. C. (2014). Getting to Work: Experimental Evidence on Job Search and Transportation Costs.
+- • Abebe et al. (forthcoming) compare a job application workshop in urban Ethiopia to a much smaller cash transfer. Both have large positive effects on employment in the short-term; only the workshop effects persist for four years.
+- • Phillips, D. C. (2014). Getting to Work: Experimental Evidence on Job Search and Transportation Costs.
 

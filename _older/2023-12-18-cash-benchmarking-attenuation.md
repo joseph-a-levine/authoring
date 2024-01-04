@@ -5,7 +5,7 @@ date:   2023-12-18
 categories: post
 ---
 
-Consider cash transfers as a numeraire: if a development project is more effective than cash transfers, it is effective; if it is less effective, it is ineffective. 
+{% marginnote "bac-note-id" "For background on cash benchmarking, see this earlier post." %}Consider cash transfers as a numeraire: if a development project is more effective than cash transfers, it is effective; if it is less effective, it is ineffective. 
 
 There are certain types of development projects which are very likely to be effective at all time horizons, especially projects providing public goods (e.g., improving highways) or relying on information asymmetries (e.g., providing bednets). There are also certain types of projects which are very likely to be ineffective at all time horizons.{% sidenote "trunfim-id" "Trivially, say, providing electric incubators and ventilators to clinics without electricity. Shapiro 2017 suggests solar energy and stress reduction coaching, which we explored in the earlier post." %}
 
@@ -19,7 +19,7 @@ This argument is: cash use is flexible, so positive effects will be more distrib
 
 This is what the economists evaluating this project found. The bundle delivered benefits on “a set of proximate and directly targeted outcomes of the program components,”{% sidenote "bundlar-id" "The bundle had the largest positive effect on savings, which was the only non-health related target. Part of the bundle included the creation of Savings and Internal Lending Communities, a sort of mutual-aid group." %} while the benefits of cash were broader, on non-targeted outcomes: paydown of debt, increase in consumption, increase in investment.
 
-## Cash allows diversification among different time horizons
+### Cash allows diversification among different time horizons
 
 Development projects intend to create lasting change.{% sidenote "huma-id" "Humanitarian aid is an exception." %} They get people jobs, they make children healthier, they seek to provide productive assets. These projects have low discount rates relative to the targeted individuals. If given the cost equivalent in cash, recipients may spend some of the cash on longer-term investments similar to development projects, but because of the flexibility of cash, they may also transfer money to family members,{% sidenote "blkact-id" "Separate from paying down debts, just [black tax](https://en.wikipedia.org/wiki/Black_tax)." %} fix a broken window, or have a beer. This implies that, while all of the intended impact of the development project will go to the intended longer term, some fraction of the cash will go to the short term. Therefore, we expect the effects of cash to smooth over time as well as over outcome variables — while the effects of development projects will be concentrated closer to the intended term. This will be true even if a recipient is more efficient in their long-term investments than the development project.
 
