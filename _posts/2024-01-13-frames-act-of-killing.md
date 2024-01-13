@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "XX frames from The Act of Killing (2012)"
+title:  "24 frames from The Act of Killing (2012)"
 date:   2024-01-13
 categories: post
 ---
@@ -51,6 +51,6 @@ categories: post
 
 {% fullwidth "assets/img/act_of_killing/wretch.jpg" "" %}
 
-{% fullwidth "assets/img/act_of_killing/fish.jpg" "" %}
+{% fullwidth "assets/img/act_of_killing/rish.jpg" "" %}
 
 {% fullwidth "assets/img/act_of_killing/anonim.jpg" "" %}
