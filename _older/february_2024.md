@@ -86,6 +86,8 @@ Mines vs. missiles
 
 {% newthought "The [Nigerian Mace heist](https://edition.cnn.com/2018/04/18/africa/nigeria-parliament-chaos/index.html)" %} was a pretty boring West African political drama, but it did provide great pictures. 
 
+<br>
+
 {% maincolumn "assets/img/mace.webp" "" %}
 
 {% newthought "The US eradicated malaria" %} by 1950, and much credit goes to New Deal agencies, including the TVA. But the TVA may also have made malaria worse. Using my favorite instrumental variable *ever*, {% sidenote "dams-id" "The Duflo and Pande dam approach, also one of my favorite [one-word paper titles](https://economics.mit.edu/sites/default/files/2022-08/Dams.pdf)." %} [Carl Kitchens found that ](https://www.jstor.org/stable/24550628) the TVAs dams and resevoirs actually *increased* malaria mortality and morbidity. 
