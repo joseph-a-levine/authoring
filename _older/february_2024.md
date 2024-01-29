@@ -76,7 +76,9 @@ In the aftermath, the government investigators, Airbus, and the airline made cha
 
 ### Matt Lakeman's West Africa series
 
-I don't remember reading all of these, but as a friend pointed out, I've linked to them before!
+[Matt Lakeman](https://mattlakeman.org/)'s West Africa series has come to a close, with [an addendum](https://mattlakeman.org/2024/01/27/other-notes-on-west-africa/) on every country which didn't get it's own post. I don't remember reading all of his country posts, but as a friend pointed out, I've linked to them before!
+
+
 
 
 ## Links
@@ -119,11 +121,13 @@ Mines vs. missiles
 
 {% newthought "[Huge progress](https://www.cgdev.org/blog/us-government-wants-make-world-lead-free-why-thats-big-deal-and-how-we-can-make-it-happen?utm_medium=cgd_email) on reducing lead" %} poisoning in Africa. I remember talking about the chances of the US government making this a priority a couple years ago with folks at [LEEP](https://leadelimination.org/) and OPP, and no one was optimistic. Big win from Administrator Power. 
 
-{% newthought "I want to find out more" %} about [this BBC announcer](https://www.lrb.co.uk/the-paper/v46/n02/rosemary-hill/talking-about-manure) from the early 1930s but "david tennant bbc" is ungoogleable. 
-
 <br>
 
 {% maincolumn "assets/img/tennant.png" "" %}
+
+<br> 
+
+{% newthought "I want to find out more" %} about [this BBC announcer](https://www.lrb.co.uk/the-paper/v46/n02/rosemary-hill/talking-about-manure) from the early 1930s but "david tennant bbc" is ungoogleable. 
 
 {% newthought "I'm sure everyone else already" %} knows about Glenn Burke, the baseball player who is known for a) [being gay](https://en.wikipedia.org/wiki/Glenn_Burke#Sexuality) and b) [inventing the high five](https://en.wikipedia.org/wiki/Glenn_Burke#The_high_five) with Dusty Baker. 
 
