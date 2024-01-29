@@ -35,11 +35,9 @@ Of course, the implicit deal here is that, in addition to learning how developme
 
 Part of the fascination is the disaster porn — Cloudberg generously breaks up her 10,000 word essays with photos of wreckage every few paragraphs — but the [*competence* porn ](https://kfmonkey.blogspot.com/2009/08/leverage-204-fairy-godparents-job-post.html) is more compelling. The heroes are the crash investigators, most often and famously in "NTSB"-emblazoned windbreakers, though Cloudberg covers plenty of overseas crashes too.{% sidenote "fivhal-id" "Five of her last ten posts have been about plane crashes in the US. But the NTSB is often invited to lead or assist investigations overseas, and makes surprising cameos on every continent. " %} 
 
-Cloudberg's loyalty is to the process: individual investigators are rarely named,{% sidenote "chip-id" "The only investigator I recall being named more than once is the Kiwi Ron Chippindale, and that's [an ignominious honor](https://admiralcloudberg.medium.com/an-orchestrated-litany-of-lies-the-crash-of-air-new-zealand-flight-901-7259e6afba83)." %} and the question
+Cloudberg's loyalty is to the process: individual investigators are rarely named,{% sidenote "chip-id" "The only investigator I recall being named more than once is the Kiwi Ron Chippindale, and that's [an ignominious honor](https://admiralcloudberg.medium.com/an-orchestrated-litany-of-lies-the-crash-of-air-new-zealand-flight-901-7259e6afba83)." %} and the her posts spend many more words detailing the investigation, technical causes of the accident,{% sidenote "deic-id" "I know now *so much* about de-icing processes." %} and recommendations to prevent future incidents than the disaster itself. 
 
-Admiral Cloudberg
-
-Like Matt Levine
+Her writing reminds me of no one so much as Matt Levine. 
 
 a system which functions so well — much like finance — and fails softly most of the time, has a long tail.
 
@@ -54,8 +52,11 @@ Consider [SmartLynx Estonia flight 9001](https://admiralcloudberg.medium.com/the
 
 In the aftermath, the government investigators, Airbus, and the airline made changes to make sure that *this* particular failure could never happen again. Training procedures were updated, maintenance logging changed, and manuals were edited. It's humbling — we optimize, backup, and reinforce systems, but disaster sneaks through. The pilots deal with it the best they can, and the investigators make sure it never happens again. 
 
+<br> 
+
 {% fullwidth "assets/img/aloha.webp" "Aloha Airlines flight 243. [The roof came off](https://www.youtube.com/watch?v=3m5qxZm_JqM) at 24,000 feet, the pilots landed the plane, and everyone survived save a flight attendant killed in the initial moments. I feel better about flying already." %}
 
+<br>
 
 ### Here, Richard McGuire
 
