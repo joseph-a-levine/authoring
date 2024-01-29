@@ -29,6 +29,12 @@ Of course, the implicit deal here is that, in addition to learning how developme
 
 ## Reading
 
+### Here, Richard McGuire
+
+The most remarkable art project I've seen in the past year. Simple in concept — a graphic novel with a constant reference frame in a 20th century suburban living room, showing snapshots of time non-linearly — McGuire created something huge, cosmopolitan, and devastating. There is a decipherable plot, but it's not worth your time to decipher it; it may be actively detrimental. The only consistent character is the corner of the room, with all the petty dramas and emotional roller coasters. Cats nap in the corner. Men die. Benjamin Franklin shows up, at one point, and later (or earlier?) a kid dresses as him for Halloween.
+
+I viewed it as a PDF in Chrome, two page view, presentation mode, so that when you tab to the next page, the reference frame remains consistent. I would love to own this as a physical book, but the digital option is perfectly hypnotic.
+
 ### Admiral Cloudberg
 
 [Admiral Cloudberg](https://admiralcloudberg.medium.com/){% sidenote "clups-id" "Nomen verum Kyra Dempsey" %} has published a blog post about a different plane crash every week for the past five years. I came across her work in the most recent [Asterisk](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash), and read more than a hundred of her articles in the last week of January.{% sidenote "long-id" "Roughly the length of the first four Harry Potter books together. It was not a productive week." %} 
@@ -65,9 +71,7 @@ In the aftermath, the government investigators, Airbus, and the airline made cha
 
 <br>
 
-### Here, Richard McGuire
 
-A delightful art project
 
 
 ### Matt Lakeman's West Africa series
