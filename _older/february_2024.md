@@ -37,9 +37,7 @@ Part of the fascination is the disaster porn — Cloudberg generously breaks up 
 
 Cloudberg's loyalty is to the process: individual investigators are rarely named,{% sidenote "chip-id" "The only investigator I recall being named more than once is the Kiwi Ron Chippindale, and that's [an ignominious honor](https://admiralcloudberg.medium.com/an-orchestrated-litany-of-lies-the-crash-of-air-new-zealand-flight-901-7259e6afba83)." %} and the her posts spend many more words detailing the investigation, technical causes of the accident,{% sidenote "deic-id" "I know now *so much* about de-icing processes." %} and recommendations to prevent future incidents than the disaster itself. 
 
-Her writing reminds me of no one so much as Matt Levine. 
-
-a system which functions so well — much like finance — and fails softly most of the time, has a long tail.
+Her writing reminds me of no one so much as Matt Levine. I don't care about [the crash of two seaplanes in Alaska](https://admiralcloudberg.medium.com/warnings-unheard-warnings-unheeded-the-story-of-the-2019-alaska-mid-air-collision-89a3444fe7d7) any more or less than I care about LATEST MONEY STUFF COLUMN. But both write about vital, complex, and often opaque systems which people trust implicitly. High finance and air travel both function perfectly to four nines, and fail softly to another two nines, but the insight comes in looking at the tail where the system breaks down. 
 
 There's also a lesson to be taken about portability of systems. Air travel is so safe because it's so complex. Everything is designed to work smoothly together 
 TCAS in Switzerland, Russian and American pilots have different reactions to 
@@ -54,7 +52,7 @@ In the aftermath, the government investigators, Airbus, and the airline made cha
 
 <br> 
 
-{% fullwidth "assets/img/aloha.webp" "Aloha Airlines flight 243. [The roof came off](https://www.youtube.com/watch?v=3m5qxZm_JqM) at 24,000 feet, the pilots landed the plane, and everyone survived save a flight attendant killed in the initial moments. I feel better about flying already." %}
+{% fullwidth "assets/img/aloha.webp" "Aloha Airlines flight 243. [The roof came off](https://www.youtube.com/watch?v=3m5qxZm_JqM) at 24,000 feet, the pilots landed the plane, and everyone survived save a flight attendant killed in the initial moments. I feel better about flying already. The ROOF CAME OFF." %}
 
 <br>
 
