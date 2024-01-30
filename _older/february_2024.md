@@ -89,6 +89,8 @@ And I entirely agree about the French:
 And Sierra Leone:
 > Sierra Leonese people talk REALLY LOUDLY and ARGUE A LOT ABOUT EVERYTHING.
 <br>
+> [...]
+<br>
 > Freetown, Sierra Leone’s capital, is my second favorite city in West Africa, and IMO the most beautiful. City planning pro-tip – if you want to make a city pretty, just add hills. Sierra Leone looks like a generic large African city except it’s built on a series of hills which gives it a Brazilian favela vibe. And it’s beautiful. Really, truly stunning, especially from the hilltops. Best city to explore on foot in West Africa, by far.
 
 His China takes are boringly good, too, but I'll note most of the cheap motorbikes in West Africa are Indian, not Chinese!
