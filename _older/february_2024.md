@@ -43,7 +43,7 @@ Part of the fascination is the disaster porn — Cloudberg generously breaks up 
 
 Cloudberg's loyalty is to the process: individual investigators are rarely named,{% sidenote "chip-id" "The only investigator I recall being named more than once is the Kiwi Ron Chippindale, and that's [an ignominious honor](https://admiralcloudberg.medium.com/an-orchestrated-litany-of-lies-the-crash-of-air-new-zealand-flight-901-7259e6afba83)." %} and the her posts spend many more words detailing the investigation, technical causes of the accident,{% sidenote "deic-id" "I know now *so much* about de-icing processes." %} and recommendations to prevent future incidents than the disaster itself. 
 
-Her writing reminds me of no one so much as Matt Levine. I don't care about [the crash of two seaplanes in Alaska](https://admiralcloudberg.medium.com/warnings-unheard-warnings-unheeded-the-story-of-the-2019-alaska-mid-air-collision-89a3444fe7d7) any more or less than I care about LATEST MONEY STUFF COLUMN. But both try to make clear vital, complex, and often opaque systems which people trust implicitly. High finance and air travel both function perfectly to four nines, and fail softly to another two nines, but the insights come from looking at the tail where the system breaks down. 
+Her writing reminds me of no one so much as Matt Levine. I don't care about [the crash of two seaplanes in Alaska](https://admiralcloudberg.medium.com/warnings-unheard-warnings-unheeded-the-story-of-the-2019-alaska-mid-air-collision-89a3444fe7d7) any more or less than I care about [Indian edtech rights offerings](https://www.bloomberg.com/opinion/articles/2024-01-29/financial-engineering-for-green-energy?srnd=undefined). But both try to make clear vital, complex, and often opaque systems which people trust implicitly. High finance and air travel both function perfectly to four nines, and fail softly to another two nines, but the insights come from looking at the tail where the system breaks down. 
 
 Air disasters provide insights about the portability of complex systems. Air travel is so safe because it's so complex. It's also international — planes cross borders, so the system most work as well in Russia as it does in Antarctica as it does in Texas as it does over the Indian Ocean. 
 
@@ -78,39 +78,23 @@ In the aftermath, the government investigators, Airbus, and the airline made cha
 
 [Matt Lakeman](https://mattlakeman.org/)'s West Africa series has come to a close, with [an addendum](https://mattlakeman.org/2024/01/27/other-notes-on-west-africa/) on every country which didn't get it's own post. I don't remember reading all of his country posts, but as a friend pointed out, I've linked to them before!
 
-i'm annoyed I've never spent any time in a CFA country now. sounds like heaven compared to salone and the gambia. but then i'd have to learn French. Him trying to sell Leones for USD made me laugh
+Lakeman spends a good amount of time talking about how "money, in general and in all forms and uses, is a huge pain in the ass in West Africa." Having carried duffel bags of cash from village to village in rural Sierra Leone, I sympathize. Hearing about his experiences, I'm annoyed I've never spent any time in a CFA country. It sounds like heaven compared to Sierra Leone and The Gambia. Lakeman trying to sell Leones for USD made me laugh. 
 
-I've used his answer about feeling unsafe, too:
-> Also, West African people are really, really, super-duper nice. I’m not saying there are no West African criminals, but I’ve already documented a few instances of locals going to heroic lengths to protect me. I genuinely felt a bit safer because if anything bad did happen to me, I’m confident that locals would stand up for me and help me out.
+While Lakeman and I have had really different West african experiences, some things track. I've used his answer about whether I ever felt unsafe:
+> West African people are really, really, super-duper nice. I’m not saying there are no West African criminals, but I’ve already documented a few instances of locals going to heroic lengths to protect me. I genuinely felt a bit safer because if anything bad did happen to me, I’m confident that locals would stand up for me and help me out.
 
-On the French:
+And I entirely agree about the French:
 > French Africa seems more French than British Africa seems British. […] Yeah, France talks a big game about being a benevolent partner and helping former colonies, but really it just wants to maintain informal control over its colonies and is willing to screw over the local African populations to do so. Allegedly.
 
-Boringly good China takes
-
-Strong agree, having been to both of the two parks 
-> This is what most of West African tourism is like. It’s a lot of time, energy, and hassle (and sometimes a lot of money) to do something interesting but fairly insubstantial. In the vast majority of the world, three hour hikes are free, or at most, require a small entry fee; they don’t require asking multiple people permission and hiring an unnecessary guide. Likewise, I spent two entire separate days travelling to two national parks in Sierra Leone, both of which were very cool, but both of which only had about two hours worth of stuff to do.
-
-On the same hike lol:
-> On the Mount Nimba hike, my guide spotted a poacher and ran after him on foot. He didn’t catch up, and I’m not sure what he would do even if he did; I didn’t get a good enough look to see if the poacher had a gun, but my guide certainly didn’t.
-
-hehehe
+And Sierra Leone:
 > Sierra Leonese people talk REALLY LOUDLY and ARGUE A LOT ABOUT EVERYTHING.
+> [...]
+> Freetown, Sierra Leone’s capital, is my second favorite city in West Africa, and IMO the most beautiful. City planning pro-tip – if you want to make a city pretty, just add hills. Sierra Leone looks like a generic large African city except it’s built on a series of hills which gives it a Brazilian favela vibe. And it’s beautiful. Really, truly stunning, especially from the hilltops. Best city to explore on foot in West Africa, by far.
 
-he got this wrong; they're 90% indian:
-> Speaking of extremely cheap things made in China, there are roughly 800 trillion motorbikes in West Africa. 
+His China takes are boringly good, too, but I'll note most of the cheap motorbikes in West Africa are Indian, not Chinese!
 
-awwwww now i miss it
-> Freetown, Sierra Leon’s capital, is my second favorite city in West Africa, and IMO the most beautiful. City planning pro-tip – if you want to make a city pretty, just add hills. Sierra Leone looks like a generic large African city except it’s built on a series of hills which gives it a Brazilian favela vibe. And it’s beautiful. Really, truly stunning, especially from the hilltops. Best city to explore on foot in West Africa, by far.
+Great travel writing! I'm looking forward to wherever he goes next.
 
-… how did he not see this coming?
-> A cop at another checkpoint asked if I had any bug spray. I thought it was some sort of security concern, so I spent five minutes fetching my super expensive high-end American bug spray from the bottom of my main backpack, and handed it to her. She said “thanks,” put it in her own bag, and told me I could leave.
-
-i'm sure i say dumb things all the time but huh i'm really surprised this surprised him after a year in west Africa
-> One of my motorcycle taxi drivers was the chief of the local village. Seemed like a regular dude.
-
-his love of Dakar tracks. everyone loves Dakar. i should go there. i should learn French. 
-Yes Senegalese people are super hot. 
 
 
 ## Links
