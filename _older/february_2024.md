@@ -103,10 +103,6 @@ Great travel writing! I'm looking forward to wherever he goes next.
 
 These are various interesting or fun things I've found on the internet this month.
 
-Mines vs. missiles
-[link](https://www.theguardian.com/uk-news/2024/jan/21/royal-navy-warships-crashed-into-each-other-due-to-faulty-rewiring-say-sources) [video](https://twitter.com/MilitaryBanter/status/1748429118792769912)
-> Two [Royal Navy](https://www.theguardian.com/uk/royal-navy) warships collided in Bahrain at the end of last week because one was incorrectly rewired, meaning that it unexpectedly went into reverse when it was set to go forward, military sources have said.
-
 
 {% newthought "The [Nigerian Mace heist](https://edition.cnn.com/2018/04/18/africa/nigeria-parliament-chaos/index.html)" %} was a pretty boring West African political drama, but it did provide great pictures. 
 
@@ -139,7 +135,6 @@ Mines vs. missiles
 
 {% newthought "[Huge progress](https://www.cgdev.org/blog/us-government-wants-make-world-lead-free-why-thats-big-deal-and-how-we-can-make-it-happen?utm_medium=cgd_email) on reducing lead" %} poisoning in Africa. I remember talking about the chances of the US government making this a priority a couple years ago with folks at [LEEP](https://leadelimination.org/) and OPP, and no one was optimistic. Big win from Administrator Power. 
 
-<br>
 
 {% maincolumn "assets/img/tennant.png" "" %}
 
@@ -152,12 +147,7 @@ Mines vs. missiles
 {% newthought "This was a nice essay" %}, on [Orwell and India](https://lareviewofbooks.org/article/the-failed-saint-on-george-orwells-india/). The author mentions "a wildly entertaining 1984 essay called *In Search of a Jaarj Arwil*;" can anyone find this for me? I've looked high and low; $20 bounty. 
 
 
-## Music
 
-Some good albums: 
-
-• **catharsis**, Covet
-<br>
 
 
 ## Previously
