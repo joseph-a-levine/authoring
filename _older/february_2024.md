@@ -135,13 +135,13 @@ These are various interesting or fun things I've found on the internet this mont
 
 {% newthought "[Huge progress](https://www.cgdev.org/blog/us-government-wants-make-world-lead-free-why-thats-big-deal-and-how-we-can-make-it-happen?utm_medium=cgd_email) on reducing lead" %} poisoning in Africa. I remember talking about the chances of the US government making this a priority a couple years ago with folks at [LEEP](https://leadelimination.org/) and OPP, and no one was optimistic. Big win from Administrator Power. 
 
-{% newthought "I want to find out more" %} about [this BBC announcer](https://www.lrb.co.uk/the-paper/v46/n02/rosemary-hill/talking-about-manure):
+{% newthought "I want to find out more" %} about [this BBC announcer](https://www.lrb.co.uk/the-paper/v46/n02/rosemary-hill/talking-about-manure) from the early 1930s:
 
 <br>
 
 {% maincolumn "assets/img/tennant.png" "" %}
 
-from the early 1930s but "david tennant bbc" is ungoogleable. 
+but "david tennant bbc" is ungoogleable. 
 
 {% newthought "I'm sure everyone else already" %} knows about Glenn Burke, the baseball player who is known for a) [being gay](https://en.wikipedia.org/wiki/Glenn_Burke#Sexuality) and b) [inventing the high five](https://en.wikipedia.org/wiki/Glenn_Burke#The_high_five) with Dusty Baker. 
 
