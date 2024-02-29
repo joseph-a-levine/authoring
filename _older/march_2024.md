@@ -12,6 +12,7 @@ title: What am I up to now?
 - [Reading](#reading)
 	- [I \<3 David Roodman](#i-3-david-roodman)
 	- [Updates on cash transfers](#updates-on-cash-transfers)
+	- [Cocoa is special](#cocoa-is-special)
 	- [Other: Harry Potter](#other-harry-potter)
 	- [Other: Animal welfare stuff](#other-animal-welfare-stuff)
 	- [Other](#other)
@@ -27,9 +28,11 @@ The middle third of February was spent in Mexico City with MWG, my sister, and o
 
 Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. 
 
+March is a straightforward, if busy, month. I have three things to submit in the next seven weeks, only one of which I've started (shh). Most of it's coursework, which will be straightforward to knock out, but my thesis is going to take up remarkable amounts of time — especially if I want to do it well!
+
 ## Reading
 
-One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" "By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.
+One part of my thesis research involves a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" "By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.
 
 ### I &lt;3 David Roodman
 
@@ -57,15 +60,12 @@ Their focus is the differential price effects of these interventions: do bundles
 
 I come away unfazed.  This looks like a boring "rural prices are sticky downwards" finding on both the cash and in-kind side. 
 
+### Cocoa is special
 
-In the past 36 hours, I've read the abstract of every development paper published in the top 5 econ journals since 2016. I've been moving pretty fast (I'm coding stuff for my thesis) but some really cool ones jumped out at me. 
+[This paper](https://wrap.warwick.ac.uk/99423/7/WRAP-early-life-circumstance-adult-mental-health-Fenske-2018.pdf) is a bit more niche — the authors found a region (Ghana) very dependent on a single commodity (cocoa) and tracked how adult mental health is affected by fluctuations in the price of that commodity when people were kids. Effect sizes are big!
 
+ My guess is this is not very generalizable to other single-good economies. Cocoa is the most volatile 20th century, nationally-dependent commodity I can think of. It's also a lot more difficult to store. They attribute the effect to lowered nutrition, lowered education investment, and "adult circumstance", which they never define. 
 
-
-
-- [This next one](https://wrap.warwick.ac.uk/99423/7/WRAP-early-life-circumstance-adult-mental-health-Fenske-2018.pdf) is a bit more niche — the authors found a region (Ghana) very dependent on a single commodity (cocoa) and tracked how adult mental health is affected by fluctuations in the price of that commodity when people were kids. Effect sizes are big, but only because cocoa is the most volatile 20th century, nationally-dependent commodity I can think of. It's also a lot more difficult to store. Interesting, not confident it'll generalize. The attribute the effect to lowered nutrition, lowered education investment, and "adult circumstance", which they never define. 
-
-- [This paper](https://ftrebbi.com/research/TW.pdf) is somewhat interesting, in using standard panel econometrics to try to identify networks among insurgent groups. I'm including it here because I might use it for my machine learning proposal.
 
 ### Other: Harry Potter
 
