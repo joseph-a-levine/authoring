@@ -46,7 +46,7 @@ The effect of reading Roodman is to become less confident in any individual piec
 
 ### Updates on cash transfers
 
-I have a recent (post)[https://jablevine.com/articles/23/cash-benchmarking-attenuation] about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: (Cunha et al.)[https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf] in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
+I have a recent [post](https://jablevine.com/articles/23/cash-benchmarking-attenuation) about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: [Cunha et al.](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf) in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
 
 Their focus is the differential price effects of these interventions: do bundles of food reduce the price of those food items in these villages? Do cash transfers push up prices for all goods?
 
