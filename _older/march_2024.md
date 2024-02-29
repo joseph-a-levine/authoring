@@ -89,19 +89,39 @@ I read five books about Everest in February. Cool mountain. Happy to chat about 
 
 These are various interesting or fun things I've found on the internet this month.
 
-{% newthought "dddd" %} 
+{% newthought "[This article](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html) about sci-fi" %} convention governance structures is far more interesting than it has any right to be. Me and MWG are considering going to Worldcon in Glasgow this summer, let me know if you'll be there!
+
+{% newthought "I'm generally disappointed in most" %} human rights and peace prizes. The style I most like is the Righteous Among Nations, and maybe the Carnegie Hero Prize, but everything else is politics. But there's not general prize for quiet, bureaucratic heroics. Like [this](ttps://www.theparisreview.org/blog/2017/02/03/the-great-crime/). Just someone doing their job correctly in exceptional circumstances and happening to save the world.
+
 
 {% newthought "THOUGHT" %} 
-
-{% newthought "THOUGHT" %} 
+who don't really want to be tehre
+https://www.thebeliever.net/logger/2014-04-18-reincarnation-in-exile/
 
 {% newthought "Everyone knows about" %}  "PageRank" being named after Larry Page in addition to, you know, *ranking pages*.  But did you know about Leatherman being named after Mr. Leatherman? Or the inventor of Erlang's name was Erlang? OR Main Street in SF is named after Charles Main? The [list](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/) compiler calls this list "incomplete and infuriating," but it' snice to make have a slightly more legible world.
 
 {% newthought "Mormon Legos are called"%}  "[Brick'em Young(https://www.brickemyoung.com/)]".  That's all.
 
 {% newthought "THOUGHT" %} 
+do you think [[Wikipedia]] is getting worse, or I'm getting better at noticing? 
+third possibility: i'm reading different types of Wikipedia pages now than i was before, and the new type tend to be worse/more manipulable
+inspired by: https://en.wikipedia.org/wiki/Doullens_Conference#A_Secret
+and https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria#Economy_policy_framework
+and https://en.wikipedia.org/wiki/Daniel_arap_Moi re: TSS
 
-{% newthought "THOUGHT" %} 
+{% newthought "We don't know which leg Captain Ahab" %} lost to Moby Dick. One blogger [summarizes](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1) the history of the left or right debate.
+> At no point in the novel is it stated, or even hinted at, whether that infamous prosthesis fits onto his right or his left limb.
+
+One great line from an artist who accidentally drew Ahab with both legs:
+> Someone has discovered a mistake in the last full page drawing for the third volume, the drawing of a man struggling with the jaw of a whale. That is, of course, Captain Ahab, and I knew it; but I have given him two good legs whereas Ahab only had one. I can change the drawing if you consent, but I am perfectly willing to let it go through as a revelation of the stupidity of the artist.
+
+The blogger followed [up with](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-2) a gloriously pedantic investigation which relies of wind headings, the positioning of the whaleboat, and balance factors for ivory. I'm skeptical of his conclusion; let's revisit in a decade or two. 
+
+{% newthought "Cavendish Labs is a new org" %} doing UV light/AI virus hunting. They're based in Cavendish, Vermont, and [sent the residents of the town](https://vermontjournal.com/news/selectboard-hears-from-scientists-of-cavendish-labs/) a note&gift announcing their arrival:
+> “It costs 66 cents to send a letter in the mail, however, with Amazon Prime, it only costs 48 cents to ship a can of tomato sauce or a bag of pasta to an address. So, we found it would be cheaper to mass mail tomato sauce and bags of pasta to the entire town of Cavendish.”
+
+
+
 
 ## Music
 
