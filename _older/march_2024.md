@@ -93,21 +93,11 @@ These are various interesting or fun things I've found on the internet this mont
 
 {% newthought "I'm generally disappointed in most" %} human rights and peace prizes. The style I most like is the Righteous Among Nations, and maybe the Carnegie Hero Prize, but everything else is politics. But there's not general prize for quiet, bureaucratic heroics. Like [this](ttps://www.theparisreview.org/blog/2017/02/03/the-great-crime/). Just someone doing their job correctly in exceptional circumstances and happening to save the world.
 
-
-{% newthought "THOUGHT" %} 
-who don't really want to be tehre
-https://www.thebeliever.net/logger/2014-04-18-reincarnation-in-exile/
+{% newthought "Lamas, the reincarnatiosn of Buddhist leaders," %}  are identified as children. And some of them really don't want to be who they're expected to be. [This article](https://www.thebeliever.net/logger/2014-04-18-reincarnation-in-exile/) tells the story of a many of them at different points in their personal rebellions. Touching.
 
 {% newthought "Everyone knows about" %}  "PageRank" being named after Larry Page in addition to, you know, *ranking pages*.  But did you know about Leatherman being named after Mr. Leatherman? Or the inventor of Erlang's name was Erlang? OR Main Street in SF is named after Charles Main? The [list](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/) compiler calls this list "incomplete and infuriating," but it' snice to make have a slightly more legible world.
 
 {% newthought "Mormon Legos are called"%}  "[Brick'em Young(https://www.brickemyoung.com/)]".  That's all.
-
-{% newthought "THOUGHT" %} 
-do you think [[Wikipedia]] is getting worse, or I'm getting better at noticing? 
-third possibility: i'm reading different types of Wikipedia pages now than i was before, and the new type tend to be worse/more manipulable
-inspired by: https://en.wikipedia.org/wiki/Doullens_Conference#A_Secret
-and https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria#Economy_policy_framework
-and https://en.wikipedia.org/wiki/Daniel_arap_Moi re: TSS
 
 {% newthought "We don't know which leg Captain Ahab" %} lost to Moby Dick. One blogger [summarizes](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1) the history of the left or right debate.
 > At no point in the novel is it stated, or even hinted at, whether that infamous prosthesis fits onto his right or his left limb.
