@@ -2,7 +2,6 @@
 layout: page
 title: What am I up to now?
 ---
-{% sidenote "sidenote-id" This is a random sidenote" %}  
 
 ## March, 2024
 
@@ -13,7 +12,7 @@ title: What am I up to now?
 - [Reading](#reading)
 	- [I \<3 David Roodman](#i-3-david-roodman)
 	- [Updates on cash transfers](#updates-on-cash-transfers)
-	- [Do I really want a paragraph about Rwanda?](#do-i-really-want-a-paragraph-about-rwanda)
+	- [Other reading](#other-reading)
 - [Links](#links)
 - [Music](#music)
 - [Previously](#previously)
@@ -28,7 +27,8 @@ Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado 
 
 ## Reading
 
-One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" This is a random sidenote" %} published in the top 5 economics journals since 2016. Some cool ones jumped out.
+One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.{% sidenote "sidenote-id" This is a random sidenote" %}  
+
 
 ### I <3 David Roodman
 
@@ -59,19 +59,18 @@ I come away unfazed.  This looks like a boring "rural prices are sticky downward
 
 In the past 36 hours, I've read the abstract of every development paper published in the top 5 econ journals since 2016. I've been moving pretty fast (I'm coding stuff for my thesis) but some really cool ones jumped out at me. 
 
-### Do I really want a paragraph about Rwanda? 
 
-- I was complaining to you recently that there isn't enough good work on Rwandan domestic politics — the particular mechanism which annoys me is the same as Singapore, which is that the government doesn't encourage (and to different extents, discourages) locally-based academics to write on their own context. Here's [an econ paper]([https://doi.org/10.1086/701441](https://doi.org/10.1086/701441)) which scratched that itch. 
-	- It uses a familiar IV (radio waves don't go around mountains) which I've been sceptical of for a while — the first use was on American intergration in the Appalachians, but now it's feeling overused. I still trust it, but not as much as I'd like. 
-	- I suspect there are great papers on domestic Rwandan politics in other fields which I'm missing. Pointers appreciated.
-	- Also uses pencil sketches well (see page 17 of the published version).
 
 
 - [This next one](https://wrap.warwick.ac.uk/99423/7/WRAP-early-life-circumstance-adult-mental-health-Fenske-2018.pdf) is a bit more niche — the authors found a region (Ghana) very dependent on a single commodity (cocoa) and tracked how adult mental health is affected by fluctuations in the price of that commodity when people were kids. Effect sizes are big, but only because cocoa is the most volatile 20th century, nationally-dependent commodity I can think of. It's also a lot more difficult to store. Interesting, not confident it'll generalize. The attribute the effect to lowered nutrition, lowered education investment, and "adult circumstance", which they never define. 
 
 - [This paper](https://ftrebbi.com/research/TW.pdf) is somewhat interesting, in using standard panel econometrics to try to identify networks among insurgent groups. I'm including it here because I might use it for my machine learning proposal.
 
+### Other reading
 
+I'm about two-thirds through a memoir by the webmaster of the largest harry potter fansite, covering 2003-2007, the last three books. It's not a good book, but it's a great story. Of course, the author is a massive Harry Potter fan, but the level of infection to the pop culture milieu shines through. It's a bit of an authorized history (Rowling and the publishers all sat down for interviews) but more revealing for that, as long as you remember. The author has disavowed Rowling very strongly since the trans stuff. Also, the Spartz's (the Nonlinear ones) keep showing up in the book; it is a small world. 
+
+I have a memory of being in middle school, and getting called to the principal's office because my dad was there. Apparently I had hidden a book which had *just* gotten released from my sisters, so that *I* could finish it before they did; I guess my parents hadn't wanted to buy more than one book and overestimated my sharing abilities. He had driven all the way to school to scold me and make me tell him where the book was hidden, so my sisters could read it. It couldn't have been Harry Potter (I started middle school the same year book 7 was released, but it came out during summer vacation), so I'm not sure what book was. But I do remember being infected by the mania that book releases had in the 2000s. According to the Harry Potter book, that wasn't a thing before Harry Potter, and it certainly hasn't been a thing since. Now *there's* a secular religion if there ever was one. 
 
 ## Links
 
