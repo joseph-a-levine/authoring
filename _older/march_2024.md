@@ -24,9 +24,7 @@ title: What am I up to now?
   
 ## Updates
 
-The middle third of February was spent in Mexico City with MWG, my sister, and other loved ones. 
-
-Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. I suppose I'll have to keep going to back to Mexico City until I succeed; a shame. 
+The middle third of February was spent in Mexico City with MWG, my sister, and other loved ones. It was very nice to escape dreary Oxford for sunny Mexico, and the mountains, food, and friends were nice too. Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. I suppose I'll have to keep going to back to Mexico City until I succeed; a shame. I'm back in Oxford indefinitely. Say hi if you're passing through!
 
 March is a straightforward, if busy, month. I have three things to submit in the next seven weeks, only one of which I've started (shh). Most of it's coursework, which will be straightforward to knock out, but my thesis is going to take up remarkable amounts of time — especially if I want to do it well!
 
