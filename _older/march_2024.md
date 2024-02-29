@@ -27,7 +27,7 @@ Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado 
 
 ## Reading
 
-One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.
+One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper published in the top 5 economics journals since 2016. Some cool ones jumped out.
 
 
 ### I &lt;3 David Roodman
