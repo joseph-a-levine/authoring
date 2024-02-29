@@ -10,6 +10,7 @@ title: What am I up to now?
 - [Contents](#contents)
 - [Updates](#updates)
 - [Reading](#reading)
+	- [Updates on cash transfers](#updates-on-cash-transfers)
 - [Links](#links)
 - [Music](#music)
 - [Previously](#previously)
@@ -38,6 +39,17 @@ In the past 36 hours, I've read the abstract of every development paper publishe
 - [This paper](https://ftrebbi.com/research/TW.pdf) is somewhat interesting, in using standard panel econometrics to try to identify networks among insurgent groups. I'm including it here because I might use it for my machine learning proposal.
 - Finally, I found that [[Dennis Egger]] [pre-registered](https://www.socialscienceregistry.org/trials/12550) his new [[Malawi]] project which he has so far REFUSED to give me details about (not really, he just kept saying it wasn't ready yet). I should read this before our next meeting so I can talk him into letting me go to Malawi. 
 
+### Updates on cash transfers
+
+I have a recent (post)[https://jablevine.com/articles/23/cash-benchmarking-attenuation] about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: (Cunha et al.)[https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf] in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
+
+Their focus is the differential price effects of these interventions: do bundles of food reduce the price of those food items in these villages? Do cash transfers push up prices for all goods?
+
+> We find that prices are significantly lower under in-kind transfers compared with cash transfers; relative to the control group, in-kind transfers lead to a 4 percent fall in prices while cash transfers lead to a positive but negligible increase in prices. Prices of goods other than those transferred are also affected, but by a small amount.
+> ..
+> The effects do not dissipate over the two years of program duration we observe.
+
+I come away unfazed.  This looks like a boring "rural prices are sticky downwards" finding on both the cash and in-kind side. 
 
 ## Links
 
