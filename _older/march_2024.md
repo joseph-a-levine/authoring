@@ -26,7 +26,7 @@ title: What am I up to now?
 
 The middle third of February was spent in Mexico City with MWG, my sister, and other loved ones. 
 
-Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. 
+Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. I suppose I'll have to keep going to back to Mexico City until I succeed; a shame. 
 
 March is a straightforward, if busy, month. I have three things to submit in the next seven weeks, only one of which I've started (shh). Most of it's coursework, which will be straightforward to knock out, but my thesis is going to take up remarkable amounts of time — especially if I want to do it well!
 
@@ -88,6 +88,20 @@ I read five books about Everest in February. Cool mountain. Happy to chat about 
 ## Links
 
 These are various interesting or fun things I've found on the internet this month.
+
+{% newthought "dddd" %} 
+
+{% newthought "THOUGHT" %} 
+
+{% newthought "THOUGHT" %} 
+
+{% newthought "Everyone knows about" %}  "PageRank" being named after Larry Page in addition to, you know, *ranking pages*.  But did you know about Leatherman being named after Mr. Leatherman? Or the inventor of Erlang's name was Erlang? OR Main Street in SF is named after Charles Main? The [list](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/) compiler calls this list "incomplete and infuriating," but it' snice to make have a slightly more legible world.
+
+{% newthought "Mormon Legos are called"%}  "[Brick'em Young(https://www.brickemyoung.com/)]".  That's all.
+
+{% newthought "THOUGHT" %} 
+
+{% newthought "THOUGHT" %} 
 
 ## Music
 
