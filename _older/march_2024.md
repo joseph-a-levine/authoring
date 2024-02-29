@@ -30,7 +30,7 @@ Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado 
 One part of my thesis involved a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.{% sidenote "sidenote-id" This is a random sidenote" %}  
 
 
-### I <3 David Roodman
+### I &lt;3 David Roodman
 
 David Roodman is the development+meta-science GOAT. I read his book on microfinance in 2016 and have been smitten ever since. He's currently at Open Philanthropy, but has been freelance for much of his career, casually dismantling large sectors of development economics as flawed, pointless, or both, and building it back up stronger. 
 
