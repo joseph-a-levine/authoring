@@ -113,23 +113,23 @@ The blogger followed [up with](https://allvisibleobjects.substack.com/p/the-leg-
 
 ## Music
 
-Some classical this month! 
+Some classical this month! Only stuff I've listened to at least two (and mostly three) recordings of, and recommend my favorite.
 
-• **catharsis**, Covet
+• **Rachmaninoff - Concerto No. 3 / Tchaikovsky - Concerto No. 1**, Martha Argerich
 <br>
-• **Another Land**, Dave Holland
+• **Rachmaninoff: Piano Concerto No. 2 In C Minor, Op. 18 & Piano Concerto No. 3 In D Minor, Op. 30**, Khatia Buniatishvili
 <br>
-• **Ears of the People: Ekonting Songs from Senegal and Gambia**, Various
+• **Haydn - String Quartets**, Minetti Quartet
 <br>
-• **Held Together**, Aberdeen
+• **Mozart: Requiem**, Nikolaus Harnoncourt
 <br>
-• **My 21st Century Symphony (Live)**, Raye
+• **Haydn: Symphonies nos. 44, 95 & 98**, Ferenc Fricsay
 <br>
-• **Latopa**, Àbájade
+• **Beethoven: The Late Piano Sonatas Nos 28-32, Op 101, 106, 109-111**, Maurizio Pollini
 <br>
-• **Sounding a Mosaic**, Bedouin Soundclash
+• **Lalo, Saint-Saens: Cello Concertos; Bruch: Kol Nidrei; Bloch: Schelomo**, Jean Martinon
 
-Finally, and this isn't me be pretentious, can anyone recommend multiple Goldberg Variations to listen to? I've of course heard the Gould, and been mildly impressed, but 
+Finally, can anyone recommend multiple Goldberg Variations to listen to? I've of course heard the Goulds, and been mildly impressed, but I'm yet to understand why these recordings are so heavily recommended. Is it the articulations? I was blown away by Gould on organ. The Goldberg Variations in comparison were just "good".
 
 ## Previously
 
