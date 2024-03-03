@@ -36,7 +36,7 @@ One part of my thesis research involves a ton of reading, thankfully. Over a 36 
 
 David Roodman is the development+meta-science GOAT. I read his book on microfinance in 2016 and have been smitten ever since. He's currently at Open Philanthropy, but has been freelance for much of his career, casually dismantling large sectors of development economics as flawed, pointless, or both, and building it back up stronger. 
 
-Trying to find one paper from a top journal, the the second result (props to Google) was a 50 page "[Comment](https://arxiv.org/pdf/2401.13694.pdf)" on that paper by Roodman. 
+Trying to find one paper from a top journal, the second result (props to Google) was a 50 page "[Comment](https://arxiv.org/pdf/2401.13694.pdf)" on that paper by Roodman. 
 
 > The paper finds positive impacts on individual- and firm-level employment and nighttime light emissions. These results are largely ascribable to geocoding errors; to discontinuities from a satellite changeover at end-2009; and to a definition of the treated zone that has unclear technological basis, is narrower than the spatial resolution of nearly all the data sources, and is weakly representative of the geography of broadband availability.
 
@@ -48,7 +48,7 @@ The effect of reading Roodman is to become less confident in any individual piec
 
 ### Updates on cash transfers
 
-I have a recent [post](https://jablevine.com/articles/23/cash-benchmarking-attenuation) about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: [Cunha et al.](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf) in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
+I have a recent [post](https://jablevine.com/articles/23/cash-benchmarking-attenuation) about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: [Cunha et al.](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf) in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
 
 Their focus is the differential price effects of these interventions: do bundles of food reduce the price of those food items in these villages? Do cash transfers push up prices for all goods?
 
