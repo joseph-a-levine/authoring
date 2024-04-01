@@ -51,7 +51,7 @@ I am severely unimpressed by Tainter. He is far too credulous; take the ethnogra
 > ...
 > Children are minimally cared for by their mothers until age three, and then are put out to fend for themselves. This separation is absolute. By age three they are expected to find their own food and shelter, and those that survive do provide for themselves. Children band into age-sets for protection, since adults will steal a child's food whenever possible. No food sharing occurs within an age-set. Groups of children will forage in agricultural fields, which scares off birds and baboons . This is often given as the reason for having children.
 
-This is prima facie nonsense (has Tainter ever met a three-year-old?), and was in fact entirely based off a book by Colin Turnbull which is not well-regarded: https://en.wikipedia.org/wiki/Ik_people#Criticism.{% sidenote "litr-id" "This is one thing I do appreciate about Tainter: he produced a generally excellent literature review. Most sections contain broad and numerous references. This isn't much of a selling point tho: it's current to 1988." %}   Tainter falls into the trap he spends all of Chapter Three catching others of: false generalization from singular examples. Speculation is that Turnbull's single field season with the Ik was during a drought period, and he had very limited communication abilities. 
+This is prima facie nonsense (has Tainter ever met a three-year-old?), and was in fact entirely based off a book by Colin Turnbull which is [not well-regarded](https://en.wikipedia.org/wiki/Ik_people#Criticism).{% sidenote "litr-id" "This is one thing I do appreciate about Tainter: he produced a generally excellent literature review. Most sections contain broad and numerous references. This isn't much of a selling point tho: it's current to 1988." %}   Tainter falls into the trap he spends all of Chapter Three catching others of: false generalization from singular examples. Speculation is that Turnbull's single field season with the Ik was during a drought period, and he had very limited communication abilities. 
 
 This type of error pervades the book. Tainter takes the weakest arguments of his opponents, and he has many opponents, and dismisses them with nonsensical rebuttals.  His definition of what a "complex" society is fluctuates throughout the book. His argument that single events (earthquakes, epidemics) are not an explanation for collapses is that "the fundamental problem is that complex societies routinely withstand catastrophes without collapsing." Which is... not an argument. Some earthquakes are bigger than others! 
 
@@ -112,14 +112,18 @@ These are various interesting or fun things I've found on the internet this mont
 
 I heard a lot of unexpected music this month. Uncommonly good buskers,  friends picking up the guitar in my living room, late night office karaoke, two excellent pianists coincidentally attending an academic retreat. 
 
-Music is everywhere, and lucky us. Not just the ambient music in a pharmacy or elevator -- music we choose. Since undergrad, friends have swapped study playlists, party playlists, 
-I'm not much of an exception. Although I listen to music for fewer hours than most of my friends, I still listen a lot. Right before I started writing this section I listened to *Marsalis Standard Time, Vol 1* and the new Beyonce album. 
+Music is everywhere, and lucky us. Not just the ambient music in a pharmacy or elevator -- music we choose. Since undergrad, friends have swapped study playlists, party playlists, workout playlists, roadtrip playlists. I'm not much of an exception. Although I listen to music for fewer hours than most of my friends, I still listen a lot. Right before I started writing this section I listened to *Marsalis Standard Time, Vol 1* and the new Beyonce album. 
 
-superstimulus
+There's a wonderful theory about the role of music in human evolution. I've mentioned it to many people over the years, without remember the source, and just now tracked down{% sidenote "goog-id" "Through the wonder of my Google Activity, an even longer and more searchable Google history." %}  this 11-year-old blog [review](https://meltingasphalt.com/music-in-human-evolution/) of Joseph Jordania's *Why Do People Sing?* Jordania observes that humans are the only ground (non-bird or sea) animal that sings, and the only animal that sings with rhythm.{% sidenote "rhy-id" "What does this mean?" %} 
 
-There's a wonderful theory about the role of music in human evolution. I've mentioned it to dozens of people over the years, without remember the source, and just now tracked down{% sidenote "goog-id" "Through the wonder of my Google Activity, an even longer and more searchable Google history." %}  this 11-year-old blog [review](https://meltingasphalt.com/music-in-human-evolution/) of Joseph Jordania's *Why Do People Sing?* Jordania observes that humans are the only ground (non-bird or sea) animal that sings, and the only animal that sings with rhythm.{% sidenote "rhy-id" "What does this mean?" %} 
+Until 5,000 years ago, the only music we heard was music we made. Until 150 years ago, the only music we heard was music we saw. Now, easily, more than 99% of music someone like me hears is recorded. Does this make live music more special, or less? Does this make recorded music the superstimulus, or live music? Now that this exists:
 
-Until 5,000 years ago, the only music we heard was music we made. Until 150 years ago, the only music we heard was music we saw. Now, easily, more than 99% of music someone like me hears is recorded. Does this make live music more special, or less? 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkSy1nEbdpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+ Will we care more or less? I'm so confused. Music is great. Send me the best stuff you go. 
+
+
+
 
 ## Previously
 
