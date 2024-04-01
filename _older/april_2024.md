@@ -99,14 +99,13 @@ These are various interesting or fun things I've found on the internet this mont
 
 > The kid killers had broken the unspoken code: if you had a problem with the load-bearing suffering child, you were supposed to get the hell out of Omelas and keep it to yourself. You weren’t supposed to kill the kid. As a teenager, you were supposed to learn the blunt truth that your society was built on a single ongoing act of senseless, meaningless cruelty, and then you were supposed to cry about it or rage about it, but either way you were supposed to get over it and grow up and get on with your fully-paid-for-by-the-state education system and your festivals and your legal weed and your _drooz_.
 
+{% newthought "How to teach someone" %} how to use a [computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html), from 1996. Emotionally mature and patient.
 
 {% newthought "What do we keep scientists" %} around for, anyway? Well, they just captured the first ever [picture](https://amp.theguardian.com/environment/2024/jan/30/first-ever-baby-great-white-shark-image) of a baby great white shark. So they can hang around for now.  
 
 <br>
 
 {% maincolumn "assets/img/shark.webp" "" %}
-
-
 
 ## Music
 
@@ -117,6 +116,8 @@ Music is everywhere, and lucky us. Not just the ambient music in a pharmacy or e
 There's a wonderful theory about the role of music in human evolution. I've mentioned it to many people over the years, without remember the source, and just now tracked down{% sidenote "goog-id" "Through the wonder of my Google Activity, an even longer and more searchable Google history." %}  this 11-year-old blog [review](https://meltingasphalt.com/music-in-human-evolution/) of Joseph Jordania's *Why Do People Sing?* Jordania observes that humans are the only ground (non-bird or sea) animal that sings, and the only animal that sings with rhythm.{% sidenote "rhy-id" "What does this mean?" %} 
 
 Until 5,000 years ago, the only music we heard was music we made. Until 150 years ago, the only music we heard was music we saw. Now, easily, more than 99% of music someone like me hears is recorded. Does this make live music more special, or less? Does this make recorded music the superstimulus, or live music? Now that this exists:
+
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkSy1nEbdpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
