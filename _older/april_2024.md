@@ -30,7 +30,7 @@ We've been hosting weekly Tuesday night dinners at my house for the past few mon
 
 ## Reading
 
-One of my book reviews, of Anne Jacobsen's *Nuclear War*, got so long that I split it off. Shorter stuff is below.
+One of my [book reviews](https://jablevine.com/articles/24/jacobsens-nuclear-war), of Anne Jacobsen's *Nuclear War*, got so long that I split it off. Shorter stuff is below.
 
 ### Ethnography and faith
 

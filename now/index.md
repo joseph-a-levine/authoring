@@ -3,19 +3,16 @@ layout: page
 title: What am I up to now?
 ---
 
-## March, 2024
+## April, 2024
 
 ## Contents
-- [March, 2024](#march-2024)
+- [April, 2024](#april-2024)
 - [Contents](#contents)
 - [Updates](#updates)
 - [Reading](#reading)
-  - [I \<3 David Roodman](#i-3-david-roodman)
-  - [Updates on cash transfers](#updates-on-cash-transfers)
-  - [Cocoa is special](#cocoa-is-special)
-  - [Other: Harry Potter](#other-harry-potter)
-  - [Other: Animal welfare stuff](#other-animal-welfare-stuff)
-  - [Other](#other)
+  - [Ethnography and faith](#ethnography-and-faith)
+  - [Collapse](#collapse)
+  - [Math](#math)
 - [Links](#links)
 - [Music](#music)
 - [Previously](#previously)
@@ -24,114 +21,109 @@ title: What am I up to now?
   
 ## Updates
 
-The middle third of February was spent in Mexico City with MWG, my sister, and other loved ones. It was very nice to escape dreary Oxford for sunny Mexico, and the mountains, food, and friends were nice too. Notably, I've now made three (haphazard, half-hearted) attempts to climb Nevado de Toluca, and failed all three times. I suppose I'll have to keep going to back to Mexico City until I succeed; a shame. I'm back in Oxford indefinitely. Say hi if you're passing through!
+Happy spring! Oxford's weather is nice. The Thames is still very high, and most meadows stay flooded. My tulips are out, and I love them. I understand tulip mania when I look at them. 
 
-March is a straightforward, if busy, month. I'm in Oxford indefinitely, with some trips around England for baseball, rowing, or friends. Academically, I have three things to submit in the next seven weeks, only one of which I've started (shh). Most of it's coursework, which will be straightforward to knock out, but my thesis is going to take up remarkable amounts of time — as it should. 
+I'll be in Oxford or the surroundings until at least May. This makes three months with no travel, which I don't mind.{% sidenote "amaz-id" "If anything, my sister will be disappointed that I'm not training for our *Amazing Race* debut." %}  At the end of March, I submitted my second-to-last *ever* homework assignment, a coding portfolio for a machine learning course. By the end of April, I'll have a thesis mostly done. 
+
+We've been hosting weekly Tuesday night dinners at my house for the past few months. There's usually a turnout of 5-12 people, and we can always fit more! Please let me know if you'd like to stop by. 
+
 
 ## Reading
 
-One part of my thesis research involves a ton of reading, thankfully. Over a 36 hour period last week, I read at least the abstract of every development paper{% sidenote "jelfcod-id" "By JEL code." %} published in the top 5 economics journals since 2016. Some cool ones jumped out.
+One of my [book reviews](https://jablevine.com/articles/24/jacobsens-nuclear-war), of Anne Jacobsen's *Nuclear War*, got so long that I split it off. Shorter stuff is below.
 
-### I &lt;3 David Roodman
+### Ethnography and faith
 
-David Roodman is the development+meta-science GOAT. I read his book on microfinance in 2016 and have been smitten ever since. He's currently at Open Philanthropy, but has been freelance for much of his career, casually dismantling large sectors of development economics as flawed, pointless, or both, and building it back up stronger. 
+ I recently finished *Don't Sleep, There Are Snakes* an ethnography of the Pirahã people of the Amazon, by a American missionary linguistic anthropologist who lived with them for decades. Their language is quite interesting, but their culture and epistemology moreso: they seem to have a very limited theory of mind, placing no credence in events or objects which they cannot testify to themselves. However weird you think this sounds, it's weirder. The anthropologist/missionary lost his faith due to this. He translated the Gospels into Pirahã, and when his Pirahã friends learned he was relating stories he had not witnessed himself, they permanently lost interest.
 
-Trying to find one paper from a top journal, the second result (props to Google) was a 50 page "[Comment](https://arxiv.org/pdf/2401.13694.pdf)" on that paper by Roodman. 
+I don't remember if I wrote about a book I read earlier this year, *The Book of Strange New Things.* It's not an ethnography, it's a sci-fi novel about a missionary who travels to a corporate owned planet near to Earth, to teach the native sapients of Christ. To skip some plot points, this pastor also loses his faith, but not because of his proselytes scepticism. They are too credulous, and learning why destroys his faith. I think Faber, the French novelist, must have read the Pirahã's history. All of it is sobering. Of all the actors in either book, only the Pirahã end happy. This has absolutely nothing to do with the truth or value of the New Testament, and everything to do with how sapient beings deal with trauma. 
 
-> The paper finds positive impacts on individual- and firm-level employment and nighttime light emissions. These results are largely ascribable to geocoding errors; to discontinuities from a satellite changeover at end-2009; and to a definition of the treated zone that has unclear technological basis, is narrower than the spatial resolution of nearly all the data sources, and is weakly representative of the geography of broadband availability.
 
-Also props to the authors of the original paper: he gave all his code and data to Roodman, and had feedback on the comment.
+### Collapse
 
-Everything on Roodman's Arxiv profile is golden. Four smackdowns — i.e., should not have been published. One surface-level inspection of an important question, the fertility effects of development programs. Then an attempt to be Correct about immigration, alcohol taxes, and crime.
+[Gwern](https://gwern.net/index) has one of the best personal websites; it's a map of someone's brain over decades. I've spent parts of *my* last decade on the internet looking for something important to disagree with him about. Here's one: He has a limited number of five-star books on his [books list](https://gwern.net/review/book), one of which is Tainter's *Collapse of Complex Societies*. Gwern's review is: 
 
-The effect of reading Roodman is to become less confident in any individual piece of published research, but more confident in fields. Take [this review](https://arxiv.org/pdf/2007.10268.pdf) on the impacts of incarceration on crime. He attempted to replicate eight studies (of three dozen), and "revealed significant methodological concerns in seven and led to major reinterpretations of four." Despite this, the meta, common-sense result that incarceration stops people from committing crime while in prison while increasing the amount of crime they commit after release holds. 
+> Very good: much better than Jared Diamond’s _Collapse_, and much more convincing than Spengler or Toynbee. It was also disturbing—the Ik amazed me in chapter 1, and the statistics in chapter 4 were extremely dismal and tie in far too well to Cowen’s _The Great Stagnation_ and Murray’s _Human Accomplishment_. There are a great many datapoints suggesting that diminishing marginal returns to modern tech/science began sometime in the late 1800s/early 1900s…
 
-### Updates on cash transfers
+I am severely unimpressed by Tainter. He is far too credulous; take the ethnographic description of the Ik in chapter 1: 
 
-I have a recent [post](https://jablevine.com/articles/23/cash-benchmarking-attenuation) about why we might expect traditional development programs (those which provide training, or goods, or some other complex program to poor people) to be advantaged compared to programs which give cash in the longer term. A friend who reviewed it, DB, suggested thinking about this in terms of cash vs. in-kind transfers. I finally got around to reading the most important empirical paper on this topic: [Cunha et al.](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr735.pdf) in ReStud, which looks at a Mexican program which provided cash or cost-equivalent food bundles to rural villages.
-
-Their focus is the differential price effects of these interventions: do bundles of food reduce the price of those food items in these villages? Do cash transfers push up prices for all goods?
-
-> We find that prices are significantly lower under in-kind transfers compared with cash transfers; relative to the control group, in-kind transfers lead to a 4 percent fall in prices while cash transfers lead to a positive but negligible increase in prices. Prices of goods other than those transferred are also affected, but by a small amount.
+> Sharing is virtually nonexistent. Two siblings or other kin can live side-by-side, one dying of starvation and the other well nourished, without the latter giving the slightest assistance to the other. The family as a social unit has become dysfunctional. Even conjugal pairs don't fonn a cooperative unit except for a few specific purposes. Their motivation for marriage or cohabitation is that one person can't build a house alone. The members of a conjugal pair forage alone, and do not share food.
 > ...
-> The effects do not dissipate over the two years of program duration we observe.
+> Children are minimally cared for by their mothers until age three, and then are put out to fend for themselves. This separation is absolute. By age three they are expected to find their own food and shelter, and those that survive do provide for themselves. Children band into age-sets for protection, since adults will steal a child's food whenever possible. No food sharing occurs within an age-set. Groups of children will forage in agricultural fields, which scares off birds and baboons . This is often given as the reason for having children.
 
-I come away unfazed.  This looks like a "rural prices are sticky downwards" finding on both the cash and in-kind side.
+This is prima facie nonsense (has Tainter ever met a three-year-old?), and was in fact entirely based off a book by Colin Turnbull which is [not well-regarded](https://en.wikipedia.org/wiki/Ik_people#Criticism).{% sidenote "litr-id" "This is one thing I do appreciate about Tainter: he produced a generally excellent literature review. Most sections contain broad and numerous references. This isn't much of a selling point tho: it's current to 1988." %}   Tainter falls into the trap he spends all of Chapter Three catching others of: false generalization from singular examples. Speculation is that Turnbull's single field season with the Ik was during a drought period, and he had very limited communication abilities. 
 
-### Cocoa is special
+This type of error pervades the book. Tainter takes the weakest arguments of his opponents, and he has many opponents, and dismisses them with nonsensical rebuttals.  His definition of what a "complex" society is fluctuates throughout the book. His argument that single events (earthquakes, epidemics) are not an explanation for collapses is that "the fundamental problem is that complex societies routinely withstand catastrophes without collapsing." Which is... not an argument. Some earthquakes are bigger than others! 
 
-[This paper](https://wrap.warwick.ac.uk/99423/7/WRAP-early-life-circumstance-adult-mental-health-Fenske-2018.pdf) is a bit more niche — the authors found a region (Ghana) very dependent on a single commodity (cocoa) and tracked how adult mental health is affected by fluctuations in the price of that commodity when people were kids. Effect sizes are big!
+Tainter engages in cliodynamics at its most middling, while dismissing everyone who came before for doing the same. He can't resist being cute, either. He gives theories names ("The Runaway Train model may be a variant of the Dinosaur model, but it has its own distinct characteristics.") only to never mention them again. He is asking interesting questions — he is correct in noting the collapse of complex societies is far more interesting and neglected than their rise. But his answers are underreasoned and unproductive. 
 
- My guess is this is not very generalizable to other single-good economies. Cocoa is the most volatile 20th century, nationally-dependent commodity I can think of. It's also a lot more difficult to store. They attribute the effect to lowered nutrition, lowered education investment, and "adult circumstance", which they never define. 
+Finally, for Gwern, "diminishing marginal returns to modern tech/science began sometime in the late 1800s/early 1900s"? I can't think of any definition of those words which makes sense. Someone please explain. 
 
+### Math
 
-### Other: Harry Potter
+That machine learning course had a great reading list, and I did a lot of reading from it. There have been times in my life when I've down a lot of technical math reading, but all long ago. After a couple of days struggling through Williams and Rasmussen's book on gaussian processes for hours a day, I remembered: I hate this. Reading math textbooks and papers should not be called reading. 
 
-I'm about two-thirds through a memoir by the webmaster of the largest Harry Potter fansite, covering 2003-2007, the release of the last three books. It's not a good book, but it's a great story. Of course, the author is a massive Harry Potter fan, but the level of infection to the pop culture milieu shines through. It's a bit of an authorized history (Rowling and the publishers all sat down for interviews) but more revealing for that, as long as you remember. The author has disavowed Rowling very strongly since the trans stuff. Also, the Spartz's (the Nonlinear ones) keep showing up in the book; it is a small world. 
+I love reading, and I'm a "fast" reader. This is not reading. Higher-level math books require you to understand each. word. and cache previous theorems and equations with a numerical description so you can refer back to them intuitively, then immediately proceed to the next step of the proof or whatever, which sometimes builds up to a great denoument and sometimes just leaves you back where you began. I have a good math brain, but none of the patience. Sheldon Axler:
 
-I have a memory of being in middle school, and getting called to the principal's office because my dad was there. Apparently I had hidden a book which had *just* gotten released from my sisters, so that *I* could finish it before they did; I guess my parents overestimated my sharing abilities and/or hadn't wanted to buy more than one book. He had driven all the way to school to scold me and make me tell him where the book was hidden, so my sisters could read it. It couldn't have been Harry Potter (I started middle school the same year book 7 was released, but it came out during summer vacation), so I'm not sure what book was. But I do remember being infected by the mania that book releases had in the 2000s. According to the Harry Potter book, that wasn't a thing before Harry Potter, and it certainly hasn't been a thing since. Now *there's* a secular religion if there ever was one. 
+> You cannot expect to read mathematics the way you read a novel. If you zip through a page in less than an hour, you are probably going too fast. When you encounter the phrase “as you should verify”, you should indeed do the verification, which will usually require some writing on your part. When steps are left out, you need to supply the missing pieces. You should ponder and internalize each definition. For each theorem, you should seek examples to show why each hypothesis is necessary
 
-### Other: Animal welfare stuff
-
-I recently re-read Coetzee's "The Lives of Animals"; this is my favorite book about animal welfare, and I haven't been able to find anything like it. One friend recommended Derrida's "The Animal That Therefore I Am," so i tried reading a contential for the first time since 2016. I sill find the philosophy obscurantist and irrelevant, but there are lucid bits, and the writing is quite fun (tho I suspect some bits are even better in French: "‘Can they suffer?’ amounts to asking ‘Can they not be able?’ And what of this inability?"). Two fun passages:
-
-> “The confusion of all nonhuman living creatures within the general and common category of the animal is not simply a sin against rigorous thinking, vigilance, lucidity, or empirical authority, it is also a crime. Not a crime against animality, precisely, but a crime of the first order against the animals, against animals. Do we consent to presume that every murder, every transgression of the commandment ‘‘Thou shalt not kill’’ concerns only man (a question to come), and that, in sum, there are crimes only ‘‘against humanity’’?” (Derrida and Mallet, 2008, p. 48)
-
-> “[S]ome great Jewish writers and thinkers of this century were obsessed by the question of the animal: Kafka, Singer, Canetti, Horkheimer, Adorno. By insisting on inscribing that in their work, they will have contributed to an interrogation of rationalist humanism and of the solid ground of its decisions. Victims of historic catastrophes have in fact felt animals to be victims also, comparable up to a certain point to themselves and their kind.” (Derrida and Mallet, 2008, p. 105) {% sidenote "fonte-id" "This is Derrida's own translation of Elisabeth de Fontenay from English to French, which was then translated back to English by Mallet. I can't find the original source, and would welcome it. " %} 
-
-### Other
-
-I read five books about Everest in February. Cool mountain. Happy to chat about it if anyone's interested.
+Thanks, Sheldon. I might be done with higher math. 
 
 ## Links
 
 These are various interesting or fun things I've found on the internet this month.
 
-{% newthought "[This article](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html) about sci-fi" %} convention governance structures is far more interesting than it has any right to be. Me and MWG are considering going to Worldcon in Glasgow this summer, let me know if you'll be there!
+{% newthought "I will have a dog someday," %}  but this is a good reminder that dog owernship is [optional](https://www.mrmoneymustache.com/2015/09/07/great-news-dog-ownership-is-optional/).
 
-{% newthought "I'm generally disappointed in most" %} human rights and peace prizes. The style I most like is the Righteous Among Nations, and maybe the Carnegie Hero Prize, but everything else is politics. But there's not general prize for quiet, bureaucratic heroics. Like [this](ttps://www.theparisreview.org/blog/2017/02/03/the-great-crime/). Just someone doing their job correctly in exceptional circumstances and happening to save the world.
+{% newthought "From the wildlife photographer" %} of the year awards:
 
-{% newthought "Lamas, the reincarnations of Buddhist" %} leaders, are identified as children. And some of them really don't want to be who they're expected to be. [This article](https://www.thebeliever.net/logger/2014-04-18-reincarnation-in-exile/) tells the story of a many of them at different points in their personal rebellions. Touching.
+> a young Yakushima macaque jumped onto the deer’s back. Looking up momentarily, the deer, unconcerned, went back to eating the fungi at its feet.
+> 
+> ...
+> 
+> The rodeo riding of deer by monkeys is rare, but not unheard of. Young male macaques have been seen clinging to female deer and trying to mate with them. In this case, however, the macaque was a young female, appearing just to be enjoying a free ride. After a while, the deer twitched its body, causing the macaque to jump off and wander on its way.
 
-{% newthought "Everyone knows about" %}  "PageRank" being named after Larry Page in addition to, you know, *ranking pages*.  But did you know about Leatherman being named after Mr. Leatherman? Or the inventor of Erlang's name was Erlang? OR Main Street in SF is named after Charles Main? The [list](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/) compiler calls this list "incomplete and infuriating," but it's nice to make have a slightly more legible world.
+<br>
 
-{% newthought "Mormon Legos are called"%}  "[Brick'em Young](https://www.brickemyoung.com/)".  That's all.
+{% fullwidth "assets/img/rodeo.jpg" "" %}
 
-{% newthought "We don't know which leg Captain Ahab" %} lost to Moby Dick. One blogger [summarizes](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-1) the history of the left vs right debate.
-> At no point in the novel is it stated, or even hinted at, whether that infamous prosthesis fits onto his right or his left limb.
+{% newthought "A weird thing about climate change:" %}  currently, "non-optimal temperature" is the cause of ~2 million deaths per year (almost 10% of all deaths). But more than 2/3rds of these are from extreme cold, not extreme heat! Therefore climate change will overall *decrease* deaths from non-optimal temperature. I've known this for a couple years and not cared because it's not really action-relevant for anything. But then I saw [this paper](https://www.nber.org/papers/w32195): 
 
-One great line from an artist who accidentally drew Ahab with both legs:
-> Someone has discovered a mistake in the last full page drawing for the third volume, the drawing of a man struggling with the jaw of a whale. That is, of course, Captain Ahab, and I knew it; but I have given him two good legs whereas Ahab only had one. I can change the drawing if you consent, but I am perfectly willing to let it go through as a revelation of the stupidity of the artist.
+> Using georeferenced data on emergency department visits, mortality, and daily temperatures across California from 2006-2017, we show that the effect of temperature on mortality differs substantially from its effect on ED visits: mortality increases under extreme heat and cold, whereas ED visits increase under extreme heat but decline under extreme cold. These differential responses fundamentally shape the burden of future climate change: we predict that mortality in California will decrease by 0.32% due to changes in temperatures by mid-century, with declining cold deaths outweighing increasing heat deaths, but that ED visits will increase by 0.46% over the same period in the state, representing a total of 1.9 million excess visits.
 
-The blogger followed [up with](https://allvisibleobjects.substack.com/p/the-leg-dilemma-part-2) a gloriously pedantic investigation which relies of wind headings, the positioning of the whaleboat, and balance factors for ivory. I'm skeptical of his conclusion; let's revisit in a decade or two. 
+{% newthought "This project shows 360 degree" %} [views](https://onehundredhomes.in/) of 100 Indian homes, one for each percentile of the income distribution. The 5% richest Indian households see as much income as the 5% poorest Americans.{% sidenote "weal-id" "That's by household income. For total wealth, the disparity is larger." %}  
 
-{% newthought "Cavendish Labs is a new org" %} doing UV light/AI virus hunting. They're based in Cavendish, Vermont, and [sent the residents of the town](https://vermontjournal.com/news/selectboard-hears-from-scientists-of-cavendish-labs/) a note&gift announcing their arrival:
-> “It costs 66 cents to send a letter in the mail, however, with Amazon Prime, it only costs 48 cents to ship a can of tomato sauce or a bag of pasta to an address. So, we found it would be cheaper to mass mail tomato sauce and bags of pasta to the entire town of Cavendish.”
+{% newthought "A strong contender for the 2024" %} "Best Take on Omelas: "[Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/)."  
 
+> The kid killers had broken the unspoken code: if you had a problem with the load-bearing suffering child, you were supposed to get the hell out of Omelas and keep it to yourself. You weren’t supposed to kill the kid. As a teenager, you were supposed to learn the blunt truth that your society was built on a single ongoing act of senseless, meaningless cruelty, and then you were supposed to cry about it or rage about it, but either way you were supposed to get over it and grow up and get on with your fully-paid-for-by-the-state education system and your festivals and your legal weed and your _drooz_.
 
+{% newthought "How to teach someone" %} how to use a [computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html), from 1996. Emotionally mature and patient.
 
+{% newthought "What do we keep scientists" %} around for, anyway? Well, they just captured the first ever [picture](https://amp.theguardian.com/environment/2024/jan/30/first-ever-baby-great-white-shark-image) of a baby great white shark. So they can hang around for now.  
+
+<br>
+
+{% maincolumn "assets/img/shark.webp" "" %}
 
 ## Music
 
-Some classical this month! Only stuff I've listened to at least two (and mostly three) recordings of, and recommend my favorite.
+I heard a lot of unexpected music this month. Uncommonly good buskers,  friends picking up the guitar in my living room, late night office karaoke, two excellent pianists coincidentally attending an academic retreat. 
 
-• **Rachmaninoff - Concerto No. 3 / Tchaikovsky - Concerto No. 1**, Martha Argerich
-<br>
-• **Rachmaninoff: Piano Concerto No. 2 In C Minor, Op. 18 & Piano Concerto No. 3 In D Minor, Op. 30**, Khatia Buniatishvili
-<br>
-• **Haydn - String Quartets**, Minetti Quartet
-<br>
-• **Mozart: Requiem**, Nikolaus Harnoncourt
-<br>
-• **Haydn: Symphonies nos. 44, 95 & 98**, Ferenc Fricsay
-<br>
-• **Beethoven: The Late Piano Sonatas Nos 28-32, Op 101, 106, 109-111**, Maurizio Pollini
-<br>
-• **Lalo, Saint-Saens: Cello Concertos; Bruch: Kol Nidrei; Bloch: Schelomo**, Jean Martinon
+Music is everywhere, and lucky us. Not just the ambient music in a pharmacy or elevator -- music we choose. Since undergrad, friends have swapped study playlists, party playlists, workout playlists, roadtrip playlists. I'm not much of an exception. Although I listen to music for fewer hours than most of my friends, I still listen a lot. Right before I started writing this section I listened to *Marsalis Standard Time, Vol 1* and the new Beyonce album. 
 
-Finally, can anyone recommend multiple Goldberg Variations to listen to? I've of course heard the Goulds, and been mildly impressed, but I'm yet to understand why these recordings are so heavily recommended. Is it the articulations? I was blown away by Gould on organ. The Goldberg Variations in comparison were just "good".
+There's a wonderful theory about the role of music in human evolution. I've mentioned it to many people over the years, without remember the source, and just now tracked down{% sidenote "goog-id" "Through the wonder of my Google Activity, an even longer and more searchable Google history." %}  this 11-year-old blog [review](https://meltingasphalt.com/music-in-human-evolution/) of Joseph Jordania's *Why Do People Sing?* Jordania observes that humans are the only ground (non-bird or sea) animal that sings, and the only animal that sings with rhythm.{% sidenote "rhy-id" "What does this mean?" %} 
+
+Until 5,000 years ago, the only music we heard was music we made. Until 150 years ago, the only music we heard was music we saw. Now, easily, more than 99% of music someone like me hears is recorded. Does this make live music more special, or less? Does this make recorded music the superstimulus, or live music? Now that this exists:
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkSy1nEbdpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+ Will we care more or less? I'm so confused. Music is great. Send me the best stuff you got. 
 
 ## Previously
+
+*[March, 2024](https://jablevine.com/older/march_2024)*
 
 *[February, 2024](https://jablevine.com/older/february_2024)*
 
