@@ -21,11 +21,11 @@ title: What am I up to now?
   
 ## Updates
 
-Happy spring! Oxford's weather is nice. 
+Happy spring! Oxford's weather is nice. The Thames is still very high, and most meadows stay flooded. My tulips are out, and I love them. I understand tulip mania when I look at them. 
 
-I'll be in Oxford or the surroundings until at least May. This makes three months of no travel, which I don't mind.{% sidenote "amaz-id" "If anything, I'm disappointing my sister who expects me to be training for our *Amazing Race* debut." %}   At the end of March, I submitted my second-to-last *ever* homework assignment, a coding portfolio for a machine learning course. By the end of April, I'll have a thesis mostly done. 
+I'll be in Oxford or the surroundings until at least May. This makes three months with no travel, which I don't mind.{% sidenote "amaz-id" "If anything, my sister will be disappointed that I'm not training for our *Amazing Race* debut." %}  At the end of March, I submitted my second-to-last *ever* homework assignment, a coding portfolio for a machine learning course. By the end of April, I'll have a thesis mostly done. 
 
-We've been hosting weekly Tuesday night dinners at my house for the past few months.
+We've been hosting weekly Tuesday night dinners at my house for the past few months. There's usually a turnout of 5-12 people, and we can always fit more! Please let me know if you'd like to stop by. 
 
 
 ## Reading
@@ -87,11 +87,9 @@ These are various interesting or fun things I've found on the internet this mont
 
 {% fullwidth "assets/img/rodeo.jpg" "" %}
 
-
 {% newthought "A weird thing about climate change:" %}  currently, "non-optimal temperature" is the cause of ~2 million deaths per year (almost 10% of all deaths). But more than 2/3rds of these are from extreme cold, not extreme heat! Therefore climate change will overall *decrease* deaths from non-optimal temperature. I've known this for a couple years and not cared because it's not really action-relevant for anything. But then I saw [this paper](https://www.nber.org/papers/w32195): 
 
 > Using georeferenced data on emergency department visits, mortality, and daily temperatures across California from 2006-2017, we show that the effect of temperature on mortality differs substantially from its effect on ED visits: mortality increases under extreme heat and cold, whereas ED visits increase under extreme heat but decline under extreme cold. These differential responses fundamentally shape the burden of future climate change: we predict that mortality in California will decrease by 0.32% due to changes in temperatures by mid-century, with declining cold deaths outweighing increasing heat deaths, but that ED visits will increase by 0.46% over the same period in the state, representing a total of 1.9 million excess visits.
-
 
 {% newthought "This project shows 360 degree" %} [views](https://onehundredhomes.in/) of 100 Indian homes, one for each percentile of the income distribution. The 5% richest Indian households see as much income as the 5% poorest Americans.{% sidenote "weal-id" "That's by household income. For total wealth, the disparity is larger." %}  
 
@@ -121,10 +119,7 @@ Until 5,000 years ago, the only music we heard was music we made. Until 150 year
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkSy1nEbdpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
- Will we care more or less? I'm so confused. Music is great. Send me the best stuff you go. 
-
-
-
+ Will we care more or less? I'm so confused. Music is great. Send me the best stuff you got. 
 
 ## Previously
 
