@@ -10,8 +10,9 @@ title: What am I up to now?
 - [Contents](#contents)
 - [Updates](#updates)
 - [Reading](#reading)
-- [Ethnography and faith](#ethnography-and-faith)
+  - [Ethnography and faith](#ethnography-and-faith)
   - [Collapse](#collapse)
+  - [Math](#math)
 - [Links](#links)
 - [Music](#music)
 - [Previously](#previously)
@@ -31,16 +32,7 @@ We've been hosting weekly Tuesday night dinners at my house for the past few mon
 
 One of my book reviews, of Anne Jacobsen's *Nuclear War*, got so long that I split it off. Shorter stuff is below.
 
-
-For that machine learning course, I was doing a ton of reading. After a couple of days struggling through Williams and Rasmussen's book on gaussian processes for hours a day, 
-
-i've been struggling with williams and Rasmussen's book on gaussian processes all day and been getting really frustrated. sharing two of my favorite quotes about reading math books
-
-You cannot expect to read mathematics the way you read a novel. If you zip through a page in less than an hour, you are probably going too fast. When you encounter the phrase “as you should verify”, you should indeed do the verification, which will usually require some writing on your part. When steps are left out, you need to supply the missing pieces. You should ponder and internalize each definition. For each theorem, you should seek examples to show why each hypothesis is necessary
-- Sheldon Axler
-
-
-## Ethnography and faith
+### Ethnography and faith
 
  I recently finished *Don't Sleep, There Are Snakes* an ethnography of the Pirahã people of the Amazon, by a American missionary linguistic anthropologist who lived with them for decades. Their language is quite interesting, but their culture and epistemology moreso: they seem to have a very limited theory of mind, placing no credence in events or objects which they cannot testify to themselves. However weird you think this sounds, it's weirder. The anthropologist/missionary lost his faith due to this. He translated the Gospels into Pirahã, and when his Pirahã friends learned he was relating stories he had not witnessed himself, they permanently lost interest.
 
@@ -61,14 +53,21 @@ I am severely unimpressed by Tainter. He is far too credulous; take the ethnogra
 
 This is prima facie nonsense (has Tainter ever met a three-year-old?), and was in fact entirely based off a book by Colin Turnbull which is not well-regarded: https://en.wikipedia.org/wiki/Ik_people#Criticism.{% sidenote "litr-id" "This is one thing I do appreciate about Tainter: he produced a generally excellent literature review. Most sections contain broad and numerous references. This isn't much of a selling point tho: it's current to 1988." %}   Tainter falls into the trap he spends all of Chapter Three catching others of: false generalization from singular examples. Speculation is that Turnbull's single field season with the Ik was during a drought period, and he had very limited communication abilities. 
 
-This type of error pervades the book. Tainter takes the weakest arguments of his opponents, and he has many opponents, and dismisses them with nonsensical rebuttals.  His definition of what a "complex" society is fluctuates throughout the book. His argument that single events (earthquakes, epidemics) are not an explanation for collapses is that "fhe fundamental problem is that complex societies routinely withstand catastrophes without collapsing." Which is... not an argument. Some earthquakes are bigger than others! 
+This type of error pervades the book. Tainter takes the weakest arguments of his opponents, and he has many opponents, and dismisses them with nonsensical rebuttals.  His definition of what a "complex" society is fluctuates throughout the book. His argument that single events (earthquakes, epidemics) are not an explanation for collapses is that "the fundamental problem is that complex societies routinely withstand catastrophes without collapsing." Which is... not an argument. Some earthquakes are bigger than others! 
 
 Tainter engages in cliodynamics at its most middling, while dismissing everyone who came before for doing the same. He can't resist being cute, either. He gives theories names ("The Runaway Train model may be a variant of the Dinosaur model, but it has its own distinct characteristics.") only to never mention them again. He is asking interesting questions — he is correct in noting the collapse of complex societies is far more interesting and neglected than their rise. But his answers are underreasoned and unproductive. 
 
 Finally, for Gwern, "diminishing marginal returns to modern tech/science began sometime in the late 1800s/early 1900s"? I can't think of any definition of those words which makes sense. Someone please explain. 
 
+### Math
 
+That machine learning course had a great reading list, and I did a lot of reading from it. There have been times in my life when I've down a lot of technical math reading, but all long ago. After a couple of days struggling through Williams and Rasmussen's book on gaussian processes for hours a day, I remembered: I hate this. Reading math textbooks and papers should not be called reading. 
 
+I love reading, and I'm a "fast" reader. This is not reading. Higher-level math books require you to understand each. word. and cache previous theorems and equations with a numerical description so you can refer back to them intuitively, then immediately proceed to the next step of the proof or whatever, which sometimes builds up to a great denoument and sometimes just leaves you back where you began. I have a good math brain, but none of the patience. Sheldon Axler:
+
+> You cannot expect to read mathematics the way you read a novel. If you zip through a page in less than an hour, you are probably going too fast. When you encounter the phrase “as you should verify”, you should indeed do the verification, which will usually require some writing on your part. When steps are left out, you need to supply the missing pieces. You should ponder and internalize each definition. For each theorem, you should seek examples to show why each hypothesis is necessary
+
+Thanks, Sheldon. I might be done with higher math. 
 
 ## Links
 
@@ -79,10 +78,14 @@ These are various interesting or fun things I've found on the internet this mont
 {% newthought "From the wildlife photographer" %} of the year awards:
 
 > a young Yakushima macaque jumped onto the deer’s back. Looking up momentarily, the deer, unconcerned, went back to eating the fungi at its feet.
+> 
 > ...
+> 
 > The rodeo riding of deer by monkeys is rare, but not unheard of. Young male macaques have been seen clinging to female deer and trying to mate with them. In this case, however, the macaque was a young female, appearing just to be enjoying a free ride. After a while, the deer twitched its body, causing the macaque to jump off and wander on its way.
->
-> {% fullwidth "assets/img/rodeo.jpg" "" %}
+
+<br>
+
+{% fullwidth "assets/img/rodeo.jpg" "" %}
 
 
 {% newthought "A weird thing about climate change:" %}  currently, "non-optimal temperature" is the cause of ~2 million deaths per year (almost 10% of all deaths). But more than 2/3rds of these are from extreme cold, not extreme heat! Therefore climate change will overall *decrease* deaths from non-optimal temperature. I've known this for a couple years and not cared because it's not really action-relevant for anything. But then I saw [this paper](https://www.nber.org/papers/w32195): 
@@ -98,6 +101,8 @@ These are various interesting or fun things I've found on the internet this mont
 
 
 {% newthought "What do we keep scientists" %} around for, anyway? Well, they just captured the first ever [picture](https://amp.theguardian.com/environment/2024/jan/30/first-ever-baby-great-white-shark-image) of a baby great white shark. So they can hang around for now.  
+
+<br>
 
 {% maincolumn "assets/img/shark.webp" "" %}
 
