@@ -3,16 +3,13 @@ layout: page
 title: What am I up to now?
 ---
 
-## April, 2024
+## May, 2024
 
 ## Contents
-- [April, 2024](#april-2024)
+- [May, 2024](#may-2024)
 - [Contents](#contents)
 - [Updates](#updates)
 - [Reading](#reading)
-  - [Ethnography and faith](#ethnography-and-faith)
-  - [Collapse](#collapse)
-  - [Math](#math)
 - [Links](#links)
 - [Music](#music)
 - [Previously](#previously)
@@ -21,107 +18,69 @@ title: What am I up to now?
   
 ## Updates
 
-Happy spring! Oxford's weather is nice. The Thames is still very high, and most meadows stay flooded. My tulips are out, and I love them. I understand tulip mania when I look at them. 
+My thesis is due in seven days, so a short one this month; no links or music. 
 
-I'll be in Oxford or the surroundings until at least May. This makes three months with no travel, which I don't mind.{% sidenote "amaz-id" "If anything, my sister will be disappointed that I'm not training for our *Amazing Race* debut." %}  At the end of March, I submitted my second-to-last *ever* homework assignment, a coding portfolio for a machine learning course. By the end of April, I'll have a thesis mostly done. 
-
-We've been hosting weekly Tuesday night dinners at my house for the past few months. There's usually a turnout of 5-12 people, and we can always fit more! Please let me know if you'd like to stop by. 
-
+Some tentative travel plans, for anyone looking to check in: I'll head to Nepal for two weeks of trekking with MWG after submitting my thesis. I'll be in Oxford for a couple weeks after, then most of June will be in West Africa. July will be on the east coast, mostly around DC, but further north as well. 
 
 ## Reading
 
-One of my [book reviews](https://jablevine.com/articles/24/jacobsens-nuclear-war), of Anne Jacobsen's *Nuclear War*, got so long that I split it off. Shorter stuff is below.
+I usually have a few book reviews laying around half-written, but I've exhausted all of those in the past few months. I've read some great books in April — notably: quite a few on Central Asia; Susannah Clarke's *Piranesi*;{% sidenote "hyp-id" "It is excellent. I went in blind and was rewarded. She builds the character and the world very deliberately. Clarke had so much room in her first novel (800 pages). *Piranesi* is 200 pages, and it doesn't feel deliberate, so it wallops you as the richness is revealed." %}  Gabriel García Márquez's *The Scandal of the Century.*
 
-### Ethnography and faith
+I've been pumping out words for my thesis, so I don't feel like pumping out book reviews right now. Instead, here are all the newsletters I subscribe to, with short blurbs and links to my favorite posts.
 
- I recently finished *Don't Sleep, There Are Snakes* an ethnography of the Pirahã people of the Amazon, by a American missionary linguistic anthropologist who lived with them for decades. Their language is quite interesting, but their culture and epistemology moreso: they seem to have a very limited theory of mind, placing no credence in events or objects which they cannot testify to themselves. However weird you think this sounds, it's weirder. The anthropologist/missionary lost his faith due to this. He translated the Gospels into Pirahã, and when his Pirahã friends learned he was relating stories he had not witnessed himself, they permanently lost interest.
+**[Thing of Things](https://thingofthings.substack.com/)** — By Ozy Brennan, consistently high quality. The best monthly links post on the internet.{% sidenote "war-id" "A warning — if you sign up for their posts, you'll often receive links twice. Once in the newsletter, and again from me." %}  Inspired [this](https://jablevine.com/articles/23/farquharson) blog post of mine, with [this](https://thingofthings.substack.com/p/weird-people-of-history-samuel-derrick) one, I think. Lots of takes on stuff I know [nothing](https://thingofthings.substack.com/p/is-transitioning-harmful-to-prospective) about, but also novel takes on things I think about [a lot](https://thingofthings.substack.com/p/development-rcts-are-good-actually). [Occasionally](https://thingofthings.substack.com/p/pay-for-fiction) right on topics where I don't want to admit it.
 
-I don't remember if I wrote about a book I read earlier this year, *The Book of Strange New Things.* It's not an ethnography, it's a sci-fi novel about a missionary who travels to a corporate owned planet near to Earth, to teach the native sapients of Christ. To skip some plot points, this pastor also loses his faith, but not because of his proselytes scepticism. They are too credulous, and learning why destroys his faith. I think Faber, the French novelist, must have read the Pirahã's history. All of it is sobering. Of all the actors in either book, only the Pirahã end happy. This has absolutely nothing to do with the truth or value of the New Testament, and everything to do with how sapient beings deal with trauma. 
+**[Studio D](https://studiodradiodurans.com/)** — some interesting thoughts; usually good links ([example](https://viviensansour.com/Palestine-Heirloom), [example](https://www.hollywoodreporter.com/tv/tv-features/tokyo-vice-japan-filming-challenges-1235862921/)). But really I signed up because Jan talks a lot about mappingq the Afghan Pamirs, one of my favorite places in the world. 
 
+**[Matt Lakeman](https://mattlakeman.org/)** — I was turned onto Lakeman by FH. It's mostly travel writing, but more didactic than you're used to. His [Notes on the Gambia](https://mattlakeman.org/2023/07/10/notes-on-the-gambia/) are excellent; I experienced whatever's the opposite of Gell-Mann Amnesia. Not just travel writing; he has range. I recently helped ZL hook a tinder match with [this article](https://mattlakeman.org/2020/07/10/how-much-would-you-need-to-be-paid-to-live-on-a-deserted-island-for-1-5-years-and-do-nothing-but-kill-seals/) on the all-time seal-clubbing champions. 
 
-### Collapse
+**[Experimental History](https://www.experimental-history.com/)** — Adam Mastroianni, an academic experimental psychologist, writes about problems with his discipline and others. Each photo is illustrated by intriguing, gorgeous pictures, all captioned by: "Photo cred: my dad." This is the [post](https://www.experimental-history.com/) which got me hooked. Great writing, important topics.
 
-[Gwern](https://gwern.net/index) has one of the best personal websites; it's a map of someone's brain over decades. I've spent parts of *my* last decade on the internet looking for something important to disagree with him about. Here's one: He has a limited number of five-star books on his [books list](https://gwern.net/review/book), one of which is Tainter's *Collapse of Complex Societies*. Gwern's review is: 
+**[Biblioklept](https://biblioklept.org/)** — No books were stolen in the making of this blog. His tastes in books run modernist, and his taste in art runs surrealist. Mine run neither, but I get a lot of value out of this blog. At least ten of my 2023 books were from his lists. My fear of Pynchon subsides, but not yet sufficiently. His lists of the best books for 50 years ago ([here's 1974](https://biblioklept.org/2024/01/02/best-books-of-1974/)) are goldmines.
 
-> Very good: much better than Jared Diamond’s _Collapse_, and much more convincing than Spengler or Toynbee. It was also disturbing—the Ik amazed me in chapter 1, and the statistics in chapter 4 were extremely dismal and tie in far too well to Cowen’s _The Great Stagnation_ and Murray’s _Human Accomplishment_. There are a great many datapoints suggesting that diminishing marginal returns to modern tech/science began sometime in the late 1800s/early 1900s…
+**[Dynomight](https://dynomight.net/)** — A weird one. I'll go open two random posts, and attempt to summarize them. 
 
-I am severely unimpressed by Tainter. He is far too credulous; take the ethnographic description of the Ik in chapter 1: 
+1. "The main thing about P2P meth is that there's so much of it" — this one is about a new type of meth, made from [Phenylacetone](https://en.wikipedia.org/wiki/Phenylacetone), or P2P. Dynomight heard that this new type of meth is driving people crazy, follows the evidence, learns (or teaches me) what isomers have to do with it, and dismisses the hypothesis that the new meth is worse meth than old meth. There are just more addicts.
+2. "Contra four-wheeled suitcases, sort of" — this one is a list of examples of times when over-designing for the modal user fails — and times it's necessary. Fancy, fragile vs rugged, robust.
 
-> Sharing is virtually nonexistent. Two siblings or other kin can live side-by-side, one dying of starvation and the other well nourished, without the latter giving the slightest assistance to the other. The family as a social unit has become dysfunctional. Even conjugal pairs don't fonn a cooperative unit except for a few specific purposes. Their motivation for marriage or cohabitation is that one person can't build a house alone. The members of a conjugal pair forage alone, and do not share food.
-> ...
-> Children are minimally cared for by their mothers until age three, and then are put out to fend for themselves. This separation is absolute. By age three they are expected to find their own food and shelter, and those that survive do provide for themselves. Children band into age-sets for protection, since adults will steal a child's food whenever possible. No food sharing occurs within an age-set. Groups of children will forage in agricultural fields, which scares off birds and baboons . This is often given as the reason for having children.
+Anyway. It's always interesting.
 
-This is prima facie nonsense (has Tainter ever met a three-year-old?), and was in fact entirely based off a book by Colin Turnbull which is [not well-regarded](https://en.wikipedia.org/wiki/Ik_people#Criticism).{% sidenote "litr-id" "This is one thing I do appreciate about Tainter: he produced a generally excellent literature review. Most sections contain broad and numerous references. This isn't much of a selling point tho: it's current to 1988." %}   Tainter falls into the trap he spends all of Chapter Three catching others of: false generalization from singular examples. Speculation is that Turnbull's single field season with the Ik was during a drought period, and he had very limited communication abilities. 
+**[Global Developments](https://www.global-developments.org/)** — Oliver Kim is an economics PhD student at Berkeley and writes well on things I care about. I knew Albert Hirschman's story, but Kim's [combined bio/book review](https://www.global-developments.org/p/the-real-development-was-the-friends) was more detailed than I ever would have gotten otherwise. I learned more about Hirschman's work in the resistance against the Nazis, and that Paul Klee was his favorite artist. That alone was worth the price of admission.
 
-This type of error pervades the book. Tainter takes the weakest arguments of his opponents, and he has many opponents, and dismisses them with nonsensical rebuttals.  His definition of what a "complex" society is fluctuates throughout the book. His argument that single events (earthquakes, epidemics) are not an explanation for collapses is that "the fundamental problem is that complex societies routinely withstand catastrophes without collapsing." Which is... not an argument. Some earthquakes are bigger than others! 
+**[Mr. And Mrs. Psmith's Bookshelf](https://www.thepsmiths.com/)** — A pseudonymous married couple write book reviews together. I've read their entire archives, and I'm yet to come across an explicit Wodehouse reference.{% sidenote "psmi-id" "The Psmith books are an excellent place to start with Wodehouse, and everyone should start with Wodehouse at some point." %}  John Psmith posts excellent reviews of [math-y books](https://www.thepsmiths.com/p/review-galois-theory-by-david-cox), including textbooks; Jane posts about books on [trees](https://www.thepsmiths.com/p/review-how-to-read-a-tree-by-tristan) and [archeology](https://www.thepsmiths.com/p/review-sea-people-by-christina-thompson). My favorite [post](https://www.thepsmiths.com/p/review-the-man-who-rode-the-thunder), on the metric of "I've never heard of this, and probably wouldn't have otherwise, and I'm glad I did," was *The Man Who Rode the Thunder.*
 
-Tainter engages in cliodynamics at its most middling, while dismissing everyone who came before for doing the same. He can't resist being cute, either. He gives theories names ("The Runaway Train model may be a variant of the Dinosaur model, but it has its own distinct characteristics.") only to never mention them again. He is asking interesting questions — he is correct in noting the collapse of complex societies is far more interesting and neglected than their rise. But his answers are underreasoned and unproductive. 
+**Money Stuff** — I've probably read more of Matt Levine's words than anyone in the past five years.{% sidenote "words-id" "Other contenders: George Orwell, Emily Dickinson (if we count re-reads), MWG, or MWG (iykyk). " %}   I have over 100 saved articles of his; here's one at random. This is from March 2022 about whether Russian debt could be serviced due to sanctions:
+> At some point yesterday some compliance person at JPMorgan Chase & Co. got a question from an operations person. “Hey,” said the operations person. “You know the account that we hold for the Russian government? The one that is subject to harsh sanctions in the U.S. and much of the rest of the world? They just asked us to make a $117 million payment out of that account. What should we do? By the way this is an interest payment on Russia’s dollar-denominated sovereign debt, and if we hold up the money Russia will have defaulted on its foreign debt for the first time [since 1918](https://link.mail.bloombergbusiness.com/click/27061747.40493/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDMtMTUvcnVzc2lhLXRvLWRlZmF1bHQtaWYtZG9sbGFyLWNvdXBvbnMtcGFpZC1pbi1ydWJsZXMtZml0Y2gtc2F5cz9jbXBpZD1CQkQwMzE3MjJfTU9ORVlTVFVGRiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fdGVybT0yMjAzMTcmdXRtX2NhbXBhaWduPW1vbmV5c3R1ZmY/57d8172b3f92a424d68d85a9B6d787d4b). Let me know!”
+> 
+> And the compliance person sat down to read the text of the sanctions and conferred with some in-house lawyers hahahaha no I’m kidding obviously a very senior person at JPMorgan called a very senior person at the U.S. Treasury and said “can we pay this?” and Treasury said “yes” and so JPMorgan did. (Also probably this discussion happened _well_ before yesterday’s payment request, which has been scheduled for some time.)
 
-Finally, for Gwern, "diminishing marginal returns to modern tech/science began sometime in the late 1800s/early 1900s"? I can't think of any definition of those words which makes sense. Someone please explain. 
+The second paragraph makes an important but non-trivial point, in a laugh-out-loud, straightforward run-on sentence. Even the parenthetical is pithy. There are so many moments like this. I don't care about corporate finance! At all! I've tried. But I would read Matt Levine's descriptions of lawnmower maintenance. 
 
-### Math
+He's not just a great writer tho — he *is* the premier commenter on his bailiwick. The single most important piece of FTX coverage came six months before the crash, when Levine interviewed SBF on Odd Lots. [Here](https://taizihuang.github.io/OddLots/html/odd-lots-full-transcript-sam-bankman-fried-and-matt-levine-on-crypto.html)'s a transcript; search for "farming." SBF explains yield farming, which was FTX's largest revenue source. After SBF details the mechanism in the abstract, we get this all-time response  from Levine: 
+> I think of myself as like a fairly cynical person. And that was so much more cynical than how I would've described farming. You're just like, well, I'm in the Ponzi business and it's pretty good.
 
-That machine learning course had a great reading list, and I did a lot of reading from it. There have been times in my life when I've down a lot of technical math reading, but all long ago. After a couple of days struggling through Williams and Rasmussen's book on gaussian processes for hours a day, I remembered: I hate this. Reading math textbooks and papers should not be called reading. 
+**[Statecraft](https://www.statecraft.pub/)** — I listen to podcasts when I have to, but I don't like it. I would much rather read your interview. Santi Ruiz at the Institute for Progress only posts the transcripts, and they're all on how people achieve policy goals. I'm certainly in the American top 1% of knowledge on OTA and FAR, but [this](https://www.statecraft.pub/p/how-to-buy-stuff-like-darpa-does) interview was the best both introduction and expert-level discussion of OTA I've read. Ruiz is an excellent interviewer, especially given many of his subjects are not often in such venues. Highly recommended for ambitious people in DC.
 
-I love reading, and I'm a "fast" reader. This is not reading. Higher-level math books require you to understand each. word. and cache previous theorems and equations with a numerical description so you can refer back to them intuitively, then immediately proceed to the next step of the proof or whatever, which sometimes builds up to a great denoument and sometimes just leaves you back where you began. I have a good math brain, but none of the patience. Sheldon Axler:
+**[The Zvi](https://thezvi.substack.com/)** — [Zvi](https://en.wikipedia.org/wiki/Zvi_Mowshowitz) has the most prodigious output of anyone on this list. He posted thousands of words on Covid every week until 2023, when he pivoted to doing the same on AI. He has a very particular, safetyist, LessWrong viewpoint; he's not used to being wrong. His primary opponent is the Jones Act. I learn a lot from every post, but I check twitter too much whenever I read him. 
 
-> You cannot expect to read mathematics the way you read a novel. If you zip through a page in less than an hour, you are probably going too fast. When you encounter the phrase “as you should verify”, you should indeed do the verification, which will usually require some writing on your part. When steps are left out, you need to supply the missing pieces. You should ponder and internalize each definition. For each theorem, you should seek examples to show why each hypothesis is necessary
+**[Bits About Money](https://www.bitsaboutmoney.com/)** — By Patrick McKenzie, or patio11, the Matt Levine of payments infrastructure. I know everything I know about [credit cards ](https://www.bitsaboutmoney.com/archive/credit-cards-as-a-legacy-system/)because of him. "The [optimal](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/) amount of fraud is non-zero" is surprisingly load-bearing for my day-to-day work. His [post on salary negotiation ](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)is "responsible for ~$9 million a year in marginal improvement to compensation;" I've shared it with friends who negotiated thousands of $ more in compensation because of it. Besides all of this, he's an excellent anthropologist of Japan.
 
-Thanks, Sheldon. I might be done with higher math. 
+**[Admiral Cloudberg](https://admiralcloudberg.medium.com/)** — The Matt Levine of airplane crashes. Already covered [here](https://jablevine.com/older/february_2024#reading).
+
+**[The Browser](https://thebrowser.com/)** — for everything else. The only one I pay for on here, and very worth it. I don't want to give examples, because each piece is unique. The topics and viewpoints are fully diverse.
+
 
 ## Links
 
 These are various interesting or fun things I've found on the internet this month.
 
-{% newthought "I will have a dog someday," %}  but this is a good reminder that dog owernship is [optional](https://www.mrmoneymustache.com/2015/09/07/great-news-dog-ownership-is-optional/).
-
-{% newthought "From the wildlife photographer" %} of the year awards:
-
-> a young Yakushima macaque jumped onto the deer’s back. Looking up momentarily, the deer, unconcerned, went back to eating the fungi at its feet.
-> 
-> ...
-> 
-> The rodeo riding of deer by monkeys is rare, but not unheard of. Young male macaques have been seen clinging to female deer and trying to mate with them. In this case, however, the macaque was a young female, appearing just to be enjoying a free ride. After a while, the deer twitched its body, causing the macaque to jump off and wander on its way.
-
-<br>
-
-{% fullwidth "assets/img/rodeo.jpg" "" %}
-
-{% newthought "A weird thing about climate change:" %}  currently, "non-optimal temperature" is the cause of ~2 million deaths per year (almost 10% of all deaths). But more than 2/3rds of these are from extreme cold, not extreme heat! Therefore climate change will overall *decrease* deaths from non-optimal temperature. I've known this for a couple years and not cared because it's not really action-relevant for anything. But then I saw [this paper](https://www.nber.org/papers/w32195): 
-
-> Using georeferenced data on emergency department visits, mortality, and daily temperatures across California from 2006-2017, we show that the effect of temperature on mortality differs substantially from its effect on ED visits: mortality increases under extreme heat and cold, whereas ED visits increase under extreme heat but decline under extreme cold. These differential responses fundamentally shape the burden of future climate change: we predict that mortality in California will decrease by 0.32% due to changes in temperatures by mid-century, with declining cold deaths outweighing increasing heat deaths, but that ED visits will increase by 0.46% over the same period in the state, representing a total of 1.9 million excess visits.
-
-{% newthought "This project shows 360 degree" %} [views](https://onehundredhomes.in/) of 100 Indian homes, one for each percentile of the income distribution. The 5% richest Indian households see as much income as the 5% poorest Americans.{% sidenote "weal-id" "That's by household income. For total wealth, the disparity is larger." %}  
-
-{% newthought "A strong contender for the 2024" %} "Best Take on Omelas: "[Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/)."  
-
-> The kid killers had broken the unspoken code: if you had a problem with the load-bearing suffering child, you were supposed to get the hell out of Omelas and keep it to yourself. You weren’t supposed to kill the kid. As a teenager, you were supposed to learn the blunt truth that your society was built on a single ongoing act of senseless, meaningless cruelty, and then you were supposed to cry about it or rage about it, but either way you were supposed to get over it and grow up and get on with your fully-paid-for-by-the-state education system and your festivals and your legal weed and your _drooz_.
-
-{% newthought "How to teach someone" %} how to use a [computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html), from 1996. Emotionally mature and patient.
-
-{% newthought "What do we keep scientists" %} around for, anyway? Well, they just captured the first ever [picture](https://amp.theguardian.com/environment/2024/jan/30/first-ever-baby-great-white-shark-image) of a baby great white shark. So they can hang around for now.  
-
-<br>
-
-{% maincolumn "assets/img/shark.webp" "" %}
 
 ## Music
 
-I heard a lot of unexpected music this month. Uncommonly good buskers,  friends picking up the guitar in my living room, late night office karaoke, two excellent pianists coincidentally attending an academic retreat. 
-
-Music is everywhere, and lucky us. Not just the ambient music in a pharmacy or elevator -- music we choose. Since undergrad, friends have swapped study playlists, party playlists, workout playlists, roadtrip playlists. I'm not much of an exception. Although I listen to music for fewer hours than most of my friends, I still listen a lot. Right before I started writing this section I listened to *Marsalis Standard Time, Vol 1* and the new Beyonce album. 
-
-There's a wonderful theory about the role of music in human evolution. I've mentioned it to many people over the years, without remember the source, and just now tracked down{% sidenote "goog-id" "Through the wonder of my Google Activity, an even longer and more searchable Google history." %}  this 11-year-old blog [review](https://meltingasphalt.com/music-in-human-evolution/) of Joseph Jordania's *Why Do People Sing?* Jordania observes that humans are the only ground (non-bird or sea) animal that sings, and the only animal that sings with rhythm.{% sidenote "rhy-id" "What does this mean?" %} 
-
-Until 5,000 years ago, the only music we heard was music we made. Until 150 years ago, the only music we heard was music we saw. Now, easily, more than 99% of music someone like me hears is recorded. Does this make live music more special, or less? Does this make recorded music the superstimulus, or live music? Now that this exists:
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TkSy1nEbdpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
- Will we care more or less? I'm so confused. Music is great. Send me the best stuff you got. 
 
 ## Previously
+
+*[April, 2024](https://jablevine.com/older/april_2024)*
 
 *[March, 2024](https://jablevine.com/older/march_2024)*
 
