@@ -3,82 +3,113 @@ layout: page
 title: What am I up to now?
 ---
 
-## May, 2024
+## June, 2024
 
 ## Contents
-- [May, 2024](#may-2024)
+- [June, 2024](#june-2024)
 - [Contents](#contents)
 - [Updates](#updates)
+- [Notes on Nepal](#notes-on-nepal)
 - [Reading](#reading)
 - [Links](#links)
-- [Music](#music)
 - [Previously](#previously)
 
 <br>
   
 ## Updates
 
-My thesis is due in seven days, so a short one this month; no links or music. 
+The "weird" part of my PhD is mostly wrapped up. I have an exam{% sidenote "last-id" "Probably my last school exam ever?" %}  the first week of June, and then I head to The Gambia for a few weeks of field work. 
 
-Some tentative travel plans, for anyone looking to check in: I'll head to Nepal for two weeks of trekking with MWG after submitting my thesis. I'll be in Oxford for a couple weeks after, then most of June will be in West Africa. July will be on the east coast, mostly around DC, but further north as well. 
+My next three years are very much like a typical American PhD: head-down research, only emerge for seminars, "a good dissertation is a finished dissertation," etc. This is a bit of a relief: the first two years of the [MPhil+DPhil](https://www.economics.ox.ac.uk/mphil-dphil-in-economics) were rather odd, owing to the somewhat confused expectations of research, coursework, and departmental standing for our cohort. The integrated MPhil+DPhil is a *new* degree, we're only the second cohort, and the administration is still figuring things out.{% sidenote "udn-id" "My undergrad was weird for a similar reason; when I started, no class had graduated from the joint degree program." %}  
+
+I haven't minded the chaos -- if anything, it has given us greater freedom to explore research paths and not overburdened us with coursework. Especially in a town as hidebound as Oxford, an unfinished rulebook provides a lot of leeway. Already, the administrative hiccoughs are being resolved; the two cohorts which have followed us are going to have an easier and less confusing time of it! 
+
+I'll be in DC for most of July! Please [reach out](https://jablevine.com/hi/) if you want to catch up. I'll also be at the Economics of Animal Welfare Conference at Brown. 
+
+## Notes on Nepal
+
+I spent three weeks of May in Nepal with MWG and her friends from Tsinghua. We had five days in Kathmandu, two days in Pokhara, and two weeks scrambling over Himalayas. The country and weather was beautiful. Some disconnected thoughts:
+
+What's the highway construction plan? We spent more than 40 hours on highways. The typical ride is about 500m of paved road, followed by five kilometers of potted dirt, then another paved section, then repeat. The work continues --- I saw more road crews per kilometer than any American or European highway. The paved sections seem chosen at random: some on ascents or descents, some close to a river or far, some close to towns. There are also lots of bridges to nowhere, right next to functioning but bumpy bridges. 
+
+The rides were, despite this, comfortable enough. Most of the buses we sat on were as comfortable as any bus between DC and NY, and the seats were often larger. Although the roads were often as bad as those in [Sierra Leone](https://jablevine.com/older/november_2021), I never had to resort to audio books.
+
+These highways have an interesting type of traffic backup, especially on cliff-side roads with tight corners. It seems like the equivalent of a temporary traffic light, but enforced by norms and risk tolerance. As we approached a corner, traffic in one direction would stop once a truck thinks they can't make a corner against the waiting oncoming vehicles. Then it's the turn of the other direction, until one of *their* vehicles gets spooked by the corner, and the waiting truck gets to try their luck. Sometimes we would pause for fifteen minutes waiting for one of these games of chicken to reverse the flow.{% sidenote "lhs-id" "Related, in India I noticed that being legally a left-hand-traffic country means little when when your roads are pocked and crowded. It was the same in Nepal: cars will drive on the left, right, and center to reduce bumps." %} Nepal does have a large corps of traffic police,{% sidenote "amsk-id" "There was absolutely impeccable mask discipline among these traffic police, presumably for dust reasons." %}  but they would rarely be at these chokepoints.
+
+What are normal characteristics of your car to advertise (Lancaster 1966)? In Nepal, almost all billboards chose ground clearance.{% sidenote "ev-id" "Chinese electric vehicles are *everywhere*. MWG and I saw a lot of these in Central Asia last summer; the curve feels steep." %}  
+
+A puzzle I discussed with BB and RD, especially on the long drives, was the urban-rural differences between Tibet and Nepal. Nepal has about 10x the population of the Tibet Autonomous Region, but Tibet is much more heavily urbanized: 15% of Tibet's population lives in its capital, compared to 3% of Nepal's. The boring explanation is political factors. More interesting is the industrialization, infrastructure, and productivity angle. The roads in Tibet are not like the roads in Nepal, and Tibet has Chinese passenger and freight rail (Nepal has none). The standard spatial economics argument (Krugman 1991, Fujita et al. 1999) is that cheaper transportation strengthens the city: the relative benefit of producing a widget in your rural village falls with the cost of buying a big-city widget. 
+
+Nepal seems like a geography given to dispersion.{% sidenote "pan-id" "Much like Papua New Guinea, which is so mountainous it [forgot about half](https://www.ft.com/content/5a1a8d10-d2cd-4467-b877-06146cdb48e1) its population in 2022." %} However, I was suprised by the amount of lowlands: it is a country with a top half and a bottom half. Most of the population lives south of the Himalyas, close to India. The correct comparison for these agricultural regions is not Tibet, but Uttar Pradesh.{% sidenote "ups-id" "This mostly lines up with economic reality: the average Nepali is  slightly richer than the average UP, and both are *much* poorer than the average Tibetan. I've spent time in rural UP, but we didn't visit any rural parts of low Nepal. " %} 
+
+This leads to the question of migration. Nepalis can cross into India and work without any authorization, and India *as a whole* is twice as rich per capita as Nepal. Anecdotally, I didn't meet any Nepalis who traveled to India to work, and I met many who traveled to the UAE, Poland, Qatar.{% sidenote "sele-id" "Beware the selection, etc." %}  I'm not surprised by the equilibrium (the benefits of working in India aren't particularly large), but it does put a damper on reducing migration barriers *between* low-income countries.
+
+I have various other notes on proselytizing Buddhists, the Geneva convention's exception for Gorkhas, and the only democratically-elected Maoist head of state in the world. Maybe enough for another post!
+
+All that's left is to write about is the leaving. My friends flew east from Kathmandu, towards Guangzhou and Chengdu. These flights cross the bulk of the Himalayas, and as the monsoon strengthens, they fly well above 35,000 feet. My flight to Delhi was relatively downhill. 
+
+When we took off towards London from Delhi, the temperature above the tarmac{% sidenote "macet-id" "A fun etymology, coming from tarmacadam. Macadam is a paving mixture of gravel and dust, invented by a guy named MacAdam. When you mix tar with macadam, the dust doesn't escape. No one uses tarmac anymore, tho, it's all concrete." %}  was over 120 F. My flight was beautiful: we performed a radical dogleg around the Wakhan corridor to avoid Afghan airspace. Sitting on the left of the plane, I had a steep view of the first Himalayas I ever met. 
 
 ## Reading
 
-I usually have a few book reviews laying around half-written, but I've exhausted all of those in the past few months. I've read some great books in April — notably: quite a few on Central Asia; Susannah Clarke's *Piranesi*;{% sidenote "hyp-id" "It is excellent. I went in blind and was rewarded. She builds the character and the world very deliberately. Clarke had so much room in her first novel (800 pages). *Piranesi* is 200 pages, and it doesn't feel deliberate, so it wallops you as the richness is revealed." %}  Gabriel García Márquez's *The Scandal of the Century.*
+**The Birth of Korean Cool**, Euny Hong
 
-I've been pumping out words for my thesis, so I don't feel like pumping out book reviews right now. Instead, here are all the newsletters I subscribe to, with short blurbs and links to my favorite posts.
+A question I like asking people is, "Why is China bad at soccer?" The most common answer I get is the *gaokao* -- kids are so focused on academics that they don't have time to kick a ball around. This book is the starting point for a rebuttal. South Korea approaches these problems with authoritarian means: a Ministry for Culture, Five Year Plans, government-run choreography bootcamps. But success doesn't arrive until after the transition to democracy in the late 1980s. 
 
-**[Thing of Things](https://thingofthings.substack.com/)** — By Ozy Brennan, consistently high quality. The best monthly links post on the internet.{% sidenote "war-id" "A warning — if you sign up for their posts, you'll often receive links twice. Once in the newsletter, and again from me." %}  Inspired [this](https://jablevine.com/articles/23/farquharson) blog post of mine, with [this](https://thingofthings.substack.com/p/weird-people-of-history-samuel-derrick) one, I think. Lots of takes on stuff I know [nothing](https://thingofthings.substack.com/p/is-transitioning-harmful-to-prospective) about, but also novel takes on things I think about [a lot](https://thingofthings.substack.com/p/development-rcts-are-good-actually). [Occasionally](https://thingofthings.substack.com/p/pay-for-fiction) right on topics where I don't want to admit it.
+The book is a bit of a memoir, and doesn't seek a throughline of the driving factors; there's no roadmap to success. There are hints: I wish Hong had spent more time on the five year plans, and legislation in support of artists. One of the highlights is a speech by the South Korean president discussing Psy's (of Gangnam fame) use of patented choreography -- and praising him for paying royalties to the appropriate K-pop band.
 
-**[Studio D](https://studiodradiodurans.com/)** — some interesting thoughts; usually good links ([example](https://viviensansour.com/Palestine-Heirloom), [example](https://www.hollywoodreporter.com/tv/tv-features/tokyo-vice-japan-filming-challenges-1235862921/)). But really I signed up because Jan talks a lot about mappingq the Afghan Pamirs, one of my favorite places in the world. 
+Besides the government, the other star is Korea's ridiculous prosociality and homogeneity. They paid off the 1997 IMF loan three years ahead of schedule, in part by soliciting donations from tax payers. Literal tons of gold from jewelry was sent in. The culture is another explanation Hong relies on for the success of K-dramas and Korean cinema: Korean men are seen as good romantic partners by Japanese and Chinese women, and Koreans are inherently tragic figures (who isn't?), lending a certain pathos.
 
-**[Matt Lakeman](https://mattlakeman.org/)** — I was turned onto Lakeman by FH. It's mostly travel writing, but more didactic than you're used to. His [Notes on the Gambia](https://mattlakeman.org/2023/07/10/notes-on-the-gambia/) are excellent; I experienced whatever's the opposite of Gell-Mann Amnesia. Not just travel writing; he has range. I recently helped ZL hook a tinder match with [this article](https://mattlakeman.org/2020/07/10/how-much-would-you-need-to-be-paid-to-live-on-a-deserted-island-for-1-5-years-and-do-nothing-but-kill-seals/) on the all-time seal-clubbing champions. 
+Hong's book is outdated: it was motivated by the success of *Gangnam Style*, when I was in middle school. She deals with a very interesting question which evades easy answers. 
 
-**[Experimental History](https://www.experimental-history.com/)** — Adam Mastroianni, an academic experimental psychologist, writes about problems with his discipline and others. Each photo is illustrated by intriguing, gorgeous pictures, all captioned by: "Photo cred: my dad." This is the [post](https://www.experimental-history.com/) which got me hooked. Great writing, important topics.
+**Working**, Robert Caro. 
 
-**[Biblioklept](https://biblioklept.org/)** — No books were stolen in the making of this blog. His tastes in books run modernist, and his taste in art runs surrealist. Mine run neither, but I get a lot of value out of this blog. At least ten of my 2023 books were from his lists. My fear of Pynchon subsides, but not yet sufficiently. His lists of the best books for 50 years ago ([here's 1974](https://biblioklept.org/2024/01/02/best-books-of-1974/)) are goldmines.
+Caro notes early on that, in both his [Moses](https://en.wikipedia.org/wiki/The_Power_Broker) and [LBJ](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson) books, he uses the pronoun "I" fewer than a dozen times. This book is about all the "I"s he omits.
 
-**[Dynomight](https://dynomight.net/)** — A weird one. I'll go open two random posts, and attempt to summarize them. 
+The majority is on interviewing. He is a persistently annoying interviewer — he would repeat “what did you see” and “what did you hear” over and over again until some interviewees would kicks him out. But his persistence enables his access. Some subjects would decline interviews until he had asked a dozen times, or until they had nothing to lose. Moses had shut down, according to Caro, a dozen biographies before Caro began his. And Moses’s circle tried to prevent others from talking to him as long as they could — until Caro was invited eventually for a series of interviews with Moses himself.{% sidenote "indadm-id" "Moses admits to or implies many shady things in these interviews. The last interview, after which Moses refuses any more, covers one time Moses failed to build a road where he wanted to. He was willing to talk about being crooked, but never about losing." %}  
 
-1. "The main thing about P2P meth is that there's so much of it" — this one is about a new type of meth, made from [Phenylacetone](https://en.wikipedia.org/wiki/Phenylacetone), or P2P. Dynomight heard that this new type of meth is driving people crazy, follows the evidence, learns (or teaches me) what isomers have to do with it, and dismisses the hypothesis that the new meth is worse meth than old meth. There are just more addicts.
-2. "Contra four-wheeled suitcases, sort of" — this one is a list of examples of times when over-designing for the modal user fails — and times it's necessary. Fancy, fragile vs rugged, robust.
+It was similar with southern Democratic senators who mentored or worked with LBJ, and were eventually "betrayed" by him for the Civil Rights Act of 1964. Whether out of anger or embarrassment, some of LBJs Senate mentors wouldn't talk to Caro until their deathbed.
 
-Anyway. It's always interesting.
+Caro writes about his life as if it’s a normal CV — journalism, then books. But no. He’s 84 years old when this book comes out and his life is a short education, followed by two projects. He attempts to portray this as normal, or even more normal than other researchers. Another writer in the New York Public Library asks Caro how long he's been working on his biography of Moses: 
 
-**[Global Developments](https://www.global-developments.org/)** — Oliver Kim is an economics PhD student at Berkeley and writes well on things I care about. I knew Albert Hirschman's story, but Kim's [combined bio/book review](https://www.global-developments.org/p/the-real-development-was-the-friends) was more detailed than I ever would have gotten otherwise. I learned more about Hirschman's work in the resistance against the Nazis, and that Paul Klee was his favorite artist. That alone was worth the price of admission.
+> When I replied, “Five years,” the response was not an incredulous stare.
+> “Oh,” Jim Flexner said, “that’s not so long. I’ve been working on my Washington for nine years.” 
 
-**[Mr. And Mrs. Psmith's Bookshelf](https://www.thepsmiths.com/)** — A pseudonymous married couple write book reviews together. I've read their entire archives, and I'm yet to come across an explicit Wodehouse reference.{% sidenote "psmi-id" "The Psmith books are an excellent place to start with Wodehouse, and everyone should start with Wodehouse at some point." %}  John Psmith posts excellent reviews of [math-y books](https://www.thepsmiths.com/p/review-galois-theory-by-david-cox), including textbooks; Jane posts about books on [trees](https://www.thepsmiths.com/p/review-how-to-read-a-tree-by-tristan) and [archeology](https://www.thepsmiths.com/p/review-sea-people-by-christina-thompson). My favorite [post](https://www.thepsmiths.com/p/review-the-man-who-rode-the-thunder), on the metric of "I've never heard of this, and probably wouldn't have otherwise, and I'm glad I did," was *The Man Who Rode the Thunder.*
+Yeah, he's not normal. The LBJ biography has taken him 49 years and counting.  
 
-**Money Stuff** — I've probably read more of Matt Levine's words than anyone in the past five years.{% sidenote "words-id" "Other contenders: George Orwell, Emily Dickinson (if we count re-reads), MWG, or MWG (iykyk). " %}   I have over 100 saved articles of his; here's one at random. This is from March 2022 about whether Russian debt could be serviced due to sanctions:
-> At some point yesterday some compliance person at JPMorgan Chase & Co. got a question from an operations person. “Hey,” said the operations person. “You know the account that we hold for the Russian government? The one that is subject to harsh sanctions in the U.S. and much of the rest of the world? They just asked us to make a $117 million payment out of that account. What should we do? By the way this is an interest payment on Russia’s dollar-denominated sovereign debt, and if we hold up the money Russia will have defaulted on its foreign debt for the first time [since 1918](https://link.mail.bloombergbusiness.com/click/27061747.40493/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjItMDMtMTUvcnVzc2lhLXRvLWRlZmF1bHQtaWYtZG9sbGFyLWNvdXBvbnMtcGFpZC1pbi1ydWJsZXMtZml0Y2gtc2F5cz9jbXBpZD1CQkQwMzE3MjJfTU9ORVlTVFVGRiZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fdGVybT0yMjAzMTcmdXRtX2NhbXBhaWduPW1vbmV5c3R1ZmY/57d8172b3f92a424d68d85a9B6d787d4b). Let me know!”
-> 
-> And the compliance person sat down to read the text of the sanctions and conferred with some in-house lawyers hahahaha no I’m kidding obviously a very senior person at JPMorgan called a very senior person at the U.S. Treasury and said “can we pay this?” and Treasury said “yes” and so JPMorgan did. (Also probably this discussion happened _well_ before yesterday’s payment request, which has been scheduled for some time.)
+**Working**, however, is a short book. Within it, Caro explains his fascination with these two characters fully. The reason to read **The Power Broker** or **The Johnson Years** is not for those two people -- Wikipedia suffices. The reason is Caro's craft, diligence, and obsession. For that, the pronoun "I" is necessary. 
 
-The second paragraph makes an important but non-trivial point, in a laugh-out-loud, straightforward run-on sentence. Even the parenthetical is pithy. There are so many moments like this. I don't care about corporate finance! At all! I've tried. But I would read Matt Levine's descriptions of lawnmower maintenance. 
+A tidbit, I'm definitely going to quote in my spatial economics exam:
 
-He's not just a great writer tho — he *is* the premier commenter on his bailiwick. The single most important piece of FTX coverage came six months before the crash, when Levine interviewed SBF on Odd Lots. [Here](https://taizihuang.github.io/OddLots/html/odd-lots-full-transcript-sam-bankman-fried-and-matt-levine-on-crypto.html)'s a transcript; search for "farming." SBF explains yield farming, which was FTX's largest revenue source. After SBF details the mechanism in the abstract, we get this all-time response  from Levine: 
-> I think of myself as like a fairly cynical person. And that was so much more cynical than how I would've described farming. You're just like, well, I'm in the Ponzi business and it's pretty good.
+> One of my courses was taught by two professors who had written a well-regarded textbook on highways, including an analysis, in great detail, of highway location: why highways get built where they’re built. They were doing this by means of a mathematical equation. There were factors such as population density, traffic patterns, elevation of grades —that sort of thing. And at each class they would write the equation on the board, and then they would add new factors to it. And this equation was getting quite long. When I was at Princeton, I was a very diligent notetaker, and I was being a very diligent note-taker in this course and writing everything down. And then one day, while I was taking notes, I suddenly thought, No, that’s not why highways get built where they get built. *They get built there because Robert Moses wants them there!*
 
-**[Statecraft](https://www.statecraft.pub/)** — I listen to podcasts when I have to, but I don't like it. I would much rather read your interview. Santi Ruiz at the Institute for Progress only posts the transcripts, and they're all on how people achieve policy goals. I'm certainly in the American top 1% of knowledge on OTA and FAR, but [this](https://www.statecraft.pub/p/how-to-buy-stuff-like-darpa-does) interview was the best both introduction and expert-level discussion of OTA I've read. Ruiz is an excellent interviewer, especially given many of his subjects are not often in such venues. Highly recommended for ambitious people in DC.
+**The General**, C.S. Forester. 
 
-**[The Zvi](https://thezvi.substack.com/)** — [Zvi](https://en.wikipedia.org/wiki/Zvi_Mowshowitz) has the most prodigious output of anyone on this list. He posted thousands of words on Covid every week until 2023, when he pivoted to doing the same on AI. He has a very particular, safetyist, LessWrong viewpoint; he's not used to being wrong. His primary opponent is the Jones Act. I learn a lot from every post, but I check twitter too much whenever I read him. 
 
-**[Bits About Money](https://www.bitsaboutmoney.com/)** — By Patrick McKenzie, or patio11, the Matt Levine of payments infrastructure. I know everything I know about [credit cards ](https://www.bitsaboutmoney.com/archive/credit-cards-as-a-legacy-system/)because of him. "The [optimal](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/) amount of fraud is non-zero" is surprisingly load-bearing for my day-to-day work. His [post on salary negotiation ](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)is "responsible for ~$9 million a year in marginal improvement to compensation;" I've shared it with friends who negotiated thousands of $ more in compensation because of it. Besides all of this, he's an excellent anthropologist of Japan.
+This is a fictional biography of Lieutenant General Herbert Curzon, a British officer serving on the Western Front during World War I. Forester paints a portrait of Curzon as a relic of the old army — a brave, simple soldier with a talent for following orders, but lacking in creativity.
 
-**[Admiral Cloudberg](https://admiralcloudberg.medium.com/)** — The Matt Levine of airplane crashes. Already covered [here](https://jablevine.com/older/february_2024#reading).
+Forester's lightly mocks Curzon's stodginess, upper lip, and ignorance throughout the book, but he also acknowledges the general's ability to inspire his soldiers, albeit unknowingly. Curzon's severe demeanor and straightforward approach to leadership prove effective, even if they are not particularly innovative.
 
-**[The Browser](https://thebrowser.com/)** — for everything else. The only one I pay for on here, and very worth it. I don't want to give examples, because each piece is unique. The topics and viewpoints are fully diverse.
+The frame story, which features an elderly Curzon on the promenade at Bournemouth, aims to evoke a sense of pathos. Forester suggests that all men, even the greatest, eventually end up wilted. However, the execution of this frame story is not as neat as it could be. Earlier in the book, Curzon relieves an elderly general of command after rapidly ascending the ranks from major, of <100 soldiers, to brigadier, commanding 100,000 Englishmen. While this could be seen as a premonition of Curzon's own fate, Forester implies that Curzon's time as a general was more successful and effective than that of the relieved officer. 
+
+Despite the uneven framing,{% sidenote "comlp-id" "Hey, OK, history is complicated." %}  the structure serves a purpose. Curzon's life and service are portrayed as accidentally admirable in their own context. On the promenade, he is ignorant of his piteousness, and quite content. He doesn't need anything else.
 
 
 ## Links
 
-These are various interesting or fun things I've found on the internet this month.
+These are various interesting or fun things I've found on the internet this month.{% sidenote "lap-id" "I didn't have my laptop or internet for most of this month, so only a few." %}  
 
+{% newthought "An American company now" %} uses *in ovo* [sexing](https://www.nytimes.com/2024/03/28/climate/chickens-egg-industry-humane.html). Male laying chicks are useless for eggs and meat, and are macerated after hatching. New technology identifies the male eggs before hatching. [Here](https://press.asimov.com/articles/before-they-hatch)'s a good article on near-term tech.
 
-## Music
+{% newthought "I use the " %} [Internet Archive ](https://archive.org/) every day; it played a large role in my masters thesis. They illegally copied and distributed millions of books during Covid, and now [they're getting walloped in court](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself). The Archive is not particularly well-funded, and if copyright holders seek damages, the entire organization is at risk. I'm personally sympathetic to the Archive's activities, but not optimistic about their future.
+
+{% newthought "How many planes" %} are there? Today, not that many -- about 25,000 commercial,{% sidenote "bigar-id" "Less than 2,000 of these are what we'd think of as 'big' places -- 747s, A380s. Most commercial planes are small." %}  another 10,000 military planes. In 1944, the [US made 100,000 planes](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in): more than twice the total number in the world today. Over the course of WWII, we made more then 300,000 planes. 
+
 
 
 ## Previously
+
+*[May, 2024](https://jablevine.com/older/may_2024)*
 
 *[April, 2024](https://jablevine.com/older/april_2024)*
 
