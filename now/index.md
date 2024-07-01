@@ -3,13 +3,13 @@ layout: page
 title: What am I up to now?
 ---
 
-## June, 2024
+<!-- omit in toc -->
+## July, 2024
 
+<!-- omit in toc -->
 ## Contents
-- [June, 2024](#june-2024)
-- [Contents](#contents)
 - [Updates](#updates)
-- [Notes on Nepal](#notes-on-nepal)
+- [Notes on Gambia](#notes-on-gambia)
 - [Reading](#reading)
 - [Links](#links)
 - [Previously](#previously)
@@ -18,96 +18,84 @@ title: What am I up to now?
   
 ## Updates
 
-The "weird" part of my PhD is mostly wrapped up. I have an exam{% sidenote "last-id" "Probably my last school exam ever?" %}  the first week of June, and then I head to The Gambia for a few weeks of field work. 
+I'm in DC for the next three weeks, please say hi! I'll also be at the [Economics of Animal Welfare conference](https://ppe.brown.edu/events/economics-animal-welfare-conference) at Brown University on 11-12 July. 
 
-My next three years are very much like a typical American PhD: head-down research, only emerge for seminars, "a good dissertation is a finished dissertation," etc. This is a bit of a relief: the first two years of the [MPhil+DPhil](https://www.economics.ox.ac.uk/mphil-dphil-in-economics) were rather odd, owing to the somewhat confused expectations of research, coursework, and departmental standing for our cohort. The integrated MPhil+DPhil is a *new* degree, we're only the second cohort, and the administration is still figuring things out.{% sidenote "udn-id" "My undergrad was weird for a similar reason; when I started, no class had graduated from the joint degree program." %}  
+In June, I had (hopefully) my last ever exam. We haven't received our MPhil results yet, so I'll be a little jittery until those come out next week. I also spent two weeks in Gambia, working on our project with our new team member CL! 
 
-I haven't minded the chaos -- if anything, it has given us greater freedom to explore research paths and not overburdened us with coursework. Especially in a town as hidebound as Oxford, an unfinished rulebook provides a lot of leeway. Already, the administrative hiccoughs are being resolved; the two cohorts which have followed us are going to have an easier and less confusing time of it! 
+## Notes on Gambia
 
-I'll be in DC for most of July! Please [reach out](https://jablevine.com/hi/) if you want to catch up. I'll also be at the Economics of Animal Welfare Conference at Brown. 
+One fun fact my friends have probably gotten tired of by now: The Gambia is [one of two countries](https://web.archive.org/web/20210411013024/https://www.africanews.com/2017/01/19/why-africa-s-smiling-coast-is-referred-to-as-the-gambia/) with the definite article "the" in its official name, the other being The Bahamas.  This supposedly comes from the first Gambian president's worry of being confused with Zambia. 
 
-## Notes on Nepal
+I can report feeling stupid whenever I call it The Gambia to a The Gambian. "I missed The Gambia," I told my friend who met me at the airport. "The Gambia always feels so welcoming." Gambians don't make it any easier. Gambians who have spent time in Europe and the US and Canada are careful to use the country's official name,{% sidenote "taiw-id" "Gambians who studied in Taiwan or China universally avoid the "The"." %}  but it's less common among taxi drivers, tax collectors, or school kids. You know, the salt-of-the-earth The Gambians.{% sidenote "mandi-id" "English is the second language of Gambians. I asked native Wolof and Mandinka speakers how they referred to the country; most didn't notice or care, a few reported just ``Gambia.'' No one reliably used the ``The'' in their first language, even people who always included it in English." %}  They just live in Gambia. 
 
-I spent three weeks of May in Nepal with MWG and her friends from Tsinghua. We had five days in Kathmandu, two days in Pokhara, and two weeks scrambling over Himalayas. The country and weather was beautiful. Some disconnected thoughts:
+I was there for two weeks, and the middle weekend was Eid al-Adha, or Tabaski. This cost me and CL a work day, but we're lucky it didn't cost us two: the government was considering declaring both Monday and Tuesday festival days. The uncertainty isn't new. When I lived in [Sierra Leone](https://jablevine.com/older/july_2021), the president would often announce national holidays on the morning of the holiday. When I was out for a morning run, I could see drivers start to pull U-turns as the news spread. Gambia wasn't quite so last minute, but thankfully the festival only lasted one day.
 
-What's the highway construction plan? We spent more than 40 hours on highways. The typical ride is about 500m of paved road, followed by five kilometers of potted dirt, then another paved section, then repeat. The work continues --- I saw more road crews per kilometer than any American or European highway. The paved sections seem chosen at random: some on ascents or descents, some close to a river or far, some close to towns. There are also lots of bridges to nowhere, right next to functioning but bumpy bridges. 
+Banerjee and Duflo's essay "The Economic Lives of the Poor"{% sidenote "loadb-id" "Loadbearing." %} has a memorable section on the importance of festivals and religious spending for people living under the extreme poverty line ($1.08 in consumption per day). Even at the expense of nutrition and health, festival spending remains high in many contexts.{% sidenote "shifent-id" "The main lever is other forms of entertainment: in India, where festival spending is high, radio and TV ownership is low, and v.v." %} Gambians conform: it felt like a different country during Tabaski. 
 
-The rides were, despite this, comfortable enough. Most of the buses we sat on were as comfortable as any bus between DC and NY, and the seats were often larger. Although the roads were often as bad as those in [Sierra Leone](https://jablevine.com/older/november_2021), I never had to resort to audio books.
+I spent Tabaski with a friend's family; the vibes were Thanksgiving: a football game around noon, a large midafternoon meal, friends and family stopping by, and a lazy evening lounging around. The major difference, and the centerpiece of Tabaski, is the sacrifice. Eid al-Adha is the feast comemorating Abraham's willingness to sacrifice Isaac at God's insistence, and Muslims sacrifice cattle (udhiya). Gambian families use a ram, which costs about $350.{% sidenote "nomg-id" "Gambian nominal GDP per capital is about $800." %} The family I was with was large, and had bought two rams. Around noon, we laid them down and cut their throats; dinner was served about three hours later. 
 
-These highways have an interesting type of traffic backup, especially on cliff-side roads with tight corners. It seems like the equivalent of a temporary traffic light, but enforced by norms and risk tolerance. As we approached a corner, traffic in one direction would stop once a truck thinks they can't make a corner against the waiting oncoming vehicles. Then it's the turn of the other direction, until one of *their* vehicles gets spooked by the corner, and the waiting truck gets to try their luck. Sometimes we would pause for fifteen minutes waiting for one of these games of chicken to reverse the flow.{% sidenote "lhs-id" "Related, in India I noticed that being legally a left-hand-traffic country means little when when your roads are pocked and crowded. It was the same in Nepal: cars will drive on the left, right, and center to reduce bumps." %} Nepal does have a large corps of traffic police,{% sidenote "amsk-id" "There was absolutely impeccable mask discipline among these traffic police, presumably for dust reasons." %}  but they would rarely be at these chokepoints.
-
-What are normal characteristics of your car to advertise (Lancaster 1966)? In Nepal, almost all billboards chose ground clearance.{% sidenote "ev-id" "Chinese electric vehicles are *everywhere*. MWG and I saw a lot of these in Central Asia last summer; the curve feels steep." %}  
-
-A puzzle I discussed with BB and RD, especially on the long drives, was the urban-rural differences between Tibet and Nepal. Nepal has about 10x the population of the Tibet Autonomous Region, but Tibet is much more heavily urbanized: 15% of Tibet's population lives in its capital, compared to 3% of Nepal's. The boring explanation is political factors. More interesting is the industrialization, infrastructure, and productivity angle. The roads in Tibet are not like the roads in Nepal, and Tibet has Chinese passenger and freight rail (Nepal has none). The standard spatial economics argument (Krugman 1991, Fujita et al. 1999) is that cheaper transportation strengthens the city: the relative benefit of producing a widget in your rural village falls with the cost of buying a big-city widget. 
-
-Nepal seems like a geography given to dispersion.{% sidenote "pan-id" "Much like Papua New Guinea, which is so mountainous it [forgot about half](https://www.ft.com/content/5a1a8d10-d2cd-4467-b877-06146cdb48e1) its population in 2022." %} However, I was suprised by the amount of lowlands: it is a country with a top half and a bottom half. Most of the population lives south of the Himalyas, close to India. The correct comparison for these agricultural regions is not Tibet, but Uttar Pradesh.{% sidenote "ups-id" "This mostly lines up with economic reality: the average Nepali is  slightly richer than the average UP, and both are *much* poorer than the average Tibetan. I've spent time in rural UP, but we didn't visit any rural parts of low Nepal. " %} 
-
-This leads to the question of migration. Nepalis can cross into India and work without any authorization, and India *as a whole* is twice as rich per capita as Nepal. Anecdotally, I didn't meet any Nepalis who traveled to India to work, and I met many who traveled to the UAE, Poland, Qatar.{% sidenote "sele-id" "Beware the selection, etc." %}  I'm not surprised by the equilibrium (the benefits of working in India aren't particularly large), but it does put a damper on reducing migration barriers *between* low-income countries.
-
-I have various other notes on proselytizing Buddhists, the Geneva convention's exception for Gorkhas, and the only democratically-elected Maoist head of state in the world. Maybe enough for another post!
-
-All that's left is to write about is the leaving. My friends flew east from Kathmandu, towards Guangzhou and Chengdu. These flights cross the bulk of the Himalayas, and as the monsoon strengthens, they fly well above 35,000 feet. My flight to Delhi was relatively downhill. 
-
-When we took off towards London from Delhi, the temperature above the tarmac{% sidenote "macet-id" "A fun etymology, coming from tarmacadam. Macadam is a paving mixture of gravel and dust, invented by a guy named MacAdam. When you mix tar with macadam, the dust doesn't escape. No one uses tarmac anymore, tho, it's all concrete." %}  was over 120 F. My flight was beautiful: we performed a radical dogleg around the Wakhan corridor to avoid Afghan airspace. Sitting on the left of the plane, I had a steep view of the first Himalayas I ever met. 
+I have killed animals I've eaten before, a chicken in Freetown and a goat in rural Sierra Leone. But it's been a while. 
 
 ## Reading
 
-**The Birth of Korean Cool**, Euny Hong
+I read *Shakespeare's Kings* by Norwich on the flight to Gambia. This is an history of the period covered by Shakespeare's Henriad (the eight plays about Richard II, Henry IV, Henry V, Henry VI, and Richard III, plus the misattributed *Edward III*). I've read the Henriad twice through. The first was in 2021, entirely on the couch of my first house in Sierra Leone. The days were *hot* and I didn't like moving at all, so I lay on the couch in my shorts, and mumble the great speeches and machinations. This read was inspired by a compelling tidbit I had found in the diary of an English colonial officer: the second *ever* performance of *Richard II* was staged in Freetown. The play has some plot elements which may be concerning to sitting monarchs, and after the Earl of Essex's failed uprising in 1601, London's director of revels had banned the play. In 1607, the *HMS Dragon* had brought copied of several Shakespeare plays, including the newly printed *Hamlet* — and Freetown was far enough from London for even such controversial plays to go on. I hadn't — and still haven't — been able to find out where in the city the plays were staged, but perhaps I'll look further next trip. The Royal Navy tends to keep good records.
 
-A question I like asking people is, "Why is China bad at soccer?" The most common answer I get is the *gaokao* -- kids are so focused on academics that they don't have time to kick a ball around. This book is the starting point for a rebuttal. South Korea approaches these problems with authoritarian means: a Ministry for Culture, Five Year Plans, government-run choreography bootcamps. But success doesn't arrive until after the transition to democracy in the late 1980s. 
+I also read *The Life of Martha Ballard*. Martha was the midwife in a small town in Maine at the end of the 18th century; she delivered several babies a week. She also kept a diary every day for almost thirty years. The book is written by an historian of early American women's labor, and she has much to teach using Ballard as a frame. Ballard is an interesting character, though her diary is not immediately revealing — her most emotional outburst is, in its entirety: "Shocking." This comes after the acquittal of a judge accused of raping her friend.  If we don't learn much about her internal life from her diary, we can find stuff out from the epidemiology. In the first 300 births she directs, only one mother dies. This is in the 1790s. Today, in Sierra Leone, more than five women would have died in the same number of births. Progress has not been universal.
 
-The book is a bit of a memoir, and doesn't seek a throughline of the driving factors; there's no roadmap to success. There are hints: I wish Hong had spent more time on the five year plans, and legislation in support of artists. One of the highlights is a speech by the South Korean president discussing Psy's (of Gangnam fame) use of patented choreography -- and praising him for paying royalties to the appropriate K-pop band.
+Earlier this year, I read and wrote about the history of Himalayan mountain climbing. This past month also saw the 100th anniversary of Mallory and Irvine's death on Mount Everest. My wonderful girlfriend was at Everest base camp on the day, and I sent a message to her group of friends: 
 
-Besides the government, the other star is Korea's ridiculous prosociality and homogeneity. They paid off the 1997 IMF loan three years ahead of schedule, in part by soliciting donations from tax payers. Literal tons of gold from jewelry was sent in. The culture is another explanation Hong relies on for the success of K-dramas and Korean cinema: Korean men are seen as good romantic partners by Japanese and Chinese women, and Koreans are inherently tragic figures (who isn't?), lending a certain pathos.
+On 8 June, 1924, George Mallory and Sandy Irvine attempted to summit Mount Everest. They both died that night. Mallory was 38, and widely regarded as the best climber in Europe. Irvine was just 22, an undergraduate at Oxford, and had never climbed outside of England before his trip to Tibet. While Mallory's body was recovered, perfectly preserved, in 1999, Irvine has never been found.
 
-Hong's book is outdated: it was motivated by the success of *Gangnam Style*, when I was in middle school. She deals with a very interesting question which evades easy answers. 
+The climb remains a mystery — some mountaineers believe that Mallory and Irvine reached the summit, and met calamity on the way down. The most suggestive evidence is a photograph, or the lack of one: Mallory had brought a picture of his wife to place on the summit, and the photograph was not found on his body. Unfortunately, it's more likely their ascent proved intractable — the route they planned to take was _possibly_ within Mallory's abilities, but would have stymied Irvine (the most difficult section is an ascent of 40m, at an altitude of 8.610m, rated a V+ or 5.9 free). 
 
-**Working**, Robert Caro. 
-
-Caro notes early on that, in both his [Moses](https://en.wikipedia.org/wiki/The_Power_Broker) and [LBJ](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson) books, he uses the pronoun "I" fewer than a dozen times. This book is about all the "I"s he omits.
-
-The majority is on interviewing. He is a persistently annoying interviewer — he would repeat “what did you see” and “what did you hear” over and over again until some interviewees would kicks him out. But his persistence enables his access. Some subjects would decline interviews until he had asked a dozen times, or until they had nothing to lose. Moses had shut down, according to Caro, a dozen biographies before Caro began his. And Moses’s circle tried to prevent others from talking to him as long as they could — until Caro was invited eventually for a series of interviews with Moses himself.{% sidenote "indadm-id" "Moses admits to or implies many shady things in these interviews. The last interview, after which Moses refuses any more, covers one time Moses failed to build a road where he wanted to. He was willing to talk about being crooked, but never about losing." %}  
-
-It was similar with southern Democratic senators who mentored or worked with LBJ, and were eventually "betrayed" by him for the Civil Rights Act of 1964. Whether out of anger or embarrassment, some of LBJs Senate mentors wouldn't talk to Caro until their deathbed.
-
-Caro writes about his life as if it’s a normal CV — journalism, then books. But no. He’s 84 years old when this book comes out and his life is a short education, followed by two projects. He attempts to portray this as normal, or even more normal than other researchers. Another writer in the New York Public Library asks Caro how long he's been working on his biography of Moses: 
-
-> When I replied, “Five years,” the response was not an incredulous stare.
-> “Oh,” Jim Flexner said, “that’s not so long. I’ve been working on my Washington for nine years.” 
-
-Yeah, he's not normal. The LBJ biography has taken him 49 years and counting.  
-
-**Working**, however, is a short book. Within it, Caro explains his fascination with these two characters fully. The reason to read **The Power Broker** or **The Johnson Years** is not for those two people -- Wikipedia suffices. The reason is Caro's craft, diligence, and obsession. For that, the pronoun "I" is necessary. 
-
-A tidbit, I'm definitely going to quote in my spatial economics exam:
-
-> One of my courses was taught by two professors who had written a well-regarded textbook on highways, including an analysis, in great detail, of highway location: why highways get built where they’re built. They were doing this by means of a mathematical equation. There were factors such as population density, traffic patterns, elevation of grades —that sort of thing. And at each class they would write the equation on the board, and then they would add new factors to it. And this equation was getting quite long. When I was at Princeton, I was a very diligent notetaker, and I was being a very diligent note-taker in this course and writing everything down. And then one day, while I was taking notes, I suddenly thought, No, that’s not why highways get built where they get built. *They get built there because Robert Moses wants them there!*
-
-**The General**, C.S. Forester. 
-
-
-This is a fictional biography of Lieutenant General Herbert Curzon, a British officer serving on the Western Front during World War I. Forester paints a portrait of Curzon as a relic of the old army — a brave, simple soldier with a talent for following orders, but lacking in creativity.
-
-Forester's lightly mocks Curzon's stodginess, upper lip, and ignorance throughout the book, but he also acknowledges the general's ability to inspire his soldiers, albeit unknowingly. Curzon's severe demeanor and straightforward approach to leadership prove effective, even if they are not particularly innovative.
-
-The frame story, which features an elderly Curzon on the promenade at Bournemouth, aims to evoke a sense of pathos. Forester suggests that all men, even the greatest, eventually end up wilted. However, the execution of this frame story is not as neat as it could be. Earlier in the book, Curzon relieves an elderly general of command after rapidly ascending the ranks from major, of <100 soldiers, to brigadier, commanding 100,000 Englishmen. While this could be seen as a premonition of Curzon's own fate, Forester implies that Curzon's time as a general was more successful and effective than that of the relieved officer. 
-
-Despite the uneven framing,{% sidenote "comlp-id" "Hey, OK, history is complicated." %}  the structure serves a purpose. Curzon's life and service are portrayed as accidentally admirable in their own context. On the promenade, he is ignorant of his piteousness, and quite content. He doesn't need anything else.
-
+Mallory and Irvine's attempt was the final assault on Everest after four years of English campaigns, and there was not another serious attempt on the mountain until the 1950s. The Dalai Lama had been offended by various English disrespects, and forbade further expeditions. Indeed, the first confirmed ascent, by Tenzing Norgay and Edmund Hilary in 1954, was staged from the Nepali side. Not until 1960 did a team of Chinese climbers complete the route attempted by Mallory and Irvine. 
 
 ## Links
 
-These are various interesting or fun things I've found on the internet this month.{% sidenote "lap-id" "I didn't have my laptop or internet for most of this month, so only a few." %}  
+These are various interesting or fun things I've found on the internet this month.
 
-{% newthought "An American company now" %} uses *in ovo* [sexing](https://www.nytimes.com/2024/03/28/climate/chickens-egg-industry-humane.html). Male laying chicks are useless for eggs and meat, and are macerated after hatching. New technology identifies the male eggs before hatching. [Here](https://press.asimov.com/articles/before-they-hatch)'s a good article on near-term tech.
+{% newthought "I probably won't read" %} [this book](https://www.amazon.co.uk/Chinese-Computer-Global-History-Information/dp/0262047519) on the history of Chinese keyboards, but I've read three [book](https://www.technologyreview.com/2024/05/27/1092876/type-chinese-computer-qwerty-keyboard/) [reviews](https://spectrum.ieee.org/chinese-keyboard) of it. Sounds interesting for any friends working with or designing complicated UIs.
 
-{% newthought "I use the " %} [Internet Archive ](https://archive.org/) every day; it played a large role in my masters thesis. They illegally copied and distributed millions of books during Covid, and now [they're getting walloped in court](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself). The Archive is not particularly well-funded, and if copyright holders seek damages, the entire organization is at risk. I'm personally sympathetic to the Archive's activities, but not optimistic about their future.
+{% newthought "What kills us" %}, and at when? [Here are four different charts](https://www.scientificdiscovery.dev/p/four-charts-to-understand-causes) on death and age, motivated and explained by a writer at Our World in Data.
 
-{% newthought "How many planes" %} are there? Today, not that many -- about 25,000 commercial,{% sidenote "bigar-id" "Less than 2,000 of these are what we'd think of as 'big' places -- 747s, A380s. Most commercial planes are small." %}  another 10,000 military planes. In 1944, the [US made 100,000 planes](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in): more than twice the total number in the world today. Over the course of WWII, we made more then 300,000 planes. 
+{% newthought "A spectacularly fabulous opening" %} to a review of a book called *The Flattening*: 
+> I was told that Thomas Friedman had a new book coming out. All my editor knew about it was the title, but that was enough; he approached me with the chilled demeanor of a British spy who has just discovered that Hitler was secretly buying up the world's manganese supply. Who knew what it meant but one had to assume the worst.
+
+(Don't read the book.)
+
+
+{% newthought " The German ambassador in London" %} at the outbreak of WWI was named [Karl Marx](https://en.wikipedia.org/wiki/Karl_Max,_Prince_Lichnowsky).
+
+{% newthought "An unsourced claim" %} on a blog: 
+
+> If you get toddlers, or hunter-gatherers with no exposure to Western mathematics, to say what number is halfway between 1 and 9, they say 3, because the ratio 3:1 is the same as the ratio 9:3. In other words, our intuitive perceptions of numbers are actually logarithmic and not linear.
+
+The canonical source seems to be [Dehaene et al. 2008](https://inserm.hal.science/inserm-00285215/document), which deals with the hunter-gatherers (the Mundurucu in the Amazon). I can't find the toddlers version. 
+
+{% newthought "The best video" %} of the [month](https://x.com/gnuman1979/status/1740796321181974591).
+
+{% newthought "This is a good review" %} of *The Iliad*, specifically Emily Wilson's version but it generalizes. A few points I'll highlight: first, meter doesn't really matter in translations of poetry which retain meter. The reviewer notes he doesn't ``notice any patter in where the line breaks occur,'' which is precisely the problem.{% sidenote "iam-id" "Iambs, however, matter a ton, and the feet are often neglected. [Here's](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/) a modern example; read the first paragraph aloud." %}   Second, the review has an excellent discussion of why context is important; he says he can't distinguish "this is how stuff just is, in Homer's world" and what parts of it are "Homer showing the audience something unusual". The lack of context makes it unclear what is a choice and what is "just how stuff is". Third, he asks in a footnote: "are there old-but-popular things that don't get labeled "classics"?" I can't think of any, and conversations with LLMs didn't come up with anything, either. Finally, this review inspired me to watch "Get Over It," the early 2000s *Midsummer Night's Dream* high school adaptation, which was weird but worthwhile.
+
+
+{% newthought "Here's a quote from Orwell's" %} newspaper column, in mid 1944:
+
+> Among the German prisoners captured in France there are a certain number of Russians. Some time back two were captured who did not speak Russian or any other language that was known either to their captors or their fellow prisoners. They could, in fact, only converse with one another. A professor of Slavonic languages, brought down from Oxford, could make nothing of what they were saying. Then it happened that a sergeant who had served on the frontiers of India overheard them talking and recognized their language, which he was able to speak a little. It was Tibetan! After some questioning, he managed to get their story out of them.
+> 
+> Some years earlier they had strayed over the frontier into the Soviet Union and had been conscripted into a labour battalion, afterwards being sent to western Russia when the war with Germany broke out. They were taken prisoner by the Germans and sent to North Africa; later they were sent to France, then exchanged into a fighting unit when the Second Front opened, and taken prisoner by the British. All this time they had been able to speak to nobody but one another, and had no notion of what was happening or who was fighting whom.
+> 
+> It would round the story off neatly if they were now conscripted into the British army and sent to fight the Japanese, ending up somewhere in Central Asia, quite close to their native village, but still very much puzzled as to what it is all about.
+
+It turns out this story is slightly more insane than even Orwell wrote, and [even possibly true](https://books.google.co.uk/books?id=omwXyKWpS1IC&pg=PA101&lpg=PA101&dq=%22the+german+commandant+involved+in+their+capture+didn%27t+execute+them.+instead%2C+he+had+them+transported+to+poland%22&ots=3eMzdgvLfE&sig=ACfU3U3nIln6AfPPYuDFN7igsfxGHfkYzg&hl=en#v=onepage&q=%22the%20german%20commandant%20involved%20in%20their%20capture%20didn&f=false)! The British officer who questioned them reported that the Tibetans believed they were dead.
+
+> In their terms, their ordeal had been a test of their being, and a means, they hoped, of gaining Nirvana, however confusing and unorthodox those means were. They had survived because from the very first days they had believed that they were dead men caught in an unpredictable Bardo, or netherworld.
+> 
+> To the Tibetans, bodily survival had not been a goal, since they believed that they were already dead. They were traversing the netherworld in order to be reborn. They'd sought shelter, eaten and slept only because their bodies continued to make demands for shelter, food and sleep.
 
 
 
 ## Previously
+
+*[June, 2024](https://jablevine.com/older/june_2024)*
 
 *[May, 2024](https://jablevine.com/older/may_2024)*
 
