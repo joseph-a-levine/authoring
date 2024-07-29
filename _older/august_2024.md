@@ -17,17 +17,26 @@ title: What am I up to now?
   
 ## Updates
 
-Spent July in the US
+I spent most of July visiting my family in DC with MWG. 
 
-Economics of animal welfare
+I also attended a conference on the economics of animal welfare at Brown. This was a compact, diverse event; several friends presented. Loren Fryxell{% sidenote "market-id" "On the market this winter from Oxford!" %} presented his own moral theory, with an even more interesting methodology for valuing animal wellbeing. Jojo XYZ did ABC. Luis Mota presented joint work with Kevin Kuruc. 
 
-Back in Oxford
 
+Now, I'm back in Oxford.
+
+Lot's of Olympics. 
+The full-Olympics £4 bundle from Discovery+ is fully worth it. I'm writing this during the cross country mountain biking final. Discovery+ finds expert commentators for each sport: the usual pattern is a generally experienced sports commentator paired with a recently retired athlete in this sport for color. The two mountain biking commentators narrarated a fabulous race: about 25 minutes into a 90 minute race, the reigning champ, Team GB Tom Pidcock, had to change his front tire, losing his lead and putting him 40 seconds back. Over the next hour, he clawed his way into a tie for first going into the final lap, and battled it out with a frenchman 
+
+Not to underestimate the difficulty of the job: the commentary has to explain what's going on to total novices while not boring the fanatics. As embedded as they are in their sport, they occasionally miss the balance: the cross country cycling commentators continually teased us with mention of the Swiss rider Flueckiger "recent well-known controversy"; the fencing commentators teach us that "epee is the only weapon without right-of-way" — for those of us who know the details of right-of-way, but unaware of the relevant weapons. 
+
+At the beginning of the DPhil, it's time for a bit of planning. Right now, my default path 
 Thinking about PhD stuff and the document
 
 
 
 ## Reading
+
+"Genre fiction" is a slur, meaning "bad fiction". It's the embarassing stuff, the books which, if you're a person-who-reads, you never admit to reading. I am one of the most person-who-reads who ever read, and I'm here to say: <small>I read over 6,000 pages of sci-fi, fantasy, and alternate history this month</small>.
 
 Musings on "genre" and "bad" fiction. Low status. But I love it
 
