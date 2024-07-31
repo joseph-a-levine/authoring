@@ -17,14 +17,16 @@ title: What am I up to now?
   
 ## Updates
 
-I spent most of July visiting my family in DC with MWG. 
+I spent most of July visiting my family in DC with my wonderful girlfriend. Being home was nice, although MWG now gets along with my parents dog better than I do. 
 
-I also attended a conference on the economics of animal welfare at Brown. This was a compact, diverse event; several friends presented. Loren Fryxell{% sidenote "market-id" "On the market this winter from Oxford!" %} presented his own moral theory, with an even more interesting methodology for valuing animal wellbeing. Jojo XYZ did ABC. Luis Mota presented joint work with Kevin Kuruc. 
+While in the US, I also attended a conference on the economics of animal welfare at Brown. This was a compact, diverse event; several friends presented. Loren Fryxell{% sidenote "market-id" "On the market this winter from Oxford!" %} presented his own moral theory, with an even more interesting methodology for valuing animal wellbeing. Jojo XYZ did ABC. Luis Mota presented joint work with Kevin Kuruc. Tyler Cowen made the case for GLP-1 inhibitors as teh being the most important trend in animal welfare,{% sidenote "sidenote-id" "This is a random sidenote" %} although he later recanted on his [blog](https://marginalrevolution.com/marginalrevolution/2024/07/the-economics-of-glp-1.html). 
+
+Over those three days, I repeatedly heard that this field is only one AER, one JEL???, one top-tier applied micro JMP away from the big-time. 
 
 
-Now, I'm back in Oxford.
+Now, I'm back in Oxford. 
 
-Lot's of Olympics. 
+I'm also indulging in lots of Olympics. 
 The full-Olympics £4 bundle from Discovery+ is fully worth it. I'm writing this during the cross country mountain biking final. Discovery+ finds expert commentators for each sport: the usual pattern is a generally experienced sports commentator paired with a recently retired athlete in this sport for color. The two mountain biking commentators narrarated a fabulous race: about 25 minutes into a 90 minute race, the reigning champ, Team GB Tom Pidcock, had to change his front tire, losing his lead and putting him 40 seconds back. Over the next hour, he clawed his way into a tie for first going into the final lap, and battled it out with a frenchman 
 
 Not to underestimate the difficulty of the job: the commentary has to explain what's going on to total novices while not boring the fanatics. As embedded as they are in their sport, they occasionally miss the balance: the cross country cycling commentators continually teased us with mention of the Swiss rider Flueckiger "recent well-known controversy"; the fencing commentators teach us that "epee is the only weapon without right-of-way" — for those of us who know the details of right-of-way, but unaware of the relevant weapons. 
@@ -36,14 +38,16 @@ Thinking about PhD stuff and the document
 
 ## Reading
 
-"Genre fiction" is a slur, meaning "bad fiction". It's the embarassing stuff, the books which, if you're a person-who-reads, you never admit to reading. I am one of the most person-who-reads who ever read, and I'm here to say: <small>I read over 6,000 pages of sci-fi, fantasy, and alternate history this month</small>.
+"Genre fiction" is a slur, meaning "bad fiction". It's the embarassing stuff, the books which, if you're a person-who-reads, you never admit to reading. I am one of the most person-who-reads who ever read, and I'm here to say: <small>I read 7,000 pages of sci-fi, fantasy, and alternate history this month</small>. 
+
+Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
 
 Musings on "genre" and "bad" fiction. Low status. But I love it
 
 
 
 
-Having written all of that, my ego wants to compensate by discussing all of the high status things I've read recently. 
+Having written all of that, my ego wants to compensate by discussing all of the high status things I've read recently. Three books by G.K. Chesterton, a collection of Chekhov's stories, two Shakespeare plays, and a few chapters of Milton. Ah, that feels better — 
 
 The best response I got to my books question from last month (“are there old-but-popular things that don’t get labeled “classics”?'') was detective fiction. Specifically convincing was Sherlock Holmes. 
 
