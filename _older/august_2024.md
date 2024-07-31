@@ -38,11 +38,23 @@ Thinking about PhD stuff and the document
 
 ## Reading
 
-"Genre fiction" is a slur, meaning "bad fiction". It's the embarassing stuff, the books which, if you're a person-who-reads, you never admit to reading. I am one of the most person-who-reads who ever read, and I'm here to say: <small>I read 7,000 pages of sci-fi, fantasy, and alternate history this month</small>. 
+"Genre fiction" is a slur, meaning "bad fiction". It's the embarassing stuff, the books which, if you're a person-who-reads, you never admit to reading. I am one of the most person-who-reads who ever read, and I'm here to say: <small>I read 10,000 pages of sci-fi, fantasy, and alternate history this month</small>. 
 
-There's the spectrum of intellecutally respectable entertainment which is particularly acute in Oxford. Reading *The Decline and Fall of the Roman Empire* by a fire in the Senior Common Room is at one end;{% sidenote "sidenote-id" "The old joke: A student at Oxford attends a cocktail party with members of the faculty. Hoping to impress these august dons, the student casually mentions, &quot;I was reading Gibbon the other night …&quot; Later, the student's faculty mentor pulls him aside to chide him for the comment. &quot;One must never say one is *reading* Gibbon,&quot; he says. &quot;One must always say one is *re-reading* Gibbon.&quot; " %} the Booker nominees are already edging the bounds of respectability; Blackwell's on Broad Street must deny selling any sci-fi published after 1973. 
+There's the spectrum of intellecutally respectable entertainment which is particularly acute in Oxford. Re-reading *The Decline and Fall of the Roman Empire* by a fire in the Senior Common Room is at one end;{% sidenote "joke-id" "The old joke: A student at Oxford attends a cocktail party with members of the faculty. Hoping to impress these august dons, the student casually mentions, &quot;I was reading Gibbon the other night…&quot; Later, the student's faculty mentor pulls him aside to chide him for the comment. &quot;One must never say one is *reading* Gibbon,&quot; he says. &quot;One must always say one is *re-reading* Gibbon.&quot; " %} the Booker nominees are already edging the bounds of respectability; Blackwell's on Broad Street must deny selling any sci-fi published after 1973. 
 
-Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
+Further, as someone whose identity is tied up in reading, I'm quite unclear on what I mean when I say "I like to read." Of course, I like to read for work — I consume endless books on topics I'm writing or researching on. I also read plenty of books which are not work and not purely fun: last month I wrote about a history of the kings of the Henriad and a biography of an early American midwife. This isn't entertainment; it doesn't replace other people's Netflix or TikTok, but it is the central example of my reading practice. 
+
+But I don't have Netflix or TikTok{% sidenote "pre-id" "I have to be pretentions somehow." %} so when I seek the same pure-entertainment rush, I end up in genre fiction. 
+
+Everyone is different. A new friend, who works as a copy editor in London, reads extensively on his own time, literally for practice.{% sidenote "sui-id" "Or perhaps he's particularly well-suited for his career." %} I've never seen MWG read a book I would call "fun," and certainly not genre fiction, without the severest of encouragements. Her taste runs towards titles like *Regulating Bodies* and *Rights for Robots.*
+
+On my trip back to DC, I started *Mother of Learning* a 3,000 page fantasy series. 
+
+After finishing that, I read the 7,000 page web serial *Worm*. 
+
+Finally, since returning to Oxford, I've charged through the first five books in the massive *1632* series. 
+
+None of these are good literature; all of them are genre fiction. The intersection is not empty, however. Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
 
 Musings on "genre" and "bad" fiction. Low status. But I love it
 
