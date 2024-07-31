@@ -56,7 +56,6 @@ Finally, since returning to Oxford, I've charged through the first five books in
 
 None of these are good literature; all of them are genre fiction. The intersection is not empty, however. Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
 
-Musings on "genre" and "bad" fiction. Low status. But I love it
 
 
 
