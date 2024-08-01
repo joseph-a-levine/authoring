@@ -52,19 +52,13 @@ On my trip back to DC, I started *Mother of Learning* a 3,000 page serialized no
 
 The most popular{% sidenote "ratnk-id" "By a few probably made-up rankings I found online." %} non-fan fiction web serial is *Worm* by John McCrae, which I read while in DC this summer. *Worm* is 7,000 pages, and while McCrae has written a few novels of similar length, *Worm* is the one which most broke out of the web serial world. It is a superhero science fiction story of high ambition, and almost engaging enough to justify the time investment; *Worm* is fast-paced enough to feel like scrolling an app. My only [previous experience](https://jablevine.com/older/november_2021) with long web fiction
 
-Finally, since returning to Oxford, I've charged through the first five books in the massive *1632* series. This is alternate history; a small mining town in West Virginia is transplanted to 17th century Germany. The 30+ books detail every possible effect such an event has on the world. Recent titles include *1635: The Battle for Nefoundland* and *1635: The Papal Stakes*. The first book, published in 2000, is unapologetically patriotic{% sidenote "ameri-id" "American revolution etc." %} and that spirit infuses all of the books published over the last 25 years by dozens of authors. They're also surprisingly willing to address difficult questions
+Finally, since returning to Oxford, I've charged through the first five books in the massive *1632* series. This is alternate history; a small 21st century mining town in West Virginia is transplanted to 17th century Germany. The 30+ books detail every possible effect such an event has on the world. Recent titles include *1635: The Battle for Nefoundland* and *1635: The Papal Stakes*. The first book, published in 2000, is unapologetically patriotic{% sidenote "ameri-id" "&quot;I say we start the American Revolution — *a hundred and fifty years ahead of schedule!*&quot;" %} and that spirit infuses all of the books published over the last 25 years by dozens of authors. They're also surprisingly willing to address difficult questions: abolitionism is an obvious early policy priority of the German United States, but there are also debates about the definition of genocide, the diffusion of dangerous technologies, and the morality of resource extraction.{% sidenote "dadel-id" "They don't deal with one of the more interesting questions they could: would it have been possible, with modern medical knowledge, to avoid the Native American demographic disaster. Best estimates are that 90% of the indigenous population of the Americas died of Old World diseases, and this process was only partly underway in the early 1600s. Is this preventable with germ theory?" %} Everything winds up surprisingly solar-punk. 
 
-More importantly, the stories are *fun*. 
+The stories are *fun*. Each modern American has some scheme to get rich or shape the course of history, from selling their Barbies to hanging out with a young Cardinal Mazarin. And it's not just statemen (Richelieu, Cromwell, Gustavus Adolphus) that show up; we spend time with Rembrandt, Rubens, and baby Spinoza. 
 
-None of these are good literature; all of them are genre fiction. The intersection is not empty, however. Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
+None of these stories are good literature; all of them are genre fiction.{% sidenote "compensate-id" "Having written all of that, my ego wants to compensate by discussing all of the high status things I've read recently. Three books by G.K. Chesterton, a collection of Chekhov's stories, two Shakespeare plays, and a few chapters of Milton. Ah, that feels better. " %} The intersection is not empty, however. Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin 
 
-
-
-
-
-Having written all of that, my ego wants to compensate by discussing all of the high status things I've read recently. Three books by G.K. Chesterton, a collection of Chekhov's stories, two Shakespeare plays, and a few chapters of Milton. Ah, that feels better — 
-
-The best response I got to my books question from last month (“are there old-but-popular things that don’t get labeled “classics”?'') was detective fiction. Specifically convincing was Sherlock Holmes. 
+The best response I got to my question from [last month](https://jablevine.com/older/july_2024) (“are there old-but-popular things which don’t get labeled “classics”?'') was detective fiction. Specifically convincing was Sherlock Holmes. 
 
 ## Links
 
