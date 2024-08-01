@@ -48,11 +48,13 @@ But I don't have Netflix or TikTok{% sidenote "pre-id" "I have to be pretentions
 
 Everyone is different. A new friend, who works as a copy editor in London, reads extensively on his own time, literally for practice.{% sidenote "sui-id" "Or perhaps he's particularly well-suited for his career." %} I've never seen MWG read a book I would call "fun," and certainly not genre fiction, without the severest of encouragements. Her taste runs towards titles like *Regulating Bodies* and *Rights for Robots.*
 
-On my trip back to DC, I started *Mother of Learning* a 3,000 page fantasy series. 
+On my trip back to DC, I started *Mother of Learning* a 3,000 page serialized novel. It's a time-loop, hard fantasy series; the nature of the setting moves everything very quickly and it was easy to chew away a few hundred pages per day. *MoL* was the first web serial I've read.{% sidenote "inted-id" "In that intended form, at least. Weir's *The Martian* was originally published as a web serial." %} Some of my favorite "classics" were serialized,{% sidenote "claser-id" "E.g., *The Count of Monte Cristo*, *War and Peace*; one my dad's favorite books, *The Bonfire of the Vanities* was originally serialized in *Rolling Stone*." %} but the medium changed fundamentally on the internet. Serialization lent itself well to the explosion of fan fiction in the 2000s: intermittent posting enables community engagement and incorporating reader feedback, as well as fitting into the amateur author lifestyle. 
 
-After finishing that, I read the 7,000 page web serial *Worm*. 
+The most popular{% sidenote "ratnk-id" "By a few probably made-up rankings I found online." %} non-fan fiction web serial is *Worm* by John McCrae, which I read while in DC this summer. *Worm* is 7,000 pages, and while McCrae has written a few novels of similar length, *Worm* is the one which most broke out of the web serial world. It is a superhero science fiction story of high ambition, and almost engaging enough to justify the time investment; *Worm* is fast-paced enough to feel like scrolling an app. My only [previous experience](https://jablevine.com/older/november_2021) with long web fiction
 
-Finally, since returning to Oxford, I've charged through the first five books in the massive *1632* series. 
+Finally, since returning to Oxford, I've charged through the first five books in the massive *1632* series. This is alternate history; a small mining town in West Virginia is transplanted to 17th century Germany. The 30+ books detail every possible effect such an event has on the world. Recent titles include *1635: The Battle for Nefoundland* and *1635: The Papal Stakes*. The first book, published in 2000, is unapologetically patriotic{% sidenote "ameri-id" "American revolution etc." %} and that spirit infuses all of the books published over the last 25 years by dozens of authors. They're also surprisingly willing to address difficult questions
+
+More importantly, the stories are *fun*. 
 
 None of these are good literature; all of them are genre fiction. The intersection is not empty, however. Occasionally, something breaks out of genre fiction and into just normal fiction, or even literary fiction. Ursula Le Guin
 
