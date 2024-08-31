@@ -9,6 +9,7 @@ title: What am I up to now?
 <!-- omit in toc -->
 ## Contents
 - [Updates](#updates)
+  - [Eras Tour](#eras-tour)
 - [Reading](#reading)
 - [Links](#links)
 - [Previously](#previously)
@@ -17,25 +18,23 @@ title: What am I up to now?
   
 ## Updates
 
-Man, I looved the olympics. highlight might ahve been mountain biking, but the athletics were also great. I know myself, and the two road races were tons of fun to watch. Breakdancing was intresting; the men were much more fun to watch than the women. I'm not opposed to it being in the olympics, but we should probably add a lot a lot more if that's going to clear the bar. 
+August was a good month. My sisters visited, bribed by tickets to Taylor Swift at Wembley, and 
+
+The first week of August was Olympic obsessed. My overall highlight was the mountain and road cycling, but the final days of track and field were classical Olympic fun, especially narrated by my sister's commentary. Breakdancing was interesting; I'm glad it was included, but not sad to see it go.{% sidenote "rayc-id" "I watched all six hours of the women's competition, and don't remember the Australian at all. The memes went over my head." %} Flag football will replace it at the 2028 LA games, which I expect I'll watch with the same amount of enthusiasm. 
+
+### Eras Tour
+
+Mid-August brought another spectacle: my sisters visited, bribed by tickets to Taylor Swift at Wembley. This was their third time at the Eras tour, and I got a guided tour. 
+
+Everything that can be written about Taylor Swift has been written. My experience was sur-real. She is a post-modern trickster goddess. Opening with a Lady Gaga's song ("I live for the applause"), and early on making er power explicit by making the whole crowd cheer when she points, transitioning to *The Man*. What we see on the screen is a facade.{% sidenote "stac-id" "I have never been to a stadium show before, and didn't feel in sync with the crowd. I was trying to watch *her*, but at these distances, she doesn't show up well on your phone camera, so most attention was directed to the jumbotrons. Also a privilege of height." %}  Stadium-sized expressions to show better on the jumbotron, long pauses. There's a character working under the facade, but it's an alien one. The character delights in the attention ("I live for the applause"), and gives back attention. 
+
+The height of this comes after *Champagne Problems*, somewhere just past the halfway mark. My sister Olivia told me that, at the first shows in Arizona, the crowd had cheered for seven minutes. That was 18 months ago, and crowds since have competed for who can hold the ovation longer. The camera stays tight on Taylor Swift the entire time. At Wembley, she only basked in the noise for about four minutes before cutting the crowd off. 
+
+The performance of capricious fae nature is, like everything else, orchestrated. She performs a silent skit with two dancers before launching into *I Can Do It With a Broken Heart*. The dancers attempt to coerce a listless Taylor Swift into dressing in a sparkly two-piece and heels, and physically shove her towards the audience. This is all so she can sing "I'm so depressed, I act like it's my birthday every day" in C major.{% sidenote "luck-id" "Which, honestly, was like going to a Britney Spears concert and hearing *Lucky.* How am I supposed to feel after this? Do you *want* me to cheer? " %}
+
+A friend here in Oxford, JW, called *The Eras Tour* the largest cultural wave of our generation. On those subjective criteria, I can't think of many competitors.{% sidenote "com-id" "The MCU, or the rise of K-pop, maybe. Game of Thrones and Hamilton might have competed, but didn't have staying power." %} I know several people in their 60s and 70s who devour academic and critical books about *The Beatles* and other bands of their youth. I left Wembely wondering if I'll be so interested in Taylor Swift in my time.
 
 
-
-Another August spectacle: 
-Take me to church, drugs
-
-10 minutes applause. Started in Phoenix 
-Sydney, and O say can you see orioles whatever 
-Canonically, capricious. Has to be talked into broken hearts 
-Secret song was “i did something bad” which like Uber trickster goddess
-
-Went to [[Taylor Swift]] at wembley last night. With [[Abigail]] [[Olivia]] [[Charlotte Waldman]].
-
-The feeling was sur-real. She is a post-modern trickster goddess. Opening with Lady Gaga's song "I live for the applause," then two songs emphasizing her power (making the whole crowd cheer when she points, transitioning to "the man"). What we see on the screen is a facade (I felt like I was one of the few people really trying to watch *her* despite the crowd. She doesn't show up on your phone well, so the phones were pointed at the jumbotron). Big fake expressions to show better on the jumbotron, long pauses. There's a mind working under the facade, but it's an alien one. It delights in the attention (I life for the applause), and gives back attention. 
-
-In [[Phoenix]], Olivia tells me they started to do a long applause after champagne promises, which has gotten longer ever since. The song isn't even that great or impessive
-
-The spell broke when she brought up Covid. Lost some timelessness. 
 
 
 
