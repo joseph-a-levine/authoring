@@ -11,7 +11,6 @@ title: What am I up to now?
 - [Updates](#updates)
   - [Eras Tour](#eras-tour)
   - [Norway](#norway)
-- [Reading](#reading)
 - [Links](#links)
 - [Previously](#previously)
 
@@ -42,10 +41,6 @@ I spent the last ten days of the month with a friend and MWG in Arctic Norway. [
 The prolific grocery stores were constantly stocked with high-quality produce, which must have traveled on *at least* three boats to get there. Despite this, we had no great meals in restaurants. Infrastructure was a highlight; the sovereign wealth fund was evident. We took an hour-long car ferry which was free; bridges and tunnels went to villages of less then 50 people. 
 
 The superlative beauty is worth a visit. It has never easy to get deep into the culture or history of the region, and my post-trip Norway reading list is very short. 
-
-
-
-## Reading
 
 
 
@@ -114,9 +109,9 @@ and
 
 {% newthought "That article was written by" %} Anne Helen Petersen, and I spent a few hours down her archives before finding [this one](https://the-toast.net/2013/07/04/things-of-which-i-may-not-speak/) about her ex-boyfriend who died in the Iraq war. She's a really great writer; I wish her books (about millenial angst and working from home) were more up my alley.
 
-
-
 ## Previously
+
+*[August, 2024](https://jablevine.com/older/August_2024)*
 
 *[July, 2024](https://jablevine.com/older/july_2024)*
 
