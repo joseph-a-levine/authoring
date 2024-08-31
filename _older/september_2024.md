@@ -51,6 +51,50 @@ The superlative beauty is worth a visit. It has never easy to get deep into the 
 
 ## Links
 
+
+{% newthought "Nathan Goldwag reads a lot" %}, and writes about some of it on his blog.
+
+{% newthought "Something I came across separately," %} and only afterwards learned was written by Goldwag, are these [fictional lectures notes](https://tranquility.press/wp-content/uploads/2024/05/reconstructing-the-crisis-of-the-21st-century.pdf) from a Starfleet Academy seminar series called "Reconstructing the Crisis of the 21st Century (1992-2083)." This is exactly my kind of fanf iction. Not technically a work of sci-fi, the divergence point from our history is the end of the cold war and the arrival of Khan Noonian Singh. Eminently plausible, except for the Vulcans showing up.  The outline of the world portrayed in the lectures notes was written by the writers of TOS and TNG in the 1960s and 80s, and it shows.  We're lucky genetics is a hard problem. We're lucky for peace. Really lucky — almost all of the 80 year period covered is warfare. Two tidbits: 
+
+>However, in the most famous incident, a Vulcan atmospheric shuttle en route from Shanghai to Mumbai in 2094 went down in a Himalayan valley uncontacted since the end of the war. The Indian military scrambled Search & Rescue teams, but when their helicopters finally tracked down the crash site, they discovered the Vulcan engineer eight hours into a debate with the local Buddhist priest over the nature of consciousness. History does not record who won.
+
+and
+
+> The Crisis of the 21st Century lasted ninety-one years, and resulted in the deaths of approximately 2.4 billion people, 30% of the human population of the time. In much of the world, life expectancy did not return to the level it had been in 1990 until the 2150s, and even with Vulcan aid, the ecological damage continues to be felt to this day. The global order collapsed more than once, and by the time it was over, large portions of the planet had reverted to barbarism and anarchy.
+
+{% newthought "Last month I wrote about another" %} alternate history, the [Ring of Fire](https://en.wikipedia.org/wiki/1632_series) series, taking place during the Thirty Years' War. The main characters are mostly fictional, but some figures show up: King Gustav II Adolf of Sweden and Cardinal Richelieu are particularly important. It's not until book 15 or so of the series that Oliver Cromwell playes a role, and many of his chapters are about something that hadn't happened yet: his 1649 campaign in Ireland. This was a charming [article](https://www.the-fence.com/life-of-reilly/) about a man from the town of Drogheda, the site of Cromwell's most famous atrocity, who is advancing a new and sympathetic historiography of Cromwell. 
+
+{% newthought "There's a paper in the new" %} JEP called "[On the Economics of Extinction and Possible Mass Extinctions](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.3.237)", by two people I've never heard of. It's not about the thing we're into  — rather, "Why do extinctions occur? And is the rate of human-caused extinction likely to increase over time?" Still, a cool model and a good read.
+
+{% newthought "Norway seems to be the first rich" %} country [studied so far](https://www.tandfonline.com/doi/full/10.1080/14681994.2021.1912316 ) in which sexual frequency has not declined over recent decades. I have no insights.
+
+{% newthought "The American Foreign Service Association" %} gives a [series of awards](https://afsa.org/constructive-dissent-awards) to FSOs who provide constructive dissent to US policy. I learned about this reading [an interview](https://adst.org/2014/01/our-government-has-evidenced-moral-bankruptcy-the-blood-telegram-and-the-1971-bengali-genocide/) with Archer Blood. This article is also when I learned that the Blood telegram was named after a man named Blood, not about the topic. I can't find a convenient list of Dissent award winners; any pointers would be handy. 
+
+
+
+{% newthought "Being a Nobel Laureate doubles" %} the chance your economics paper [gets published](https://www.pnas.org/doi/epub/10.1073/pnas.2205779119). This effect size is smaller than I expect, but still larger than it should be. Peer review is not broken: it never worked in the first place. 
+
+
+{% newthought "Here's a great Admiral Cloudber" %}  about an [Air Maroc flight](https://admiralcloudberg.medium.com/madness-in-morocco-the-near-crash-of-royal-air-maroc-express-flight-439-8dc5626ec3c3) which *bounced twice on the ocean and then no one said anything.* The captain just like, got away with it. Thanks to Ozy Brennan for linking this one. 
+
+
+{% newthought "And here's one which went" %} uncovered by the Admiral: the time [a crocodile crashed a plane](https://en.wikipedia.org/wiki/2010_Filair_Let_L-410_crash).
+> The only survivor of the crash stated to the investigators that a crocodile smuggled in a duffel bag by one of the passengers had escaped shortly before landing, sparking panic among the passengers. The flight attendant rushed towards the cockpit, followed by all passengers, and the resulting shift in the aircraft's centre of gravity led to an irrecoverable loss of control. The crocodile reportedly survived the crash, only to be killed with a machete by authorities.
+
+
+{% newthought "The [pitch meeting for Animaniacs](https://the-toast.net/2016/05/24/the-pitch-meeting-for-animaniacs/)" %}, now Olivia's second favorite piece of internet writing.
+
+ 
+
+
+{% newthought "THOUGHT" %}
+
+
+{% newthought "THOUGHT" %}
+
+
+{% newthought "THOUGHT" %}
+
 Related to alternate history
 
 
@@ -63,43 +107,12 @@ https://nathangoldwag.wordpress.com/2024/08/01/from-mcmurdo-sound-to-flanders-fi
 another essay on the [[Antarctica]] expeditions of the early 20th centuries. 
 
 
-A facsimile copy of a Starfleet Academy seminar, "Reconstructing the Crisis of the 21st Century (1992-2083)." alternate history? [[Star Trek]]
-https://tranquility.press/wp-content/uploads/2024/05/reconstructing-the-crisis-of-the-21st-century.pdf
-
-a slight work of passion. leaves off at the end of the cold war and the arrival of Khan Noonian Singh. Eugenics war, short peace, long WWIII (china invades india, front in africa, front in south america, etc. etc.). Big nukes end it. civil wars. First contact with the vulcans. Slow consolidation and rebuilding. 
-
->However, in the most famous incident, a Vulcan atmospheric shuttle en route from Shanghai to Mumbai in 2094 went down in a Himalayan valley uncontacted since the end of the war. The Indian military scrambled Search & Rescue teams, but when their helicopters finally tracked down the crash site, they discovered the Vulcan engineer eight hours into a debate with the local Buddhist priest over the nature of consciousness. History does not record who won.
-
-Eminently plausible, except for the vulcan bit. we're lucky genes are hard. we're lucky for peace. Really lucky — almost all of the 80 year period covered is warfare. 
-
-> The Crisis of the 21st Century lasted ninety-one years, and resulted in the deaths of approximately 2.4 billion people, 30% of the human population of the time. In much of the world, life expectancy did not return to the level it had been in 1990 until the 2150s, and even with Vulcan aid, the ecological damage continues to be felt to this day. The global order collapsed more than once, and by the time it was over, large portions of the planet had reverted to barbarism and anarchy
 
 
 
 
-Cromwell! [[1632]] is quite sympathetic. So is some random guy in the town where he did his massacre: https://www.the-fence.com/life-of-reilly/
 
 
-
-
-"On the Economics of Extinction and Possible Mass Extinctions" in the JEP by two people I'd never heard of. https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.3.237
-not the thing that we're into — rather, "Why do extinctions occur? And is the rate of human-caused extinction likely to increase over time?" 
-
-
-
-Norway seems to be the first developed country studied thus far in which sexual frequency has not declined over recent decades. https://www.tandfonline.com/doi/full/10.1080/14681994.2021.1912316 [[sex]]
-" Our study does therefore not indicate a decline in intercourse frequency, as suggested in some countries"
-
-
-
-The [[State Department]] apparently has a Dissent award, the Christian Herter Dissent award, giveen to FSOs who provide constructive dissent. 
-
-Learned about htis in an interview with Archer Blood, about the [[Bangladesh]] Blood Telegram
-https://adst.org/2014/01/our-government-has-evidenced-moral-bankruptcy-the-blood-telegram-and-the-1971-bengali-genocide/
-
-
-effect size of being a big name on peer review: being a nobel laureaute doubles odds of paper being accepted
-https://x.com/annastansbury/status/1821598770020413921
 
 
 
@@ -126,18 +139,12 @@ She's a really good writier. i wish her books (about millenial angst and working
 
 
 
-a great [[Admiral Cloudberg]] about an Air Maroc flight which *bounced twice on the ocean and then no one said anything.* Thanks to [[Ozy Brennan]] for linking it. The captain just like, got awa ywith it.
 
 
 
-Uncovered by admiral cloudberg "The only survivor of the crash stated to the investigators that a crocodile smuggled in a duffel bag by one of the passengers had escaped shortly before landing, sparking panic among the passengers. The flight attendant rushed towards the cockpit, followed by all passengers, and the resulting shift in the aircraft's centre of gravity led to an irrecoverable loss of control.[2] The crocodile reportedly survived the crash, only to be killed with a machete by authorities.[12]"
-https://en.wikipedia.org/wiki/2010_Filair_Let_L-410_crash
 
 
 
- 
-https://the-toast.net/2016/05/24/the-pitch-meeting-for-animaniacs/
-The Pitch Meeting for Animaniacs, olivia's second favorite piece of writing
 
 https://www.maximum-progress.com/p/romae-industriae
 [[Rome]] [[Industrial Revolution]]
