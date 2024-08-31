@@ -52,7 +52,11 @@ The superlative beauty is worth a visit. It has never easy to get deep into the 
 ## Links
 
 
-{% newthought "Nathan Goldwag reads a lot" %}, and writes about some of it on his blog.
+{% newthought "Nathan Goldwag reads a lot" %}, and writes about some of it on his blog. Two blog posts which stood up and yelled at me: first, [this dark and useful and philosophical review](https://nathangoldwag.wordpress.com/2022/04/04/the-dark-is-rising-and-its-terrifying) of a children's book series, *The Dark is Rising,* and second, [an essay](https://nathangoldwag.wordpress.com/2024/08/01/from-mcmurdo-sound-to-flanders-fields-the-end-of-the-heroic-age-of-antarctic-exploration/) about the Antarctic expeditions of the early 20th century. 
+
+
+
+
 
 {% newthought "Something I came across separately," %} and only afterwards learned was written by Goldwag, are these [fictional lectures notes](https://tranquility.press/wp-content/uploads/2024/05/reconstructing-the-crisis-of-the-21st-century.pdf) from a Starfleet Academy seminar series called "Reconstructing the Crisis of the 21st Century (1992-2083)." This is exactly my kind of fanf iction. Not technically a work of sci-fi, the divergence point from our history is the end of the cold war and the arrival of Khan Noonian Singh. Eminently plausible, except for the Vulcans showing up.  The outline of the world portrayed in the lectures notes was written by the writers of TOS and TNG in the 1960s and 80s, and it shows.  We're lucky genetics is a hard problem. We're lucky for peace. Really lucky — almost all of the 80 year period covered is warfare. Two tidbits: 
 
@@ -104,59 +108,11 @@ and
 {% newthought "[Unsourced Twitter claim](https://x.com/cruelsardaukar/status/1737879694710632556 ):" %} "In WWI, the US government sent a cheque as a payment for airplane manufacturing to Ettore Buggati so fast that he took it to his local bank to ask if it was valid because he'd never received payment from a government so promptly before." Verifications welcome.
 
 
-{% newthought "THOUGHT" %}
-
-[[Nathan Goldwag]] has a nice review of a children's series, the dark is rising: 
-
-https://nathangoldwag.wordpress.com/2022/04/04/the-dark-is-rising-and-its-terrifying/#more-8108
-dark but useful and philosophical
-
-https://nathangoldwag.wordpress.com/2024/08/01/from-mcmurdo-sound-to-flanders-fields-the-end-of-the-heroic-age-of-antarctic-exploration/
-another essay on the [[Antarctica]] expeditions of the early 20th centuries. 
-
-
-
-
-
-
-
-
-
-
-
-https://stamen.com/the-many-lives-of-null-island/
-history of null island, [[geography]] 0 lat 0 long
-https://arxiv.org/abs/2204.08383 muhc better academic paper.
-
-
-
-https://annehelen.substack.com/p/the-edenic-allure-of-ballerinafarm
-bubble; mentioned this article to olivia and she immediately recited twenty facts about ballerinafarm
-
-
-
-[[Mormons]] believe Eve was wise and right to eat the forbidden fruit in the Garden of Eden. [[Paradise Lost]]
+{% newthought "I mentioned [this article](https://annehelen.substack.com/p/the-edenic-allure-of-ballerinafarm) to Olivia" %} and was immediately gifted with a dozen facts about the Mormon farming influencer Ballerina Farm. I live in a bubble of my own making. This article also taught me that Mormons believe that Eve was right and wise to eat the forbidden fruit in Eden: 
 
 > By making Juilliard part of the Ballerina Farm story, the life she’s living now is framed as the one she chose over the life she could have had as a professional ballerina. SHE TOOK A BITE OF THE FORBIDDEN (BIG) APPLE BUT THEN DECIDED TO GO BACK INTO THE GARDEN. Can you hear me yelling, “ARE YOU SEEING THIS?!”
 
-
-
-I started reading an article about the ballerinafarm influencer who olivia is obbsessed with. then followed anne helen petersen down her archives. and got to this one:
-https://the-toast.net/2013/07/04/things-of-which-i-may-not-speak/
-She's a really good writier. i wish her books (about millenial angst and working from home etc) didn't sound so boring.
-
-
-
-
-
-
-
-
-
-
-
-
-
+{% newthought "That article was written by" %} Anne Helen Petersen, and I spent a few hours down her archives before finding [this one](https://the-toast.net/2013/07/04/things-of-which-i-may-not-speak/) about her ex-boyfriend who died in the Iraq war. She's a really great writer; I wish her books (about millenial angst and working from home) were more up my alley.
 
 
 
