@@ -10,6 +10,7 @@ title: What am I up to now?
 ## Contents
 - [Updates](#updates)
   - [Eras Tour](#eras-tour)
+  - [Norway](#norway)
 - [Reading](#reading)
 - [Links](#links)
 - [Previously](#previously)
@@ -18,7 +19,7 @@ title: What am I up to now?
   
 ## Updates
 
-August was a good month. My sisters visited, bribed by tickets to Taylor Swift at Wembley, and 
+I'm in Oxford for September; as always, please say hi if you're passing through! 
 
 The first week of August was Olympic obsessed. My overall highlight was the mountain and road cycling, but the final days of track and field were classical Olympic fun, especially narrated by my sister's commentary. Breakdancing was interesting; I'm glad it was included, but not sad to see it go.{% sidenote "rayc-id" "I watched all six hours of the women's competition, and don't remember the Australian at all. The memes went over my head." %} Flag football will replace it at the 2028 LA games, which I expect I'll watch with the same amount of enthusiasm. 
 
@@ -34,7 +35,9 @@ The performance of capricious fae nature is, like everything else, orchestrated.
 
 A friend here in Oxford, JW, called *The Eras Tour* the largest cultural wave of our generation. On those subjective criteria, I can't think of many competitors.{% sidenote "com-id" "The MCU, or the rise of K-pop, maybe. Game of Thrones and Hamilton might have competed, but didn't have staying power." %} I know several people in their 60s and 70s who devour academic and critical books about *The Beatles* and other bands of their youth. I left Wembely wondering if I'll be so interested in Taylor Swift in my time.
 
+### Norway
 
+I spent the last ten days of the month with a friend and MWG in Arctic Norway. [Senja](https://en.wikipedia.org/wiki/Senja) was spectacularly beautiful.
 
 
 
