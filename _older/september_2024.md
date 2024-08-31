@@ -87,16 +87,24 @@ and
  
 
 
-{% newthought "THOUGHT" %}
+{% newthought "In 1980, there were only" %} 206,000 Indian immigrants in the US. The parents of Kamala Harris, Usha Vance, Bobby Jindal, and Jhumpa Lahiri{% sidenote "prob-id" "OK, you probably haven't heard of her. Lahiri is one of my favorite modern writers, and provides really good context and insight to her class and generation. Start with *Unaccustomed Earth.*" %} were among these. Here's [one article](https://srajagopalan.substack.com/p/kamala-harris-usha-vance-and-the) about the question: "How did the children of Indian immigrants reach the top of US establishments in just one generation?" We should read more about the experience of this generation of Indian Americans. Almost everyone who wants to understand American politics should know a little bit more about caste.
+
+> Usha’s last name is typically associated with the Telugu Kamma caste. But she and her family are vegetarians and, as one friend said, “sound” like Telugu Brahmins. Various [message boards](https://www.brownpundits.com/2022/11/05/usha-vance-hit-piece/) and [Twitter litigated her family’s origin story.](https://twitter.com/search?q=Usha%20vance%20kamma&src=typed_query)
+
+
+
+
+{% newthought "Why didn't Rome have an" %} [industrial revolution]() https://www.maximum-progress.com/p/romae-industriae)? Max says no printing press. My quick take is that slavery distorts labor markets too much: human capital accumulation is misdirected away from labor saving innovation. 
+
+
+
+{% newthought "This is [an article about sharks](https://www.newyorker.com/magazine/2024/08/05/beware-of-sharkless-waters)" %}. Katherine Rundell is the world's greatest writer about fauna. I don't think there's any way to transfer her skill to television, but if she's down, someone should fund it. In the meanwhile, read *The Golden Mole.*
+
+
+{% newthought "[Unsourced Twitter claim](https://x.com/cruelsardaukar/status/1737879694710632556 ):" %} "In WWI, the US government sent a cheque as a payment for airplane manufacturing to Ettore Buggati so fast that he took it to his local bank to ask if it was valid because he'd never received payment from a government so promptly before." Verifications welcome.
 
 
 {% newthought "THOUGHT" %}
-
-
-{% newthought "THOUGHT" %}
-
-Related to alternate history
-
 
 [[Nathan Goldwag]] has a nice review of a children's series, the dark is rising: 
 
@@ -146,32 +154,10 @@ She's a really good writier. i wish her books (about millenial angst and working
 
 
 
-https://www.maximum-progress.com/p/romae-industriae
-[[Rome]] [[Industrial Revolution]]
-why didn't rome have an industrial revolution?? who knows. max says no printing press. 
-what's my two sentence take?
-
-
-"The 1980 census reported only 206,000 Indian immigrants in the US." The parents of [[Jhumpa Lahiri]], [[Kamala Harris]], and Usha Vance were among these (also Bobby Jindal). "How did the children of Indian immigrants reach the top of US establishments in just one generation?" We should read more about the experience of [[India]]n Americans. 
-https://srajagopalan.substack.com/p/kamala-harris-usha-vance-and-the
-Including re-visiting Jhumpa Lahiri
-1) "Most Indians in the US come from upper or dominant castes."
-2) "They were selected through highly competitive exams in India to enter top educational institutions or by the American schools where they studied."
-3) "US immigration policies favored skilled professionals, creating a filter for the best candidates, further refined by the competitive American job market with the H1B visa lottery since the mid-nineties."
-
-> Usha’s last name is typically associated with the Telugu Kamma caste. But she and her family are vegetarians and, as one friend said, “sound” like Telugu Brahmins. Various [message boards](https://www.brownpundits.com/2022/11/05/usha-vance-hit-piece/) and [Twitter litigated her family’s origin story.](https://twitter.com/search?q=Usha%20vance%20kamma&src=typed_query)
 
 
 
-this is about sharks not whales. but she does mention the whale shark a few times. Katherine Rundell is the world’s greatest writer about fauna. 
 
-https://www.newyorker.com/magazine/2024/08/05/beware-of-sharkless-waters
-
-
-
-In WWI, the US government sent a cheque as a payment for airplane manufacturing to Ettore Buggati so fast that he took it to his local bank to ask if it was valid because he'd never received payment from a government so promptly before.
-
-https://x.com/cruelsardaukar/status/1737879694710632556 
 
 
 ## Previously
