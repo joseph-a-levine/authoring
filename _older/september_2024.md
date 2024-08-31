@@ -33,11 +33,15 @@ The height of this comes after *Champagne Problems*, somewhere just past the hal
 
 The performance of capricious fae nature is, like everything else, orchestrated. She performs a silent skit with two dancers before launching into *I Can Do It With a Broken Heart*. The dancers attempt to coerce a listless Taylor Swift into dressing in a sparkly two-piece and heels, and physically shove her towards the audience. This is all so she can sing "I'm so depressed, I act like it's my birthday every day" in C major.{% sidenote "luck-id" "Which, honestly, was like going to a Britney Spears concert and hearing *Lucky.* How am I supposed to feel after this? Do you *want* me to cheer? " %}
 
-A friend here in Oxford, JW, called *The Eras Tour* the largest cultural wave of our generation. On those subjective criteria, I can't think of many competitors.{% sidenote "com-id" "The MCU, or the rise of K-pop, maybe. Game of Thrones and Hamilton might have competed, but didn't have staying power." %} I know several people in their 60s and 70s who devour academic and critical books about *The Beatles* and other bands of their youth. I left Wembely wondering if I'll be so interested in Taylor Swift in my time.
+A friend here in Oxford, JW, called *The Eras Tour* the largest cultural wave of our generation. On those subjective criteria, I can't think of many competitors.{% sidenote "com-id" "The MCU, or the rise of K-pop, maybe. Game of Thrones and Hamilton might have competed, but didn't have staying power." %} I know people in their 60s and 70s who devour academic and critical books about *The Beatles* and other bands of their youth. I left Wembely wondering if I, or my sisters, will be so interested in Taylor Swift in our time.
 
 ### Norway
 
-I spent the last ten days of the month with a friend and MWG in Arctic Norway. [Senja](https://en.wikipedia.org/wiki/Senja) was spectacularly beautiful.
+I spent the last ten days of the month with a friend and MWG in Arctic Norway. [Senja](https://en.wikipedia.org/wiki/Senja) was spectacularly beautiful; we climbed sharp peaks and worked in cozy cottages on rainy days. 
+
+The prolific grocery stores were constantly stocked with high-quality produce, which must have traveled on *at least* three boats to get there. Despite this, we had no great meals in restaurants. Infrastructure was a highlight; the sovereign wealth fund was evident. We took an hour-long car ferry which was free; bridges and tunnels went to villages of less then 50 people. 
+
+The superlative beauty is worth a visit. It has never easy to get deep into the culture or history of the region, and my post-trip Norway reading list is very short. 
 
 
 
