@@ -77,26 +77,52 @@ It's surprising that my curiosity about AI had never showed up. I've used ChatGP
 
 Of course, the problem with wanting to learn how transformers work is that *no one* understands how they work: there are a bunch of very smart people at Google and Anthropic etc. working on mechanistic interpretability who want to know this much more than I do.{% sidenote "mechi-id" "I'm being facetious: mechanistic interpretability seeks to understand models made up of transformers, not the transformers themselves. But that's what I want, too." %} But the building blocks, the math bits, are out there for the understanding. 
 
-I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight.  If you want my curriculum, it's in this sidenote.{% sidenote "curric-id" "Read this. Read and implemented [this](https://nlp.seas.harvard.edu/annotated-transformer/). Read and *loved* [this](https://transformer-circuits.pub/2021/framework/index.html). Coded [this](https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo_Template.ipynb). Read [this](https://jalammar.github.io/illustrated-transformer/) and [this](https://blog.nelhage.com/post/transformers-for-software-engineers/). Did the exercises in [this](https://arena-ch1-transformers.streamlit.app/[1.5]_Grokking_and_Modular_Arithmetic)." %}
+I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight. (If you want my curriculum, it's in this sidenote.{% sidenote "curric-id" "Read [this](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J#z=pndoEIqJ6GPvC1yENQkEfZYR). Read and implemented [this](https://nlp.seas.harvard.edu/annotated-transformer/). Read and *loved* [this](https://transformer-circuits.pub/2021/framework/index.html). Coded [this](https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo_Template.ipynb). Read [this](https://jalammar.github.io/illustrated-transformer/) and [this](https://blog.nelhage.com/post/transformers-for-software-engineers/). Did the exercises in [this](https://arena-ch1-transformers.streamlit.app/[1.5]_Grokking_and_Modular_Arithmetic)." %}) My curiosity about how these things work — about how these AIs work — has just been moved up a level. It's like — yesterday I was confused about how cars go so fast, and today I know exactly how pistons work, but there's no one on the *planet* who can explain what crankshafts and camshafts do, so I'm left with this really cool and intricate bit of knowledge which doesn't sate me.
 
+There's a longer essay in here, and I had outlined it; I even knew the title: "And all to construct some versifier!" Stanislaw Lem and his translator Michael Kandel conspired to write the greatest short story about LLM-powered chatbots in the 1960s, in "The First Sally (A), or Trurl's Electronic Bard" of *The Cyberiad.*{% sidenote "cbq-id" "This is one of my favorite books; in a review from before I had ever heard of LLMs, I [quote](https://jablevine.com/older/july_2021#books) another story from the collection." %} Trurl, a genius constructor, set out to build a machine which can write poetry. He starts by training it on the history of civilization — he "could move at this rate because his machine was able, in one five-billionth of a second, to simulate one hundred septillion events at forty octillion different locations simultaneously." And, as I planned to cleverly title my essay, "all to construct some versifier!"
 
+The first time Trurl turns on the machine, "it immediately proceeded to deliver a lecture on the grinding of crystallographical surfaces as an introduction to the study of sub-molecular magnetic anomalies." This is a mystery familiar to anyone who played with early LLMs: it is easier for them to perform technical tasks than to produce doggerel. Yet the machine trains more, and is fixed, and versifies. And then, if there's any part of the book that's well-known, it's this: Trurl's competitor prompts it for
 
+> a love poem, lyrical, pastoral, and expressed in the language of pure mathematics. Tensor algebra mainly, with a little topology and higher calculus, if need be. But with feeling, you understand, and in the cybernetic spirit.
 
-In the second year of my PhD, I took a course by Max Kasy called Applications of Machine Learning, or something. It was very much a "classical" machine learning course — the last week was on LLMs, and because we were running behind, that was compressed. 
+Kandel translates the poem into eight rhyming quatrains, and I [recommend it entirely](https://www.cse.wustl.edu/~jbuhler/cyberiad.html): 
 
-My cohort-mates have mocked me for my use of ChatGPT and Claude. I used it for code, of course, but also to study, and come up with new exam questions, and clarify concepts. I don't remember thinking of these things as miracles when they showed up, and I certainly didn't start as they became more routine. 
+> Come, let us hasten to a higher plane,
+> Where dyads tread the fairy fields of Venn,
+> Their indices bedecked from one to *n*,
+> Commingled in an endless Markov chain!
 
-Something happened in the past month. I started noticing the shift before GPT1o, and it wasn't quite in the direction you'd expect. People were noticing GPT-5 was "late", and talking about S-curves. 
+I'm getting somewhere with this. As relevant as Lem's *Cyberiad* is to the current confusion and rhetoric around LLMs, it's not surprising someone else got there first. It's less surprising that someone was [Gwern](https://gwern.net/gpt-3#stanislaw-lems-cyberiad).
 
-I broke, this past weekend, and decided to figure out what was going on under the hood. We've heard so much about transformers; what are they? What are the mechanics that create this alien thing? 
+As my essay was coming together, GPT o1 was released and people put it through its paces. One of Gwern's standard tests is a prompt from the same Lem story: 
 
-I started with [[Neel Nanda]]'s 'build gpt-2' tutorial, and it's taken me 5 hours so far, and i'm about halfway done. But it does what it says on the tin: I am acutally building GPT2. 
+> "Have it compose a poem---a poem about a haircut! But lofty, noble, tragic, timeless, full of love, treachery, retribution, quiet heroism in the face of certain doom! Six lines, cleverly rhymed, and every word beginning with the letter 's'!" 
 
-Yesterday, I had no idea what went into a transformer and what came out. I had no idea what happened inside. Now I can at least use the words. And boy are there a lot of words. 
+This is a hard test, for reasons I now more-or-less understand.{% sidenote "obv-id" "LLMs work in one direction, and writing a poem like this requires planning from the end, almost — where does the treachery come in, how do I finish the rhyme, etc. Further, LLMs don't see *letters*, they see sub-words. Starting each word with the letter 's' implies knowing what an 's' is, which is hard for LLMs." %} I couldn't do it at all, and good poets would struggle too. When Gwern gave the new OpenAI model this prompt, it got *very* close on its third try: 
 
-got in [[The Cyberiad]] again. and [[Gwern]] beat me to it [link](https://www.lesswrong.com/posts/YsFZF3K9tuzbfrLxo/counting-arguments-provide-no-evidence-for-ai-doom?commentId=TvBAwgCK3dMyC9eoa)
-eh did the poem test.
+> Silently, steel scissors slice, 
+> Silken strands shed, shadows splice.
+> Steadfast soldier, scarred, serene,
+> Sacred sacrifice seals solemn scene.
+> Swiftly sweeps *t*he sable storm,
+> Solitary soul seeks shelter's swarm.
 
+Only one word fails to start with 's', and the poem does fairly well on the other constraints. The output when prompted to fix it, however, is surprising for different reasons:
+
+> Seduced, shaggy Samson snored.
+> She scissored short. Sorely shorn,
+> Soon shackled slave, Samson sighed,
+> Silently scheming
+> Sightlessly seeking
+> Some savage, spectacular suicide.
+
+As Gwern points out, *this is the poem from* The Cyberiad.{% sidenote "gopo-id" "It's also, in my opinion, quite a fun poem. I memorized it a few years ago, on a re-read of Kandel's translation, as a piece of doggerel to keep in my pocket. I'm glad it was Gwern who saw GPT o1 output it, because I'm not sure how I would have reacted." %} This is... weird. We're mostly past "AI is plagiarism" discourse at this point, but there was a time when the mainstream worry was LLMs stealing human writing word-for-word. These models are probabilistic, so their dominant mode isn't just outputting exact text from within their training data. Further, this is a good way to get sued, so we'd think that OpenAI would try very hard to discourage direct copying while training. Gwern's explanation is that, due to the tight constraints, 
+
+> a highly-discouraged, unlikely solution suddenly becomes accessible. GPT-4 o1-preview jumped out of the local optimum to completely change the answer to something that is technically more correct (it does satisfy all the constraints & is a good poem) but undesirable (because just memorized plagiarism, which I don't want, and further, ChatGPT is tuned to avoid that, although in this case the copyrighted text is brief enough that it doesn't outright violate its guidelines and you don't need to jailbreak it).
+
+Lem and Kandel's story is excellent and weird and prescient, and (indirectly) revealing insights into technologies invented sixty years after writing. I'm not going to understand LLMs anytime soon, but I'm glad poetry is a useful place to mine insights. Alfréd Rényi, a Hungarian mathematician well known for work on random graphs, would be happy: 
+
+> Since I started to deal with information theory I have often meditated upon the conciseness of poems; how can a single line of verse contain far more ‘information’ than a highly concise telegram of the same length. The surprising richness of meaning of literary works seems to be in contradiction with the laws of information theory. The key to this paradox is, I think, the notion of ‘resonance’. The writer does not merely give us information, but also plays on the strings of the language with such virtuosity, that our mind, and even the subconscious self resonate. A poet can recall chains of ideas, emotions and memories with a wellturned word. In this sense, writing is magic.
 
 ### Shorts
 
