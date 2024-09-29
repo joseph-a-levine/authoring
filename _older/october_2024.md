@@ -71,9 +71,16 @@ We are all only human. Scully seems to resist throwing numbers at us, of the sca
 
 ### Grrr transformers
 
-I got really annoyed at transformers this month. 
+Two weeks ago, I got a sudden urge to understand how [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) worked. This was directly caused by learning how [the other kind of transformer](https://en.wikipedia.org/wiki/Transformer) works — it was intolerable to me that I understand the technology which revolutionized the 1890s and not the technology shaping the world today. If that sounds like a dumb reason to spend 50 hours reading machine learning papers and relearning a programming language, well, it is.{% sidenote "karpto-id" "I was learning about electricial transformers" %}
 
-I've used ChatGPT since it has been available. I work in a building with the Center for the Governance of AI. Nick Bostrom is there, sometimes. I'm one or two phone calls away from the authors of papers even you have heard of. My girlfriend does AI governance stuff. And yet my curiosity never showed up. 
+It's surprising that my curiosity about AI had never showed up. I've used ChatGPT since December 2022.{% sidenote "furthtu-id" "Going even further back, I first thought deeply about AI (as deeply as 19 year old me could) in 2015, evidenced by an email I sent to a girl I had a crush on. QUOTE." %} I work in a building with the Center for the Governance of AI. Nick Bostrom is there sometimes. I'm one or two phone calls away from the authors of papers (and models) any of you have heard of. My girlfriend does really cool AI stuff. And I never had any  motivation to figure out what was going on.
+
+Of course, the problem with wanting to learn how transformers work is that *no one* understands how they work: there are a bunch of very smart people at Google and Anthropic etc. working on mechanistic interpretability who want to know this much more than I do.{% sidenote "mechi-id" "I'm being facetious: mechanistic interpretability seeks to understand models made up of transformers, not the transformers themselves. But that's what I want, too." %} But the building blocks, the math bits, are out there for the understanding. 
+
+I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight.  If you want my curriculum, it's in this sidenote.{% sidenote "sidenote-id" "This is a random sidenote" %}
+
+
+
 
 In the second year of my PhD, I took a course by Max Kasy called Applications of Machine Learning, or something. It was very much a "classical" machine learning course — the last week was on LLMs, and because we were running behind, that was compressed. 
 
