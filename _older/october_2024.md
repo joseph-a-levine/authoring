@@ -77,7 +77,7 @@ It's surprising that my curiosity about AI had never showed up. I've used ChatGP
 
 Of course, the problem with wanting to learn how transformers work is that *no one* understands how they work: there are a bunch of very smart people at Google and Anthropic etc. working on mechanistic interpretability who want to know this much more than I do.{% sidenote "mechi-id" "I'm being facetious: mechanistic interpretability seeks to understand models made up of transformers, not the transformers themselves. But that's what I want, too." %} But the building blocks, the math bits, are out there for the understanding. 
 
-I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight.  If you want my curriculum, it's in this sidenote.{% sidenote "sidenote-id" "This is a random sidenote" %}
+I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight.  If you want my curriculum, it's in this sidenote.{% sidenote "sidenote-id" "Read this. Read and implemented [this](https://nlp.seas.harvard.edu/annotated-transformer/). Read and *loved* [this](https://transformer-circuits.pub/2021/framework/index.html). Coded [this](https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo_Template.ipynb). Read [this](https://jalammar.github.io/illustrated-transformer/) and [this](https://blog.nelhage.com/post/transformers-for-software-engineers/). Did the exercises in [this](https://arena-ch1-transformers.streamlit.app/[1.5]_Grokking_and_Modular_Arithmetic)." %}
 
 
 
