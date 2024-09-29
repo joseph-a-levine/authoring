@@ -95,28 +95,38 @@ Kandel translates the poem into eight rhyming quatrains, and I [recommend it ent
 > 
 > Commingled in an endless Markov chain!
 
-I'm getting somewhere with this. As relevant as Lem's *Cyberiad* is to the current confusion and rhetoric around LLMs, it's not surprising someone else got there first. It's less surprising that someone was [Gwern](https://gwern.net/gpt-3#stanislaw-lems-cyberiad).
+I'm getting somewhere with this. As relevant as Lem's *Cyberiad* is to the current confusion and rhetoric around LLMs, it's not surprising someone else wrote about it first. It's less surprising that someone was [Gwern](https://gwern.net/gpt-3#stanislaw-lems-cyberiad).
 
-As my essay was coming together, GPT o1 was released and people put it through its paces. One of Gwern's standard tests is a prompt from the same Lem story: 
+As my essay was coming together, GPT o1 was released and people put it through its paces. One of Gwern's standard tests for new models is a prompt from the same Lem story: 
 
-> "Have it compose a poem---a poem about a haircut! But lofty, noble, tragic, timeless, full of love, treachery, retribution, quiet heroism in the face of certain doom! Six lines, cleverly rhymed, and every word beginning with the letter 's'!" 
+> Have it compose a poem---a poem about a haircut! But lofty, noble, tragic, timeless, full of love, treachery, retribution, quiet heroism in the face of certain doom! Six lines, cleverly rhymed, and every word beginning with the letter 's'!
 
-This is a hard test, for reasons I now more-or-less understand.{% sidenote "obv-id" "LLMs work in one direction, and writing a poem like this requires planning from the end, almost — where does the treachery come in, how do I finish the rhyme, etc. Further, LLMs don't see *letters*, they see sub-words. Starting each word with the letter 's' implies knowing what an 's' is, which is hard for LLMs." %} I couldn't do it at all, and good poets would struggle too. When Gwern gave the new OpenAI model this prompt, it got *very* close on its third try: 
+This is a hard test, for reasons I now more-or-less understand.{% sidenote "obv-id" "LLMs work in one direction, and writing a poem like this requires planning from the end, almost — where does the treachery come in, how do I finish the rhyme, etc. Further, LLMs don't see *letters*, they see sub-words. Starting each word with the letter 's' implies knowing what an 's' is, which is hard for LLMs." %} I couldn't do it at all, and good poets would struggle. When Gwern gave the new OpenAI model this prompt, it got *very* close on its third try: 
 
 > Silently, steel scissors slice, 
+> 
 > Silken strands shed, shadows splice.
+> 
 > Steadfast soldier, scarred, serene,
+> 
 > Sacred sacrifice seals solemn scene.
+> 
 > Swiftly sweeps *t*he sable storm,
+> 
 > Solitary soul seeks shelter's swarm.
 
 Only one word fails to start with 's', and the poem does fairly well on the other constraints. The output when prompted to fix it, however, is surprising for different reasons:
 
 > Seduced, shaggy Samson snored.
+> 
 > She scissored short. Sorely shorn,
+> 
 > Soon shackled slave, Samson sighed,
+> 
 > Silently scheming
+> 
 > Sightlessly seeking
+> 
 > Some savage, spectacular suicide.
 
 As Gwern points out, *this is the poem from* The Cyberiad.{% sidenote "gopo-id" "It's also, in my opinion, quite a fun poem. I memorized it a few years ago, on a re-read of Kandel's translation, as a piece of doggerel to keep in my pocket. I'm glad it was Gwern who saw GPT o1 output it, because I'm not sure how I would have reacted." %} This is... weird. We're mostly past "AI is plagiarism" discourse at this point, but there was a time when the mainstream worry was LLMs stealing human writing word-for-word. These models are probabilistic, so their dominant mode isn't just outputting exact text from within their training data. Further, this is a good way to get sued, so we'd think that OpenAI would try very hard to discourage direct copying while training. Gwern's explanation is that, due to the tight constraints, 
