@@ -40,26 +40,31 @@ If Chomsky is the most pessimistic commentor on American power,
 
 ### Politeness around killing
 
+An acquaintance in Oxford does her PhD on rewilding. Her family runs a large rewilding project in Sussex, boasting thousands of hectares of land for wild cattle and boar and anything else that stops by. They host tours, camping, safari, and petting zoos. Gentlemen farmers had mostly given up on profitability in the 20th century, and not all estates can be rewilding attractions — but this one, it seems, is quite successful. 
 
-An acquaintance in Oxford does her PhD on rewilding. Her family's estate boasts the largest... and the most...
+Napoleon called England "a nation of shopkeepers," but talking to conservatives today, or a hundred years ago, it is not that commerce which people are ostalgic for. England, in its own memory, is a nation of farmers, who shape and rule their land and its bounty. Shooting, in the Victorian style, with a gameskeeper and beaters and loaders, was something wholly and synonmously associated with this England. *The Shooting Party*, a novel set in 1913 and written in the 1970s, mocks, memorializes, and mourns this bit of pastorality. Sir Randolph Nettleby, Baronet, hosts the best shoots in England at his estate five miles west of Oxford; they were a favorite of King Edward VII. 
 
-I don't know if 
+Colegate touchingly substitutes the several hundred birds killed that day with a martyr, a duck named Elfrida Beetle{% sidenote "elfred-id" "'She used to be called Alfred and then when she turned into a female she was going to be called Alfreda but Nanny said it wasn't Alfreda but Elfreda and then she'd just swallowed a beetle and elle is French for she.'" %} adopted by the Baronet's grandson. The duck escapes on the day of the duck hunt, among the ducks to be hunted, forcing a moment of vertigo among the shooters. Even the hunters in the line, with three guns to hand, pledge they "shall not, if I can possibly help it, shoot young Osbert's duck."
 
-Shooting is imagined as something wholly and synonmously associated with rural England. "The Shooting Party", a novel set in 1913 and written in the [1980s], mocks, memorializes, and mourns this bit of pastorality. Sir Randolph Nettleby, Baronet, hosts the best shoots in England at his estate five miles west of Oxford; they were a favorite of King Edward VII. 
+The shooters do not wish to be rude by killing the child's duck. That is not, however, the focus of their politeness. The driving conflict of the story is between Lord Gilbert Hartlip ("one of the best shots in England, if not the best of all, and it was a pleasure to see him in action") and Lionel Stephens — a more fit, modern sportsman. Throughout the party and the affairs and the secrets — predictable to any fan of Wodehouse or *Downton Abbey* — the greatest tension is in these men's unsporting competition. 
 
-Colegate touchingly substitutes the several hudnred birds killed that day with a martyr, a duck named Elfrida Beetle{% sidenote "elfred-id" "'She used to be called Alfred and then when she turned into a female she was going to be called Alfreda but Nanny said it wasn't Alfreda but Elfreda and then she'd just swallowed a beetle and elle is French for she.'" %} adopted by the Baronet's grandson. The duck escapes on the day of the duck hunt, among the ducks to be hunted, forcing a moment of vertigo among the shooters. Even the hunters in the line, with three guns to hand, pledge they "shall not, if I can possibly help it, shoot young Osbert's duck."
+The climax of the book, without any spoiler, is Sir Randolph's admonishment: "You were not shooting like a gentleman, Gilbert." Because, “A greedy shot in line is tiresome and an ideal day requires participants to be considerate about which birds they attempt to shoot.”
 
-The shooters do not wish to be rude by killing the child's duck. That is not, however, the focus of their politeness. The driving conflict of the story is between 
+The second quote is not from Colegate's novel, but a more recent and puzzling book. Matthew Scully, a speechwriter for Bush the Younger and columnist at the *National Review*, thus introduces George H.W. Bush in his book *Dominion.*{% sidenote "dombo-id" "This is not the Tom Holland book, as people think when I bring it up, and unrelated to the movie of the same title and topic." %}  Bush was giving a speech to the Safari Club convention, the largest gathering of hunting enthusiasts in America, and Scully was present, riding his formidable conservative Christian credentials without anyone knowing he was writing a book condemning, widely and forcefully, our treatment of animals.{% sidenote "bushfor-id" "The former president, never a big game hunter, 'seems a man not quite comfortable with his surroundings yet determined not to offend.'" %}
 
-The climax of the book, indeed, is Sir Randolph's admonishment: "You were not shooting like a gentleman, Gilbert." Because, “A greedy shot in line is tiresome and an ideal day requires participants to be considerate about which birds they attempt to shoot.”
+Scully's case for vegetarianism is, like him, conservative, compassionate, and religious. The book is full of biblical verse and commentary, used waggingly like a formerly-homeschooled, now-atheist kid talking back to their still-evangelical parents. Scully is, tho, fully sincere. The title is from Genesis 1:28: 
 
-The second quote is not from Colegate's novel, but a more recent and puzzling book. 
-This line showed up in Scully's introduction to George H.W. Bush's a speech to the Safari Club International convention in 2000. Matthew Scully, a speechwriter for Bush the Younger, covers this convention closely in his book *Dominion.* 
+> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have **dominion** over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
-Scully's book draws you in with condemnations of hunting and whaling, and then wallops you over the head with factory farming. This is not what he intended: 
+Humans, he argues, remember the "subdue" part of our dominion, but not the duties of mercy and charity which come with it. Scully interleaves his investigations with moral musing.{% sidenote "inves-id" "It's too generous to label Scully an undercover reporter. He never lies, really — everyone just assumes that as a Republican, he supports big game hunting, whaling, and America's Farms. He is puzzled by this, but willing to take advantage." %} He draws you in with condemnations of hunting and whaling, and then wallops you over the head with factory farming. This is not what he intended: 
 
 > I debated long and hard with myself about whether to include farm animals in this book. Holding off on that topic for another day would certainly spare me a lot of trouble, and maybe even gain me a wider readership (“Oh, good, at least he’s not one of those people”).
 
+Instead, he spends more pages and pathos on the hunters, for their cruelty, certainty, but also their hypocracy and discourtesy. 
+
+This is not to fault the chapter on factory farming: Scully does not shy away from the suffering of the pigs he visits; like Power, he cannot avoid a Holocaust reference. But his description of horrors is purposefully clinical. He does not get angry at the managers and staff of the farms. Rather, disappointed, he sees them as clueless, out of touch, and blind. 
+
+We are all only human. Scully seems to resist throwing numbers at us, of the scale of our cruelties. He has little truck for Peter Singer, whom he (ironically) respects for bringing animal welfare to the mainstream, but abhors for what brought him there. We are all only human, and a moment of disgust will be worth much more than the number 4,000,000.{% sidenote "pigday-id" "The number of pigs killed, every day." %} Scully, echoing Sir Randolph, finds humanity's treatment of animal ungentlemanly, or at least un-manly, and therefore ungodly.
 
 
 ### Grrr transformers
