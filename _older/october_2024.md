@@ -10,8 +10,7 @@ title: What am I up to now?
 ## Contents
 - [Updates](#updates)
 - [Reading](#reading)
-  - [Genocide and American power](#genocide-and-american-power)
-  - [Politeness around killing](#politeness-around-killing)
+  - [Killing the animals, politely](#killing-the-animals-politely)
   - [Grrr transformers](#grrr-transformers)
   - [Shorts](#shorts)
 - [Links](#links)
@@ -25,20 +24,7 @@ This was a quiet month, with lots of reading, writing, and coding, much of which
 
 ## Reading
 
-### Genocide and American power
-
-Samantha Power, Noam Chomsky, and can I loop in Atahualpa?
-
-The book that changed Aaron Schwartz's life was [] by Noam Chomsky. 
-
-I don't think Noam Chomsky is wrong about literally everything. He is a horrible forecaster, and is very bad at identifying root causes. But his directional attention isn't always wrong. Take Cambodia — he is right there. Maybe even more right than Power.
-The media stuff does seem importantly wrong. The "status" explanation is more important than the "elite capture" explanation, or rather supersedes it. But then we have to consider "culture" and what grants status in confusing times, which he refuses to do. 
-I don't know. I appreciate Chomsky for his anger, but it eventually becomes too intellectual — at which point it's no longer anger, and no longer appreciated. He's also a bit too excited about having secret knowledge.
-
-If Chomsky is the most pessimistic commentor on American power, 
-
-
-### Politeness around killing
+### Killing the animals, politely
 
 An acquaintance in Oxford does her PhD on rewilding. Her family runs a large rewilding project in Sussex, boasting thousands of hectares of land for wild cattle and boar and anything else that stops by. They host tours, camping, safari, and petting zoos. Gentlemen farmers had mostly given up on profitability in the 20th century, and not all estates can be rewilding attractions — but this one, it seems, is quite successful. 
 
@@ -71,7 +57,7 @@ We are all only human. Scully seems to resist throwing numbers at us, of the sca
 
 ### Grrr transformers
 
-Two weeks ago, I got a sudden urge to understand how [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) worked. This was directly caused by learning how [the other kind of transformer](https://en.wikipedia.org/wiki/Transformer) works — it was intolerable to me that I understand the piece of technology which revolutionized the 1890s and not the piece shaping the world today. If that sounds like a dumb reason to spend 50 hours reading machine learning papers, well, it is.{% sidenote "karpto-id" "I was learning about electricial transformers for a completely unrelated project, on Turkish ships which generate and provide energy to small west African countries." %}
+Two weeks ago, I got a sudden urge to understand how [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) worked. This was directly caused by learning how [the other kind of transformer](https://en.wikipedia.org/wiki/Transformer) works — it was intolerable to me that I understand the piece of technology which revolutionized the 1890s and not the piece shaping the world today. If that sounds like a dumb reason to spend 50 hours reading machine learning papers, well, it is.{% sidenote "karpto-id" "I was learning about electricial transformers for a completely unrelated project, on Turkish boats which generate and provide energy to small west African countries." %}
 
 It's surprising that my curiosity about AI had never showed up. I've used ChatGPT since December 2022.{% sidenote "furthtu-id" "Going even further back, I first thought deeply about AI (as deeply as 19 year old me could) in 2015, evidenced by an embarassing email I sent to a girl I had a crush on." %} I work in a building with the Center for the Governance of AI. Nick Bostrom is there sometimes. I'm one or two phone calls away from the authors of papers (and models) any of you have heard of. My girlfriend does really cool AI stuff. Yet I never had any  motivation to figure out what was going on.
 
@@ -136,6 +122,7 @@ As Gwern points out, *this is the poem from* The Cyberiad.{% sidenote "gopo-id" 
 Lem and Kandel's story is excellent and weird and prescient, and (indirectly) revealing insights into technologies invented sixty years after writing. I'm not going to understand LLMs anytime soon, but I'm glad poetry is a useful place to mine insights. Alfréd Rényi, a Hungarian mathematician well known for work on random graphs, would be happy: 
 
 > Since I started to deal with information theory I have often meditated upon the conciseness of poems; how can a single line of verse contain far more ‘information’ than a highly concise telegram of the same length. The surprising richness of meaning of literary works seems to be in contradiction with the laws of information theory. The key to this paradox is, I think, the notion of ‘resonance’. The writer does not merely give us information, but also plays on the strings of the language with such virtuosity, that our mind, and even the subconscious self resonate. A poet can recall chains of ideas, emotions and memories with a wellturned word. In this sense, writing is magic.
+
 
 ### Shorts
 
