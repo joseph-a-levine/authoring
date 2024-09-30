@@ -154,30 +154,17 @@ The English title is now inscribed, even new translations retain it. "Foretold" 
 
 ## Links
 
-"balls to the wall"
-https://en.wiktionary.org/wiki/balls_to_the_wall
-unrelated to "balls out"
+{% newthought "``Amtrak's Penn Station" %} operations team seems eternally surprised as trains arrive." On [games in everyday life](https://warofyesterday.blogspot.com/2010/05/games.html).
 
-
-"Amtrak's Penn Station operations team seem eternally surprised as trains arrive." [link](https://warofyesterday.blogspot.com/2010/05/games.html)
-
-
-Last month...More considerations on why the [[Industrial Revolution]] didn't happen earlier, this time from [[Branko Milanovic]] [link](https://glineq.blogspot.com/2016/05/economic-reflections-on-fall-of.html). This time on [[Byzantium]]. dismissively: "Why did not there develop “bourgeois virtue”, “inclusive institutions”, Landes’ “culture”?  Or does it all have to do with “serendipity” of having coal and expensive labor in one place?"
+{% newthought "Last month, I" %} [talked](https://jablevine.com/older/september_2024#links) about why Rome didn't have an industrial revolution. [Here](https://glineq.blogspot.com/2016/05/economic-reflections-on-fall-of.html) are more considerations, this time from the inimitable Branko Milanovic. He considers Byzantium: 
 
 > I do not know why market economy with wage labor failed to develop there and can only speculate that it might have been because of a militarized bureaucracy, land magnates (and thus high inequality), obsession with Christian theology which sucked the best minds into sterile disputes (it would be nice to have an anti-Christian like Gibbon tell us why the Eastern Empire could not become a capitalistic power!), its frequent wars with Arabs, Persians, Russians, Normans, Bulgars, Pechinegs, Avars, Ottomans… Any other candidates?
 
-https://trevorklee.substack.com/p/something-interesting-is-happening
-This is a crazy article (I have no desire to move to Tulsa). but the fundamental message of “Move to Tulsa and you are guaranteed a job, a nice house, a fun social life, and assistance fulfilling whichever dreams you have” is a hard one to pass up.
+{% newthought "I came across the phrase" %} "balls to the wall" in one of Admiral Cloudberg's recent articles, and the [etymology](https://en.wiktionary.org/wiki/balls_to_the_wall
+) was not what I was expecting. Also, unrelated to to the etymology [balls out](https://en.wiktionary.org/wiki/balls-out). 
 
+{% newthought "Tulsa, and especially its Jews" %}, is doing [crazy things](https://trevorklee.substack.com/p/something-interesting-is-happening) to attract migrants. No one worry; I have no desire to move to Oklahoma. But the fundamental message of “Move to Tulsa and you are guaranteed a job, a nice house, a fun social life, and assistance fulfilling whichever dreams you have” is attractive.
 
-[[malaria]] is only transmitted via the *anopheles* genus of [[mosquito]], while *aedes* does everything else (yellow fever, chikagunya, nile fever, Zika, Dengue). But while anopheles very appropriately comes from the [[Latin]] for "useless", aedes comes from the latin for temple/shrine. This is actually just my being shit at [[etymology]] because aedes in greek means "unpleasant" or "odious." No one uses Latin for technical names.
-
-
-
-Screeshots from thsi tyler interview were going around. [[Tyler Cowen]]'s points on [[Noam Chomsky]] go deeper than the screenshot that was shared. 
-https://aashishreddy.substack.com/p/interview-tyler-cowen-economist
-search for: synthesis. Luise W. pointed me to this too. 
-also this kid is an undergrad. crazy well-read
 
 
 ## Previously
