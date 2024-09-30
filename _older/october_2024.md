@@ -134,14 +134,14 @@ The English title is now inscribed, even new translations retain it. "Foretold" 
 
 {% newthought "Here's a great review" %} from the CIA of a [book](https://www.cia.gov/resources/csi/static/review-spies-in-congo.pdf) I probabaly won't read, on American efforts to secure uranium ore from the Congo during WWII. History is really big, and I don't have time for all of it. 
 
-{% newthought "I enjoyed Jia Tolentino's" %} book of essays trick mirror, directly after the Schwarz compilation. Tolentino thrived in very early internet culture, writing hundreds of words a day on various sites from the age of eight. Her massive reserves of social energy are evident on every page; there's a very critical [review](https://www.lrb.co.uk/the-paper/v42/n02/lauren-oyler/ha-ha!-ha-ha) which didn't resonate with my own lack of connection. I came away underwhelmed. Tolentino mentions *Samson Agonistes* twice, both of which felt out of place. 
+{% newthought "I enjoyed Jia Tolentino's" %} book of essays *Trick Mirror*. Tolentino thrived in very early internet culture, writing hundreds of words a day on various sites from the age of eight. Her massive reserves of social energy are evident on every page; there's a very critical [review](https://www.lrb.co.uk/the-paper/v42/n02/lauren-oyler/ha-ha!-ha-ha) which didn't resonate with my own lack of connection. I came away underwhelmed. Tolentino mentions *Samson Agonistes* twice, both of which felt out of place. 
 
 {% newthought "I was frustrated by" %} *The Midnight Library*, which had come recommended by *three* friends. It was a modern morality tale, with an over constructed and under explained magic/unreality system. A superheroine commits suicide ("My therapist says it's not clinical depression, it's situational. I just have a lot of situations.") because she had a bad day (cat died, got fired, neglected her student, got told to piss off by her best friend and neighbor). BUT! She's special and gets to decide to turn back any of her poor decisions. She can slide between lives. There is either a serious misunderstanding of talent (I think it's this one) or this book takes the many-worlds interpretation seriously. There are easily accessible worlds (which she discusses before dying!) where she is a Michael Phelps-level retired swimmer, where she is a Hayley Williams-level rock star, where she's a professor of philosophy at Cambridge. That's just not how skill is distributed. BUT, besides the nitpick, I didn't really mind the book too much. I ended up skimming the final 100 pages quickly, as it became clear that she would get everything she wanted. There's no lesson in here, despite being constructed around one. Or if there is a lesson, it's "extrapolated volition" or whatever. 
 
 
 ## Links
 
-{% newthought "``Amtrak's Penn Station" %} operations team seems eternally surprised as trains arrive." On [games in everyday life](https://warofyesterday.blogspot.com/2010/05/games.html).
+{% newthought "''Amtrak's Penn Station" %} operations team seems eternally surprised as trains arrive." On [games in everyday life](https://warofyesterday.blogspot.com/2010/05/games.html).
 
 {% newthought "Last month, I" %} [talked](https://jablevine.com/older/september_2024#links) about why Rome didn't have an industrial revolution. [Here](https://glineq.blogspot.com/2016/05/economic-reflections-on-fall-of.html) are more considerations, this time from the inimitable Branko Milanovic. He considers Byzantium: 
 
@@ -150,7 +150,7 @@ The English title is now inscribed, even new translations retain it. "Foretold" 
 {% newthought "I came across the phrase" %} "balls to the wall" in one of Admiral Cloudberg's recent articles, and the [etymology](https://en.wiktionary.org/wiki/balls_to_the_wall
 ) was not what I was expecting. Also, unrelated to to the etymology [balls out](https://en.wiktionary.org/wiki/balls-out). 
 
-{% newthought "Tulsa, and especially its Jews" %}, is doing [crazy things](https://trevorklee.substack.com/p/something-interesting-is-happening) to attract migrants. No one worry; I have no desire to move to Oklahoma. But the fundamental message of “Move to Tulsa and you are guaranteed a job, a nice house, a fun social life, and assistance fulfilling whichever dreams you have” is attractive.
+{% newthought "Tulsa, and especially its Jews," %} is doing [crazy things](https://trevorklee.substack.com/p/something-interesting-is-happening) to attract migrants. No one worry; I have no desire to move to Oklahoma. But the fundamental message of “Move to Tulsa and you are guaranteed a job, a nice house, a fun social life, and assistance fulfilling whichever dreams you have” is attractive.
 
 
 
