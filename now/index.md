@@ -4,13 +4,15 @@ title: What am I up to now?
 ---
 
 <!-- omit in toc -->
-## September, 2024
+## October, 2024
 
 <!-- omit in toc -->
 ## Contents
 - [Updates](#updates)
-  - [Eras Tour](#eras-tour)
-  - [Norway](#norway)
+- [Reading](#reading)
+  - [Killing the animals, politely](#killing-the-animals-politely)
+  - [Grrr transformers](#grrr-transformers)
+  - [Shorts](#shorts)
 - [Links](#links)
 - [Previously](#previously)
 
@@ -18,98 +20,143 @@ title: What am I up to now?
   
 ## Updates
 
-I'm in Oxford for September; as always, please say hi if you're passing through! 
+This was a quiet month, with lots of reading, writing, and coding, much of which I discuss below. Term starts in Oxford at the beginning of October, which doesn't herald much of a change — in the third year, we're past taking coursework and not yet at *teaching* coursework.{% sidenote "cs-id" "Except for the genius overachievers in my cohort!" %} I'll be in Oxford for all of October; as always, please say hi if you're nearby!
 
-The first week of August was Olympic obsessed. My overall highlight was the mountain and road cycling, but the final days of track and field were classical Olympic fun, especially narrated by my sister's commentary. Breakdancing was interesting; I'm glad it was included, but not sad to see it go.{% sidenote "rayc-id" "I watched all six hours of the women's competition, and don't remember the Australian at all. The memes went over my head." %} Flag football will replace it at the 2028 LA games, which I expect I'll watch with the same amount of enthusiasm. 
+## Reading
 
-### Eras Tour
+### Killing the animals, politely
 
-Mid-August brought another spectacle: my sisters visited, bribed by tickets to Taylor Swift at Wembley. This was their third time at the Eras tour, and I got a guided tour. 
+An acquaintance in Oxford does her PhD on rewilding. Her family runs a large rewilding project in Sussex, boasting thousands of hectares of land for wild cattle and boar and anything else that stops by. They host tours, camping, safari, and petting zoos. Gentlemen farmers had mostly given up on profitability in the 20th century, and not all estates can be rewilding attractions — but this one, it seems, is quite successful. 
 
-Everything that can be written about Taylor Swift has been written. My experience was sur-real. She is a post-modern trickster goddess. Opening with a Lady Gaga's song ("I live for the applause"), and early on making er power explicit by making the whole crowd cheer when she points, transitioning to *The Man*. What we see on the screen is a facade.{% sidenote "stac-id" "I have never been to a stadium show before, and didn't feel in sync with the crowd. I was trying to watch *her*, but at these distances, she doesn't show up well on your phone camera, so most attention was directed to the jumbotrons. Also a privilege of height." %}  Stadium-sized expressions to show better on the jumbotron, long pauses. There's a character working under the facade, but it's an alien one. The character delights in the attention ("I live for the applause"), and gives back attention. 
+Napoleon called England "a nation of shopkeepers," but talking to conservatives today, or a hundred years ago, it is not that commerce which people are nostalgic for. England, in its own memory, is a nation of farmers, who shape and rule their land and its bounty. Shooting, in the Victorian style, with a gameskeeper and beaters and loaders, was something wholly and synonmously associated with this England. 
 
-The height of this comes after *Champagne Problems*, somewhere just past the halfway mark. My sister Olivia told me that, at the first shows in Arizona, the crowd had cheered for seven minutes. That was 18 months ago, and crowds since have competed for who can hold the ovation longer. The camera stays tight on Taylor Swift the entire time. At Wembley, she only basked in the noise for about four minutes before cutting the crowd off. 
+*The Shooting Party* by Isabel Colegate is set in 1913 and written in the 1970s; it mocks, memorializes, and mourns this bit of pastorality. Sir Randolph Nettleby, Baronet, hosts the best shoots in England at his estate five miles west of Oxford, and he is quite proud that they were a favorite of King Edward VII. 
 
-The performance of capricious fae nature is, like everything else, orchestrated. She performs a silent skit with two dancers before launching into *I Can Do It With a Broken Heart*. The dancers attempt to coerce a listless Taylor Swift into dressing in a sparkly two-piece and heels, and physically shove her towards the audience. This is all so she can sing "I'm so depressed, I act like it's my birthday every day" in C major.{% sidenote "luck-id" "Which, honestly, was like going to a Britney Spears concert and hearing *Lucky.* How am I supposed to feel after this? Do you *want* me to cheer? " %}
+Colegate touchingly substitutes the several hundred birds killed that day with a martyr, a duck named Elfrida Beetle{% sidenote "elfred-id" "'She used to be called Alfred and then when she turned into a female she was going to be called Alfreda but Nanny said it wasn't Alfreda but Elfreda and then she'd just swallowed a beetle and elle is French for she.'" %} adopted by the Baronet's grandson. The duck escapes on the day of the duck hunt, among the ducks to be hunted, forcing a moment of vertigo among the shooters. Even the hunters in the line, with three guns to hand, pledge they "shall not, if I can possibly help it, shoot young Osbert's duck."
 
-A friend here in Oxford, JW, called *The Eras Tour* the largest cultural wave of our generation. On those subjective criteria, I can't think of many competitors.{% sidenote "com-id" "The MCU, or the rise of K-pop, maybe. Game of Thrones and Hamilton might have competed, but didn't have staying power." %} I know people in their 60s and 70s who devour academic and critical books about *The Beatles* and other bands of their youth. I left Wembely wondering if I, or my sisters, will be so interested in Taylor Swift in our time.
+The shooters do not wish to be rude by killing the child's duck. That is not, however, the focus of their politeness. The driving conflict of the story is between Lord Gilbert Hartlip ("one of the best shots in England, if not the best of all, and it was a pleasure to see him in action") and Lionel Stephens — a more fit, modern sportsman. Throughout the party and the affairs and the secrets — predictable to any fan of Wodehouse or *Downton Abbey* — the greatest tension is in these men's unsporting competition. 
 
-### Norway
+The climax of the book, without any spoiler, is Sir Randolph's admonishment: "You were not shooting like a gentleman, Gilbert." Because, “A greedy shot in line is tiresome and an ideal day requires participants to be considerate about which birds they attempt to shoot.”
 
-I spent the last ten days of the month with a friend and MWG in Arctic Norway. [Senja](https://en.wikipedia.org/wiki/Senja) was spectacularly beautiful; we climbed sharp peaks and worked in cozy cottages on rainy days. 
+The second quote is not from Colegate's novel, but a more recent and puzzling book. Matthew Scully, a speechwriter for Bush the Younger and columnist at the *National Review*, thus introduces George H.W. Bush in his book *Dominion.*{% sidenote "dombo-id" "This is not the Tom Holland book, as people think when I bring it up, and unrelated to the movie of the same title and topic." %}  Bush was giving a speech to the Safari Club convention, the largest gathering of hunting enthusiasts in America, and Scully was present, riding his formidable conservative Christian credentials without anyone knowing he was writing a book condemning, widely and forcefully, our treatment of animals.{% sidenote "bushfor-id" "The former president, never a big game hunter, 'seems a man not quite comfortable with his surroundings yet determined not to offend.'" %}
 
-The prolific grocery stores were constantly stocked with high-quality produce, which must have traveled on *at least* three boats to get there. Despite this, we had no great meals in restaurants. Infrastructure was a highlight; the sovereign wealth fund was evident. We took an hour-long car ferry which was free; bridges and tunnels went to villages of less then 50 people. 
+Scully's case for vegetarianism is, like him, conservative, compassionate, and religious. The book is full of biblical verse and commentary, used waggingly like a formerly-homeschooled, now-atheist kid talking back to their still-evangelical parents. Scully is, tho, fully sincere. The title is from Genesis 1:28: 
 
-The superlative beauty is worth a visit. It has never easy to get deep into the culture or history of the region, and my post-trip Norway reading list is very short. 
+> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have **dominion** over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
+Humans, he argues, remember the "subdue" part of our dominion, but not the duties of mercy and charity which come with it. Scully interleaves his investigations with moral musing.{% sidenote "inves-id" "It's too generous to label Scully an undercover reporter. He never lies, really — everyone just assumes that as a Republican, he supports big game hunting, whaling, and America's Farms. He is puzzled by this, but willing to take advantage." %} He draws you in with condemnations of hunting and whaling, and then wallops you over the head with factory farming. This is not what he intended: 
+
+> I debated long and hard with myself about whether to include farm animals in this book. Holding off on that topic for another day would certainly spare me a lot of trouble, and maybe even gain me a wider readership (“Oh, good, at least he’s not one of those people”).
+
+Instead, he spends more pages and pathos on the hunters, for their cruelty, certainty, but also their hypocracy and discourtesy. 
+
+This is not to fault the chapter on factory farming: Scully does not shy away from the suffering of the pigs he visits; like Power, he cannot avoid a Holocaust reference. But his description of horrors is purposefully clinical. He does not get angry at the managers and staff of the farms. Rather, disappointed, he sees them as clueless, out of touch, and blind. 
+
+We are all only human. Scully seems to resist throwing numbers at us, of the scale of our cruelties. He has little truck for Peter Singer, whom he (ironically) respects for bringing animal welfare to the mainstream, but abhors for what brought him there. We are all only human, and a moment of disgust will be worth much more than the number 4,000,000.{% sidenote "pigday-id" "The number of pigs killed, every day." %} Scully, echoing Sir Randolph, finds humanity's treatment of animal ungentlemanly, or at least un-manly, and therefore ungodly.
+
+
+### Grrr transformers
+
+Two weeks ago, I got a sudden urge to understand how [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) worked. This was directly caused by learning how [the other kind of transformer](https://en.wikipedia.org/wiki/Transformer) works — it was intolerable to me that I understand the piece of technology which revolutionized the 1890s and not the piece shaping the world today. If that sounds like a dumb reason to spend 50 hours reading machine learning papers, well, it is.{% sidenote "karpto-id" "I was learning about electricial transformers for a completely unrelated project, on Turkish boats which generate and provide energy to small west African countries." %}
+
+It's surprising that my curiosity about AI had never showed up. I've used ChatGPT since December 2022.{% sidenote "furthtu-id" "Going even further back, I first thought deeply about AI (as deeply as 19 year old me could) in 2015, evidenced by an embarassing email I sent to a girl I had a crush on." %} I work in a building with the Center for the Governance of AI. Nick Bostrom is there sometimes. I'm one or two phone calls away from the authors of papers (and models) any of you have heard of. My girlfriend does really cool AI stuff. Yet I never had any  motivation to figure out what was going on.
+
+Of course, the problem with wanting to learn how transformers work is that *no one* understands how they work: there are a bunch of very smart people at [Google](https://deepmind.google/research/publications/22295/) and [Anthropic](https://www.anthropic.com/research/mapping-mind-language-model) etc. who want to know this much more than I do.{% sidenote "mechi-id" "I'm being facetious: mechanistic interpretability seeks to understand models made up of transformers, not the transformers themselves. But that's what I want, too." %} But the building blocks, the math bits, are out there for the understanding. 
+
+And relatively achievable: I now understand transformers to the point where I've manually coded a few small models, including GPT-2, and I have no great insight. (My curriculum is in this sidenote.{% sidenote "curric-id" "Read [this](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J#z=pndoEIqJ6GPvC1yENQkEfZYR). Read and implemented [this](https://nlp.seas.harvard.edu/annotated-transformer/). Read and *loved* [this](https://transformer-circuits.pub/2021/framework/index.html). Coded [this](https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo_Template.ipynb). Read [this](https://jalammar.github.io/illustrated-transformer/) and [this](https://blog.nelhage.com/post/transformers-for-software-engineers/). Did the exercises in [this](https://arena-ch1-transformers.streamlit.app/[1.5]_Grokking_and_Modular_Arithmetic)." %}) My curiosity about how these things work — about how these AIs work — has just been moved up a level. It's like — yesterday I was confused about how motorcycles go so fast, and today I know exactly how pistons work, but there's no one on the *planet* who can explain what crankshafts and camshafts do, so I'm left with this really cool and intricate bit of knowledge which doesn't sate me.
+
+There's a longer essay in here, and I had outlined it; I even knew the title: *And all to construct some versifier!* Stanislaw Lem and his translator Michael Kandel conspired to write the greatest short story about LLM-powered chatbots back in the 1960s, titled "The First Sally (A), or Trurl's Electronic Bard" in *The Cyberiad.*{% sidenote "cbq-id" "This is one of my favorite books; in a review from before I had ever heard of LLMs, I [quote](https://jablevine.com/older/july_2021#books) another story from the collection." %} Trurl, a mechanical constructor, set out to build a machine which can write poetry. He starts by training it on the history of civilization — he "could move at this rate because his machine was able, in one five-billionth of a second, to simulate one hundred septillion events at forty octillion different locations simultaneously." And, as I planned to cleverly title my essay, "all to construct some versifier!"
+
+The first time Trurl turns on the machine, "it immediately proceeded to deliver a lecture on the grinding of crystallographical surfaces as an introduction to the study of sub-molecular magnetic anomalies." This is a puzzle familiar to anyone who played with early LLMs: it is easier for them to perform technical tasks than to produce doggerel. Yet the machine trains more, and is fixed, and versifies. And then, if there's any part of the book that's well-known, it's this: Trurl's competitor prompts it for
+
+> a love poem, lyrical, pastoral, and expressed in the language of pure mathematics. Tensor algebra mainly, with a little topology and higher calculus, if need be. But with feeling, you understand, and in the cybernetic spirit.
+
+Kandel translates the poem into eight rhyming quatrains, and I [recommend it entirely](https://www.cse.wustl.edu/~jbuhler/cyberiad.html): 
+
+> Come, let us hasten to a higher plane,
+> 
+> Where dyads tread the fairy fields of Venn,
+> 
+> Their indices bedecked from one to *n*,
+> 
+> Commingled in an endless Markov chain!
+
+I'm getting somewhere with this. As relevant as Lem's *Cyberiad* is to the current confusion and rhetoric around LLMs, it's not surprising someone else wrote about it first. It's less surprising that someone was [Gwern](https://gwern.net/gpt-3#stanislaw-lems-cyberiad).
+
+As my essay was coming together, GPT o1 was released and people put it through its paces. One of Gwern's standard tests for new models is a prompt from the same Lem story: 
+
+> Have it compose a poem---a poem about a haircut! But lofty, noble, tragic, timeless, full of love, treachery, retribution, quiet heroism in the face of certain doom! Six lines, cleverly rhymed, and every word beginning with the letter 's'!
+
+This is a hard test, for reasons I now more-or-less understand.{% sidenote "obv-id" "LLMs work in one direction, and writing a poem like this requires planning from the end, almost — where does the treachery come in, how do I finish the rhyme, etc. Further, LLMs don't see *letters*, they see sub-words. Starting each word with the letter 's' implies knowing what an 's' is, which is hard for LLMs." %} I couldn't do it at all, and good poets would struggle. When Gwern gave the new OpenAI model this prompt, it got *very* close on its third try: 
+
+> Silently, steel scissors slice, 
+> 
+> Silken strands shed, shadows splice.
+> 
+> Steadfast soldier, scarred, serene,
+> 
+> Sacred sacrifice seals solemn scene.
+> 
+> Swiftly sweeps *t*he sable storm,
+> 
+> Solitary soul seeks shelter's swarm.
+
+Only one word fails to start with 's', and the poem does fairly well on the other constraints. The output when prompted to fix it, however, is surprising for different reasons:
+
+> Seduced, shaggy Samson snored.
+> 
+> She scissored short. Sorely shorn,
+> 
+> Soon shackled slave, Samson sighed,
+> 
+> Silently scheming
+> 
+> Sightlessly seeking
+> 
+> Some savage, spectacular suicide.
+
+As Gwern points out, *this is the poem from* The Cyberiad.{% sidenote "gopo-id" "It's also, in my opinion, quite a fun poem. I memorized it a few years ago, on a re-read of Kandel's translation, as a piece of doggerel to keep in my pocket. I'm glad it was Gwern who saw GPT o1 output it, because I'm not sure how I would have reacted." %} This is... weird. We're mostly past "AI is plagiarism" discourse at this point, but there was a time when the mainstream worry was LLMs stealing human writing word-for-word. These models are probabilistic, so their dominant mode isn't just outputting exact text from within their training data. Further, this is a good way to get sued, so we'd think that OpenAI would try very hard to discourage direct copying while training. Gwern's explanation is that, due to the tight constraints, 
+
+> a highly-discouraged, unlikely solution suddenly becomes accessible. GPT-4 o1-preview jumped out of the local optimum to completely change the answer to something that is technically more correct (it does satisfy all the constraints & is a good poem) but undesirable (because just memorized plagiarism, which I don't want, and further, ChatGPT is tuned to avoid that, although in this case the copyrighted text is brief enough that it doesn't outright violate its guidelines and you don't need to jailbreak it).
+
+Lem and Kandel's story is excellent and weird and prescient, and (indirectly) revealing insights into technologies invented sixty years after writing. I'm not going to understand LLMs anytime soon, but I'm glad poetry is a useful place to mine insights. Alfréd Rényi, a Hungarian mathematician well known for work on random graphs, would be happy: 
+
+> Since I started to deal with information theory I have often meditated upon the conciseness of poems; how can a single line of verse contain far more ‘information’ than a highly concise telegram of the same length. The surprising richness of meaning of literary works seems to be in contradiction with the laws of information theory. The key to this paradox is, I think, the notion of ‘resonance’. The writer does not merely give us information, but also plays on the strings of the language with such virtuosity, that our mind, and even the subconscious self resonate. A poet can recall chains of ideas, emotions and memories with a wellturned word. In this sense, writing is magic.
+
+
+### Shorts
+
+{% newthought "Márquez is special." %} I've never read either of the masterpieces, *Cholera* or *Solitude*, but extensively through his journalism and non-fiction. *Chronicle of a Death Foretold* is a mystery novel in the style of journalism; the narrarator is explicitly a journalist. There is no underlying mystery; in fact, it turns the genre on its head. The "whodunit" elements are all revealed on the first page (who, when, where, why), but the story gets murkier instead of clearer as the book progresses. It's also startlingly funny. 
+
+The English title is now inscribed, even new translations retain it. "Foretold" is translated from "anunciada" which doesn't have the same implications of destiny and inevitability. These are certainly themes in the story, especially with early and late discussions of portents seen by the murdered's mother. But it is a bit of over-translation. 
+
+{% newthought "I read Milton's" %} *Samson Agonistes* twice through this month, and connected much more to it than I did *Paradise Lost*, or any other blank verse. 
+
+{% newthought "Here's a great review" %} from the CIA of a [book](https://www.cia.gov/resources/csi/static/review-spies-in-congo.pdf) I probabaly won't read, on American efforts to secure uranium ore from the Congo during WWII. History is really big, and I don't have time for all of it. 
+
+{% newthought "I enjoyed Jia Tolentino's" %} book of essays *Trick Mirror*. Tolentino thrived in very early internet culture, writing hundreds of words a day on various sites from the age of eight. Her massive reserves of social energy are evident on every page; there's a very critical [review](https://www.lrb.co.uk/the-paper/v42/n02/lauren-oyler/ha-ha!-ha-ha) which didn't resonate with my own lack of connection. I came away underwhelmed. Tolentino mentions *Samson Agonistes* twice, both of which felt out of place. 
+
+{% newthought "I was frustrated by" %} *The Midnight Library*, which had come recommended by *three* friends. It was a modern morality tale, with an over constructed and under explained magic/unreality system. A superheroine commits suicide ("My therapist says it's not clinical depression, it's situational. I just have a lot of situations.") because she had a bad day (cat died, got fired, neglected her student, got told to piss off by her best friend and neighbor). BUT! She's special and gets to decide to turn back any of her poor decisions. She can slide between lives. There is either a serious misunderstanding of talent (I think it's this one) or this book takes the many-worlds interpretation seriously. There are easily accessible worlds (which she discusses before dying!) where she is a Michael Phelps-level retired swimmer, where she is a Hayley Williams-level rock star, where she's a professor of philosophy at Cambridge. That's just not how skill is distributed. BUT, besides the nitpick, I didn't really mind the book too much. I ended up skimming the final 100 pages quickly, as it became clear that she would get everything she wanted. There's no lesson in here, despite being constructed around one. Or if there is a lesson, it's "extrapolated volition" or whatever. 
 
 
 ## Links
 
+{% newthought "''Amtrak's Penn Station" %} operations team seems eternally surprised as trains arrive." On [games in everyday life](https://warofyesterday.blogspot.com/2010/05/games.html).
 
-{% newthought "Nathan Goldwag reads a lot" %}, and writes about some of it on his blog. Two blog posts which stood up and yelled at me: first, [this dark and useful and philosophical review](https://nathangoldwag.wordpress.com/2022/04/04/the-dark-is-rising-and-its-terrifying) of a children's book series, *The Dark is Rising,* and second, [an essay](https://nathangoldwag.wordpress.com/2024/08/01/from-mcmurdo-sound-to-flanders-fields-the-end-of-the-heroic-age-of-antarctic-exploration/) about the Antarctic expeditions of the early 20th century. 
+{% newthought "Last month, I" %} [talked](https://jablevine.com/older/september_2024#links) about why Rome didn't have an industrial revolution. [Here](https://glineq.blogspot.com/2016/05/economic-reflections-on-fall-of.html) are more considerations, this time from the inimitable Branko Milanovic. He considers Byzantium: 
 
-To Goldwag, "the Antarctic adventures of the 1890s-1910s represent a sort of “last hurrah” of the Old World, a final stage for the Imperial pageant to play out." In this telling, the Great War beats "the quest for knowledge, the bravery, the belief in progress" out of the last Victorian gentlemen. He's right about the second point, but neglects the stubborness of the last generation of British colonialists. I date the death of the Old World to 8 June, 1924: the final attempt on Mount Everest until 1952.{% sidenote "ever-id" "I wrote about the centenary [a few months ago](https://jablevine.com/older/july_2024)." %}
+> I do not know why market economy with wage labor failed to develop there and can only speculate that it might have been because of a militarized bureaucracy, land magnates (and thus high inequality), obsession with Christian theology which sucked the best minds into sterile disputes (it would be nice to have an anti-Christian like Gibbon tell us why the Eastern Empire could not become a capitalistic power!), its frequent wars with Arabs, Persians, Russians, Normans, Bulgars, Pechinegs, Avars, Ottomans… Any other candidates?
 
-Antarctic exploration peaked just before the Great War, and many of those explorers died in France. But another cohort of explorers survived the war, and threw themselves at Everest repeatedly in the early 1920s. *Into the Silence* by Wade Davis is one of my favorite reads of the year, and addresses with the psychological toll of the war on the British climbers in Nepal. It was only once this generation met failure that this generation waved its white flag. The history of Antarctic and Himalayan attempts bookend the Great War, and provide the final two chapters of the history of Victorian exceptionalism through exploration.
+{% newthought "I came across the phrase" %} "balls to the wall" in one of Admiral Cloudberg's recent articles, and the [etymology](https://en.wiktionary.org/wiki/balls_to_the_wall
+) was not what I was expecting. Also, unrelated to to the etymology [balls out](https://en.wiktionary.org/wiki/balls-out). 
 
-{% newthought "Something I came across separately," %} and only afterwards learned was written by Goldwag, are these [fictional lectures notes](https://tranquility.press/wp-content/uploads/2024/05/reconstructing-the-crisis-of-the-21st-century.pdf) from a Starfleet Academy seminar series called "Reconstructing the Crisis of the 21st Century (1992-2083)." This is exactly my kind of fanf iction. Not technically a work of sci-fi, the divergence point from our history is the end of the cold war and the arrival of Khan Noonian Singh. Eminently plausible, except for the Vulcans showing up.  The outline of the world portrayed in the lectures notes was written by the writers of TOS and TNG in the 1960s and 80s, and it shows.  We're lucky genetics is a hard problem. We're lucky for peace. Really lucky — almost all of the 80 year period covered is warfare. Two tidbits: 
-
->However, in the most famous incident, a Vulcan atmospheric shuttle en route from Shanghai to Mumbai in 2094 went down in a Himalayan valley uncontacted since the end of the war. The Indian military scrambled Search & Rescue teams, but when their helicopters finally tracked down the crash site, they discovered the Vulcan engineer eight hours into a debate with the local Buddhist priest over the nature of consciousness. History does not record who won.
-
-and
-
-> The Crisis of the 21st Century lasted ninety-one years, and resulted in the deaths of approximately 2.4 billion people, 30% of the human population of the time. In much of the world, life expectancy did not return to the level it had been in 1990 until the 2150s, and even with Vulcan aid, the ecological damage continues to be felt to this day. The global order collapsed more than once, and by the time it was over, large portions of the planet had reverted to barbarism and anarchy.
-
-{% newthought "Last month I wrote about another" %} alternate history, the [Ring of Fire](https://en.wikipedia.org/wiki/1632_series) series, taking place during the Thirty Years' War. The main characters are mostly fictional, but some figures show up: King Gustav II Adolf of Sweden and Cardinal Richelieu are particularly important. It's not until book 15 or so of the series that Oliver Cromwell playes a role, and many of his chapters are about something that hadn't happened yet: his 1649 campaign in Ireland. This was a charming [article](https://www.the-fence.com/life-of-reilly/) about a man from the town of Drogheda, the site of Cromwell's most famous atrocity, who is advancing a new and sympathetic historiography of Cromwell. 
-
-{% newthought "There's a paper in the new" %} JEP called "[On the Economics of Extinction and Possible Mass Extinctions](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.3.237)", by two people I've never heard of. It's not about the thing we're into  — rather, "Why do extinctions occur? And is the rate of human-caused extinction likely to increase over time?" Still, a cool model and a good read.
-
-{% newthought "Norway seems to be the first rich" %} country [studied so far](https://www.tandfonline.com/doi/full/10.1080/14681994.2021.1912316 ) in which sexual frequency has not declined over recent decades. I have no insights.
-
-{% newthought "The American Foreign Service Association" %} gives a [series of awards](https://afsa.org/constructive-dissent-awards) to FSOs who provide constructive dissent to US policy. I learned about this reading [an interview](https://adst.org/2014/01/our-government-has-evidenced-moral-bankruptcy-the-blood-telegram-and-the-1971-bengali-genocide/) with Archer Blood. This article is also when I learned that the Blood telegram was named after a man named Blood, not about the topic. I can't find a convenient list of Dissent award winners; any pointers would be handy. 
+{% newthought "Tulsa, and especially its Jews," %} is doing [crazy things](https://trevorklee.substack.com/p/something-interesting-is-happening) to attract migrants. No one worry; I have no desire to move to Oklahoma. But the fundamental message of “Move to Tulsa and you are guaranteed a job, a nice house, a fun social life, and assistance fulfilling whichever dreams you have” is attractive.
 
 
-
-{% newthought "Being a Nobel Laureate doubles" %} the chance your economics paper [gets published](https://www.pnas.org/doi/epub/10.1073/pnas.2205779119). This effect size is smaller than I expect, but still larger than it should be. Peer review is not broken: it never worked in the first place. 
-
-
-{% newthought "Here's a great Admiral Cloudber" %}  about an [Air Maroc flight](https://admiralcloudberg.medium.com/madness-in-morocco-the-near-crash-of-royal-air-maroc-express-flight-439-8dc5626ec3c3) which *bounced twice on the ocean and then no one said anything.* The captain just like, got away with it. Thanks to Ozy Brennan for linking this one. 
-
-
-{% newthought "And here's one which went" %} uncovered by the Admiral: the time [a crocodile crashed a plane](https://en.wikipedia.org/wiki/2010_Filair_Let_L-410_crash).
-> The only survivor of the crash stated to the investigators that a crocodile smuggled in a duffel bag by one of the passengers had escaped shortly before landing, sparking panic among the passengers. The flight attendant rushed towards the cockpit, followed by all passengers, and the resulting shift in the aircraft's centre of gravity led to an irrecoverable loss of control. The crocodile reportedly survived the crash, only to be killed with a machete by authorities.
-
-
-{% newthought "The [pitch meeting for Animaniacs](https://the-toast.net/2016/05/24/the-pitch-meeting-for-animaniacs/)" %}, now Olivia's second favorite piece of internet writing.
-
- 
-
-
-{% newthought "In 1980, there were only" %} 206,000 Indian immigrants in the US. The parents of Kamala Harris, Usha Vance, Bobby Jindal, and Jhumpa Lahiri{% sidenote "prob-id" "OK, you probably haven't heard of her. Lahiri is one of my favorite modern writers, and provides really good context and insight to her class and generation. Start with *Unaccustomed Earth.*" %} were among these. Here's [one article](https://srajagopalan.substack.com/p/kamala-harris-usha-vance-and-the) about the question: "How did the children of Indian immigrants reach the top of US establishments in just one generation?" We should read more about the experience of this generation of Indian Americans. Almost everyone who wants to understand American politics should know a little bit more about caste.
-
-> Usha’s last name is typically associated with the Telugu Kamma caste. But she and her family are vegetarians and, as one friend said, “sound” like Telugu Brahmins. Various [message boards](https://www.brownpundits.com/2022/11/05/usha-vance-hit-piece/) and [Twitter litigated her family’s origin story.](https://twitter.com/search?q=Usha%20vance%20kamma&src=typed_query)
-
-
-
-
-{% newthought "Why didn't Rome have an" %} [industrial revolution]() https://www.maximum-progress.com/p/romae-industriae)? Max says no printing press. My quick take is that slavery distorts labor markets too much: human capital accumulation is misdirected away from labor saving innovation. 
-
-
-
-{% newthought "This is [an article about sharks](https://www.newyorker.com/magazine/2024/08/05/beware-of-sharkless-waters)" %}. Katherine Rundell is the world's greatest writer about fauna. I don't think there's any way to transfer her skill to television, but if she's down, someone should fund it. In the meanwhile, read *The Golden Mole.*
-
-
-{% newthought "[Unsourced Twitter claim](https://x.com/cruelsardaukar/status/1737879694710632556 ):" %} "In WWI, the US government sent a cheque as a payment for airplane manufacturing to Ettore Buggati so fast that he took it to his local bank to ask if it was valid because he'd never received payment from a government so promptly before." Verifications welcome.
-
-
-{% newthought "I mentioned [this article](https://annehelen.substack.com/p/the-edenic-allure-of-ballerinafarm) to Olivia" %} and was immediately gifted with a dozen facts about the Mormon farming influencer Ballerina Farm. I live in a bubble of my own making. This article also taught me that Mormons believe that Eve was right and wise to eat the forbidden fruit in Eden: 
-
-> By making Juilliard part of the Ballerina Farm story, the life she’s living now is framed as the one she chose over the life she could have had as a professional ballerina. SHE TOOK A BITE OF THE FORBIDDEN (BIG) APPLE BUT THEN DECIDED TO GO BACK INTO THE GARDEN. Can you hear me yelling, “ARE YOU SEEING THIS?!”
-
-{% newthought "That article was written by" %} Anne Helen Petersen, and I spent a few hours down her archives before finding [this one](https://the-toast.net/2013/07/04/things-of-which-i-may-not-speak/) about her ex-boyfriend who died in the Iraq war. She's a really great writer; I wish her books (about millenial angst and working from home) were more up my alley.
 
 ## Previously
+
+*[September, 2024](https://jablevine.com/older/september_2024)*
 
 *[August, 2024](https://jablevine.com/older/August_2024)*
 
