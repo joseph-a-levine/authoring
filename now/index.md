@@ -20,7 +20,7 @@ title: What am I up to now?
   
 ## Updates
 
-This was a quiet month, with lots of reading, writing, and coding, much of which I discuss below. Term starts in Oxford at the beginning of October, which doesn't herald much of a change — in the third year, we're past taking coursework and not yet at *teaching* coursework.{% sidenote "cs-id" "Except for the genius overachievers in my cohort!" %} I'll be in Oxford for all of October; as always, please say hi if you're nearby!
+This was a quiet month, with lots of reading, writing, and coding, much of which I discuss below. Term starts in Oxford at the beginning of October, which doesn't herald much of a change — in the third year, we're past taking coursework and not yet at *teaching* coursework. I'll be in Oxford for all of October; as always, please say hi if you're nearby!
 
 ## Reading
 
@@ -28,7 +28,7 @@ This was a quiet month, with lots of reading, writing, and coding, much of which
 
 An acquaintance in Oxford does her PhD on rewilding. Her family runs a large rewilding project in Sussex, boasting thousands of hectares of land for wild cattle and boar and anything else that stops by. They host tours, camping, safari, and petting zoos. Gentlemen farmers had mostly given up on profitability in the 20th century, and not all estates can be rewilding attractions — but this one, it seems, is quite successful. 
 
-Napoleon called England "a nation of shopkeepers," but talking to conservatives today, or a hundred years ago, it is not that commerce which people are nostalgic for. England, in its own memory, is a nation of farmers, who shape and rule their land and its bounty. Shooting, in the Victorian style, with a gameskeeper and beaters and loaders, was something wholly and synonmously associated with this England. 
+Napoleon called England "a nation of shopkeepers," but talking to conservatives today, or a hundred years ago, it is not that commerce which people are nostalgic for. England, in its own memory, is a nation of farmers who shape and rule their land and its bounty. Shooting, in the Victorian style, with a gameskeeper and beaters and loaders, was something wholly and synonmously associated with this England. 
 
 *The Shooting Party* by Isabel Colegate is set in 1913 and written in the 1970s; it mocks, memorializes, and mourns this bit of pastorality. Sir Randolph Nettleby, Baronet, hosts the best shoots in England at his estate five miles west of Oxford, and he is quite proud that they were a favorite of King Edward VII. 
 
