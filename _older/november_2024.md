@@ -64,7 +64,7 @@ Other highlights include: a demo of the Apple Vision Pro in London, Nabokov's *P
 
 > This proposal was sufficiently outlandish that it was taken as an April Fool's Day joke when the Blue Peacock file was declassified on 1 April 2004. Tom O'Leary, head of education and interpretation at the National Archives, replied to the media that, "It does seem like an April Fool but it most certainly is not. The Civil Service does not do jokes."
 
-We can't take the UK seriously, not because they once thought about building a chicken bomb, but because they didn't build a chicken powered bomb!{% sidenote "arg-id" "[Arf arf!]({% sidenote "sidenote-id" "This is a random sidenote" %} )" %}  It's debatable whether we should be reverent towards the atom bomb, whether we should reify and fear and treat it as sacred — but we should not mock it. 
+We can't take the UK seriously, not because they once thought about building a chicken bomb, but because they didn't build a chicken powered bomb!{% sidenote "arg-id" "[Arf arf!]((https://x.com/stevenkaas/status/144899078222921729?lang=en))" %}  It's debatable whether we should be reverent towards the atom bomb, whether we should reify and fear and treat it as sacred — but we should not mock it. 
 
 
 ## Previously
