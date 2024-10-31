@@ -17,16 +17,7 @@ title: What am I up to now?
   
 ## Updates
 
-This was the first month of the third year of my PhD. It's a polarizing year -- half of the economists I know say it was the best year of their PhD; the other half say it was the worst. At the beginning of the year, a student is expected to be broadly exploring many projects; by the end of the year, the student should have a Research Agenda and a self-definition and a table of contents for their dissertation and — well, it's a busy year. 
 
-I spent October in Oxford only, exploring. Here's a non-comprehensive list of what I've been working on:
-{% newthought "Public finance and the local social contract" %}  in Gambia — we're going to baseline next month for an RCT that will span 2025. This is my first big project from start-to-finish; there are parts of it I love, parts of it I abhor, and parts which confuse me. But I've learned a lot very fast. 
-{% newthought "The political economy of policy advice" %}  — what do current models of expert policy advice leave out, especially in poor countries? Most of this advice is not coming from academics, even if it's based on our work. 
-{% newthought "Using LLMs to extract estimates from papers" %} to make meta-analyses easier. Or at least easier for the research assistants who have had to do this manually for ages. I've had mild success so far, but everything still requires manual review. Maybe a 60% time-savings (which is great!).
-{% newthought "Forecasting accuracy over different timeframes" %} — you might have heard me more pretentiously ask, "What is the shape of the forecasting error curve?" I've been dancing around this question since 2021; Eva Vivalt and Duncan Webb are digging back in.
-{% newthought "A couple of AI research topics" %} in poor countries, which I'm hesitant to talk about publicly (because nothing has been thought through yet). 
-{% newthought "Why are temporary energy" %}  solutions becoming permanent across Africa? I've talked many peoples' ears off about Karpowership, a Turkish company which operates 50+MW diesel power plants on container ships. There's been on anchored off Accra for a most of a decade, and another dozen spread around the continent. This is weird. 
-{% newthought "The political economy of malaria" %}  eradication. An emerging dynamic: many poor countries National Malaria Eradication agencies, and also have national vaccine programs. The distribution of malaria vaccines in several Central African countries have been delayed by political infighting over who gets the funding, responsibility, and credit.
 
 ## Reading
 
