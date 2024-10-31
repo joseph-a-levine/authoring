@@ -37,13 +37,59 @@ I spent October in Oxford only, exploring. Here's a non-comprehensive list of wh
 
 Other than work, October remains an S-tier month. Oxford looks fabulous in fog and orange hues. My wonderful girlfriend visited for my birthday; I am deeply grateful for United's Dulles-to-Heathrow flight. We've made three pumpkin pies in the last four days. 
 
+Other highlights include: a demo of the Apple Vision Pro in London, Nabokov's *Pnin*, thrifting with LH, and a *very* affectionate kelpie moving in down the street. 
+
 ## Reading
+
+
+
+
 
 
 ## Links
 
-{% newthought "''Amtrak's Penn Station" %} operations team seems eternally surprised as trains arrive." On [games in everyday life](https://warofyesterday.blogspot.com/2010/05/games.html).
+{% newthought "An esoteric branch of math" %} called [fraction theory](https://mathenchant.wordpress.com/2024/09/17/our-fractional-universe/) may hold the answers to science’s deepest mysteries"
 
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+{% newthought "THOUGHT" %}  
+
+
+
+[[George Orwell]] on the [cost](https://orwell.ru/library/articles/cigar/english/e_cigar) of [[Books]]. of course, this was a poor country at a poor time. In our day of abundance, they can all just scroll for free. 
+> It is difficult to establish any relationship between the price of books and the value one gets out of them. “Books” includes novels, poetry, text books, works of reference, sociological treatises and much else, and length and price do not correspond to one another, especially if one habitually buys books second-hand. You may spend ten shillings on a poem of 500 lines, and you may spend sixpence on a dictionary which you consult at odd moments over a period of twenty years. There are books that one reads over and over again, books that become part of the furniture of one's mind and alter one's whole attitude to life, books that one dips into but never reads through, books that one reads at a single sitting and forgets a week later: and the cost, in terms of money, may be the same in each case.
+
+[[Gwern]] on [[Matt Levine]] https://gwern.net/matt-levine
+a question i've asked before, but never answered. gwern answers it well. it's a complicated subject with "news" every day which is actually news — there's a new angle or something to each story, unlike his counterexample, barfights and crime reporting. 
+
+
+the plaque on the Eastern Scheldt Barrier reads: "Here the tide is ruled by the moon, the wind, and us"
+
+https://www.marines.mil/Portals/1/MCRP%203-35.1A%20z.pdf
+THe marine corp's Small Unit Leader's Guide to Mountain Warfare Operations. Full of interesting tidbits. probably useful occasionally, to someone. search for "swearing"
+
+
+Are the British a joke of a nuclear power?
+
+Literally, yes — have you heard about [Blue Peacock](https://en.wikipedia.org/wiki/Blue_Peacock) and the chicken-powered nuclear bomb? and of course they couldn't be normal about it: 
+
+> This proposal was sufficiently outlandish that it was taken as an [April Fool's Day](https://en.wikipedia.org/wiki/April_Fool%27s_Day "April Fool's Day") joke when the Blue Peacock file was declassified on 1 April 2004.[5](https://en.wikipedia.org/wiki/Blue_Peacock#cite_note-BBC-5) Tom O'Leary, head of education and interpretation at the [National Archives](https://en.wikipedia.org/wiki/National_Archives,_Kew "National Archives, Kew"), replied to the media that, "It does seem like an April Fool but it most certainly is not. The Civil Service does not do jokes."
+
+But there are things that never happened. We can't take the UK seriously, not because they once thought about building a chicken bomb, but because they didn't build a chicken powered bomb! It's debatable whether we should be reverent towards the atom bomb, whether we should reify and fear and treat it as sacred — but we should not mock it. 
 
 
 ## Previously
