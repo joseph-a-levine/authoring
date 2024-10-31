@@ -14,4 +14,4 @@ module Jekyll
   end
 end
 
-Jekyll::Liquid::Template.register_tag('sidenote', Jekyll::RenderSideNoteTag)
+Liquid::Template.register_tag('sidenote', Jekyll::RenderSideNoteTag)
