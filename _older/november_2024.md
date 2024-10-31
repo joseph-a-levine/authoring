@@ -10,6 +10,9 @@ title: What am I up to now?
 ## Contents
 - [Updates](#updates)
 - [Reading](#reading)
+  - [Thesis](#thesis)
+  - [Antithesis](#antithesis)
+  - [Synthesis](#synthesis)
 - [Links](#links)
 - [Previously](#previously)
 
@@ -42,6 +45,40 @@ Other highlights include: a demo of the Apple Vision Pro in London, Nabokov's *P
 ## Reading
 
 
+### Thesis
+Nabokov's *Pnin* is a top book of my year. Wittier than Amis, more evocative than Hardy, and sharper than Salinger. 
+
+*Pnin* is everything *Lolita* is not. Professor Pnin is everythign Humbert is not. He is loving and clever and pathetic; he enjoys hosting dinner parties and will happily buy a football and a too-facile book for his ex-wife's son, and be so charming about them both that the son sees him as a father. It's a story of the Russian emigres — they are hounded, impoverished, disdained, and forgotten, but they don't mind deeply. They persevere. Critics make a big deal out of a one-page digression on Pnin's first love, Mira Belochkin, who died at Buchenwald. Nabokov's wife being Jewish as well, people read more into this than they must. 
+
+Matt Levine, mentioned below, got here first: 
+
+> **COWEN:** What makes [Nabokov](https://www.britannica.com/biography/Vladimir-Nabokov)’s [_Pnin_](https://www.amazon.com/Pnin-Vladimir-Nabokov/dp/0679723412) an interesting novel?
+> 
+> **LEVINE:** [laughs] You’ve been reading my secret Tumblr.{% sidenote "tubl-id" "IF ANYONE HAS A LINK TO MATT LEVINE'S SECRET TUMBLR, I WILL PAY YOU $100." %}  Which I’m not going to link up to. It’s just very Nabokovian. He’s just this great esthete of almost pointless pleasure in writing.
+> 
+> There’s this scene that I love where Pnin, the absentminded professor character, is heartbroken after a run-in with his ex-wife. He’s dejectedly walking through the park on the way home, and he’s pondering the meaning of life.
+> 
+> Nabokov says something like he’s almost come upon a solution to one of the great mysteries of life. Then he’s interrupted by a squirrel who runs up on a water fountain and demands that he help the squirrel drink from the water fountain. So he helps the squirrel, and then he moves on.
+> 
+> It’s just this random interlude of gorgeous writing and bizarre scenery and just random pileup of weird delightfulness with no point that I find very appealing. [laughs]
+
+Squirrels show up repeatedly in the book, and the critics make a lot of this too. The squirrel motif is, I think, just because Nabokov liked squirrels. 
+
+### Antithesis
+
+Han Kang won the Nobel Prize for literature this month, and she may be the first winner I read *before* their win.{% sidenote "dylbn-id" "Bob Dylan doesn't count." %} I read *The Vegetarian* a few years ago, and again after her win. Han does a really good job of writing meat disgustingly (and there's a lot of food in this book, maybe too much for a Yom Kippur read). But it's not about meat. 
+
+I'm still peeved about the reviews on Goodreads. Check out the first review [right now](https://www.goodreads.com/book/show/25489025-the-vegetarian): 
+
+> This is deeply personal to my own beliefs. I'm a vegan.
+
+I don't want to take that away from them, and nothing personal. But, just like the Nabokov critics saying the squirrel is a reincarnation of whomever, you're wrong. I'm going to tell you what the book is about, and the critics are right. *The Vegetarian* is a book about gender relations in South Korea. That's it. If it has a commentary about animal welfare, that commentary is, "isn't it horrible that women are treated like meat?" 
+
+### Synthesis
+
+I was reminded of both the above reading experiences after hearing Ta-nehisi Coates on the Ezra Klein show, a really excellent podcast episode. Coates' new book discusses the conflict in Palestine. The two of them were very close on experiences and facts — both having visited the West Bank recently — but far apart on narrative. The conversation, of course, was shaped by Coates' book. Coates said that he strongly believed in the interpretation of the reader, that the book is out in the world now and he no longer has the right or the ability to dictate how it is received — even though he was evidently quite peeved by Ezra's reading of it. Specifically, Klein wanted to push Coates towards a more holistic view of the conflict, but Coates stood by his analysis  of the underdog. 
+
+Authors do put their books into the readers' hands. Readers are sometimes wrong. These two things are irreconcilable, especially because *I* am never wrong, it is only the readers obsessed with Pninian squirrels and vegan Koreans who are wrong. It is an act of trust and resignation to put complicated ideas in writing into the world. 
 
 
 
