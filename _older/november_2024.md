@@ -24,13 +24,13 @@ This was the first month of the third year of my PhD. It's a polarizing year -- 
 
 I spent October in Oxford only, exploring. Here's a non-comprehensive list of what I've been working on:
 
-{% newthought "Public finance and the local social contract" %}  in Gambia — we're going to baseline next month for an RCT that will span 2025. This is my first big project from start-to-finish; there are parts of it I love, parts of it I abhor, and parts which confuse me. But I've learned a lot very fast. 
+{% newthought "Public finance and the local social contract" %}  in Gambia — we're going to baseline next month for an RCT that will span 2025. This is my first big project from start-to-finish; there are parts I love, parts I abhor, and parts which confuse me. But I've learned a lot very fast. 
 
 {% newthought "The political economy of policy advice" %}  — what do current models of expert policy advice leave out, especially in poor countries? Most of this advice is not coming from academics, even if it's based on our work. 
 
 {% newthought "Using LLMs to extract estimates from papers" %} to make meta-analyses easier. Or at least easier for the research assistants who have had to do this manually for ages. I've had mild success so far, but everything still requires manual review. Maybe a 60% time-savings (which is great!).
 
-{% newthought "Forecasting accuracy over different timeframes" %} — you might have heard me more pretentiously ask, "What is the shape of the forecasting error curve?" I've been dancing around this question since 2021; Eva Vivalt and Duncan Webb are digging back in.
+{% newthought "Forecasting accuracy over different timeframes" %} — you might have heard me ask, rather more pretentiously, "What is the shape of the forecasting error curve?" I've been dancing around this question since 2021; Eva Vivalt and Duncan Webb are digging back in.
 
 {% newthought "A couple of AI research topics" %} in poor countries, which I'm hesitant to talk about publicly (because nothing has been thought through yet). 
 
@@ -48,9 +48,9 @@ Other highlights include: a demo of the Apple Vision Pro in London, Nabokov's *P
 ### Thesis
 Nabokov's *Pnin* is a top book of my year. Wittier than Amis, more evocative than Hardy, and sharper than Salinger. 
 
-*Pnin* is everything *Lolita* is not. Professor Pnin is everythign Humbert is not. He is loving and clever and pathetic; he enjoys hosting dinner parties and will happily buy a football and a too-facile book for his ex-wife's son, and be so charming about them both that the son sees him as a father. It's a story of the Russian emigres — they are hounded, impoverished, disdained, and forgotten, but they don't mind deeply. They persevere. Critics make a big deal out of a one-page digression on Pnin's first love, Mira Belochkin, who died at Buchenwald. Nabokov's wife being Jewish as well, people read more into this than they must. 
+*Pnin* is everything *Lolita* is not. Professor Pnin is everything Humbert is not. He is loving and clever and pathetic; he enjoys hosting dinner parties and will happily buy a football and a too-facile book for his ex-wife's son, and be so charming about them both that the son sees him as a father. It's a story of the Russian emigres — they are hounded, impoverished, disdained, and forgotten, but they don't mind deeply. They persevere. Critics make a big deal out of a one-page digression on Pnin's first love, Mira Belochkin, who died at Buchenwald. Nabokov's wife being Jewish as well, people read more into this than they must. 
 
-Matt Levine, mentioned below, got here first: 
+Matt Levine got here first: 
 
 > **COWEN:** What makes [Nabokov](https://www.britannica.com/biography/Vladimir-Nabokov)’s [_Pnin_](https://www.amazon.com/Pnin-Vladimir-Nabokov/dp/0679723412) an interesting novel?
 > 
@@ -76,7 +76,7 @@ I don't want to take that away from them, and nothing personal. But, just like t
 
 ### Synthesis
 
-I was reminded of both the above listening to Ta-nehisi Coates on the Ezra Klein show, a really excellent podcast episode. Coates' new book discusses the conflict in Palestine. The two of them were very close on experiences and facts — both having visited the West Bank recently — but far apart on narrative. The conversation, of course, was shaped by Coates' book. Coates said that he strongly believed in the interpretation of the reader, that the book is out in the world now and he no longer has the right or the ability to dictate how it is received — even though he was evidently quite peeved by Ezra's reading of it. Specifically, Klein wanted to push Coates towards a more holistic view of the conflict, but Coates stood by his analysis  of the underdog. 
+I was reminded of both the above listening to Ta-nehisi Coates on the Ezra Klein show, a really excellent podcast episode. Coates' new book discusses the conflict in Palestine. The two of them were very close on experiences and facts — both having visited the West Bank recently — but far apart on narrative. Coates said that he strongly believed in the interpretation of the reader, that the book is out in the world now and he no longer has the right or the ability to dictate how it is received — even though he was evidently quite peeved by Ezra's reading of it. Specifically, Klein wanted to push Coates towards a more holistic view of the conflict, but Coates stood by his analysis  of the underdog. 
 
 Authors do put their books into the readers' hands. Readers are sometimes wrong. These two things are irreconcilable, especially because *I* am never wrong, it is only the readers obsessed with Pninian squirrels and vegan Koreans who are wrong. It is an act of trust and resignation to put complicated ideas in writing into the world.
 
@@ -85,7 +85,7 @@ Authors do put their books into the readers' hands. Readers are sometimes wrong.
 
 ## Links
 
-{% newthought "An esoteric branch of math" %} called [fraction theory](https://mathenchant.wordpress.com/2024/09/17/our-fractional-universe/) may hold the answers to science’s deepest mysteries"
+{% newthought "``An esoteric branch of math" %} called [fraction theory](https://mathenchant.wordpress.com/2024/09/17/our-fractional-universe/) may hold the answers to science’s deepest mysteries"
 
 {% newthought "George Orwell on the cost" %}  of [books](https://orwell.ru/library/articles/cigar/english/e_cigar). Of course, this was a poor country at a poor time.
 > It is difficult to establish any relationship between the price of books and the value one gets out of them. “Books” includes novels, poetry, text books, works of reference, sociological treatises and much else, and length and price do not correspond to one another, especially if one habitually buys books second-hand. You may spend ten shillings on a poem of 500 lines, and you may spend sixpence on a dictionary which you consult at odd moments over a period of twenty years. There are books that one reads over and over again, books that become part of the furniture of one's mind and alter one's whole attitude to life, books that one dips into but never reads through, books that one reads at a single sitting and forgets a week later: and the cost, in terms of money, may be the same in each case.
