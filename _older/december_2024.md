@@ -19,7 +19,7 @@ title: What am I up to now?
 
 Updates? What updates?
 
-At the end of October, I was sitting at my desk, overlooking the Thames, working on my PhD. Today, I am sitting at my desk, overlooking the Thames, working on my PhD. Some projects look more promising than a month ago; others have withered. Overall, nothing has changed.
+At the end of October, I was sitting at my desk, overlooking the Thames, working on my PhD. Today, I am sitting at my desk, overlooking the Thames, working on my PhD. Some projects look more promising than a month ago; others have withered. I remain here.
 
 I'll be in Gambia for half of December. The baseline survey for our project there is begining in the first week of the month, and there are lots of logistics to nail down before the new year. 
 
