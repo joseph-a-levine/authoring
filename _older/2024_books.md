@@ -159,7 +159,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***Very Important People***, **Ashley Mears**. An ethnography of VIP nightlife culture, using her experiences as a model-turned-academic.
 
-***The Fall of Constantinople***, **Steven Runciman**. A reconstruction of the 1453 Ottoman conquest of Constantinople. 
+★***The Fall of Constantinople***, **Steven Runciman**. A reconstruction of the 1453 Ottoman conquest of Constantinople. 
 
 ***Samson Agonistes***, **John Milton**. The famous poem. Truly great.
 
@@ -209,7 +209,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***To the End of June: The Intimate Life of American Foster Care***, **Cris Beam**. A portrait of foster parents and kids. A system which does not work. 
 
-***Orbital***, **Samantha Harvey**. A novel, 24 uneventful hours on the ISS. 
+***Orbital***, **Samantha Harvey**. A novel; 24 uneventful hours on the ISS. 
 
 ***Sir Gawain and the Green Knight***, **Trans. J.R.R. Tolkien**. Tolkien translates the Middle English poem beautifully if not faithfully. Rollicking.
 
