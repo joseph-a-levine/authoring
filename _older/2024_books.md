@@ -251,5 +251,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 Additionally, I re-read ⟳ all of the books in the ***1632*** series, the ***Murderbot*** series, and Wildbow's ***Worm***. But these are like candy and I'm midly ashamed. 
 
+I also spent a lot of time with sub-books this year. Two of my favorite physical books are the Penguin collections of Borges fiction and non-fiction, and I found myself opening these and reading small selections often. The same with ***Tales from Shakespeare*** and Shakespeare plays; Raymond Carver, Tolstoy, Orwell's fiction and non-fiction, Ambedkar, and Keynes' collections. 
 
+Poetry followed a similar pattern: I have two Norton anthologies and ***The Oxford Book of American Poetry*** on my tablet (in total, 5,000 pages of poetry!), and I would often flick through, sometimes reading them outloud on Whatsapp audio messages to people. I also revisited individual poets through the year: Byron, Rita Dove, Tennyson, Neruda, Tagore, William Blake, and Dickinson. But I've stopped trying to read books of poetry all at once. 
 
