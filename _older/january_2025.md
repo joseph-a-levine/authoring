@@ -21,7 +21,7 @@ Happy new year! I am spending my first week of 2025 near Lake Tahoe, hosted by t
 
 The Bay Area has always loomed large in my imagination, at least since the 2010 Giant's World Series Run. But I've never explored the city besides a hectic five days in 2022 and a more detailed exploration in 1997. I arrived in California just after Christmas, and I'll be in San Francisco until the end of January. 
 
-I'll be spending some time around Berkeley 
+I'll be spending some time around Berkeley, along with general SF exploration. Please reach out if you would like to meet up. 
 
 
 ## Reading

@@ -4,7 +4,7 @@ title: What am I up to now?
 ---
 
 <!-- omit in toc -->
-## December, 2024
+## January, 2025
 
 <!-- omit in toc -->
 ## Contents
@@ -17,49 +17,43 @@ title: What am I up to now?
   
 ## Updates
 
-Updates? What updates?
+Happy new year! I am spending my first week of 2025 near Lake Tahoe, hosted by the lovely and hospitable KGW. My wonderful girlfriend's school friends (and assorted partners) are stuffed into a beautiful house right on the ski runs; for New Years Eve, we watched the local resort's 9pm drone show.{% sidenote "pm9-id" "9pm because that's midnight on the east coast, and the kids have to get to bed; drones because fireworks are a fire hazard." %} 
 
-At the end of October, I was sitting at my desk, overlooking the Thames, working on my PhD. Today, I am sitting at my desk, overlooking the Thames, working on my PhD. Some projects look more promising than a month ago; others have withered. I remain here.
+The Bay Area has always loomed large in my imagination, at least since the 2010 Giant's World Series Run. But I've never explored the city besides a hectic five days in 2022 and a more detailed exploration in 1997. I arrived in California just after Christmas, and I'll be in San Francisco until the end of January. 
 
-I'll be in Gambia for half of December. The baseline survey for our project there is begining in the first week of the month, and there are lots of logistics to nail down before the new year. 
-
-Around Christmas, I'll head to the Bay Area, and I'll be around for a month. I'm excited to spend time with my wonderful girlfriend and her friends and family. If you would like to meet, please reach out! 
+I'll be spending some time around Berkeley, along with general SF exploration. Please reach out if you would like to meet up. 
 
 
 ## Reading
 
-No long reviews this month. Next month I'll put my list of the books I read in 2024 here; you can also see my lists from [2022](https://jablevine.com/older/2022_books) and [2023](https://jablevine.com/older/2023_books). My thoughts at this point are that I had less fun reading this year than previous years. The highs were lower, but the median book was better, perhaps. More thoughts next month. If you want to influence the list slightly, my amazon wishlist is [here](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0).
+Here is [the list of books I read in 2024](https://jablevine.com/older/2024_books). The best part of making this list was going through the books I added to Zotero this year and remembering all the ones I neglected, abandoned, or skipped. So on New Year's Day, I started two old acquisitions: a biography of Genghis Khan and a history of South Korean feminism. 
 
+Several of MWG's friends in Tahoe were rushing to finish their annual reading goals (great job, RB). I didn't have an explict goal in 2024, and I don't for 2025. A few writers, especially Nabokov and Marquez, will remain high on my priorities, and I would love to read more works in translation.{% sidenote "tran0-id" "[2022](https://jablevine.com/older/2022_books) was a particularly good year for that." %} I also would love to focus on some reading projects this year. In 2024, I read multiple books on Singapore, WWI, Xinjiang, and Everest. I look forward to a few such deliberate projects in 2025. 
 
 ## Links
 
-{% newthought "Why have cheap airline flights" %} all been re-routed to China recently? Chinese airlines [can use Russian airspace, saving tonnes of fuel](https://skift.com/2024/10/20/why-are-airlines-quiet-quitting-china/), allowing them to outcompete European airlines which have to route to the south. 
+{% newthought "An insightful review" %} of a [monograph on econophysics](http://bactra.org/reviews/intro-to-econophysics/). 
 
-{% newthought "What Matt Bell learned" %} from [130 hours in a Waymo](https://www.mattbell.us/what-i-learned-from-130-hours-in-a-waymo/). I'm excited to try one next month in the Bay!
+"You'll also see paper after paper about the statistics of financial markets --- and almost nothing about any other sort of market. There are two major reasons for this. First, financial markets produce huge volumes of high-quality data. It might be that the econophysicists' tools are even better suited to (say) studying the dynamics of industrial competition, but they'll never find the kind of data on manufacturing that they can get for financial markets. Second, that's where the money is."
+
+{% newthought "Yet another short story" %} [riffing](https://www.lightspeedmagazine.com/fiction/the-ones-who-come-at-last/) on *Omelas*. Paired well with an Arundhati Roy collection from 2005.
+
+{% newthought "A collection of Russian jokes" %} ("anekdoty") [about the Ukraine war](https://tapwatersommelier.substack.com/p/anekdoty-about-putin-war).  
+
+**Putin**, after the Kursk incursion, is summoning Stalin’s ghost. 
+
+**Stalin**: “What’s wrong?”
+
+**Putin**: “Nazis are circling Kursk! My army is retreating! What should I do?”
+
+**Stalin**: “Do what I did in 1943. Send the best Ukrainian troops and ask US for help.”
 
 
-{% newthought "There's a whole book on" %} Lady Baker, who explored the headwards of the Nile in the late 19th century, but it's probably not worth your time. [This article](https://harkness.substack.com/p/lady-baker-and-the-source-of-the) might be:
-> Samuel had found nineteen-year-old Florence, as he called her, in 1859 at an auction of white slaves in a Turkish-administered town in Bulgaria. (There is some date about her exact age: she was certainly less than half Baker’s age when he met her.) Her real name is believed to have been Barbara Maria von Sass, born in Transylvania, then part of Hungary. Her parents had been killed in the 1848 uprising, and she had been raised from her childhood by a wealthy Armenian trader who intended to make a good profit when he sold this beautiful blonde teenager at auction.
-
-
-{% newthought "Orwell on Tolstoy on Shakespeare" %}, a [polemic](https://www.orwell.ru/library/essays/lear/english/e_ltf) worth reading if you enjoy any of those writers. 
-> But is King Lear not also curiously similar to the history of Tolstoy himself? There is a general resemblance which one can hardly avoid seeing, because the most impressive event in Tolstoy's life, as in Lear's, was a huge and gratuitous act of renunciation. In his old age, he renounced his estate, his title and his copyrights, and made an attempt — a sincere attempt, though it was not successful — to escape from his privileged position and live the life of a peasant. But the deeper resemblance lies in the fact that Tolstoy, like Lear, acted on mistaken motives and failed to get the results he had hoped for.
-
-
-{% newthought "This is on me for taking" %} so long to figure out: the origin of the title of qntm's short story "[Lena](https://qntm.org/lena)" comes from the [test image of Lena Forsen](https://en.wikipedia.org/wiki/Lenna) used to study color processing.
-
-{% newthought "Speaking of short stories" %}, here are a few:
-
-{% newthought "Lots of talk around" %} how to design legitimate utopia. A [fun effort](https://alicorn.elcenia.com/stories/will.shtml) from Alicorn.
-
-{% newthought "Superman, and the public will" %}, feature in [this one](https://hallofdreams.org/posts/famous/).
-
-{% newthought "Here's one I can't really" %} describe, but the title, "[The Mother of All Squid Builds a Library](https://web.archive.org/web/20211203013724/http://strangehorizons.com/fiction/the-mother-of-all-squid-builds-a-library/)", is mostly representative.
-
-{% newthought "More realist than the previous" %}, about [a walk on a mountain](https://alpinist.com/features/hard-to-explain/).
 
 
 ## Previously
+
+*[December, 2024](https://jablevine.com/older/december_2024)*
 
 *[November, 2024](https://jablevine.com/older/november_2024)*
 
