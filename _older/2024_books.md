@@ -5,7 +5,7 @@ title: Books I read in 2024
 
 This is a list of the books I read in 2024. ★ means I loved it; ⟳ is a re-read.
 
-The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for five or ten months until the time was right. I read all but five of these books on my tablet.  
+The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for five or ten months until the time was right. 
 
 ————————————————
 
@@ -23,7 +23,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★***Here***, **Richard McGuire**. The best visual art of the year? The importance of continuity.
 
-***Call to Arms***, **L.U. Xun**. A seminal short story collection, critiques of 20th century Chinese society. 
+***Call to Arms***, **L.U. Xun**. A seminal short story collection, critiques of early 20th century Chinese society. 
 
 ***The Metamorphosis of Prime Intellect***, **Roger Williams**. A 1994 controversial sci-fi novel about alignment. Not very deep; very fun. 
 
@@ -31,13 +31,13 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★***Into the Silence: The Great War, Mallory, and the Conquest of Everest***, **Wade Davis**. This book couldn't quite decide what it wanted to be, alternating between a biography of Mallory, a meditation on psychological effects of the Western Front, a mountaineering guide, and a collection of essays. It really comes together.
 
-***A Countess Below Stairs***, **Eva Ibbotson**. An early but very modern romance novel. A Russian countess flees the revolution to England, where she works as a housemaid in a Duke's house. You can guess the rest of the plot. Ibbotson (of *Which Witch?* fame) is always worth reading.
+***A Countess Below Stairs***, **Eva Ibbotson**. An early but very modern romance novel. A Russian countess flees the revolution to England, where she works as a maid in a Duke's household. You can guess the rest of the plot. Ibbotson (of *Which Witch?* fame) is always worth reading.
 
 ***Cosmicomics***, **Italo Calvino**. A collection of sci-fi tales, fun and whimsical, with depth.
 
-***The Canadian Contribution to a Comparative Law of Secession: Legacies of the Quebec Secession Reference***, **ed. Giacomo Delledonne and Guiseppe Martinico**. An academic volumen on the 1998 Supreme Court of Canada Reference on the sucession of Quebec, looking at influences on global constitutional theory and practice. I intended to read just one essay, but this was really good! 
+***The Canadian Contribution to a Comparative Law of Secession: Legacies of the Quebec Secession Reference***, **ed. Giacomo Delledonne and Guiseppe Martinico**. An academic volume on the 1998 Supreme Court of Canada Reference on the sucession of Quebec, looking at influences on global constitutional theory and practice. I intended to read just one essay, but this was really good! 
 
-***Chaucer***, **G.K. Chesterton**. A literary biography; the theology goes over my head. That's OK: Chesterton wasn't only a Christian apologist. The man is an apologist for much else: modernism, bureaucracy, incrementalism, and a certain type of aesthetic hedonism. Chaucer is just the lens he uses here.
+***Chaucer***, **G.K. Chesterton**. A literary biography; the theology goes over my head. That's OK: Chesterton wasn't only a Christian apologist. The man is an apologist for much else: modernism, bureaucracy, incrementalism, and a certain type of aesthetic hedonism. Chaucer is the lens he uses here.
 
 ***So Far So Good***, **Ursula K. Le Guin**. A late collection of her poetry.
 
@@ -129,7 +129,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***A Midwife's Tale: The Life of Martha Ballard, Based on Her Diary, 1785-1812***, **Laurel Ulrich**. A *very* deep biography of someone we otherwise would never have heard of: a midwife in post-revolutionary Maine. 
 
-***Dark Sun: The Maing of the Hydrogen Bomb***, **Richard Rhodes**. More political and less physical than his more famous ***The Making of the Atomic Bomb***. I actually preferred this one. 
+***Dark Sun: The Making of the Hydrogen Bomb***, **Richard Rhodes**. More political and less physical than his more famous ***The Making of the Atomic Bomb***. I actually preferred this one. 
 
 ***Dominion: The Power of Man, The Suffering of Animals, and the Call to Mercy***, **Matthew Scully**. A G.W. Bush speechwriter makes the case for you, a red-blooded American, to go vegan. 
 
@@ -139,7 +139,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***My Family and Other Animals: A True Story***, **Gerald Durrell**. A very funny account of a British childhood on Corfu in the 1930s, lots of wildlife and ribbing of his more famous brother Lawrence.
 
-***The Story of my Life***, **Helen Keller**. A memoir, with a very long digression into a court case she was involved in at the time. 
+***The Story of My Life***, **Helen Keller**. A memoir, with a very long digression into a court case she was involved in at the time. 
 
 ***Consent: A Memoir***, **Vanessa Springora**. A memoir about a marriage, beginning in her teens and lasting half a century.
 
@@ -147,11 +147,11 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***The Real North Korea: Life and Politics in the Failed Stalinist Utopia***, **A.N. Lankov**. A dry but fascinating modern account, from a Russian who has spent lots of time there. 
 
-***William Blake***, **G.K. Chesterton**. A biography: Blake as a mystic. If you think he was mad, well, he was just the last holdout of the spiritualists against the tide of rationalism.
+***William Blake***, **G.K. Chesterton**. A biography: Blake as a mystic. We think that he was a madman. If you think he was mad, well, he was just the last holdout of the spiritualists against the tide of rationalism.
 
 ***Raw Thought Raw Nerve: Inside the Mind of Aaron Swartz***, **Aaron Swartz**. A collection of his blog posts from a short, chaotic, driven life. Wikipedia and Reddit. 
 
-★***Chronicle of a Death Foretold***, **Gabriel Garcia Marquez**. A novel that reads very journalistically, playing to his strengths.
+★***Chronicle of a Death Foretold***, **Gabriel Garcia Marquez**. A journalistic novel. I've loved his non-fiction, and I'm easing into the big fiction.
 
 ***Fine Structure***, **Sam Hughes**. A sci-fi novel, very innovative and fun. Hughes (qntm) is an underrated and versatile plotmaster. 
 
@@ -165,7 +165,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***Understanding Power***, **Noam Chomsky**. A thousand pages of transcripts of Chomsky in conversation. 
 
-***Perspectives on the Security of Singapore***, **Ed. Barry Desker and Cheng Guan Ang**. A collection of essays; didn't quite scrate the itch but informative.
+***Perspectives on the Security of Singapore***, **Ed. Barry Desker and Cheng Guan Ang**. A collection of essays; didn't quite scratch the itch but informative.
 
 ***The Midnight Library***, **Matt Haig**. I did not like this novel.
 
@@ -177,7 +177,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★***Shuttle Down***, **G. Harry Stine**. The space shuttle lands on Easter island. This is not a good book. I loved it.
 
-***Civilizations***, **Laurent Binet**. An alternate history: the Inca and Aztec invade Europe. I had really high hopes based on ***HHhH*** and this premise. Competent but not blow away. 
+***Civilizations***, **Laurent Binet**. An alternate history: the Inca and Aztec invade Europe. I had really high hopes based on ***HHhH*** and this premise. Competent but not blown away. 
 
 ***Sperm Whales***, **Hal Whitehead**. Synthesizes decades of research on sperm whale biology, social behavior, and intelligence. 
 
@@ -189,17 +189,17 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ★***Pnin***, **Vladimir Nabokov**. A campus novel. Possibly the best book I read this year.
 
-***Lord Kalvan of Otherwhen***, **H. Beam Piper**. A sci-fi/alternative history novel. Entertaining, ends abruptly
+***Lord Kalvan of Otherwhen***, **H. Beam Piper**. A sci-fi/alternative history from the 60s. Entertaining, ends abruptly
 
 ***The Vegetarian***, **Han Kang**. A South Korean novel about a woman who stops eating meat. 
 
 ***Our Lady of the Nile***, **Melanie Mauthner**. A book about a catholic girl's school at the source of the Nile in Rwanda, pre-genocide. Excellent! 
 
-***Capitalist Realism: Is There no Alternative?***, **Mark Fisher**. An argument; capitalist ideology is so pervasive that we can't imagine alternatives, and *this* is what is causing depressive resignation that paralyzes political and cultural imagination.
+***Capitalist Realism: Is There No Alternative?***, **Mark Fisher**. An argument; capitalist ideology is so pervasive that we can't imagine alternatives, and *this* is what is causing depressive resignation that paralyzes political and cultural imagination.
 
 ***The Grid***, **Gretchen Anna Bakke**. A modern history of America's aging electrical grid, especially focused on how problems of centralized design struggle with renewable engergy integration. 
 
-★***Seven Seconds to Die: A Military Analysis of the Second Nagorno-Karabakh War and the Future of Warfighting***, **John F. Antal**. An analysis of the 2020 war, with a focus on drones, sensors, precision weapons, and AI are changing things. Will certainly be important.
+★***Seven Seconds to Die: A Military Analysis of the Second Nagorno-Karabakh War and the Future of Warfighting***, **John F. Antal**. An analysis of the 2020 war between Armenia and Azerbaijan, with a focus on how drones, sensors, precision weapons, and AI are changing things. Will certainly be important.
 
 ***Ra***, **Sam Hughes**. Really weird and innovative modern sci-fi. Hughes has a top notch imagination.
 
@@ -207,7 +207,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***The Ohlone Way: Indian Life in the San Francisco-Monterey Bay Area***, **Malcolm Margolin**. A history of pre-colonial life in the Bay Area, detailing their ecological integration and knowledge. 
 
-***To the End of June: The Intimate Life of American Foster Care***, **Cris Beam**. A portrait of foster parents and kids. A system which does not work. 
+***To the End of June: The Intimate Life of American Foster Care***, **Cris Beam**. A portrait of foster parents and kids. A system which refuses to work. 
 
 ***Orbital***, **Samantha Harvey**. A novel; 24 uneventful hours on the ISS. 
 
@@ -243,7 +243,7 @@ The books are in reverse order of when I put them into Zotero; I read some books
 
 ***True Porn Clerk Stories***, **Ali Davis**. A collection of essays about her experiences working at an adult video store in 2000s Chicago. Humorous and humanizing observations about customers, retail work, and society's relationship with pornography.
 
-***19 Ways of Looking at Wang Wei***, **Eliot Weinberger**. A collection of 19 (almost 40 in the new edition) translations of a Tang dynasty poem, accompanied by usually-scathing criticism from Weinberger
+***19 Ways of Looking at Wang Wei***, **Eliot Weinberger**. A collection of 19 (almost 40 in the new edition) translations of a Tang dynasty poem, accompanied by often-scathing criticism from Weinberger
 
 ***Bea Wolf***, **Zach Weinersmith**. A reimagination of Beowulf in modern suburban America, beautifully illustrating, begging to be read aloud. 
 
