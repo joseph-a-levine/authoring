@@ -3,7 +3,7 @@ layout: page
 title: Books I read in 2024
 ---
 
-This is a list of the books I read in 2024. ★ means I loved it; ⟳ is a re-read.
+This is a list of the books I read in 2024. ★ means I loved it; ⟳ is a re-read. Here are previous year lists: [2022](https://jablevine.com/older/2022_books), [2023](https://jablevine.com/older/2023_books). 
 
 The books are in reverse order of when I put them into Zotero; I read some books right away, while others waited around for five or ten months until the time was right. 
 
@@ -140,6 +140,8 @@ The books are in reverse order of when I put them into Zotero; I read some books
 ***My Family and Other Animals: A True Story***, **Gerald Durrell**. A very funny account of a British childhood on Corfu in the 1930s, lots of wildlife and ribbing of his more famous brother Lawrence.
 
 ***The Story of My Life***, **Helen Keller**. A memoir, with a very long digression into a court case she was involved in at the time. 
+
+***An Ordinary Person's Guide to Empire***, **Arundhati Roy**. A collection of essays on early 2000s Indian social issues and the Iraq War.
 
 ***Consent: A Memoir***, **Vanessa Springora**. A memoir about a marriage, beginning in her teens and lasting half a century.
 
