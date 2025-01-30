@@ -26,21 +26,73 @@ There are three new posts on my blog this month: a history of Berkeley; a list o
 
 Three individual highlights this month. 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+mechanics institute?
+
+Tony Tulathimute or something's collection of short stories, Rejection, built around his viral [[The Feminist]]. batshit crazy book. lots of meta, lots of 4th wall. lots of miserable people who do their best to make their lives more miserable by trying to get at other people. He's also a talented writer; there were extreme moments like "week old paella" that got to me. 
+
+{% newthought "THOUGHT" %} 
+
+{% newthought "THOUGHT" %} 
+
+{% newthought "THOUGHT" %} 
+
+
 
 ## Links
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
 
-{% sidenote "sidenote-id" "This is a random sidenote" %} 
+{% newthought "THOUGHT" %} 
+
+
+[[Gwern]] on [[Napoleon]] and [[AI]]
+https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/
+
+
+[[Gwern]] on how [[AI]] will break existing economic systems
+> Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'.
+And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa."
+
+
+
+https://samkriss.substack.com/p/theres-someone-on-the-ice
+[[Sam Kriss]] does it again, this time on [[Greenland]]. 
+
+started a book of [[Short Stories]] around the feminist by tony tulasomething. 
+elsewhere on [[pornography]]:
+https://logicmag.io/play/my-stepdad's-huge-data-set/
+and
+https://www.pornhub.com/insights/2024-year-in-review#more-22677
+
+take a fact about media and make it ideological:
+"“Wherever you get your podcasts” is a radical statement."
+https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/
+
+
+
+[[airports]] from construction physics
+> Airbus, in fact, based its development of the enormous A380 on the expectation that limited airport capacity meant that airlines would have no choice but to use fewer, larger planes. (The fact that this didn’t happen, and airlines instead chose to buy thousands of smaller aircraft like the 737 MAX, apparently successfully, is something I don’t quite understand.)
+
+
+[[Somaliland]] is likely to be recognized by Trump. https://www.africanistperspective.com/p/international-recognition-for-somaliland and my comment on the EA forum
+" such a development _at this time_ would very likely take away the very incentives that have set them apart from the rest of Somalia over the last 33 years."
+> What has made Somaliland work is that its elites principally derive their legitimacy from their people, and not the international system. Stated differently, full sovereignty runs the risk of separating both the Somaliland state and ruling elites from the productive forces of society; which in turn would free politicians (and policymakers) from having to think of their people as the ultimate drivers of their overall economic wellbeing.
+
+
+
+some weird stuff on [[dance]] from etirabys [[Tumblr]]. first salsa:
+> - When I hit hour ~10 of salsa, I got a hint of what it would be like to be good at this, and it felt… directly good. I dutifully played piano for years as a child without ever getting the _oh, it would feel good to be good at this_. Writing doesn’t give me that either – the rewards are cerebral and diffuse. Painting is closer, but it still doesn’t _feel good to be good_ exactly – painting is feels good to _do_, and to _have_ _done well_, but in the moment of exercising my skill I’m not me, I’m a computational process smeared out over the canvas. But dance opens up a new kind of high I can chase.
+
+second on ... [[genocide]]?
+> one of my first reactions to contra dance was, “huh, I think it would be quite difficult for someone to pogrom people they had contra danced with? I think this was an activity that put the participants on non-massacring terms with each other without their ever speaking to each other. Not that it was _salient_ that we might massacre each other before the dance. It’s just that the background mental variable shifted by dancing seems best described as ‘psychological barrier to mass violence’.”
 
 
 ## Music 
