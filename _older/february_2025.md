@@ -40,59 +40,23 @@ Tony Tulathimute or something's collection of short stories, Rejection, built ar
 
 ## Links
 
-{% newthought "THOUGHT" %} 
+{% newthought "Trump is potentially going to" %} recognize Somaliland as an independent country, which it has de facto been since the 90s. Kep Opalo [argues](https://www.africanistperspective.com/p/international-recognition-for-somaliland) this might necessarily be a good thing for them: " such a development _at this time_ would very likely take away the very incentives that have set them apart from the rest of Somalia over the last 33 years." I agree but for reasons more focused on foreign aid; I wrote a brief comment [here](https://forum.effectivealtruism.org/posts/rPzcjdfTaDHYi7jMr/looking-into-project-2025-usaid?commentId=2Z2tpPsLyikHcqLgC). 
 
-{% newthought "THOUGHT" %} 
+{% newthought "Construction Physics on a personally" %} important question: [why aren't there more A380s?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
+"Airbus, in fact, based its development of the enormous A380 on the expectation that limited airport capacity meant that airlines would have no choice but to use fewer, larger planes. (The fact that this didn’t happen, and airlines instead chose to buy thousands of smaller aircraft like the 737 MAX, apparently successfully, is something I don’t quite understand.)"
 
-{% newthought "THOUGHT" %} 
+{% newthought "Gwern on a Napoleon quote" %}, and what the emperor's thoughts [imply about AI development](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/). Entertaining, but mostly implies Sam Altman is just really bad at [picking quotes](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m9akwq6/).
 
-{% newthought "THOUGHT" %} 
+{% newthought "Also Gwern, on how the economy" %} and society will adapt to AI advancements:
+"Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'."
 
-{% newthought "THOUGHT" %} 
+And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa." The most important thing I learned from R1 is that a model *or better* of this quality will always be available to everyone, so in the "open source is good for Africa" sense, I agree with Cowen. But more importantly is the relative under-development of developing countries, and the relative malleability of their economic structures.
 
-{% newthought "THOUGHT" %} 
+{% newthought "Related to the Tony Tulathimutte" %}, three SFW links on porn: (1) [think about social media](https://www.programmablemutter.com/p/were-getting-the-social-media-crisis) like porn marketing: consumers want different things from customers; (2) *LA Weekly*'s porn journalist [writes about](https://logicmag.io/play/my-stepdad's-huge-data-set/) porn and data; (3) PornHub's 2024 [year in review](https://www.pornhub.com/insights/2024-year-in-review).
 
-
-[[Gwern]] on [[Napoleon]] and [[AI]]
-https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/
-
-
-[[Gwern]] on how [[AI]] will break existing economic systems
-> Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'.
-And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa."
+{% newthought "Take a fact about media" %} and make it ideological: [a suprisingly good essay](https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/) on the phrase "Wherever you get your podcasts."
 
 
-
-https://samkriss.substack.com/p/theres-someone-on-the-ice
-[[Sam Kriss]] does it again, this time on [[Greenland]]. 
-
-started a book of [[Short Stories]] around the feminist by tony tulasomething. 
-elsewhere on [[pornography]]:
-https://logicmag.io/play/my-stepdad's-huge-data-set/
-and
-https://www.pornhub.com/insights/2024-year-in-review#more-22677
-
-take a fact about media and make it ideological:
-"“Wherever you get your podcasts” is a radical statement."
-https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/
-
-
-
-[[airports]] from construction physics
-> Airbus, in fact, based its development of the enormous A380 on the expectation that limited airport capacity meant that airlines would have no choice but to use fewer, larger planes. (The fact that this didn’t happen, and airlines instead chose to buy thousands of smaller aircraft like the 737 MAX, apparently successfully, is something I don’t quite understand.)
-
-
-[[Somaliland]] is likely to be recognized by Trump. https://www.africanistperspective.com/p/international-recognition-for-somaliland and my comment on the EA forum
-" such a development _at this time_ would very likely take away the very incentives that have set them apart from the rest of Somalia over the last 33 years."
-> What has made Somaliland work is that its elites principally derive their legitimacy from their people, and not the international system. Stated differently, full sovereignty runs the risk of separating both the Somaliland state and ruling elites from the productive forces of society; which in turn would free politicians (and policymakers) from having to think of their people as the ultimate drivers of their overall economic wellbeing.
-
-
-
-some weird stuff on [[dance]] from etirabys [[Tumblr]]. first salsa:
-> - When I hit hour ~10 of salsa, I got a hint of what it would be like to be good at this, and it felt… directly good. I dutifully played piano for years as a child without ever getting the _oh, it would feel good to be good at this_. Writing doesn’t give me that either – the rewards are cerebral and diffuse. Painting is closer, but it still doesn’t _feel good to be good_ exactly – painting is feels good to _do_, and to _have_ _done well_, but in the moment of exercising my skill I’m not me, I’m a computational process smeared out over the canvas. But dance opens up a new kind of high I can chase.
-
-second on ... [[genocide]]?
-> one of my first reactions to contra dance was, “huh, I think it would be quite difficult for someone to pogrom people they had contra danced with? I think this was an activity that put the participants on non-massacring terms with each other without their ever speaking to each other. Not that it was _salient_ that we might massacre each other before the dance. It’s just that the background mental variable shifted by dancing seems best described as ‘psychological barrier to mass violence’.”
 
 
 ## Music 
