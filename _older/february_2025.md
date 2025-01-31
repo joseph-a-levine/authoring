@@ -19,6 +19,10 @@ title: What am I up to now?
 
 I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center.
 
+Tahoe
+Meetings at Berkeley
+Food and ice cream
+
 There are three new posts on my blog this month: a history of Berkeley; a list of questions I have about San Francisco; and a semi-satirical piece on the proposal to build a Freedom City in the Presidio. Apparently I'm inspired to write by place. Many are the blogs which have died on the "I'm planning to post more in the coming months" hill; here I stake my flag on that hill, and we'll see how February goes. 
 
 
@@ -52,6 +56,10 @@ Tony Tulathimute or something's collection of short stories, Rejection, built ar
 
 And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa." The most important thing I learned from R1 is that a model *or better* of this quality will always be available to everyone, so in the "open source is good for Africa" sense, I agree with Cowen. But more importantly is the relative under-development of developing countries, and the relative malleability of their economic structures.
 
+{% newthought "Keynes on Newton" %}, [delivered posthumously](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/): 
+
+"Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage."
+
 {% newthought "Related to the Tony Tulathimutte" %}, three SFW links on porn: (1) [think about social media](https://www.programmablemutter.com/p/were-getting-the-social-media-crisis) like porn marketing: consumers want different things from customers; (2) *LA Weekly*'s porn journalist [writes about](https://logicmag.io/play/my-stepdad's-huge-data-set/) porn and data; (3) PornHub's 2024 [year in review](https://www.pornhub.com/insights/2024-year-in-review).
 
 {% newthought "Take a fact about media" %} and make it ideological: [a suprisingly good essay](https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/) on the phrase "Wherever you get your podcasts."
@@ -61,7 +69,9 @@ And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa
 
 ## Music 
 
-It's been a while since I've had a music section! Here are five 2024 albums I *loved*, which you might not have come across: 
+It's been a while since I've had a music section. Zakir Hussain died in December. He is the musician I most wish I could have seen live; I thought I had another decade at least. Shruti Rajagopalan's obituary of him is [here](https://srajagopalan.substack.com/p/zakir). I loved him best for his work with John McLaughlin and Béla Fleck; when he came on screen in *Monkey Man,* I confused DB by shouting aloud. 
+
+Here are five 2024 albums I *loved*, which you might not have come across: 
 
 **Dala Toni**, Ajate. "Experience the explosive encounter of Afro groove and Japanese traditional Ohayashi music!" Lots of fun. 
 
