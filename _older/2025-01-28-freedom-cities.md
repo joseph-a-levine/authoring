@@ -13,13 +13,19 @@ Mark Lutter is the founder of the Charter Cities Initiative, and as amiable a fu
 
 This was greeted with calm reason from some
 
+<br>
+
 {% fullwidth "assets/img/sf_star_trek/sfgate.png" "" %}
 
 And enthusiastic agreement from others
 
+<br>
+
 {% fullwidth "assets/img/sf_star_trek/schneider.png" "" %}
 
 But no response grapples with the most important concern: such a development would despoil the future site of Starfleet Academy and Starfleet Command. 
+
+<br>
 
 {% fullwidth "assets/img/sf_star_trek/tram_station.png" "" %}
 
@@ -37,9 +43,14 @@ If a development in the Presidio is successful, we might hear YIMBYs advocating 
 
 He must ask himself: if this land is occupied by a walkable city center, then where will the administrative Starfleet buildings go? 
 
+<br>
+
 {% fullwidth "assets/img/sf_star_trek/marin.png" "" %}
 
 If we develop the high-value coastline out to Point Bonita lighthouse, then we will be unable to build the Starfleet Court building, and where will we try Number One for hiding her Illyrian heritage and violating Starfleet's anti–genetic modification laws? 
+
+<br>
+
 {% fullwidth "assets/img/sf_star_trek/bonita.png" "Also, Point Bonita increases in size by at least 100x to accommodate this new building." %}
 
 While Lutter's plan may be promising for the near-term competitiveness of the San Francisco Bay Area, it is certain doom for the region's future home of interstellar governance. It makes little sense to build into a war, either — even if WWIII leaves California mostly un-touched, new developments will depreciate as conflict devastates capital markets and populations. Freedom Cities should instead be built in places which will soon be able to take advantage of both the short term devastation and long term interstellar trade. Such places will be relatively desolate today, but with appealing characteristics for rocket and missile launch. A good place to start might be just outside Bozeman, Montana. 
