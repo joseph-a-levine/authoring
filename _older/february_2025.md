@@ -19,11 +19,11 @@ title: What am I up to now?
 
 I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center. My wonderful girlfriend sent me a list of her 11 favorite ice cream spots before I arrived. In the end, we only got to seven. But we also visited five which were not even on that list. I also had lots of dumplings and four Mission burritos.{% sidenote "cegl-id" "Previously, my only reference for SF burritos is [Ceglowski](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %} 
 
-We stayed in the Inner Sunset; I have a lovely N Judah tote bag to show for it. But we also spent a lot of time in the East Bay, especially around Berkeley. 
-Ted Miguel my grand-supervisor{% sidenote "gradsup-id" "This is a random sidenote" %} 
-Jonathan Weigel, one of the two economists who convinced me that the DRC is the most interesting spot to be working right now.{% sidenote "tors-id" "The other being Raúl Sanchez de la Sierra, who will be visiting Oxford later this term." %} 
+We stayed in the Inner Sunset, and I have a lovely [N Judah](https://en.wikipedia.org/wiki/N_Judah) tote bag to show for it. But we also spent a lot of time in the East Bay, especially around Berkeley. I met my grand-supervisor Ted Miguel,{% sidenote "gradsup-id" "As in my supervisor's supervisor." %}  who is as lovely and insightful as everyone says, and Jonathan Weigel, one of the two economists whose work is convicing me that the DRC is the most interesting spot to be working right now.{% sidenote "tors-id" "The other being Raúl Sanchez de la Sierra, who will be visiting Oxford later this term." %} 
 
-I also got a lot of time with Berkeley grad students, include several who are currently on the job market.  
+I also got a lot of time with Berkeley grad students, include several who are currently on the job market. Exhaustion and nervous anticipation were the dominant emotions, but also an odd hope. Everyone had only the nicest things to say about other candidates in their field, candidates on the same shortlists as them. There's something about the process of writing a job market paper which gives the perspective to appreciate someone else's.  
+
+In fact, all of the students I spoke with were either on the market, or fourth years. The second group's experience in the third-year vivas was a bit motivating, as I am going to go through a similar process this summer. By the end of our third year in Oxford, we present the likely topic of our dissertation to a small faculty panel, who provide approval, encouragement, or doom. The Berkeley fourth years found this really valuable, and it's moved up my timeline for preparing my viva. Most importantly, I need to narrow down my list of projects. I'm lucky to have quite a few projects under development, and I now often find myself investigating new projects, rather than pushing existing ones forward. It's time to stop that, at least temporarily. 
 
 There are three new posts on my blog this month: a history of Berkeley; a list of questions I have about San Francisco; and a semi-satirical piece on the proposal to build a Freedom City in the Presidio. Apparently I'm inspired to write by place. Many are the blogs which have died on the "I'm planning to post more in the coming months" hill; here I stake my flag on that hill, and we'll see how February goes. 
 
@@ -32,19 +32,19 @@ There are three new posts on my blog this month: a history of Berkeley; a list o
 
 I spent one day working at the [Mechanics' Institute](https://en.wikipedia.org/wiki/Mechanics%27_Institute,_San_Francisco) library with MJ. It's a very pleasant library with an excellent location; if I were into chess, I would definitely have spent more time there! While there, I went through my [Amazon list](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0/ref=nav_wishlist_lists_3) of books I can't find elsewhere and grabbed some off their shelves. Most valuable was the complete collection of Paris Review interviews; I read the entirety of the Borges, Jan Morris, and Murakami interviews, and most of the Márquez interview. 
 
-Borges was spectacular. 
+Borges was spectacular. This was in the late 60s, when he was already blind and the chief librarian of Argentina. The interview was conducted by Ronald Christ{% sidenote "linkch-id" "Who has a great [LinkedIn](https://www.linkedin.com/in/ronald-christ-58b59a18/)." %} and he really knows his stuff. Christ later published a book subtitled *Borges' Art of Allusion*, and boy do they get into metaphors. Borges is kind of fed up with them: 
 
-Three individual highlights this month. 
+> I began [studying old Norse] by being very interested in metaphor. ... I read about the kennings, metaphors of old english ... After several years of study, I'm no longer interested in the metaphors because i think that they were rather a weariness of the flesh to the poets themselves — at least to the old english poets. [...] TO repeat them, to use them over and over again and to keep on speaking of the *hranrad, waelrad*, or "road of the whale" instead of the "sea".
 
-mechanics institute?
+And later: 
 
-Tony Tulathimute or something's collection of short stories, Rejection, built around his viral [[The Feminist]]. batshit crazy book. lots of meta, lots of 4th wall. lots of miserable people who do their best to make their lives more miserable by trying to get at other people. He's also a talented writer; there were extreme moments like "week old paella" that got to me. 
+> Really good metaphors are always the same. I mean you compare time to a road, death to sleeping, life to dreaming, adn those are the great metaphors in literature because they correspond to something essential. If you invent metaphors, they are apt to be surprisng during the fraction of a second, but they strike no deep emotion whatever. If you think of life as a dream, that is a thought , a thought that is real, or at least that most men are bound to have, no
 
-{% newthought "THOUGHT" %} 
+The Jan Morris interview was less mind-blowing. The interviewer wasn't as well-prepared, and was a bit too obsessed with the trans experience (it was 1997). I did add two books to my list: *Fisher's Face* and *Pleasures of a Tangled Life*.
 
-{% newthought "THOUGHT" %} 
+I also found a copy of a long Bill Watterson interview which I hadn't previously seen online. This was done for an exhibit at Ohio State in 2014, and there are some fun moments. On why he feels his work has endured:
 
-{% newthought "THOUGHT" %} 
+> One of the beauties of a comic strip is that people's expectations are nil. If you draw anything more subtle than a pie in the face, you're considered a philosopher. You can sneak in an honest reflection once in a while, because readers rarely have their guard up. I love the unpretentiousness of cartoons. If you sat down and wrote a two hundred page book called *My big thoughts on life*, no one would read it. But if you stick those same thoughts in a comic strip and wrap them in a little joke that takes five seconds to read, now you're talking to millions. Any writer would kill for that kind of audience. What a gift.
 
 
 
@@ -91,6 +91,8 @@ Here are five 2024 albums I *loved*, which you might not have come across:
 
 
 ## Previously
+
+*[January, 2025](https://jablevine.com/older/january_2025)*
 
 *[December, 2024](https://jablevine.com/older/december_2024)*
 
