@@ -17,16 +17,22 @@ title: What am I up to now?
   
 ## Updates
 
-I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center.
+I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center. My wonderful girlfriend sent me a list of her 11 favorite ice cream spots before I arrived. In the end, we only got to seven. But we also visited five which were not even on that list. I also had lots of dumplings and four Mission burritos.{% sidenote "cegl-id" "Previously, my only reference for SF burritos is [Ceglowski](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %} 
 
-Tahoe
-Meetings at Berkeley
-Food and ice cream
+We stayed in the Inner Sunset; I have a lovely N Judah tote bag to show for it. But we also spent a lot of time in the East Bay, especially around Berkeley. 
+Ted Miguel my grand-supervisor{% sidenote "gradsup-id" "This is a random sidenote" %} 
+Jonathan Weigel, one of the two economists who convinced me that the DRC is the most interesting spot to be working right now.{% sidenote "tors-id" "The other being Raúl Sanchez de la Sierra, who will be visiting Oxford later this term." %} 
+
+I also got a lot of time with Berkeley grad students, include several who are currently on the job market.  
 
 There are three new posts on my blog this month: a history of Berkeley; a list of questions I have about San Francisco; and a semi-satirical piece on the proposal to build a Freedom City in the Presidio. Apparently I'm inspired to write by place. Many are the blogs which have died on the "I'm planning to post more in the coming months" hill; here I stake my flag on that hill, and we'll see how February goes. 
 
 
 ## Reading
+
+I spent one day working at the [Mechanics' Institute](https://en.wikipedia.org/wiki/Mechanics%27_Institute,_San_Francisco) library with MJ. It's a very pleasant library with an excellent location; if I were into chess, I would definitely have spent more time there! While there, I went through my [Amazon list](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0/ref=nav_wishlist_lists_3) of books I can't find elsewhere and grabbed some off their shelves. Most valuable was the complete collection of Paris Review interviews; I read the entirety of the Borges, Jan Morris, and Murakami interviews, and most of the Márquez interview. 
+
+Borges was spectacular. 
 
 Three individual highlights this month. 
 
