@@ -13,14 +13,15 @@ Mark Lutter is the founder of the Charter Cities Initiative, and as amiable a fu
 
 This was greeted with calm reason from some
 
-![[Pasted image 20250115122413.png]]
+{% fullwidth "assets/img/sf_star_trek/sfgate.png" "" %}
 
 And enthusiastic agreement from others
 
-![[Pasted image 20250115122440.png]]
+{% fullwidth "assets/img/sf_star_trek/schneider.png" "" %}
+
 But no response grapples with the most important concern: such a development would despoil the future site of Starfleet Academy and Starfleet Command. 
 
-![[Pasted image 20250131093921.png]]
+{% fullwidth "assets/img/sf_star_trek/tram_station.png" "" %}
 
 After the impending chaos of the Eugenics War and World War III, which will have a combined death toll approaching one billion, few world cities will remain untouched. Luckily, by the time of Zephram Cochrane's first warp flight in 2063, San Francisco was largely intact.{% sidenote "ladnp-id" "Major landmarks in Paris and India also survive." %} At that moment, nearing the close of WWIII, negotiators will be meeting in this city to discuss the founding of the New United Nations, just as they had done in 1945. It is to be the presence of Vulcan Ambassador Solkar and his offer of sentientarian aid, an interstellar Marshall plan, which will solidify the peace and begin Earth's reconstruction. 
 
@@ -36,11 +37,10 @@ If a development in the Presidio is successful, we might hear YIMBYs advocating 
 
 He must ask himself: if this land is occupied by a walkable city center, then where will the administrative Starfleet buildings go? 
 
-![[Pasted image 20250115125846.png]]
+{% fullwidth "assets/img/sf_star_trek/marin.png" "" %}
 
 If we develop the high-value coastline out to Point Bonita lighthouse, then we will be unable to build the Starfleet Court building, and where will we try Number One for hiding her Illyrian heritage and violating Starfleet's anti–genetic modification laws? 
-![[Pasted image 20250115130111.png]]
-(Also, Point Bonita increases in size by at least 100x to accommodate this new building.)
+{% fullwidth "assets/img/sf_star_trek/bonita.png" "Also, Point Bonita increases in size by at least 100x to accommodate this new building." %}
 
 While Lutter's plan may be promising for the near-term competitiveness of the San Francisco Bay Area, it is certain doom for the region's future home of interstellar governance. It makes little sense to build into a war, either — even if WWIII leaves California mostly un-touched, new developments will depreciate as conflict devastates capital markets and populations. Freedom Cities should instead be built in places which will soon be able to take advantage of both the short term devastation and long term interstellar trade. Such places will be relatively desolate today, but with appealing characteristics for rocket and missile launch. A good place to start might be just outside Bozeman, Montana. 
 
