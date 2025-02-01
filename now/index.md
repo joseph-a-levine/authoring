@@ -4,54 +4,101 @@ title: What am I up to now?
 ---
 
 <!-- omit in toc -->
-## January, 2025
+## February, 2025
 
 <!-- omit in toc -->
 ## Contents
 - [Updates](#updates)
 - [Reading](#reading)
 - [Links](#links)
+- [Music](#music)
 - [Previously](#previously)
 
 <br>
   
 ## Updates
 
-Happy new year! I am spending my first week of 2025 near Lake Tahoe, hosted by the lovely and hospitable KGW. My wonderful girlfriend's school friends (and assorted partners) are stuffed into a beautiful house right on the ski runs; for New Years Eve, we watched the local resort's 9pm drone show.{% sidenote "pm9-id" "9pm because that's midnight on the east coast, and the kids have to get to bed; drones because fireworks are a fire hazard." %} 
+I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center. My wonderful girlfriend sent me a list of her 11 favorite ice cream spots before I arrived. In the end, we only got to seven. But then we visited five creameries which were not even on that list. I also had lots of dumplings and four Mission burritos.{% sidenote "cegl-id" "Previously, my only reference for SF burritos is [Ceglowski](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %} 
 
-The Bay Area has always loomed large in my imagination, at least since the 2010 Giant's World Series Run. But I've never explored the city besides a hectic five days in 2022 and a more detailed exploration in 1997. I arrived in California just after Christmas, and I'll be in San Francisco until the end of January. 
+We stayed in the Inner Sunset, and I have a lovely [N Judah](https://en.wikipedia.org/wiki/N_Judah) tote bag to show for it. Later in the trip, we spent a lot of time in the East Bay, especially around Berkeley. I met my grand-supervisor Ted Miguel,{% sidenote "gradsup-id" "As in my supervisor's supervisor." %}  who is as lovely and insightful as everyone says, and Jonathan Weigel, one of the two economists whose work is convicing me that the DRC is the most interesting spot to be working right now.{% sidenote "tors-id" "The other being Raúl Sanchez de la Sierra, who will be visiting Oxford later this term!" %} 
 
-I'll be spending some time around Berkeley, along with general SF exploration. Please reach out if you would like to meet up. 
+I also got a lot of time with Berkeley grad students, include several who are currently on the job market. Exhaustion and nervous anticipation were the dominant emotions, but also an odd hope. Everyone had only the nicest things to say about other candidates in their field, candidates on the same shortlists as them. There's something about the process of writing a job market paper which gives the perspective to appreciate someone else's.  
+
+In fact, all of the students I spoke with were either on the market, or fourth years. The second group's experience in the third-year vivas was a bit motivating, as I am going to go through a similar process this summer. By the end of our third year in Oxford, we present the likely topic of our dissertation to a small faculty panel, who provide approval, encouragement, or doom. The Berkeley fourth years found this really valuable, and it's moved up my timeline for preparing my viva. Most importantly, I need to narrow down my list of projects. I'm lucky to have quite a few projects under development, and I now often find myself investigating new projects, rather than pushing existing ones forward. It's time to stop that, at least temporarily. 
+
+There are three new posts on this website this month: a history of [Berkeley](https://jablevine.com/articles/25/berkeley); a [list of questions](https://jablevine.com/articles/25/sf-questions) I have about San Francisco; and a [semi-satirical piece](https://jablevine.com/articles/25/freedom-cities) on the proposal to build a Freedom City in the Presidio. Apparently I'm inspired to write by place. Many are the blogs which have died on the "I'm planning to post more in the coming months" hill; here I stake my flag on that hill, and we'll see how February goes. 
 
 
 ## Reading
 
-Here is [the list of books I read in 2024](https://jablevine.com/older/2024_books). The best part of making this list was going through the books I added to Zotero this year and remembering all the ones I neglected, abandoned, or skipped. So on New Year's Day, I started two old acquisitions: a biography of Genghis Khan and a history of South Korean feminism. 
+I spent one day working at the [Mechanics' Institute](https://en.wikipedia.org/wiki/Mechanics%27_Institute,_San_Francisco) library with MJ. It's a very pleasant library with an excellent location; if I were into chess, I would definitely have visited again! While there, I went through my [Amazon list](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0/ref=nav_wishlist_lists_3) of books I can't find elsewhere and grabbed what I could off their shelves. Most valuable was the complete collection of Paris Review interviews; I read the entirety of the Borges, Jan Morris, and Murakami interviews, and most of the Márquez interview. 
 
-Several of MWG's friends in Tahoe were rushing to finish their annual reading goals (great job, RB). I didn't have an explict goal in 2024, and I don't for 2025. A few writers, especially Nabokov and Marquez, will remain high on my priorities, and I would love to read more works in translation.{% sidenote "tran0-id" "[2022](https://jablevine.com/older/2022_books) was a particularly good year for that." %} I also would love to focus on some reading projects this year. In 2024, I read multiple books on Singapore, WWI, Xinjiang, and Everest. I look forward to a few such deliberate projects in 2025. 
+Borges was spectacular. This interview is from the late 60s, when he was already blind and the chief librarian of Argentina. It was conducted by Ronald Christ{% sidenote "linkch-id" "Who has a great [LinkedIn](https://www.linkedin.com/in/ronald-christ-58b59a18/)." %} and he really knows his stuff. Christ later published a book subtitled *Borges' Art of Allusion*, and boy do they get into metaphors. Borges is kind of fed up with them: 
+
+> I began [studying old Norse] by being very interested in metaphor. ... I read about the kennings, metaphors of old English ... After several years of study, I'm no longer interested in the metaphors because I think that they were rather a weariness of the flesh to the poets themselves — at least to the old English poets. [...] To repeat them, to use them over and over again and to keep on speaking of the *hranrad, waelrad*, or "road of the whale" instead of the "sea".
+
+And later: 
+
+> Really good metaphors are always the same. I mean you compare time to a road, death to sleeping, life to dreaming, adn those are the great metaphors in literature because they correspond to something essential. If you invent metaphors, they are apt to be surprisng during the fraction of a second, but they strike no deep emotion whatever. If you think of life as a dream, that is a thought , a thought that is real, or at least that most men are bound to have, no?
+
+This excited me to return to some of Broges poems when I'm back in Oxford. 
+
+The Jan Morris interview was less mind-blowing. The interviewer wasn't as well-prepared, and was a bit too obsessed with the trans experience (it was 1997). I did add two books to my list: *Fisher's Face* and *Pleasures of a Tangled Life*.
+
+I also found a copy of a long Bill Watterson (of *Calvin and Hobbes*) interview which I hadn't previously seen online. This was done for an exhibit at Ohio State in 2014, and there are some fun moments. On why he feels his work has endured:
+
+> One of the beauties of a comic strip is that people's expectations are nil. If you draw anything more subtle than a pie in the face, you're considered a philosopher. You can sneak in an honest reflection once in a while, because readers rarely have their guard up. I love the unpretentiousness of cartoons. If you sat down and wrote a two hundred page book called *My big thoughts on life*, no one would read it. But if you stick those same thoughts in a comic strip and wrap them in a little joke that takes five seconds to read, now you're talking to millions. Any writer would kill for that kind of audience. What a gift.
+
+Finally, the weirdest book I read this month was Tony Tulathimutte's short story collection *Rejection*, built around his older viral short story "The Feminist." A very intense reading experience: very funny, and revolting, and sad. Possibly "about" failure modes of revenge. 
+
 
 ## Links
 
-{% newthought "An insightful review" %} of a [monograph on econophysics](http://bactra.org/reviews/intro-to-econophysics/). 
+{% newthought "Trump is potentially going to" %} recognize Somaliland as an independent country, which it has de facto been since the 90s. Kep Opalo [argues](https://www.africanistperspective.com/p/international-recognition-for-somaliland) this might necessarily be a good thing for them: " such a development _at this time_ would very likely take away the very incentives that have set them apart from the rest of Somalia over the last 33 years." I agree but for reasons more focused on foreign aid; I wrote a brief comment [here](https://forum.effectivealtruism.org/posts/rPzcjdfTaDHYi7jMr/looking-into-project-2025-usaid?commentId=2Z2tpPsLyikHcqLgC). 
 
-"You'll also see paper after paper about the statistics of financial markets --- and almost nothing about any other sort of market. There are two major reasons for this. First, financial markets produce huge volumes of high-quality data. It might be that the econophysicists' tools are even better suited to (say) studying the dynamics of industrial competition, but they'll never find the kind of data on manufacturing that they can get for financial markets. Second, that's where the money is."
+{% newthought "Construction Physics on a personally" %} important question: [why aren't there more A380s?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
 
-{% newthought "Yet another short story" %} [riffing](https://www.lightspeedmagazine.com/fiction/the-ones-who-come-at-last/) on *Omelas*. Paired well with an Arundhati Roy collection from 2005.
+> Airbus, in fact, based its development of the enormous A380 on the expectation that limited airport capacity meant that airlines would have no choice but to use fewer, larger planes. (The fact that this didn’t happen, and airlines instead chose to buy thousands of smaller aircraft like the 737 MAX, apparently successfully, is something I don’t quite understand.)
 
-{% newthought "A collection of Russian jokes" %} ("anekdoty") [about the Ukraine war](https://tapwatersommelier.substack.com/p/anekdoty-about-putin-war).  
+{% newthought "Gwern on a Napoleon quote" %}, and what the emperor's thoughts [imply about AI development](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/). Entertaining, but mostly implies Sam Altman is just really bad at [picking quotes](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m9akwq6/).
 
-**Putin**, after the Kursk incursion, is summoning Stalin’s ghost. 
+{% newthought "Also Gwern, on how the economy" %} and society will adapt to AI advancements:
 
-**Stalin**: “What’s wrong?”
+> Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'.
 
-**Putin**: “Nazis are circling Kursk! My army is retreating! What should I do?”
+And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa." The most important thing I learned from R1 is that a model *or better* of this quality will always be available to everyone, so in the "open source is good for Africa" sense, I agree with Cowen. But more importantly is the relative under-development of developing countries, and the relative malleability of their economic structures.
 
-**Stalin**: “Do what I did in 1943. Send the best Ukrainian troops and ask US for help.”
+{% newthought "Keynes on Newton" %}, [delivered posthumously](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/): 
+
+> Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage.
+
+{% newthought "Related to the Tony Tulathimutte" %}, three SFW links on porn: (1) we should [think about social media](https://www.programmablemutter.com/p/were-getting-the-social-media-crisis) like porn marketing: consumers want different things from customers; (2) *LA Weekly*'s porn journalist [writes about](https://logicmag.io/play/my-stepdad's-huge-data-set/) porn and data; (3) PornHub's 2024 [year in review](https://www.pornhub.com/insights/2024-year-in-review).
+
+{% newthought "Take a fact about media" %} and make it ideological: [a suprisingly good essay](https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/) on the phrase "Wherever you get your podcasts."
 
 
+
+
+## Music 
+
+It's been a while since I've had a music section. Zakir Hussain died in December. He is the musician I most wish I could have seen live; I thought I had another decade at least. Shruti Rajagopalan's obituary of him is [here](https://srajagopalan.substack.com/p/zakir). I loved him best for his work with John McLaughlin and Béla Fleck; when he came on screen in *Monkey Man,* I confused DB by shouting aloud. 
+
+Here are five 2024 albums I *loved*, which you might not have come across: 
+
+**Dala Toni**, Ajate. "Experience the explosive encounter of Afro groove and Japanese traditional Ohayashi music!" Lots of fun. 
+
+**Arwe**, Dingonek Street Band. Brooklyn jazz. I've come across Bobby Spellman before on some random playlist before, he put together this band.
+
+**At The Drolma Wesel-Ling Monastery**, Howie Lee. Man, I don't know. But it's great. My favorite track is "Mantra of Buddha Akshobhya 不动佛心咒 ." And yes I did have to figure out how to get my website to render traditional Chinese script. 
+
+**Into the Blue**, Aaron Frazer. Interesting singer-songwriter stuff. 
+
+**Chorus**, Mildlife. Groovy. 
 
 
 ## Previously
+
+*[January, 2025](https://jablevine.com/older/january_2025)*
 
 *[December, 2024](https://jablevine.com/older/december_2024)*
 
