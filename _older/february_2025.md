@@ -11,6 +11,7 @@ title: What am I up to now?
 - [Updates](#updates)
 - [Reading](#reading)
 - [Links](#links)
+- [Music](#music)
 - [Previously](#previously)
 
 <br>
@@ -34,18 +35,21 @@ I spent one day working at the [Mechanics' Institute](https://en.wikipedia.org/w
 
 Borges was spectacular. This was in the late 60s, when he was already blind and the chief librarian of Argentina. The interview was conducted by Ronald Christ{% sidenote "linkch-id" "Who has a great [LinkedIn](https://www.linkedin.com/in/ronald-christ-58b59a18/)." %} and he really knows his stuff. Christ later published a book subtitled *Borges' Art of Allusion*, and boy do they get into metaphors. Borges is kind of fed up with them: 
 
-> I began [studying old Norse] by being very interested in metaphor. ... I read about the kennings, metaphors of old english ... After several years of study, I'm no longer interested in the metaphors because i think that they were rather a weariness of the flesh to the poets themselves — at least to the old english poets. [...] TO repeat them, to use them over and over again and to keep on speaking of the *hranrad, waelrad*, or "road of the whale" instead of the "sea".
+> I began [studying old Norse] by being very interested in metaphor. ... I read about the kennings, metaphors of old English ... After several years of study, I'm no longer interested in the metaphors because I think that they were rather a weariness of the flesh to the poets themselves — at least to the old English poets. [...] To repeat them, to use them over and over again and to keep on speaking of the *hranrad, waelrad*, or "road of the whale" instead of the "sea".
 
 And later: 
 
-> Really good metaphors are always the same. I mean you compare time to a road, death to sleeping, life to dreaming, adn those are the great metaphors in literature because they correspond to something essential. If you invent metaphors, they are apt to be surprisng during the fraction of a second, but they strike no deep emotion whatever. If you think of life as a dream, that is a thought , a thought that is real, or at least that most men are bound to have, no
+> Really good metaphors are always the same. I mean you compare time to a road, death to sleeping, life to dreaming, adn those are the great metaphors in literature because they correspond to something essential. If you invent metaphors, they are apt to be surprisng during the fraction of a second, but they strike no deep emotion whatever. If you think of life as a dream, that is a thought , a thought that is real, or at least that most men are bound to have, no?
+
+This excited me to return to some of Broges poems when I'm back in Oxford. 
 
 The Jan Morris interview was less mind-blowing. The interviewer wasn't as well-prepared, and was a bit too obsessed with the trans experience (it was 1997). I did add two books to my list: *Fisher's Face* and *Pleasures of a Tangled Life*.
 
-I also found a copy of a long Bill Watterson interview which I hadn't previously seen online. This was done for an exhibit at Ohio State in 2014, and there are some fun moments. On why he feels his work has endured:
+I also found a copy of a long Bill Watterson (of *Calvin and Hobbes*) interview which I hadn't previously seen online. This was done for an exhibit at Ohio State in 2014, and there are some fun moments. On why he feels his work has endured:
 
 > One of the beauties of a comic strip is that people's expectations are nil. If you draw anything more subtle than a pie in the face, you're considered a philosopher. You can sneak in an honest reflection once in a while, because readers rarely have their guard up. I love the unpretentiousness of cartoons. If you sat down and wrote a two hundred page book called *My big thoughts on life*, no one would read it. But if you stick those same thoughts in a comic strip and wrap them in a little joke that takes five seconds to read, now you're talking to millions. Any writer would kill for that kind of audience. What a gift.
 
+Finally, the weirdest book I read this month was Tony Tulathimutte's short story collection *Rejection*, built around his older viral short story "The Feminist." A very intense reading experience: very funny, and revolting, and sad. Possibly "about" failure modes of revenge. 
 
 
 ## Links
@@ -58,13 +62,14 @@ I also found a copy of a long Bill Watterson interview which I hadn't previously
 {% newthought "Gwern on a Napoleon quote" %}, and what the emperor's thoughts [imply about AI development](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/). Entertaining, but mostly implies Sam Altman is just really bad at [picking quotes](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m9akwq6/).
 
 {% newthought "Also Gwern, on how the economy" %} and society will adapt to AI advancements:
-"Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'."
+
+> Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'.
 
 And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa." The most important thing I learned from R1 is that a model *or better* of this quality will always be available to everyone, so in the "open source is good for Africa" sense, I agree with Cowen. But more importantly is the relative under-development of developing countries, and the relative malleability of their economic structures.
 
 {% newthought "Keynes on Newton" %}, [delivered posthumously](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/): 
 
-"Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage."
+> Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage.
 
 {% newthought "Related to the Tony Tulathimutte" %}, three SFW links on porn: (1) [think about social media](https://www.programmablemutter.com/p/were-getting-the-social-media-crisis) like porn marketing: consumers want different things from customers; (2) *LA Weekly*'s porn journalist [writes about](https://logicmag.io/play/my-stepdad's-huge-data-set/) porn and data; (3) PornHub's 2024 [year in review](https://www.pornhub.com/insights/2024-year-in-review).
 
