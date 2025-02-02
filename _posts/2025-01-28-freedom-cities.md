@@ -5,6 +5,8 @@ date:   2025-01-28
 categories: post
 ---
 
+<p style="font-size: 14px; font-style: italic;">Disclaimer: I have no idea how Mark Lutter truly feels about Star Trek.</p>
+
 Mark Lutter is the founder of the Charter Cities Initiative, and as amiable a futurist as one could find in Arlington, Virginia. In early December, he wrote about Trump's proposal for Freedom Cities: *de novo* innovation hubs, built on planned lines, with high density, walkability, and idk flying cars. He and Nick Allen [propose](https://www.city-journal.org/article/building-freedom-cities) several locations, including Guantanamo Bay, but their primary proposal is the Presidio of San Francisco. 
 
 > Though much smaller than Guantanamo Bay or Lowry Range, its location is ideal. San Francisco is the world’s tech capital, despite its many problems. The federal government can help San Francisco unleash its full potential by developing Presidio. With Paris-level density and six-story apartment buildings, a developed Presidio would add 120,000 residents, increasing San Francisco’s population by 15 percent. Further, given the city’s existing talent density, a Presidio featuring a liberalized biotechnology regime would quickly become a world innovation leader in this sector. America deserves a Bay Area that can compete; turning Presidio into a Freedom City could be an important step in that direction.
@@ -55,4 +57,3 @@ While Lutter's plan may be promising for the near-term competitiveness of the Sa
 
 The Presidio must be preserved. Not for its history; we have shown ourselves capable of building firm monuments to our past alongside our more ambitious projects. Nor for its present; there are more beautiful and more used parklands at Golden Gate Park and Land's End, and the current residences and businesses could be provided for in a new development. But for its future: it's future in training, supporting, and commanding our best and brightest as they explore the final frontier. 
 
-<p style="font-size: 14px; font-style: italic;">Disclaimer: I have no idea how Mark Lutter truly feels about Star Trek.</p>
