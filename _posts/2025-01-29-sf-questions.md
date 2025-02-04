@@ -22,7 +22,7 @@ This was my first extended trip to the San Francisco Bay Area and I have questio
 
 {% newthought "When and why did the" %} last port facilities close in the West Bay? Was this done with the support of the port workers' union? Was it driven by the WWII ship-building boom in the East Bay? 
 
-{% newthought "What lessons should we take from" %} the East Bay ship-building boom? Yes WWII was unique but the largest shipyard in human history was in the San Francisco Bay. That's worth noticing!
+{% newthought "What lessons should we take from" %} the East Bay ship-building boom? Of course, the WWII boom was unique, but the largest shipyard in human history was in the San Francisco Bay. That's worth noticing!
 
 {% newthought "Is port automation more or less" %} likely in Oakland relative to other major ports? More likely: proximity to tech sector which drives both norms and technology; less likely: increased truculence and obstructionism. 
 
