@@ -75,6 +75,7 @@ There are other ways to use these data; Anthropic only released the dataset this
 
 Now that Anthropic is on board with releasing data like this, there is so much more we are interested in doing.
 Automation vs augmentation and the API
+You too can have input on what data they release next, link to form. 
 
 
 
