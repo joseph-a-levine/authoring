@@ -40,7 +40,10 @@ Finally, Acemoglu uses 54% as the share total income that goes to paying wages, 
 
 Putting it all together,
 
-$$\Delta \text{TFP} =(0.20) \times (0.23) \times (0.27) \times (0.54)$$
+$$\begin{aligned}
+\Delta \text{TFP} &= (0.20) \times (0.23) \times (0.27) \times (0.54) \\
+                  &= 0.0067 \text{ (or 0.67%)}
+\end{aligned}$$
 
 
 This is where the Anthropic Economic Index comes in. Their first product is a [dataset]() based on four million conversations with their premier LLM, Claude. This dataset is perfect for evaluating the values in Acemoglu's calculation. Using a system which hides the conversations from human reviewers, Anthropic assigns each conversation to one of the tasks in the same O*NET categorization used by Eloundou et al. and Acemoglu. 
