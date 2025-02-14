@@ -25,7 +25,7 @@ Acemoglu's paper seeks to quantify the effects of improvements in AI within this
 The paper aims to calculate the change in productivity from new AI tools based on estimates in other papers in the literature. The calculation comes down to this: the change in productivity is equal to the percent of worker tasks affected by AI, times the wage-weighted importance of those tasks, time the cost-savings from using AI over the status quo in those tasks. This falls out of Hulten's theorem, a general result on how microeconomic changes affect macroeconomic variables.{% sidenote "hult-id" "[Hulten 1978](https://gwern.net/doc/economics/1978-hulten.pdf), modernized in [Baqaee and Farhi 2019](https://scholar.harvard.edu/files/farhi/files/beyond_hulten_draft.pdf)" %}
 
 
-$$d \ln \text{TFP} = (\mu_E \pi_E + (1 - \mu_E) \pi_H) \times \sum_{z \in \text{AI-affected}} \chi(z)$$
+$$\Delta \text{TFP} =  \left( \sum_{z \in \text{AI-affected}} \chi(z) \right) \times \pī \times (1 - s_K) $$
 
 Adding in his hard/easy task distinction
 
