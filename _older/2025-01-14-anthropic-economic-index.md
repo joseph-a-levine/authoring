@@ -22,9 +22,10 @@ The "Simple Macro" paper assesses tasks to model how AI will affect the economy:
 
 Acemoglu's paper seeks to quantify the effects of improvements in AI within this framework. "Simple Macro" ignores the third category,{% sidenote "sidenote-id" "Maxwell Tabarrok enthusiastically critiques this decision [here](https://www.maximum-progress.com/p/contra-acemoglu-on-ai). By ignoring deepening automation, Acemoglu treats the chatbot/language model as the key recent innovation of AI. This underrates the broad applicability of the transformer, which can also improve the productivity of robots, enable self-driving cars, and improve other already-automated tasks. I agree with Tabarrok that we'll see large increases in capital productivity from AI." %} and is mostly speculative on the fourth, focusing on negative welfare (not productivity) effects. The most rigorous section of the paper is focused on the first two categories: how the recent wave of AI tools increase productivity by automating and augmenting tasks currently performed by people. 
 
-Hulten's theorem
+The paper aims to calculate the change in productivity from new AI tools based on estimates in other papers in the literature. The calculation comes down to this: the change in productivity is equal to the percent of worker tasks affected by AI, times the wage-weighted importance of those tasks, time the cost-savings from using AI over the status quo in those tasks. This falls out of Hulten's theorem, a general result on how microeconomic changes affect macroeconomic variables.{% sidenote "hult-id" "[Hulten 1978](https://gwern.net/doc/economics/1978-hulten.pdf), modernized in [Baqaee and Farhi 2019](https://scholar.harvard.edu/files/farhi/files/beyond_hulten_draft.pdf)" %}
 
-$$\sum_{i=1}^n x_i = 0$$
+
+$$d \ln \text{TFP} = (\mu_E \pi_E + (1 - \mu_E) \pi_H) \times \sum_{z \in \text{AI-affected}} \chi(z)$$
 
 Adding in his hard/easy task distinction
 
