@@ -30,10 +30,12 @@ First, he uses Eloundou et al. (2023) to identify the **percent of labor exposed
 
 Second, he uses Svanberg et al. (2024) to evaluate whether these **exposed tasks can be profitably automated**. Svanberg et al. model the cost of humans and AI systems performing the same set of computer vision O*NET tasks, and find that 23% of vision tasks can be profitably automated — for the rest, the AI system would be too costly, or the current human behavior is too efficient.{% sidenote "asco-id" "This figure assumes AI costs remain stable. If they decrease 10% per year, perhaps 30% may be efficiently automated. Acemoglu addresses this in a robustness section." %}
 
-Third, Acemoglu uses the average of two studies on productivity improvements due to AI to estimate the **cost savings**. 
-There are other reasons to believe that the 27% number is too low when estimating over the next decade. Most notably, [Merali (2024)](https://arxiv.org/pdf/2409.02391) looks at how scaling laws — that xyz — affect Acemoglu's calculations. This is a good paper; accountiung for model growth, he more than doubles the productivity effect used by Acemoglu, from 27% (the average of Noy and Zhange and Brynjolfsson) to 61%. 
+Third, Acemoglu uses the average of two studies on productivity improvements due to AI to estimate the **cost savings**. Noy and Zhang (2023) find that copy-writers work 40% faster with GPT-3.5 compared to those without; Brynjolfsson et al. (2023) find that customer support agents work 14% faster with an older version of GPT. Acemoglu uses the average of 27% cost-savings. Some more recent studies have roughly agreed with this figure,{% sidenote "agrefi-id" "[Dell'Acqua et al. (2023)](https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf) found BCG consultants completed their tasks 25% more quickly when using AI; [Cui et al. (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566) found that developers using AI completed 26% more tasks." %} while others estimate higher values.{% sidenote "hgihg-id" "[Toner-Rodgers (2024)](https://aidantr.github.io/files/AI_innovation.pdf) found that material scientists using AI assistance discovered 44% more materials than those without the AI tool. There are other reasons to believe that the 27% number is too low when estimating over the next decade. Most notably, [Merali (2024)](https://arxiv.org/pdf/2409.02391) looks at how scaling laws — that xyz — affect Acemoglu's calculations. This is a good paper; accountiung for model growth, he more than doubles the productivity effect used by Acemoglu, from 27% (the average of Noy and Zhange and Brynjolfsson) to 61%. " %} 
 
 Finally, Acemoglu uses 54% as the share total income that goes to paying wages, rather than other costs or profits. 
+
+Putting it all together,
+
 
 
 
