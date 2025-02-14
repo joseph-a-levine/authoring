@@ -51,7 +51,7 @@ This is where the Anthropic comes in. Acemoglu's estimates come from forward-loo
 
 Using [a system](https://www.anthropic.com/research/clio) which hides the conversations from human reviewers, Anthropic maps each conversation to one of the tasks in the same O*NET categorization used by Eloundou et al. (2023) and Acemoglu. They exclude tasks which have fewer than 15 conversations mapped to them, and report the percent of conversations which performed each task.
 
-I use these data to repeat Acemoglu's calculations.{% sidenote "rahel-id" "Thanks to his RA Can Yeşildere for clarity on methods." %} Anthropic finds 3,514 tasks which were automated or augmented by their models, compared to Acemoglu's 4,089. I  map these tasks to occupations, and following Acemoglu, label an occupation x% exposed if x% of its tasks are automated or augmented in the Anthropic data. Finally, 
+I use these data to repeat Acemoglu's calculations.{% sidenote "rahel-id" "Thanks to his RA Can Yeşildere for clarity on methods." %} Anthropic finds 3,514 tasks which were automated or augmented by their models, compared to Acemoglu's 4,089. I  map these tasks to occupations, and following Acemoglu, label an occupation x% exposed if x% of its tasks are automated or augmented in the Anthropic data. Finally, I aggregate total labor exposure to automation, weighted by the median wage for each occupation.{% sidenote "wacge-id" "I use 2019 wage data; Acemoglu uses wage data pooled across 2019-2022. My guess is that using pre-pandemic data probably suppresses my estimates relative to Acemoglu's due to lower 2019 wage shares for AI-exposed jobs, which grew post-pandemic." %} This finds a GDP share of tasks being automatable or augmentable by Anthropic's AI models of 23.7%. 
 
 
 
