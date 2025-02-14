@@ -24,7 +24,11 @@ Acemoglu's paper seeks to quantify the effects of improvements in AI within this
 
 The paper aims to calculate the change in productivity from new AI tools based on estimates in other papers in the literature. The calculation comes down to this: the change in productivity is equal to the percent of worker tasks affected by AI, times the wage-weighted importance of those tasks, times the cost-savings from using AI over the status quo in those tasks. This falls out of Hulten's theorem, a general result on how microeconomic changes affect macroeconomic variables.{% sidenote "hult-id" "[Hulten 1978](https://gwern.net/doc/economics/1978-hulten.pdf), modernized in [Baqaee and Farhi 2019](https://scholar.harvard.edu/files/farhi/files/beyond_hulten_draft.pdf)" %} Acemoglu finds other papers which provide each variable in his calculation:{% sidenote "noata-id" "My notation, illustration only. TFP is Total Factor Productivity, a measure of how much output you get per input." %}
 
-$$\Delta \text{TFP} =  \left( \theta \times s_L^{\text{affected}} \right) \times \pī \times (1 - s_K) $$
+$$\Delta \text{TFP} =
+\left( s_L \right)  % Percent of labor tasks exposed to AI
+\times \left( \alpha \right)  % Share of exposed tasks that can be profitably automated
+\times \left( \pi \right)  % Cost savings per affected task
+\times \left( \phi \right)  % Labor share of total income$$
 
 First, he uses Eloundou et al. (2023) to identify the **percent of labor exposed to automation**. Eloundou et al. feed the 19,000+ worker tasks categorized by O*NET to GPT-4 and human raters, asking them to rate how "exposed" to automation each task is. Acemoglu aggregates these into occupations, and weights each by its wage — finding that 20% of human labor is exposed to automation. 
 
@@ -36,7 +40,7 @@ Finally, Acemoglu uses 54% as the share total income that goes to paying wages, 
 
 Putting it all together,
 
-
+$$\Delta \text{TFP} =(0.20) \times (0.23) \times (0.27) \times (0.54)$$
 
 
 This is where the Anthropic Economic Index comes in. Their first product is a [dataset]() based on four million conversations with their premier LLM, Claude. This dataset is perfect for evaluating the values in Acemoglu's calculation. Using a system which hides the conversations from human reviewers, Anthropic assigns each conversation to one of the tasks in the same O*NET categorization used by Eloundou et al. and Acemoglu. 
