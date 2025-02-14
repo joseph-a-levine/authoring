@@ -51,8 +51,9 @@ This is where the Anthropic comes in. Acemoglu's estimates come from forward-loo
 
 Using [a system](https://www.anthropic.com/research/clio) which hides the conversations from human reviewers, Anthropic maps each conversation to one of the tasks in the same O*NET categorization used by Eloundou et al. (2023) and Acemoglu. They exclude tasks which have fewer than 15 conversations mapped to them, and report the percent of conversations which performed each task.
 
-I use these data to repeat Acemoglu's calculations.{% sidenote "rahel-id" "Thanks to his RA Can Yeşildere for clarity on methods." %} Anthropic finds 
-THey find x tasks which were done by 
+I use these data to repeat Acemoglu's calculations.{% sidenote "rahel-id" "Thanks to his RA Can Yeşildere for clarity on methods." %} Anthropic finds 3,514 tasks which were automated or augmented by their models, compared to Acemoglu's 4,089. I  map these tasks to occupations, and following Acemoglu, label an occupation x% exposed if x% of its tasks are automated or augmented in the Anthropic data. Finally, 
+
+
 
 This dataset offers a much more accurate and up-to-date value for the first term in Acemoglu's calculation, the percent of labor exposed to automation, and plausibly for the second — which tasks can be profitably automated. 
 
