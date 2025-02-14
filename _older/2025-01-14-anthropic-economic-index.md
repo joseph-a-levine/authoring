@@ -57,19 +57,21 @@ There are two ways to use this number. If I interpret it as the share of labor w
 
 In favor of the **first** interpretation, any task in the Anthropic data is exposed to automation, but we have limited information about how attractive that task is for automation. Anthropic provides the percentage of conversations which perform a task, but not the total number of times that that task is performed in the economy. For example, we know that ~1% of conversations have Claude "prepare, rewrite and edit copy to improve readability, or supervise others who do this work," but we don't know from this data how many times humans do that task without AI automating or augmenting them. Therefore, the Anthropic data informs us about exposure, but not about attractiveness.
 
-For the **second** interpretation, we could assume that any task in the Anthropic data is inherently attractive for automation. The data only include tasks which show up in at least 15 of the ~one million conversations analyzed, and even those tasks at the bottom of the distribution are attractive to automate or augment with AI. For example, the "design and fabricate dental prostheses, or supervise dental technicians and laboratory bench workers who construct the devices" makes up less than 0.002% of all conversations in the Anthropic sample. Therefore, at least 15 times, users turned to Claude to help with their dental prostheses, indicating that this is currently a cost-effective approach to the task.{% sidenote "sidenote-id" "To be cost-effective means that it's cost-effective for *someone*, not for everyone. That it hasn't scaled — that a million dental protheses were designed and fabricated that week without Claude's help — doesn't mean that automating/augmenting the task is unattractive. The technology may not be sufficiently diffused yet." %} 
+For the **second** interpretation, we could assume that any task in the Anthropic data is inherently attractive for automation. The data only include tasks which show up in at least 15 of the ~one million conversations analyzed, and even those tasks at the bottom of the distribution are attractive to automate or augment with AI. For example, the "design and fabricate dental prostheses, or supervise dental technicians and laboratory bench workers who construct the devices" makes up less than 0.002% of all conversations in the Anthropic sample. Therefore, at least 15 times, users turned to Claude to help with their dental prostheses, indicating that this is currently a cost-effective approach to the task.{% sidenote "sidenote-id" "To be cost-effective means that it's cost-effective for *someone*, not for everyone. That it hasn't scaled — that a million dental protheses were designed and fabricated that week without Claude's help — doesn't mean that automating/augmenting the task is unattractive." %} 
 
 I am partial to the second interpretation. All tasks in the Anthropic data are both exposed *and* attractive to automation/augmentation. Keeping the cost savings and labor share stable, this changes the calculation:
 
 $$\begin{aligned}
 \Delta \text{TFP} &= \left( s_L \right) \times \left( \alpha \right)  \times \left( \pi \right)  \times \left( \phi \right) \\
-                (0.237) \times (0.27) \times (0.54) \\
+                  &= (0.237) \times (0.27) \times (0.54) \\
                   &= 0.0346 \text{ (or 3.46%)}
 \end{aligned}$$
 
 an increase of 5x. 
 
-This result is so much larger than Acemoglu's because Anthropic's data shows that many more tasks are automatable or augmentable than the predictions of Eloundou et al. and Svanberg et al. 
+This result is so much larger than Acemoglu's because Anthropic's data indicates that many more tasks are automatable or augmentable than the predictions of Eloundou et al. and Svanberg et al. I follow Acemoglu very closely above; if he had had these data, it's likely he would have taken a different approach. For examplpe, I use the Anthropic data to indicate whether a task is automatable at all, and follow the original paper in measuring intensity at the occupation level. But the new data allow researchers to measure the relative popularity of automation between tasks. 
+
+There are other ways to use these data; Anthropic only released the dataset this week, and I expect more to come. That I can present this replication immediately is a testament to how well Acemoglu's model is tailored to the data. Or perhas the other way around. Automation is Acemoglu's wheelhouse, and it's not surprising that his [task-based framework](https://www.aeaweb.org/articles?id=10.1257/aer.20160696) emerges as the primary framework for academics to discuss these technologies. 
 
 Now that Anthropic is on board with releasing data like this, there is so much more we are interested in doing.
 Automation vs augmentation and the API
@@ -80,8 +82,7 @@ Last summer, there was a cottage industry of people hating on the "Simple Macro"
 
 The problem is that AI does not move at the speed of economics working papers. 
 https://x.com/polynoamial/status/1888467178879627546?mx=2
-Anthropic has not released any "reasoning"{% sidenote "reaso-id" "Such as DeepSeek R1, or OpenAI's o-series." %} models, which are much closer to automation than augmentation.
+Anthropic has not released any "reasoning"{% sidenote "reaso-id" "Such as DeepSeek R1, or OpenAI's o-series." %} models, which are much closer to automation than augmentation. Both Acemoglu's original paper and the Anthropic data only on chatbots (ignoring *any* API use), which is at least one step removed from true automation. 
 
-Diffusion!
-
+The underlying technology continues to get better, and firms are learning how to use it more effectively. 
 
