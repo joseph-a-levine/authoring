@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anthropic Economic Index"
+title:  "Updating Acemoglu's AI Math: Economics in Real Time"
 date:   2025-02-14
 categories: post
 ---
@@ -8,7 +8,7 @@ categories: post
 
 This is an interesting time for economists interested in AI. Not to take away from Anton Korineks, Chad Joneses, and Daron Acemoglu's who have been writing about the topic for years, but it feels like the field is newly sitting up and paying attention: now driven by industry. 
 
-Anthropic this week launched their [Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index), a research agenda focused on the economic impacts of AI.{% sidenote "chardad-id" "OpenAI has also started an "Economic Impacts Team" led by an economist, Dr Ronnie Chatterji from Duke. " %} The first product is a paper and accompanying dataset describing how their AI tools are used. The form of this dataset is peculiarly well-fitted to existing work on the economic effects of AI. To illustrate how the field is changing, and will have to change, I'm going to use the Anthropic data to update a 2024 paper by Daron Acemoglu: "The Simple Macroeconomics of AI". I hope this provides a sense of how economists can provide insight into a technology which doesn't stand still for a moment, and research you've been working on for months can become obsolete in a moment. [This is too strong.]
+Anthropic this week launched their [Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index), a research agenda focused on the economic impacts of AI.{% sidenote "chardad-id" "OpenAI has also started an Economic Impacts Team, led by economist Dr Ronnie Chatterji from Duke. " %} The first product is a paper and accompanying dataset describing how their AI tools are used. The form of this dataset is peculiarly well-fitted to existing work on the economic effects of AI. To illustrate how the field is changing, and will have to change, I'm going to use the Anthropic data to update a 2024 paper by Daron Acemoglu: "The Simple Macroeconomics of AI". I hope this provides a sense of how economists can provide insight into a technology which doesn't stand still for a moment, and research you've been working on for months can become obsolete in a moment. [This is too strong.]
 
 Daron Acemoglu won the Nobel Prize last year for his work on institutions and growth.{% sidenote "ajr-id" "Looking at the slate of winners in other fields, one might think that he won it for his extensive work on automation and AI: the physics prize went to Hinton and Hopfield for founding the field of deep learning; the chemistry prize went to, among two other computer scientists, Demis Hassabis, the founder of Google DeepMind. Acemoglu won alongside Simon Johnson and James Robinson. Robinson is my favorite of the three. " %}  He has long been a giant in the field of economics, startlingly productive, and the Nobel is another star in a bedecked career. 
 
