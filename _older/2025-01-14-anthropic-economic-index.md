@@ -84,7 +84,7 @@ I follow Acemoglu's approach very closely above; if he had had these data, it's 
 
 Clearly, AI models have become more capable between when Eloundou et al. measured AI exposure and when Anthropic measured their users' tasks. Economists will continue to write papers about the AI exposure of different tasks, and the number of exposed tasks will increase over time — the models are never going to be worse than they are today. Anthropic has been good at reaching out to researchers; we should reciprocate! If we want to stay up to date on the economic effects of these models, we should do the legwork that we can before the data get are released. I was only able to come up with the figure of "5% higher GDP in 2034" with Anthropic's data because Acemoglu had done the hard work of setting up the structural model last year. 
 
-There are other ways to use these data; Anthropic only released the dataset this week, and I expect more to come. Now that there are teams at Anthropic and OpenAI dedicated to studying the economic effects of AI, there is so much more I'm interested in seeing. I'll close with some examples. 
+There are other ways to use these data; Anthropic only released the dataset this week, and I expect more to come. Now that there are teams at Anthropic and OpenAI dedicated to studying the economic effects of AI, there is so much more I'm interested in seeing. I'll close with some closely related examples. 
 
 The Anthropic paper provides high level data on which tasks are **automotive vs. augmentative**. While I reference this above, they do not include these crosstabs on the main tasks in public dataset. I could measure exposure to automation or augmentation with more detailed data. 
 
@@ -92,14 +92,11 @@ Similarly, providing similar data from **API** use, not just online chatbots, wi
 
 The Anthropic data also covers conversations with two of their models, Opus and Sonnet, although the task data used above is based on a third model, Haiku. **Model choice** is super interesting and largely vibes-based at the moment. Similarly, OpenAI does A/B testing with their models — I *so* wantk those data. 
 
+
+
 Acemoglu has a digression in his paper on **easy vs. hard** tasks: his team used a simpler ML system to assign a probability that each of the O*NET tasks is hard. This classification finds that exposed tasks according to Eloundou et al. tend to be easier. 
 
 The O*NET system also provides **complexity and importance** scores for each task. Neither Acemoglu or I use these. Complexity could be used in place of his easy/hard distinction. Importance could be used to weight tasks within occupation. Currently, all tasks are weighted the same. 
-
-
-- Speed premium 
-- Paid users (pro)
-- Context windows
 
 You too can have input on what data Anthropic release next: they're requested feedback from researchers [here](https://docs.google.com/forms/d/e/1FAIpQLSfDEdY-mT5lcXPaDSv-0Ci1rSXGlbIJierxkUbNB7_07-kddw/viewform). Go out and discover stuff. 
 
