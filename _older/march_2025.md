@@ -23,13 +23,13 @@ The joys of February are just sufficient for 28 days. Oxford is never lonely dur
 The winter term is quiet academically, but I did host a few meetings of the development econ student working group and present internally twice. We also had a visit from Prof. Raúl Sanchez de la Sierra, who gave a great talk on violence, pro-sociality, and the origin of the state.
 
 February was an AI-heavy month for me. LLMs are the most fun technical tools available and very accessible. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
-- Gemini for large context, i.e., reading a whole book or multiple papers
-- GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
-- GPT-o1 for thinking through analytical problems or double-checking my reasoning
-- GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
-- Claude for dealing with discrete coding tasks
-- DeepSeek for weird, unique prose or wordsmithing
-- Perplexity for fact-checking queries which alternatively I would have Googled
+- - Gemini for large context, i.e., reading a whole book or multiple papers
+- - GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
+- - GPT-o1 for thinking through analytical problems or double-checking my reasoning
+- - GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
+- - Claude for dealing with discrete coding tasks
+- - DeepSeek for weird, unique prose or wordsmithing
+- - Perplexity for fact-checking queries which alternatively I would have Googled
 
 Of course, there's no reason not to get multiple answers, and these are all complements. All of the above has been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
 
