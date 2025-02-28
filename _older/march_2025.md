@@ -51,56 +51,31 @@ Le Guin's the compass rose
 
 ## Links
 
+{% newthought "Last month, I linked" %} to a few *Paris Review* interviews. This month I read [Haruki Murakami](https://archive.ph/tDFQ5)'s. 
 
-Erik Hoel on [[death]]
-https://www.theintrinsicperspective.com/p/baldwin-in-brahman
-
-
-https://www.youtube.com/watch?v=h3iJEhamBWQ
-Look at this good dog
-
-a lovely [[poetry]]
-https://www.yourdailypoem.com/listpoem.jsp?poem_id=3470
-
-
-
-Patricia Lockwood: [[poetry]]
-> I had once declared that there were certain things poets must never be allowed to know – about phantom limbs, and the invention of zero and Balzac’s coffee consumption, for starters. There was an untruth to the way we used names, wounds, last words: ‘More light, more light! More weight, more weight! Be good, be good! I love you.’ Still, it seemed to be our work. Every day we did it: moved heaven and earth to lay two facts together.
-
-
-[[Haruki Murakami]]'s [[Paris Review]] interview.  [[Japan]] 
 >  If I were to translate postmodern writers like Don DeLillo, John Barth, or Thomas Pynchon, there would be a crash—my insanity against their insanity. I admire their work, of course; but when I translate I choose realists.
-
+> ...
 > Many readers in Japan read my books on the train while commuting. The average salaryman spends two hours a day commuting and he spends those hours reading. That’s why my big books are printed in two volumes: They would be too heavy in one. Some people write me letters, complaining that they laugh when they read my books on the train! It’s very embarrassing for them. Those are the letters I like most. I know they are laughing, reading my books; that’s good. I like to make people laugh every ten pages.
-> 
+
+{% newthought "And if that second" %} paragraph confuses you, read these [10 observations about Tokyo](https://www.persuasion.community/p/10-observations-about-tokyo).
+
+{% newthought "Herzog on how he would stage" %} *Hamlet*:
+> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. *I always wanted to direct a _Hamlet_ and have all the parts played by ex-champion livestock auctioneers*; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
 
 
-[[Herzog]] _Every Man for Himself and God Against All_
-> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. I always wanted to direct a _Hamlet_ and have all the parts played by ex-champion livestock auctioneers; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
+{% newthought "A love story in the " %} [Wesleyan student newspaper](http://wesleyanargus.com/2025/02/14/office-hours-after-hours-professors-merve-emre-and-christian-nakarado/).
+
+{% newthought "Sam Kriss on" %} [pangolins](https://samkriss.com/2019/02/16/for-the-pangolin/), with echoes of Joe Carlsmith on [otherness and gentleness](https://joecarlsmith.com/2024/01/02/otherness-and-control-in-the-age-of-agi). 
+
+{% newthought "Nathan Goldwag never misses" %}, and [this meditation](https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/) on Star Trek, the End of History, and post-liberalism is great. We share a passion for *Lower Decks*.
+
+{% newthought "Thanks to RS for" %} pointing me to [this collection](https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9) of translation of the famous poem in Stanisław Lem's *Cyberiad*. I recently wrote about this poem [here](https://jablevine.com/older/october_2024#grrr-transformers).
+
+{% newthought "Erik Hoel on death" %} is touching and [sad](https://www.theintrinsicperspective.com/p/baldwin-in-brahman).
+
+{% newthought "Here's a video of a" %} [dog](https://www.youtube.com/watch?v=h3iJEhamBWQ).
 
 
-
-http://wesleyanargus.com/2025/02/14/office-hours-after-hours-professors-merve-emre-and-christian-nakarado/
-[[love]] [[children]] [[Funny]]
-**A:** Just one final question I’ve been asking everyone at the end: What is something you admire about the other?
-
-**ME:** I love that Christian has a driver’s license, and I feel like I’ve been really consistent about that since the beginning of this conversation.
-
-[[Sam Kriss]] on pangolins
-https://samkriss.com/2019/02/16/for-the-pangolin/
-with echoes of [[Joe Carlsmith]] on otherness
-
-
-[[submarine]]s, [[nuclear]], the [[Chinese]] and [[Russia]]ns leave their boomers by the coast??
-> China and Russia, on the other hand, operate SSBNs in ocean areas relatively close to their home shores because their SSBNs are more detectable by US SSNs and could be detected when they leave port. Russian and Chinese SSBN ports are relatively close to the territories of US allies and partners in the Arctic and the Paci+c Oceans. The proximity of US allies and partners to SSBN bases means that Russian and Chinese SSBNs and other maritime forces could be subject to surveillance as they depart their bases or attempt to enter the Arctic, Atlantic, or Paci+c Oceans. Chinese and Russian SSBNs cannot rely on forcing the US to undertake long and extensive ocean searches to ensure survivability, so these two countries must compensate by creating risks to any strategic ASW forces themselves in these close-in waters. **China’s SSBN operating areas are believed to include the South China Sea and the Yellow Sea** They may also use parts of the East China Sea and sections of the very shallow Bohai Gulf. **Russia’s SSBNs probably operate in the Barents and Kara Seas adjacent to the Arctic, and in the Sea of Okhotsk and adjacent regions of the far Western Paci+c near the Kamchatka Peninsula.**
-
-[[Nathan Goldwag]]This guy just never misses. Hihgly recommended, or at least look at the last few paragraphs 🙂 
-https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/
-
-Thanks to Reed for this on [[Stanisław Lem]]
-https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9
-
-## Music 
 
 
 
