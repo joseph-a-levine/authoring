@@ -22,14 +22,14 @@ The joys of February are just sufficient for 28 days. Oxford is never lonely dur
 
 The winter term is quiet academically, but I did host a few meetings of the development econ student working group and present internally twice. We also had a visit from Prof. Raúl Sanchez de la Sierra, who gave a great talk on violence, pro-sociality, and the origin of the state.
 
-February was an AI-heavy month for me. LLMs are the most fun technical tools available and very accessible. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
-- - Gemini for large context, i.e., reading a whole book or multiple papers
-- - GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
-- - GPT-o1 for thinking through analytical problems or double-checking my reasoning
-- - GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
-- - Claude for dealing with discrete coding tasks
-- - DeepSeek for weird, unique prose or wordsmithing
-- - Perplexity for fact-checking queries which alternatively I would have Googled
+February was an AI-heavy month for me. LLMs are the most fun technical tools available right now. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
+- ⁃ Gemini for large context, i.e., reading a whole book or multiple papers
+- ⁃ GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
+- ⁃ GPT-o1 for thinking through analytical problems or double-checking my reasoning
+- ⁃ GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
+- ⁃ Claude for dealing with discrete coding tasks
+- ⁃ DeepSeek for weird, unique prose or wordsmithing
+- ⁃ Perplexity for fact-checking queries which alternatively I would have Googled
 
 Of course, there's no reason not to get multiple answers, and these are all complements. All of the above has been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
 
@@ -41,35 +41,35 @@ I'm seeking the sun. The spring rowing event, [Torpids](https://en.wikipedia.org
 
 ## Reading
 
+No books knocked me on my butt this month. I re-read *[Zuleika Dobson](https://jablevine.com/older/june_2023)* after my mom's visit; she stayed at the Randolph Hotel, which has Sir Osbert Lancaster's famous illustrations of the novel on the walls of the tea room. Tchaikovsky's *Children of Time* was as entertaining as people say. A collection of [Le Guin's short stories](https://en.wikipedia.org/wiki/The_Compass_Rose) was high variance. Two memoirs, from [Obama's 2008 campaign manager](https://www.amazon.co.uk/Audacity-Win-David-Plouffe/dp/0670021334) and [the military head of the Manhattan Project](https://www.amazon.co.uk/Now-Can-Told-Manhattan-Paperbacks/dp/0306801892), were interesting historical documents but lacked a literary spark. 
 
-"Tell them of kings, battles, and elephants", A book [[2025 books]] about [[Michaelangelo]] in [[Istanbul]], somewhat basedo n a true story. Michaelangelo did truly design or at least sketch a "Project for a Bridge for the Golden Horn" which was found in the [[Ottoman]] archives, as well as an inventory of possessions abandoned in his room. 
-Reviews (including [this bad one](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman); this book is nothing like a [[Borges]]ian thought experiment) doubt the authenticity of the endnote. A better [review](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/) and one which more directly denies that the trip was taken. 
-The sketch is unfottnoted and other reviewrs are unable to find the sketch from the archives. 
+*Tell Them of Kings, Battles, and Elephants* by Mathias Énard gestured at excellence. Énard, translated from the french by Charlotte Mandell, tells the possibly-true story of Michaelangelo's 1506 visit to Istanbul, to design a bridge for the [Golden Horn](https://en.wikipedia.org/wiki/Golden_Horn). The novel's endnote purports authenticity, based on a sketch of a "Project for a Bridge for the Golden Horn" which was found in the Ottoman archives and attributed to Michaelangelo, as well as some security records. Reviewers doubt: the [Asian Review of Books](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/), the [London Review of Books](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman), the [New Yorker](https://archive.ph/Z6RU3). There are nice sections which gesture at Borgesian though experiments, but the novel gets a bit too French for me. For alternate histories about voyages by Renaissance painters, I prefer the one about [Caravaggio's tennis game](https://www.amazon.co.uk/Sudden-Death-Alvaro-Enrigue/dp/0735213445).
 
-
-Le Guin's the compass rose
+I'm hopeful for March. I stayed up until 1am last night on the first 150 pages of *Love in the Time of Cholera*. 
 
 ## Links
 
 {% newthought "Last month, I linked" %} to a few *Paris Review* interviews. This month I read [Haruki Murakami](https://archive.ph/tDFQ5)'s. 
 
 >  If I were to translate postmodern writers like Don DeLillo, John Barth, or Thomas Pynchon, there would be a crash—my insanity against their insanity. I admire their work, of course; but when I translate I choose realists.
+>
 > ...
+> 
 > Many readers in Japan read my books on the train while commuting. The average salaryman spends two hours a day commuting and he spends those hours reading. That’s why my big books are printed in two volumes: They would be too heavy in one. Some people write me letters, complaining that they laugh when they read my books on the train! It’s very embarrassing for them. Those are the letters I like most. I know they are laughing, reading my books; that’s good. I like to make people laugh every ten pages.
 
 {% newthought "And if that second" %} paragraph confuses you, read these [10 observations about Tokyo](https://www.persuasion.community/p/10-observations-about-tokyo).
 
-{% newthought "Herzog on how he would stage" %} *Hamlet*:
-> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. *I always wanted to direct a _Hamlet_ and have all the parts played by ex-champion livestock auctioneers*; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
+{% newthought "Herzog on how he would" %} stage *Hamlet*:
+> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. *I always wanted to direct a Hamlet and have all the parts played by ex-champion livestock auctioneers*; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
 
 
 {% newthought "A love story in the " %} [Wesleyan student newspaper](http://wesleyanargus.com/2025/02/14/office-hours-after-hours-professors-merve-emre-and-christian-nakarado/).
 
 {% newthought "Sam Kriss on" %} [pangolins](https://samkriss.com/2019/02/16/for-the-pangolin/), with echoes of Joe Carlsmith on [otherness and gentleness](https://joecarlsmith.com/2024/01/02/otherness-and-control-in-the-age-of-agi). 
 
-{% newthought "Nathan Goldwag never misses" %}, and [this meditation](https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/) on Star Trek, the End of History, and post-liberalism is great. We share a passion for *Lower Decks*.
+{% newthought "Nathan Goldwag never misses" %}, and [this meditation](https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/) on *Star Trek*, the End of History, and post-liberalism is great. We share a passion for *Lower Decks*.
 
-{% newthought "Thanks to RS for" %} pointing me to [this collection](https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9) of translation of the famous poem in Stanisław Lem's *Cyberiad*. I recently wrote about this poem [here](https://jablevine.com/older/october_2024#grrr-transformers).
+{% newthought "Thanks to RS for" %} pointing me to [this collection](https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9) of translations of the "Samson" poem in Stanisław Lem's *Cyberiad*. I recently wrote about this poem [here](https://jablevine.com/older/october_2024#grrr-transformers).
 
 {% newthought "Erik Hoel on death" %} is touching and [sad](https://www.theintrinsicperspective.com/p/baldwin-in-brahman).
 
