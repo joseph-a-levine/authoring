@@ -1,0 +1,181 @@
+---
+layout: page
+title: What am I up to now?
+---
+
+<!-- omit in toc -->
+## March, 2025
+
+<!-- omit in toc -->
+## Contents
+- [Updates](#updates)
+- [Reading](#reading)
+- [Links](#links)
+- [Music](#music)
+- [Previously](#previously)
+
+<br>
+  
+## Updates
+
+The joys of February are just sufficient for 28 days. Oxford is never lonely during term time, and after two months away I've loved seeing so many friends. My mom also visited for a few days: in the grand tradition of My Parents, she fed many graduate students. 
+
+The winter term is quiet academically, but I did host a few meetings of the development econ student working group and present internally twice. We also had a visit from Prof. Raúl Sanchez de la Sierra, who gave a great talk on violence, pro-sociality, and the origin of the state.
+
+February was an AI-heavy month for me. LLMs are the most fun technical tools available and very accessible. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
+- Gemini for large context, i.e., reading a whole book or multiple papers
+- GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
+- GPT-o1 for thinking through analytical problems or double-checking my reasoning
+- GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
+- Claude for dealing with discrete coding tasks
+- DeepSeek for weird, unique prose or wordsmithing
+- Perplexity for fact-checking queries which alternatively I would have Googled
+
+Of course, there's no reason not to get multiple answers, and these are all complements. All of the above has been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
+
+More interesting has been recent experiments running small open-weight LLMs on my Macbook. There were a few days in Gambia in December when the internet was down{% sidenote "csujsj-id" "Reportedly, the [WACS](https://en.wikipedia.org/wiki/West_Africa_Cable_System) cables were under maintenance. " %} and I would have loved access to an LLM. It is surprising how small LLMs can be made. I tried a few local models and now have Microsoft's Phi-3 on my computer for the next internet outage. It's 3.8 billion parameters,{% sidenote "parame-id" "For comparison, Claude 3 and GPT-4 are in the 2 *trillion* range. My local version of Phi-3 is quantized from 16 to 4-bit." %} trained especially for math and coding reasoning problems. This is good enough for me, but not the state of the art: Gwern expects "we may have superhuman reasoning LLMs in the billion or sub-billion parameter range... which are just very, very ignorant, perhaps even more ignorant than you or me." These tiny LLMs are never going to be a researcher's primary tool. But they are really cool and surprisingly powerful.
+
+This month there are two new posts on my blog tab, both on the labor effects of LLMs using new data from the Anthropic Economic Index. In the first, I use the Anthropic data to replicate some parameters in Acemoglu's 2024 paper on "The Simple Macroeconomics of AI," finding substantially above-expectation productivity effects. In the second, I examine which sectors are automating faster or slower than expected by economists at OpenAI and Acemoglu himself. 
+
+I'm seeking the sun. The spring rowing event, [Torpids](https://en.wikipedia.org/wiki/Torpids), is taking place under blue skies, but over a swollen river from days of downpour. In a couple of weeks, I'll fly to Phoenix to see the sun, my dad, and my sisters, then on to DC on 20 March. DC friends, please say hi!
+
+## Reading
+
+
+"Tell them of kings, battles, and elephants", A book [[2025 books]] about [[Michaelangelo]] in [[Istanbul]], somewhat basedo n a true story. Michaelangelo did truly design or at least sketch a "Project for a Bridge for the Golden Horn" which was found in the [[Ottoman]] archives, as well as an inventory of possessions abandoned in his room. 
+Reviews (including [this bad one](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman); this book is nothing like a [[Borges]]ian thought experiment) doubt the authenticity of the endnote. A better [review](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/) and one which more directly denies that the trip was taken. 
+The sketch is unfottnoted and other reviewrs are unable to find the sketch from the archives. 
+
+
+Le Guin's the compass rose
+
+## Links
+
+
+Erik Hoel on [[death]]
+https://www.theintrinsicperspective.com/p/baldwin-in-brahman
+
+
+https://www.youtube.com/watch?v=h3iJEhamBWQ
+Look at this good dog
+
+a lovely [[poetry]]
+https://www.yourdailypoem.com/listpoem.jsp?poem_id=3470
+
+
+
+Patricia Lockwood: [[poetry]]
+> I had once declared that there were certain things poets must never be allowed to know – about phantom limbs, and the invention of zero and Balzac’s coffee consumption, for starters. There was an untruth to the way we used names, wounds, last words: ‘More light, more light! More weight, more weight! Be good, be good! I love you.’ Still, it seemed to be our work. Every day we did it: moved heaven and earth to lay two facts together.
+
+
+[[Haruki Murakami]]'s [[Paris Review]] interview.  [[Japan]] 
+>  If I were to translate postmodern writers like Don DeLillo, John Barth, or Thomas Pynchon, there would be a crash—my insanity against their insanity. I admire their work, of course; but when I translate I choose realists.
+
+> Many readers in Japan read my books on the train while commuting. The average salaryman spends two hours a day commuting and he spends those hours reading. That’s why my big books are printed in two volumes: They would be too heavy in one. Some people write me letters, complaining that they laugh when they read my books on the train! It’s very embarrassing for them. Those are the letters I like most. I know they are laughing, reading my books; that’s good. I like to make people laugh every ten pages.
+> 
+
+
+[[Herzog]] _Every Man for Himself and God Against All_
+> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. I always wanted to direct a _Hamlet_ and have all the parts played by ex-champion livestock auctioneers; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
+
+
+
+http://wesleyanargus.com/2025/02/14/office-hours-after-hours-professors-merve-emre-and-christian-nakarado/
+[[love]] [[children]] [[Funny]]
+**A:** Just one final question I’ve been asking everyone at the end: What is something you admire about the other?
+
+**ME:** I love that Christian has a driver’s license, and I feel like I’ve been really consistent about that since the beginning of this conversation.
+
+[[Sam Kriss]] on pangolins
+https://samkriss.com/2019/02/16/for-the-pangolin/
+with echoes of [[Joe Carlsmith]] on otherness
+
+
+[[submarine]]s, [[nuclear]], the [[Chinese]] and [[Russia]]ns leave their boomers by the coast??
+> China and Russia, on the other hand, operate SSBNs in ocean areas relatively close to their home shores because their SSBNs are more detectable by US SSNs and could be detected when they leave port. Russian and Chinese SSBN ports are relatively close to the territories of US allies and partners in the Arctic and the Paci+c Oceans. The proximity of US allies and partners to SSBN bases means that Russian and Chinese SSBNs and other maritime forces could be subject to surveillance as they depart their bases or attempt to enter the Arctic, Atlantic, or Paci+c Oceans. Chinese and Russian SSBNs cannot rely on forcing the US to undertake long and extensive ocean searches to ensure survivability, so these two countries must compensate by creating risks to any strategic ASW forces themselves in these close-in waters. **China’s SSBN operating areas are believed to include the South China Sea and the Yellow Sea** They may also use parts of the East China Sea and sections of the very shallow Bohai Gulf. **Russia’s SSBNs probably operate in the Barents and Kara Seas adjacent to the Arctic, and in the Sea of Okhotsk and adjacent regions of the far Western Paci+c near the Kamchatka Peninsula.**
+
+[[Nathan Goldwag]]This guy just never misses. Hihgly recommended, or at least look at the last few paragraphs 🙂 
+https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/
+
+Thanks to Reed for this on [[Stanisław Lem]]
+https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9
+
+## Music 
+
+
+
+## Previously
+
+*[February, 2025](https://jablevine.com/older/february_2025)*
+
+*[January, 2025](https://jablevine.com/older/january_2025)*
+
+*[December, 2024](https://jablevine.com/older/december_2024)*
+
+*[November, 2024](https://jablevine.com/older/november_2024)*
+
+*[October, 2024](https://jablevine.com/older/october_2024)*
+
+*[September, 2024](https://jablevine.com/older/september_2024)*
+
+*[August, 2024](https://jablevine.com/older/August_2024)*
+
+*[July, 2024](https://jablevine.com/older/july_2024)*
+
+*[June, 2024](https://jablevine.com/older/june_2024)*
+
+*[May, 2024](https://jablevine.com/older/may_2024)*
+
+*[April, 2024](https://jablevine.com/older/april_2024)*
+
+*[March, 2024](https://jablevine.com/older/march_2024)*
+
+*[February, 2024](https://jablevine.com/older/february_2024)*
+
+*[January, 2024](https://jablevine.com/older/january_2024)*
+
+*[December, 2023](https://jablevine.com/older/December_2023)*
+
+*[November, 2023](https://jablevine.com/older/November_2023)*
+
+*[October, 2023](https://jablevine.com/older/October_2023)*
+
+*[September, 2023](https://jablevine.com/older/September_2023)*
+
+*[August, 2023](https://jablevine.com/older/August_2023)*
+
+*[July, 2023](https://jablevine.com/older/July_2023)*
+
+*[June, 2023](https://jablevine.com/older/June_2023)*
+
+*[May, 2023](https://jablevine.com/older/May_2023)*
+
+*[April, 2023](https://jablevine.com/older/April_2023)*
+
+*[March, 2023](https://jablevine.com/older/march_2023)*
+
+*[February, 2023](https://jablevine.com/older/february_2023)*
+
+*[December, 2022](https://jablevine.com/older/december_2022)*
+
+*[November, 2022](https://jablevine.com/older/november_2022)*
+
+*[October, 2022](https://jablevine.com/older/october_2022)*
+
+*[September, 2022](https://jablevine.com/older/september_2022)*
+
+*[August, 2022](https://jablevine.com/older/august_2022)*
+
+...
+
+*[November, 2021](https://jablevine.com/older/november_2021)*
+
+*[October, 2021](https://jablevine.com/older/october_2021)*
+
+*[September, 2021](https://jablevine.com/older/september_2021)*
+
+*[July, 2021](https://jablevine.com/older/july_2021)*
+
+*[June, 2021](https://jablevine.com/older/june_2021)*
+
+*[May, 2021](https://jablevine.com/older/may_2021)*
