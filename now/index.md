@@ -4,99 +4,83 @@ title: What am I up to now?
 ---
 
 <!-- omit in toc -->
-## February, 2025
+## March, 2025
 
 <!-- omit in toc -->
 ## Contents
 - [Updates](#updates)
 - [Reading](#reading)
 - [Links](#links)
-- [Music](#music)
 - [Previously](#previously)
 
 <br>
   
 ## Updates
 
-I'm writing this from San Francisco; by the time you read it, I'll be in Oxford. I've had a lovely month exploring the Bay Area, from Mill Valley to Palo Alto; Land's End to the Chabot Space Center. My wonderful girlfriend sent me a list of her 11 favorite ice cream spots before I arrived. In the end, we only got to seven. But then we visited five creameries which were not even on that list. I also had lots of dumplings and four Mission burritos.{% sidenote "cegl-id" "Previously, my only reference for SF burritos is [Ceglowski](https://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm)." %} 
+The joys of February are just sufficient for 28 days. Oxford is never lonely during term time, and after two months away it's been great seeing so many friends. My mom also visited for a few days, and in the grand tradition of My Parents, she fed many graduate students. 
 
-We stayed in the Inner Sunset, and I have a lovely [N Judah](https://en.wikipedia.org/wiki/N_Judah) tote bag to show for it. Later in the trip, we spent a lot of time in the East Bay, especially around Berkeley. I met my grand-supervisor Ted Miguel,{% sidenote "gradsup-id" "As in my supervisor's supervisor." %}  who is as lovely and insightful as everyone says, and Jonathan Weigel, one of the two economists whose work is convicing me that the DRC is the most interesting spot to be working right now.{% sidenote "tors-id" "The other being Raúl Sanchez de la Sierra, who will be visiting Oxford later this term!" %} 
+The winter term is quiet academically, but I did host a few meetings of the development econ student working group and present internally twice. We also had a visit from Prof. Raúl Sanchez de la Sierra, who gave a great talk on violence, pro-sociality, and the origin of the state.
 
-I also got a lot of time with Berkeley grad students, include several who are currently on the job market. Exhaustion and nervous anticipation were the dominant emotions, but also an odd hope. Everyone had only the nicest things to say about other candidates in their field, candidates on the same shortlists as them. There's something about the process of writing a job market paper which gives the perspective to appreciate someone else's.  
+February was an AI-heavy month for me. LLMs are the most fun technical tools available right now. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
+- ⁃ Gemini for large context, e.g., reading a whole book or multiple papers
+- ⁃ GPT-4o for large volumes of tasks, occasionally in chat but more often through the API
+- ⁃ GPT-o1 for thinking through analytical problems or double-checking my reasoning
+- ⁃ GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
+- ⁃ Claude for dealing with discrete coding tasks
+- ⁃ DeepSeek for weird, unique prose or wordsmithing
+- ⁃ Perplexity for fact-checking queries which alternatively I would have Googled
 
-In fact, all of the students I spoke with were either on the market, or fourth years. The second group's experience in the third-year vivas was a bit motivating, as I am going to go through a similar process this summer. By the end of our third year in Oxford, we present the likely topic of our dissertation to a small faculty panel, who provide approval, encouragement, or doom. The Berkeley fourth years found this really valuable, and it's moved up my timeline for preparing my viva. Most importantly, I need to narrow down my list of projects. I'm lucky to have quite a few projects under development, and I now often find myself investigating new projects, rather than pushing existing ones forward. It's time to stop that, at least temporarily. 
+Of course, there's no reason not to get multiple answers, and these are all complements. All of the above uses have been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
 
-There are three new posts on this website this month: a history of [Berkeley](https://jablevine.com/articles/25/berkeley); a [list of questions](https://jablevine.com/articles/25/sf-questions) I have about San Francisco; and a [semi-satirical piece](https://jablevine.com/articles/25/freedom-cities) on the proposal to build a Freedom City in the Presidio. Apparently I'm inspired to write by place. Many are the blogs which have died on the "I'm planning to post more in the coming months" hill; here I stake my flag on that hill, and we'll see how February goes. 
+More interesting has been recent experiments running small open-weight LLMs on my Macbook. There were a few days in Gambia in December when the internet was down{% sidenote "csujsj-id" "Reportedly, the [WACS](https://en.wikipedia.org/wiki/West_Africa_Cable_System) cables were under maintenance. " %} and I would have loved access to an LLM. It is surprising how small LLMs can be made. I tried a few local models and now have Microsoft's Phi-3 on my computer for the next internet outage. It's 3.8 billion parameters,{% sidenote "parame-id" "For comparison, Claude 3 and GPT-4 are in the 2 *trillion* range. My local version of Phi-3 is quantized from 16 to 4-bit." %} trained especially for math and coding reasoning problems. This is good enough for me, but not the state of the art: Gwern expects "we may have superhuman reasoning LLMs in the billion or sub-billion parameter range... which are just very, very ignorant, perhaps even more ignorant than you or me." These tiny LLMs are never going to be a researcher's primary tool. But they are really cool and surprisingly powerful.
 
+This month there are two new posts on my blog tab, both on the labor effects of LLMs using new data from the Anthropic Economic Index. In the first, I use the Anthropic data to replicate some parameters in Acemoglu's 2024 paper on "The Simple Macroeconomics of AI," finding substantially above-expectation productivity effects. In the second, I examine which sectors are automating faster or slower than expected by economists at OpenAI and Acemoglu himself. 
+
+I'm seeking the sun. The spring rowing event, [Torpids](https://en.wikipedia.org/wiki/Torpids), is taking place under blue skies, but over a swollen river from days of downpour. In a couple of weeks, I'll fly to Phoenix to see the sun, my dad, and my sisters, then on to DC on 20 March. DC friends, please say hi!
 
 ## Reading
 
-I spent one day working at the [Mechanics' Institute](https://en.wikipedia.org/wiki/Mechanics%27_Institute,_San_Francisco) library with MJ. It's a very pleasant library with an excellent location; if I were into chess, I would definitely have visited again! While there, I went through my [Amazon list](https://www.amazon.com/hz/wishlist/ls/3AR981U16OKZ0/ref=nav_wishlist_lists_3) of books I can't find elsewhere and grabbed what I could off their shelves. Most valuable was the complete collection of Paris Review interviews; I read the entirety of the Borges, Jan Morris, and Murakami interviews, and most of the Márquez interview. 
+No books knocked me on my butt this month. I re-read *[Zuleika Dobson](https://jablevine.com/older/june_2023)* after my mom's visit; she stayed at the Randolph Hotel, which has Sir Osbert Lancaster's famous illustrations of the novel on the walls of the tea room. Tchaikovsky's *Children of Time* was as entertaining as people say. A collection of [Le Guin's short stories](https://en.wikipedia.org/wiki/The_Compass_Rose) was high variance. Two memoirs, from [Obama's 2008 campaign manager](https://www.amazon.co.uk/Audacity-Win-David-Plouffe/dp/0670021334) and [the military head of the Manhattan Project](https://www.amazon.co.uk/Now-Can-Told-Manhattan-Paperbacks/dp/0306801892), were interesting historical documents but lacked a literary spark. 
 
-Borges was spectacular. This interview is from the late 60s, when he was already blind and the chief librarian of Argentina. It was conducted by Ronald Christ{% sidenote "linkch-id" "Who has a great [LinkedIn](https://www.linkedin.com/in/ronald-christ-58b59a18/)." %} and he really knows his stuff. Christ later published a book subtitled *Borges' Art of Allusion*, and boy do they get into metaphors. Borges is kind of fed up with them: 
+*Tell Them of Kings, Battles, and Elephants* by Mathias Énard gestured at excellence. Énard, translated from the French by Charlotte Mandell, tells the possibly-true story of Michelangelo's 1506 visit to Istanbul, to design a bridge for the [Golden Horn](https://en.wikipedia.org/wiki/Golden_Horn). The novel's endnote purports authenticity, based on a sketch of a "Project for a Bridge for the Golden Horn" which was found in the Ottoman archives and attributed to Michelangelo, as well as some security records. Reviewers doubt: the [Asian Review of Books](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/), the [London Review of Books](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman), the [New Yorker](https://archive.ph/Z6RU3). There are nice sections which gesture at Borgesian thought experiments, but the novel gets a bit too French for me. For alternate histories about voyages by Renaissance painters, I prefer the one about [Caravaggio's tennis game](https://www.amazon.co.uk/Sudden-Death-Alvaro-Enrigue/dp/0735213445).
 
-> I began [studying old Norse] by being very interested in metaphor. ... I read about the kennings, metaphors of old English ... After several years of study, I'm no longer interested in the metaphors because I think that they were rather a weariness of the flesh to the poets themselves — at least to the old English poets. [...] To repeat them, to use them over and over again and to keep on speaking of the *hranrad, waelrad*, or "road of the whale" instead of the "sea".
-
-And later: 
-
-> Really good metaphors are always the same. I mean you compare time to a road, death to sleeping, life to dreaming, adn those are the great metaphors in literature because they correspond to something essential. If you invent metaphors, they are apt to be surprisng during the fraction of a second, but they strike no deep emotion whatever. If you think of life as a dream, that is a thought , a thought that is real, or at least that most men are bound to have, no?
-
-This excited me to return to some of Broges poems when I'm back in Oxford. 
-
-The Jan Morris interview was less mind-blowing. The interviewer wasn't as well-prepared, and was a bit too obsessed with the trans experience (it was 1997). I did add two books to my list: *Fisher's Face* and *Pleasures of a Tangled Life*.
-
-I also found a copy of a long Bill Watterson (of *Calvin and Hobbes*) interview which I hadn't previously seen online. This was done for an exhibit at Ohio State in 2014, and there are some fun moments. On why he feels his work has endured:
-
-> One of the beauties of a comic strip is that people's expectations are nil. If you draw anything more subtle than a pie in the face, you're considered a philosopher. You can sneak in an honest reflection once in a while, because readers rarely have their guard up. I love the unpretentiousness of cartoons. If you sat down and wrote a two hundred page book called *My big thoughts on life*, no one would read it. But if you stick those same thoughts in a comic strip and wrap them in a little joke that takes five seconds to read, now you're talking to millions. Any writer would kill for that kind of audience. What a gift.
-
-Finally, the weirdest book I read this month was Tony Tulathimutte's short story collection *Rejection*, built around his older viral short story "The Feminist." A very intense reading experience: very funny, and revolting, and sad. Possibly "about" failure modes of revenge. 
-
+I'm hopeful for March. I stayed up until 1am last night on the first 150 pages of *Love in the Time of Cholera*. 
 
 ## Links
 
-{% newthought "Trump is potentially going to" %} recognize Somaliland as an independent country, which it has de facto been since the 90s. Kep Opalo [argues](https://www.africanistperspective.com/p/international-recognition-for-somaliland) this might necessarily be a good thing for them: " such a development _at this time_ would very likely take away the very incentives that have set them apart from the rest of Somalia over the last 33 years." I agree but for reasons more focused on foreign aid; I wrote a brief comment [here](https://forum.effectivealtruism.org/posts/rPzcjdfTaDHYi7jMr/looking-into-project-2025-usaid?commentId=2Z2tpPsLyikHcqLgC). 
+{% newthought "Last month, I linked" %} to a few *Paris Review* interviews. This month I read [Haruki Murakami](https://archive.ph/tDFQ5)'s. 
 
-{% newthought "Construction Physics on a personally" %} important question: [why aren't there more A380s?](https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport)
+>  If I were to translate postmodern writers like Don DeLillo, John Barth, or Thomas Pynchon, there would be a crash—my insanity against their insanity. I admire their work, of course; but when I translate I choose realists.
+>
+> ...
+> 
+> Many readers in Japan read my books on the train while commuting. The average salaryman spends two hours a day commuting and he spends those hours reading. That’s why my big books are printed in two volumes: They would be too heavy in one. Some people write me letters, complaining that they laugh when they read my books on the train! It’s very embarrassing for them. Those are the letters I like most. I know they are laughing, reading my books; that’s good. I like to make people laugh every ten pages.
 
-> Airbus, in fact, based its development of the enormous A380 on the expectation that limited airport capacity meant that airlines would have no choice but to use fewer, larger planes. (The fact that this didn’t happen, and airlines instead chose to buy thousands of smaller aircraft like the 737 MAX, apparently successfully, is something I don’t quite understand.)
+{% newthought "And if that second" %} paragraph confuses you, read these [10 observations about Tokyo](https://www.persuasion.community/p/10-observations-about-tokyo).
 
-{% newthought "Gwern on a Napoleon quote" %}, and what the emperor's thoughts [imply about AI development](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m95avyf/). Entertaining, but mostly implies Sam Altman is just really bad at [picking quotes](https://www.reddit.com/r/ControlProblem/comments/1i9qt53/comment/m9akwq6/).
-
-{% newthought "Also Gwern, on how the economy" %} and society will adapt to AI advancements:
-
-> Personally, my conclusion has long been that the economy & society are _so_ rigid that most such arrangements will remain largely intact even if they are dead men walking, and the pace of AI progress is so rapid that you should basically ignore any argument of the form 'but we still have human teachers, therefore, AGI can't be real'.
-
-And compare Tyler Cowen on the release of R1: "A big day, most of all for Africa." The most important thing I learned from R1 is that a model *or better* of this quality will always be available to everyone, so in the "open source is good for Africa" sense, I agree with Cowen. But more importantly is the relative under-development of developing countries, and the relative malleability of their economic structures.
-
-{% newthought "Keynes on Newton" %}, [delivered posthumously](https://mathshistory.st-andrews.ac.uk/Extras/Keynes_Newton/): 
-
-> Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. Isaac Newton, a posthumous child bom with no father on Christmas Day, 1642, was the last wonderchild to whom the Magi could do sincere and appropriate homage.
-
-{% newthought "Related to the Tony Tulathimutte" %}, three SFW links on porn: (1) we should [think about social media](https://www.programmablemutter.com/p/were-getting-the-social-media-crisis) like porn marketing: consumers want different things from customers; (2) *LA Weekly*'s porn journalist [writes about](https://logicmag.io/play/my-stepdad's-huge-data-set/) porn and data; (3) PornHub's 2024 [year in review](https://www.pornhub.com/insights/2024-year-in-review).
-
-{% newthought "Take a fact about media" %} and make it ideological: [a suprisingly good essay](https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/) on the phrase "Wherever you get your podcasts."
+{% newthought "Herzog on how he would" %} stage *Hamlet*:
+> In 1976 I made a film about the world championship of livestock auctioneers, [_How Much Wood Would a Woodchuck Chuck_](https://www.youtube.com/watch?v=-6jSdbkTsVo&ab_channel=BillScurry), which had to do with my fascination with the limits of language. That’s why Hölderlin and the Baroque poet Quirinus Kuhlmann are so important to me, because in their different ways they approached the limits of my language, German. In [_Stroszek,_](https://www.youtube.com/watch?v=SmOZrAazd5c&ab_channel=thebathroomsinger) when Stroszek’s dream of America is broken, his mobile home is put up for auction. The actor in the scene was a one-time world champion livestock auctioneer whom I had followed to Wyoming and brought out of retirement for my film. His auction, in which language becomes singsong, a cascade of madness impossible to intensify further, is surely unforgettable to anyone who sees the film. I always had the suspicion that this raving was the last form of poetry or at least the last language of capitalism. *I always wanted to direct a Hamlet and have all the parts played by ex-champion livestock auctioneers*; I wanted the performance to come in at under fourteen minutes. Shakespeare’s text is widely known anyway, and to prepare for the production, an audience would only have had to refresh their memories of it briefly.
 
 
+{% newthought "A love story in the " %} [Wesleyan student newspaper](http://wesleyanargus.com/2025/02/14/office-hours-after-hours-professors-merve-emre-and-christian-nakarado/).
+
+{% newthought "Sam Kriss on" %} [pangolins](https://samkriss.com/2019/02/16/for-the-pangolin/), with echoes of Joe Carlsmith on [otherness and gentleness](https://joecarlsmith.com/2024/01/02/otherness-and-control-in-the-age-of-agi). 
+
+{% newthought "Nathan Goldwag never misses" %}, and [this meditation](https://nathangoldwag.wordpress.com/2025/02/15/from-undiscovered-country-to-nemesis-how-star-trek-reflects-society/) on *Star Trek*, the End of History, and post-liberalism is great. We share a passion for *Lower Decks*.
+
+{% newthought "Thanks to RS for" %} pointing me to [this collection](https://mwichary.medium.com/seduced-shaggy-samson-snored-725b5a8086d9) of translations of the "Samson" poem in Stanisław Lem's *Cyberiad*. I recently wrote about this poem [here](https://jablevine.com/older/october_2024#grrr-transformers).
+
+{% newthought "Erik Hoel on death" %} is touching and [sad](https://www.theintrinsicperspective.com/p/baldwin-in-brahman).
+
+{% newthought "Here's a video of a" %} [dog](https://www.youtube.com/watch?v=h3iJEhamBWQ).
 
 
-## Music 
 
-It's been a while since I've had a music section. Zakir Hussain died in December. He is the musician I most wish I could have seen live; I thought I had another decade at least. Shruti Rajagopalan's obituary of him is [here](https://srajagopalan.substack.com/p/zakir). I loved him best for his work with John McLaughlin and Béla Fleck; when he came on screen in *Monkey Man,* I confused DB by shouting aloud. 
-
-Here are five 2024 albums I *loved*, which you might not have come across: 
-
-**Dala Toni**, Ajate. "Experience the explosive encounter of Afro groove and Japanese traditional Ohayashi music!" Lots of fun. 
-
-**Arwe**, Dingonek Street Band. Brooklyn jazz. I've come across Bobby Spellman before on some random playlist before, he put together this band.
-
-**At The Drolma Wesel-Ling Monastery**, Howie Lee. Man, I don't know. But it's great. My favorite track is "Mantra of Buddha Akshobhya 不动佛心咒 ." And yes I did have to figure out how to get my website to render traditional Chinese script. 
-
-**Into the Blue**, Aaron Frazer. Interesting singer-songwriter stuff. 
-
-**Chorus**, Mildlife. Groovy. 
 
 
 ## Previously
+
+*[February, 2025](https://jablevine.com/older/february_2025)*
 
 *[January, 2025](https://jablevine.com/older/january_2025)*
 

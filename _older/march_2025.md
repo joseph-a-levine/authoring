@@ -17,12 +17,12 @@ title: What am I up to now?
   
 ## Updates
 
-The joys of February are just sufficient for 28 days. Oxford is never lonely during term time, and after two months away I've loved seeing so many friends. My mom also visited for a few days: in the grand tradition of My Parents, she fed many graduate students. 
+The joys of February are just sufficient for 28 days. Oxford is never lonely during term time, and after two months away it's been great seeing so many friends. My mom also visited for a few days, and in the grand tradition of My Parents, she fed many graduate students. 
 
 The winter term is quiet academically, but I did host a few meetings of the development econ student working group and present internally twice. We also had a visit from Prof. Raúl Sanchez de la Sierra, who gave a great talk on violence, pro-sociality, and the origin of the state.
 
 February was an AI-heavy month for me. LLMs are the most fun technical tools available right now. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
-- ⁃ Gemini for large context, i.e., reading a whole book or multiple papers
+- ⁃ Gemini for large context, e.g., reading a whole book or multiple papers
 - ⁃ GPT-4o for large volumes of tasks, occasionally in chat but more often through the API
 - ⁃ GPT-o1 for thinking through analytical problems or double-checking my reasoning
 - ⁃ GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
@@ -30,7 +30,7 @@ February was an AI-heavy month for me. LLMs are the most fun technical tools ava
 - ⁃ DeepSeek for weird, unique prose or wordsmithing
 - ⁃ Perplexity for fact-checking queries which alternatively I would have Googled
 
-Of course, there's no reason not to get multiple answers, and these are all complements. All of the above has been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
+Of course, there's no reason not to get multiple answers, and these are all complements. All of the above uses have been scrambled by Claude 3.7, which is currently my first stop for practically everything except massive context. 
 
 More interesting has been recent experiments running small open-weight LLMs on my Macbook. There were a few days in Gambia in December when the internet was down{% sidenote "csujsj-id" "Reportedly, the [WACS](https://en.wikipedia.org/wiki/West_Africa_Cable_System) cables were under maintenance. " %} and I would have loved access to an LLM. It is surprising how small LLMs can be made. I tried a few local models and now have Microsoft's Phi-3 on my computer for the next internet outage. It's 3.8 billion parameters,{% sidenote "parame-id" "For comparison, Claude 3 and GPT-4 are in the 2 *trillion* range. My local version of Phi-3 is quantized from 16 to 4-bit." %} trained especially for math and coding reasoning problems. This is good enough for me, but not the state of the art: Gwern expects "we may have superhuman reasoning LLMs in the billion or sub-billion parameter range... which are just very, very ignorant, perhaps even more ignorant than you or me." These tiny LLMs are never going to be a researcher's primary tool. But they are really cool and surprisingly powerful.
 
