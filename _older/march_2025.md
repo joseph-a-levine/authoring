@@ -11,7 +11,6 @@ title: What am I up to now?
 - [Updates](#updates)
 - [Reading](#reading)
 - [Links](#links)
-- [Music](#music)
 - [Previously](#previously)
 
 <br>
@@ -24,7 +23,7 @@ The winter term is quiet academically, but I did host a few meetings of the deve
 
 February was an AI-heavy month for me. LLMs are the most fun technical tools available right now. I spent about $160 on AI this month, on subscriptions to ChatGPT, Claude, and Gemini, and API costs, mostly to OpenAI. My general uses are:
 - ⁃ Gemini for large context, i.e., reading a whole book or multiple papers
-- ⁃ GPT-4o for large volumes of tasks, ocassionally in chat but more often through the API
+- ⁃ GPT-4o for large volumes of tasks, occasionally in chat but more often through the API
 - ⁃ GPT-o1 for thinking through analytical problems or double-checking my reasoning
 - ⁃ GPT-o3-mini-high to try to one-shot medium-to-large coding tasks{% sidenote "sido4hite-id" "If o3 stumbles on the first try, I find it rarely recovers regardless of effort." %}
 - ⁃ Claude for dealing with discrete coding tasks
@@ -43,7 +42,7 @@ I'm seeking the sun. The spring rowing event, [Torpids](https://en.wikipedia.org
 
 No books knocked me on my butt this month. I re-read *[Zuleika Dobson](https://jablevine.com/older/june_2023)* after my mom's visit; she stayed at the Randolph Hotel, which has Sir Osbert Lancaster's famous illustrations of the novel on the walls of the tea room. Tchaikovsky's *Children of Time* was as entertaining as people say. A collection of [Le Guin's short stories](https://en.wikipedia.org/wiki/The_Compass_Rose) was high variance. Two memoirs, from [Obama's 2008 campaign manager](https://www.amazon.co.uk/Audacity-Win-David-Plouffe/dp/0670021334) and [the military head of the Manhattan Project](https://www.amazon.co.uk/Now-Can-Told-Manhattan-Paperbacks/dp/0306801892), were interesting historical documents but lacked a literary spark. 
 
-*Tell Them of Kings, Battles, and Elephants* by Mathias Énard gestured at excellence. Énard, translated from the french by Charlotte Mandell, tells the possibly-true story of Michaelangelo's 1506 visit to Istanbul, to design a bridge for the [Golden Horn](https://en.wikipedia.org/wiki/Golden_Horn). The novel's endnote purports authenticity, based on a sketch of a "Project for a Bridge for the Golden Horn" which was found in the Ottoman archives and attributed to Michaelangelo, as well as some security records. Reviewers doubt: the [Asian Review of Books](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/), the [London Review of Books](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman), the [New Yorker](https://archive.ph/Z6RU3). There are nice sections which gesture at Borgesian though experiments, but the novel gets a bit too French for me. For alternate histories about voyages by Renaissance painters, I prefer the one about [Caravaggio's tennis game](https://www.amazon.co.uk/Sudden-Death-Alvaro-Enrigue/dp/0735213445).
+*Tell Them of Kings, Battles, and Elephants* by Mathias Énard gestured at excellence. Énard, translated from the French by Charlotte Mandell, tells the possibly-true story of Michelangelo's 1506 visit to Istanbul, to design a bridge for the [Golden Horn](https://en.wikipedia.org/wiki/Golden_Horn). The novel's endnote purports authenticity, based on a sketch of a "Project for a Bridge for the Golden Horn" which was found in the Ottoman archives and attributed to Michelangelo, as well as some security records. Reviewers doubt: the [Asian Review of Books](https://asianreviewofbooks.com/tell-them-of-battles-kings-and-elephants-by-mathias-enard/), the [London Review of Books](https://www.lrb.co.uk/the-paper/v41/n02/adam-mars-jones/oud-saz-and-kaman), the [New Yorker](https://archive.ph/Z6RU3). There are nice sections which gesture at Borgesian thought experiments, but the novel gets a bit too French for me. For alternate histories about voyages by Renaissance painters, I prefer the one about [Caravaggio's tennis game](https://www.amazon.co.uk/Sudden-Death-Alvaro-Enrigue/dp/0735213445).
 
 I'm hopeful for March. I stayed up until 1am last night on the first 150 pages of *Love in the Time of Cholera*. 
 

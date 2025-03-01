@@ -5,9 +5,13 @@ date:   2025-02-24
 categories: post
 ---
 
-Last week, I wrote about new data on LLM use from Anthropic, and used their data to expand on papers in the labor automation literature. I've since dug a bit deeper into the 
+Last week, [I wrote about](https://jablevine.com/articles/25/anthropic-economic-index) new data on LLM use from Anthropic, and used their data to expand on papers in the labor automation literature. I'm going to draw on a couple of threads I found in the data. In particular, the Anthropic data allow me to identify the sectors where automation is happening faster and slower than expected. 
 
-One key value in Acemoglu's model is the percent of jobs which AI can automate. He gets this from the 2023 paper "GPTs are GPTs" by Eloundou et al. They look at 
+The real and potential capabilities of LLMs only became visible in the past few years. In that time, researchers began discussing the "exposure" of different forms of human labor to LLMs. Now that we have data on how these tools are initially being used, we can see if exposure has translated into actual use, or if actual use has come to surprisingly exposed jobs.
+
+Acemoglu's "Simple Macroeconomics of AI" paper uses an exposure measure from "[GPTs are GPTs](https://arxiv.org/pdf/2303.10130)", a paper out of OpenAI.{% sidenote "fdsjkl-id" "The first GPT meaing Generative Pre-trained Transformers, and the second meaning General Purpose Technologies." } Both this measure and the Anthropic data are at the level of O*NET tasks, a comprehensive list of all tasks performed by human laborers from the Bureau of Labor Statistics. The OpenAI measure from Eloundou et al. provides an expectation of how automatable each task is; the Anthropic data show which tasks are currently being performed by their AIs. Most papers in this literature do not clearly differentiate between automation (AI replacing the human's labor) and augmentation (AI speeding the human's labor). I will be as sloppy as Eloundou et al. and Acemoglu in my own usage.
+
+Eloundou et al. feed the 19,265 O*NET tasks to human and LLM graders, who rate the task's **exposure**: "whether access to an LLM or LLM-powered system would reduce the time required for a human to [...] complete a task by at least 50 percent."{% sidenote "barcmis-id" "The missing bit in brackets mentions Detailed Work Activities or DWAs, which are parallel to tasks." %} The raw ratings are converted into $$\beta$$ scores, which weights easily automatable tasks as more automatable than 
 
 The graph below compares Eloundou et al.'s estimation of AI exposure (x-axis) to Anthropic's data on actual Claude usage (y-axis). Each axis measures the "percent of tasks within an occupation exposed to automation," per the two datasets. Each point represents an occupation, with size indicating the current estimate of people employed in that profession and color showing job family (both per the Bureau of Labor Statistics). Use the dropdown to focus on any particular job family.
 
