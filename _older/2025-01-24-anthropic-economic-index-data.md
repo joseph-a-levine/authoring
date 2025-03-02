@@ -24,9 +24,9 @@ The graph below compares Eloundou et al.'s estimate of AI exposure (x-axis) to A
     style="border:none; outline:none;">
 </iframe>
 
-There are a few reasons not to trust this graph. First, the Anthropic data are just a snapshot of one week and one LLM platform. Anthropic and their model Claude are not representative of the broader LLM industry
+There are a few reasons to be skeptical of these data. First, Anthropic is not representative of LLM usage. ChatGPT and Google's Gemini are ten and a thousand times more popular, respectively, and Anthropic's users tend to be more tech savvy. Second, Anthropic only analyses conversations through the chat UI, not their API. An API is much more amenable to automation than a chatbot; leaving out API data might supress the prevalence of certain tasks. Finally, the Anthropic data is only an existence proof - some worker, somewhere, found it valuable to use Claude for these tasks. 
 
-That said, let's speculate. These measures are generally correlated. Jobs which have higher exposure tend to have higher AI usage. But, if exposure was a perfect predictor of actual usage, the points would like on the 45° line. While some points are above, more are below, meaning that actual usage has not yet lived up to Eloundou et al.'s predictions.
+That said, let's speculate. The exposure and usage measures are generally correlated. Jobs which have higher exposure tend to have higher AI usage. But if exposure was a perfect predictor of actual usage, the points would lie on the 45° line. There are more points below than above, meaning that actual usage has not yet lived up to Eloundou et al.'s predictions.
 
 There are many potential reasons for this, and these data are not able to tell us *why* some occupations which are exposed don't see high usage, or vice versa. To explore a few hypotheses, I'm going to zoom in on a few particularly interesting regions of this graph. First, the occupations which seem highly exposed to automation, but have so far show little actual use. 
 
@@ -39,11 +39,13 @@ There are many potential reasons for this, and these data are not able to tell u
     style="border:none; outline:none;">
 </iframe>
 
+One reason for low adoption in this region is technological ill-fit. The job furthest along that axis with zero actual use is "telephone operators": Eloundou et al. find that 14/16 of the tasks involved in being a telephone operator are exposed. Tasks like "Provide relay service for hearing-impaired users" or "Update directory information" *are* simple to automate with an LLM - but it is difficult to do through a chat UI. This is likely a weakness of the Anthropic data, rather than evidence that telephone operators are hard to automate.{% sidenote "sfdvbil-id" "Anyone who's been in SF recently will have seen plenty of billboards for start-ups automating customer service workflows." %}
 
+Another potential reason for low realization of exposure is regulatory or procedural inertia. Also in that yellow zone are clerks, compliance officers, accountants, and auditors. A task like "Review accounts for discrepancies and reconcile differences" is straightforward for an LLM. But accountants are presumably discouraged from uploading their data to external servers. Some firms may have, or may soon have, internal tools which perform these tasks securely. But those actions wouldn't show up in these data.
 
+Looking further left of these points, the pattern is similar. Around the 50% mark on the Eloundou et al. axis are Financial Managers. A friend of mine in this category says that AI would significantly speed up his workflow, for example "Analyze information to assess the current or future financial status of firms." Instead of reading a 200 page report, he could put it in Gemini and ask for the highlights. But there's the same concern about information security and the lack of guidance from the SEC which leaves conservative firms in conservative industries cautious to adopt AI tools. The technology is ready, the institutions aren't, so diffusion is slow.
 
-
-there are the occupations which are seeing particularly high use of Claude's AI. 
+Next, let's look at the the occupations which are seeing the *highest* usage of these tools.
 
 <br>
 
@@ -54,13 +56,11 @@ there are the occupations which are seeing particularly high use of Claude's AI.
     style="border:none; outline:none;">
 </iframe>
 
-Eloundou et al. predict that these 
+These jobs benefit from using LLMs, but are not so scalable to require going through an API. Many varieties of teachers are present, who benefit on tasks like "Plan, evaluate, and revise curricula." Creative jobs like lyricists and graphic designers are also present in this region, but not always for their most creative tasks. A very common task for Claude is to "Confer with clients to discuss layout design;" an uncommon one is to "Prepare illustrations or rough sketches of material." Eloundou et al. predict that these are equally exposed.
 
-These jobs are fairly-to-wholly automatable, and the Anthropic data backs this up. Alone out of all XXXX occupations, only mathematicians are fully automatable. Of the 11 tasks which make a mathematician, Eloundou et al.'s methodology finds that all 11 are exposed to current LLM technology.{% sidenote "gamma-id" "other fully autmatble by gaama" %} 
+That's not to say [these jobs are easy](https://en.wikipedia.org/wiki/Moravec%27s_paradox): Eloundou et al. predict that 100% of tasks performed by mathematicians are exposed to automation; this is the only 100% exposed job.{% sidenote "che-id" "This feels a bit cheeky; one of the authors on the Anthropic paper has a PhD in math." %} My theory of this region is that these jobs consiste of relatively atomic tasks, and have less oversight and more independence for technology use. A high school science teacher tells me that his school's wifi blocks ChatGPT for students' devices, but not teachers. Even if AI use is not yet formally encouraged, that's an acknowledgement that it's useful.
 
-I think about these jobs as easy to automate, but also easy to diffuse into 
-
-Finally, there are some jobs which Eloundou et al. expected to be mostly impervious to automation, but Anthropic have found some uses. 
+Finally, there are some jobs which Eloundou et al. expected to be mostly impervious to automation, but Anthropic users have disagreed. 
 
 <br>
 
@@ -71,10 +71,11 @@ Finally, there are some jobs which Eloundou et al. expected to be mostly impervi
     style="border:none; outline:none;">
 </iframe>
 
+This tail isn't as long as the first graph I highlighted - while there are jobs which Eloundou et al. think are 90% exposed but see zero actual use, there are no jobs which are 0% exposed and see 90% actual use. Instead, these are jobs like athletes or cooks, which have single or few tasks where Anthropic usage data disagree with the exposure metrics. For example, Claude commonly helps with "Assess[ing] performance following athletic competition," despite zero exposure for this task. Motorcycle mechanics also often use Claude to "Determine nature and extent of malfunction or damage."
 
-Eloundou et al. report another measure of automation ($$\gamma$$ in their data), which is what tasks they expect could ultimately be performed by some future, more advanced AI system. [details].
+Due to the small number of jobs and tasks in this region, this is likely just a bit of noise in Eloundou et al.'s grading method. But there is a potential lesson: LLM power users will seek AI's input on surprising and diverse questions, even if these uses don't become widespread.
 
-Gamma graph here
+
 
 ## Where Acemoglu and Eloundou et al. disagree
 
