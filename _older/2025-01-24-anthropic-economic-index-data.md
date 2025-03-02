@@ -91,9 +91,7 @@ Due to the small number of jobs and tasks in this region, this is likely just a 
 
 I use the words "unsurprising" and "surprising" above in reference to tasks and jobs which do and don't match the exposure measure, respectively. Because most jobs lie below the 45° line, someone relying on Eloudou et al.'s exposure measure would be surprised by the low level of diffusion.{% sidenote "sddtim-id" "Eloundou et al. do not put a specific timeframe on the time period over which they're assessing exposure. Their rubric is assessing exposure *at that moment*, that is, sometime in early 2023." %} But measuring exposure differently changes 
 
-Acemoglu uses a very different measure in "The Simple Macroeconomics of AI" from the "GPTs are GPTs" paper. He uses an earlier non-public version of Eloundou et al.'s dataset, which doesn't appear in the paper, and the methodology is not published.{% sidenote "tahcna-id" "Thanks again to Can Yeşildere for clarifying the Simple Macro methodology." %} Acemoglu takes a more discrete measure, which assigns tasks an automation score from 0-4, and collapses tasks with scores \<3 into a single zero-automation category.
-
-As a result, the Acemoglu measure estimates much lower exposure than the measure I showed you above.
+Acemoglu uses a very different measure in "The Simple Macroeconomics of AI" from the "GPTs are GPTs" paper. He uses an earlier non-public version of Eloundou et al.'s dataset, which doesn't appear in the paper, and the methodology is not published.{% sidenote "tahcna-id" "Thanks again to Can Yeşildere for clarifying the Simple Macro methodology." %} Acemoglu takes a more discrete measure, which assigns tasks an automation score from 0-4, and collapses tasks with scores \<3 into a single zero-automation category. As a result, the Acemoglu measure estimates much lower exposure than the measure I showed you above.
 
 <br>
 
