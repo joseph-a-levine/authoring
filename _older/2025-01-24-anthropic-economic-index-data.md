@@ -102,12 +102,18 @@ Acemoglu uses a very different measure in "The Simple Macroeconomics of AI" from
     style="border:none; outline:none;">
 </iframe>
 
-This graph shows the Eloundou measure on the x-axis, as above, and the Acemoglu measure on the y-axis. 
+This graph shows the Eloundou measure on the x-axis, as above, and the Acemoglu measure on the y-axis. For most jobs, Eloundou et al. estimate higher automation exposure than Acemoglu does. There are a few exceptions, but besides Cashiers, no jobs are very far above the 45° line. 
 
+The result here is that, if Eloudou et al. left us surprised at how *slow* automation is going, Acemoglu should be surprised at how *fast* LLMs are being adopted. 
 
+<br>
 
-This section is going to get into the details of the methods, but it's worth it - you'll get an interesting payoff. 
+<iframe 
+    src="{{ '/assets/fig/acemoglu_aei_scatter_plot.html' | relative_url }}" 
+    width="100%" 
+    height="600"
+    style="border:none; outline:none;">
+</iframe>
 
-
-Acemoglu uses none of this. He uses an unpublished 
-
+This is the same graph as the ones above, but with Acemoglu's measure on the x-axis, instead of Eloundou et al.'s. 
+ 
