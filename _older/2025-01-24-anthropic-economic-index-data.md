@@ -104,7 +104,7 @@ Acemoglu uses a very different measure in "The Simple Macroeconomics of AI" from
 
 This graph shows the Eloundou measure on the x-axis, as above, and the Acemoglu measure on the y-axis. For most jobs, Eloundou et al. estimate higher automation exposure than Acemoglu does. There are a few exceptions, but besides Cashiers, no jobs are very far above the 45° line. 
 
-The result here is that, if Eloudou et al. left us surprised at how *slow* automation is going, Acemoglu should be surprised at how *fast* LLMs are being adopted. 
+The result here is that, if Eloudou et al. left us surprised at how *slow* automation is going, Acemoglu should be surprised at how *fast* LLMs are being adopted.{% sidenote "temz-id" "Acemoglu *does* put a timeframe on his calculations. He expects these changes to occur over the 10 year period 2024-2034." %} 
 
 <br>
 
@@ -115,5 +115,16 @@ The result here is that, if Eloudou et al. left us surprised at how *slow* autom
     style="border:none; outline:none;">
 </iframe>
 
-This is the same graph as the ones above, but with Acemoglu's measure on the x-axis, instead of Eloundou et al.'s. 
+This is the same graph as the ones above, but with Acemoglu's measure on the x-axis, instead of Eloundou et al.'s. Now the majority of jobs lie above the 45° line: for most jobs, a higher proportion of tasks are being done by Claude than the exposure measure predicts. To make this explicit, compare the Acemoglu measure in green to the Eloundou et al. measure in purple:
+
+<br>
+
+<iframe 
+    src="{{ '/assets/fig/exposure_metrics_comparison.html' | relative_url }}" 
+    width="100%" 
+    height="600"
+    style="border:none; outline:none;">
+</iframe>
+
+Eloundou et al.'s results imply that LLMs are capable of more than it currently is used for; Acemoglu's results imply that they are capable of less. No one is perfectly calibrated, and predictions are hard. 
  
