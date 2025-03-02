@@ -26,24 +26,9 @@ The graph below compares Eloundou et al.'s estimate of AI exposure (x-axis) to A
 
 There are a few reasons not to trust this graph. First, the Anthropic data are just a snapshot of one week and one LLM platform. Anthropic and their model Claude are not representative of the broader LLM industry
 
-That said, let's speculate. 
+That said, let's speculate. These measures are generally correlated. Jobs which have higher exposure tend to have higher AI usage. But, if exposure was a perfect predictor of actual usage, the points would like on the 45° line. While some points are above, more are below, meaning that actual usage has not yet lived up to Eloundou et al.'s predictions.
 
-I'm going to zoom in on a few particularly interesting regions of this graph. First, there are the occupations which are seeing particularly high use of Claude's AI. 
-
-<br>
-
-<iframe 
-    src="{{ '/assets/fig/eloundou_aei_scatter_plot_top_highlighted.html' | relative_url }}" 
-    width="100%" 
-    height="600"
-    style="border:none; outline:none;">
-</iframe>
-
-These jobs are fairly-to-wholly automatable, and the Anthropic data backs this up. Alone out of all XXXX occupations, only mathematicians are fully automatable. Of the 11 tasks which make a mathematician, Eloundou et al.'s methodology finds that all 11 are exposed to current LLM technology.{% sidenote "gamma-id" "other fully autmatble by gaama" %} 
-
-I think about these jobs as easy to automate, but also easy to diffuse into 
-
-Another revealing region: the occupations which seem highly vulnerable to automation, but have so far show little use. 
+There are many potential reasons for this, and these data are not able to tell us *why* some occupations which are exposed don't see high usage, or vice versa. To explore a few hypotheses, I'm going to zoom in on a few particularly interesting regions of this graph. First, the occupations which seem highly exposed to automation, but have so far show little actual use. 
 
 <br>
 
@@ -54,6 +39,26 @@ Another revealing region: the occupations which seem highly vulnerable to automa
     style="border:none; outline:none;">
 </iframe>
 
+
+
+
+
+there are the occupations which are seeing particularly high use of Claude's AI. 
+
+<br>
+
+<iframe 
+    src="{{ '/assets/fig/eloundou_aei_scatter_plot_top_highlighted.html' | relative_url }}" 
+    width="100%" 
+    height="600"
+    style="border:none; outline:none;">
+</iframe>
+
+Eloundou et al. predict that these 
+
+These jobs are fairly-to-wholly automatable, and the Anthropic data backs this up. Alone out of all XXXX occupations, only mathematicians are fully automatable. Of the 11 tasks which make a mathematician, Eloundou et al.'s methodology finds that all 11 are exposed to current LLM technology.{% sidenote "gamma-id" "other fully autmatble by gaama" %} 
+
+I think about these jobs as easy to automate, but also easy to diffuse into 
 
 Finally, there are some jobs which Eloundou et al. expected to be mostly impervious to automation, but Anthropic have found some uses. 
 
