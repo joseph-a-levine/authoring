@@ -122,9 +122,9 @@ This is the same graph as the ones above, but with Acemoglu's measure on the x-a
     style="border:none; outline:none;">
 </iframe>
 
-I plot both exposure measures on the x-axis, with Anthropic's data on the y-axis. The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
+I plot both exposure measures on the x-axis for all occupations, against Anthropic's data on the y-axis. The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
 
- ## My takeaways 
+## My takeaways 
 
 I want to be careful about relying on the Anthropic data. Their Claude is a small, selected subset of LLM use, and these data are a selected subset of Claude uses. Regardless, these data correlate well with Eloundou et al.'s estimated exposure, and there are interesting implications. 
 
