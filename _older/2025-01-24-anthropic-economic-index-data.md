@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Automation Progresses"
-date:   2025-02-24
+title:  "Where LLMs Are Taking Hold"
+date:   2025-02-27
 categories: post
 ---
 
@@ -83,14 +83,6 @@ This tail isn't as long as the first graph I highlighted - while there are jobs 
 
 Due to the small number of jobs and tasks in this region, this is likely just a bit of noise in Eloundou et al.'s grading method. What I take away is that LLM power users will seek AI's input on surprising and diverse questions, even if these uses don't become widespread.
 
-## My takeaways 
-
-I want to be careful about relying on the Anthropic data. Their Claude is a small, selected subset of LLM use, and these data are a selected subset of Claude uses. Regardless, these data correlate well with Eloundou et al.'s estimated exposure, and there are interesting implications. 
-
-Diffusion dynamics are complicated, and the role of institutions and regulations will keep some sectors far behind others. Concerns over cybersecurity and data privacy will keep e.g., finance and health behind education and journalism. Alternatively, sectors requiring specialized LLM tools may benefit relative to sectors which rely on generalized LLM products.
-
-These results also reinforce my long-run skepticism of chatbots. Many use cases require wrappers, system integration, and privileged access. Many users may find barriers in prompting. This era of chatbot LLMs might end up feeling like the days of early personal computing, before the first GUIs, when everything was done through the command line. Both require technical expertise that limit mainstream adoption.
-
 ## Where Acemoglu and Eloundou et al. disagree
 
 I use the words "unsurprising" and "surprising" above in reference to tasks and jobs which do and don't match the exposure measure, respectively. Because most jobs lie below the 45° line, someone relying on Eloudou et al.'s exposure measure would be surprised by the low level of diffusion.{% sidenote "sddtim-id" "Eloundou et al. do not put a specific timeframe on the time period over which they're assessing exposure. Their rubric is assessing exposure *at that moment*, that is, sometime in early 2023." %} But measuring exposure differently changes what one would be surprised by. 
@@ -108,7 +100,7 @@ Acemoglu uses a very different measure in "The Simple Macroeconomics of AI" from
 
 This graph shows the Eloundou measure on the x-axis, as above, and the Acemoglu measure on the y-axis. For most jobs, Eloundou et al. estimate higher automation exposure than Acemoglu does. There are a few exceptions, but besides Cashiers, no jobs are very far above the 45° line. 
 
-The result here is that, if Eloudou et al. left us surprised at how *slow* automation is going, Acemoglu should be surprised at how *fast* LLMs are being adopted.{% sidenote "temz-id" "Acemoglu *does* put a timeframe on his calculations. He expects these changes to occur over the 10 year period 2024-2034." %} 
+The result here is that, if Eloudou et al. left us surprised at how *slow* automation is going, Acemoglu{% sidenote "temz-id" "Acemoglu *does* put a timeframe on his calculations. He expects these changes to occur over the 10 year period 2024-2034." %} should be surprised at how *fast* LLMs are being adopted.
 
 <br>
 
@@ -130,7 +122,14 @@ This is the same graph as the ones above, but with Acemoglu's measure on the x-a
     style="border:none; outline:none;">
 </iframe>
 
-This plot includes two trend lines:{% sidenote "loess-id" "The LOESS (locally estimated scatterplot smoothing) trendlines were calculated with a span parameter of 0.75 to model the nonlinear relationship between predicted exposure and actual usage across different tasks." %} The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points and trend line are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
+I plot both exposure measures on the x-axis, with Anthropic's data on the y-axis. This plot also includes two trend lines.{% sidenote "loess-id" "The [LOESS](https://en.wikipedia.org/wiki/Local_regression) trendlines were calculated with a span parameter of 0.75 to model a nonlinear relationship between predicted exposure and actual usage across different tasks." %} The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points and trend line are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
+
+ ## My takeaways 
+
+I want to be careful about relying on the Anthropic data. Their Claude is a small, selected subset of LLM use, and these data are a selected subset of Claude uses. Regardless, these data correlate well with Eloundou et al.'s estimated exposure, and there are interesting implications. 
+
+Diffusion dynamics are complicated, and the role of institutions and regulations will keep some sectors far behind others. Concerns over cybersecurity and data privacy will keep e.g., finance and health behind education and journalism. Alternatively, sectors requiring specialized LLM tools may benefit relative to sectors which rely on generalized LLM products.
+
+These results also reinforce my long-run skepticism of chatbots. Many use cases will require wrappers, system integration, and privileged access. Many users may find barriers in prompting. This era of chatbot LLMs might end up feeling like the days of early personal computing, before the first GUIs, when everything was done through the command line. 
 
 Eloundou et al.'s results imply that LLMs are capable of more than it currently is used for; Acemoglu's results imply that they are capable of less. No one is perfectly calibrated, but my interpretation is closer to Eloundou et al.: there are many sectors where capabilities are ready to automate or augment human labor, but diffusion is slow. Of course, predictions are hard - [especially about the future](https://quoteinvestigator.com/2013/10/20/no-predict/).
- 
