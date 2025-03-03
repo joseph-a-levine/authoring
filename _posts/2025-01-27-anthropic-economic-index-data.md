@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where LLMs Are Taking Hold"
+title:  "The Gap Between AI Exposure and Usage"
 date:   2025-02-27
 categories: post
 ---
