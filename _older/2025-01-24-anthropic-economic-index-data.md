@@ -122,7 +122,7 @@ This is the same graph as the ones above, but with Acemoglu's measure on the x-a
     style="border:none; outline:none;">
 </iframe>
 
-I plot both exposure measures on the x-axis, with Anthropic's data on the y-axis. This plot also includes two trend lines.{% sidenote "loess-id" "The [LOESS](https://en.wikipedia.org/wiki/Local_regression) trendlines were calculated with a span parameter of 0.75 to model a nonlinear relationship between predicted exposure and actual usage across different tasks." %} The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points and trend line are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
+I plot both exposure measures on the x-axis, with Anthropic's data on the y-axis. The Eloundou et al. points are mostly below the 45° reference line, suggesting many high-exposure fields are not yet seeing LLM use. The Acemoglu points are higher than the reference line, especially for jobs which he predicts will have low exposure. Claude is being used for more tasks in more jobs than Acemoglu would expect.
 
  ## My takeaways 
 
