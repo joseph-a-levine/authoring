@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Books I read in 2024
+hide_date: true
 ---
 
 This is a list of the books I read in 2024. ★ means I loved it; ⟳ is a re-read. Here are previous year lists: [2022](https://jablevine.com/older/2022_books), [2023](https://jablevine.com/older/2023_books). 
