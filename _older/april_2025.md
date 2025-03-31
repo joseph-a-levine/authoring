@@ -37,13 +37,15 @@ Otherwise, I drafted some goofy posts on inflation in the star wars universe and
 
 ## Reading
 
-Three papers on the efficient market hypothesis 
-Castle Bravo
-Columbia
-Plane crashes
+I've been coming up against a problem for this section recently: all of the book reviews and paper reviews I start writing feel like they deserve their own posts. Here are a few "Reading" sections I've started recently, which then moved to my drafts section: 
 
+> • Books and papers I read when I want to believe in the EMH less
+> • Monetary policy and fixed income securities in the Star Wars universe 
+> • Reading with AI *only* works if the book is in context (contra [Cowen and Perrell](https://howiwrite.substack.com/p/tyler-cowen-will-ai-kill-writing))
 
-Vollmann? much more in notes
+Maybe some of these will end up on my blog tab in the next month!
+
+One thing that does fit nicely here is this [*monster* profile of William Vollmann](https://www.metropolitanreview.org/p/the-last-contract). I've only read a bit of Vollmann, primarily *AFGHAN PIC*, the abridged *Rising Up and Rising Down*, and excerpts from his book on climate. 
 
 A *monster* profile of [[William Vollmann]]
 https://www.metropolitanreview.org/p/the-last-contract
@@ -53,7 +55,7 @@ the [[FBI]] thought he was the Unabomber!
 ## Links
 
 
-{% newthought "We found Cleo, the" %} magic integral solver. Famous for finding [elegant and unexpected](https://math.stackexchange.com/questions/562694/integral-int-11-frac1x-sqrt-frac1x1-x-ln-left-frac2-x22-x1) solutions to terrifying looking integrals, Cleo was [a sockpuppet account of a well-intentioned Uzbek programmer](https://www.youtube.com/watch?v=7gQ9DnSYsXg).
+{% newthought "We found Cleo, the" %} magic integral solver. Famous for finding [elegant and unexpected](https://math.stackexchange.com/questions/562694/integral-int-11-frac1x-sqrt-frac1x1-x-ln-left-frac2-x22-x1) solutions to terrifying looking integrals, Cleo was [a sockpuppet account of a well-intentioned Uzbek programmer](https://www.youtube.com/watch?v=7gQ9DnSYsXg). Why did he do it? 
 > I was frustrated that when I posted questions about integrals on math stack exchange, I often received comments like "why is this interesting" or, "what makes you think that it might have a closed form solution?"
 And he took that personally.
 
@@ -66,6 +68,8 @@ And he took that personally.
 
 {% newthought "A stanford undergrad's" %} [physics homework](https://pages.cs.wisc.edu/~kovar/hall.html) from the late 90s: "Electron Band Structure In Germanium, My Ass". The conclusion: 
 > Going into physics was the biggest mistake of my life. I should've declared CS. I still wouldn't have any women, but at least I'd be rolling in cash.
+
+
 He is now a Staff Engineer at Google. 
 
 
@@ -100,22 +104,21 @@ Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choos
 
 ## Other art
 
-Life drawing
-
-https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin
-a long convoluted essay about [[art]]. mostly the nude. how it has been devalued today. i feel myself in parts of it, especially getting to go to live drawing. 
+I've been going to weekly life drawing sessions in Oxford with LT; I finished my first sketchbook in January. I am Bad at drawing, but this has been a really fun way to engage more with art. Alice Gribbin recently wrote about [the nude](https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin) and how it's been devalued. I found it valuable in the context of going to my first nude life drawing sessions.
 > In public and private life today, a person’s primary visual encounters with imagery of the naked or semi-naked human figure are through neither art nor worship but advertising, entertainment, and porn. It’s pathetic that this is true. We choose another way.
 
+I watched one great movie this month, *The Battle of Algiers*.
 
+I also watched two peak Kevin Costner movies, *Bull Durham* and *No Way Out*. Both feel like 
 
-The Battle of Algiers
+In poetry, I read William Carlos Williams' *Spring and All* after I got to DC; it goes well with the cherry blossoms blooming. Whenever I read Williams or Whitman, I wish I could see in NYC what they saw. 
 
-Bull Durham and No Way Out, both Kevin Costner
+I finished working through Ted Gioia's list of 2024 albums. A few favorites from the bottom of the list: 
 
-William Carlos Williams, Spring and All
-
-A couple albums
-
+> • **Songs of my land**, Chiyomi Yamada and baobab
+> • **Echoes of Becoming**, Canberk Ulaş 
+> • **Riley**, Riley Mulherkar
+> • **Banjo Mantras**, Kendl Winter
 
 
 ## Previously
