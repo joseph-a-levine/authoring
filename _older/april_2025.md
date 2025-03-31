@@ -104,7 +104,7 @@ Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choos
 
 ## Other art
 
-I've been going to weekly life drawing sessions in Oxford with LT; I finished my first sketchbook in January. I am Bad at drawing, but this has been a really fun way to engage more with art. Alice Gribbin recently wrote about [the nude](https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin) and how it's been devalued. I found it valuable in the context of going to my first nude life drawing sessions.
+I've been going to weekly life drawing sessions in Oxford with LT; I finished my first sketchbook in January. I am Bad at drawing, but that's not the point. Drawing makes me enjoy things more. Alice Gribbin recently wrote about [the nude](https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin) and how it's been devalued. I found it valuable in the context of going to my first nude life drawing sessions.
 > In public and private life today, a person’s primary visual encounters with imagery of the naked or semi-naked human figure are through neither art nor worship but advertising, entertainment, and porn. It’s pathetic that this is true. We choose another way.
 
 I watched one great movie this month, *The Battle of Algiers*.
@@ -116,8 +116,11 @@ In poetry, I read William Carlos Williams' *Spring and All* after I got to DC; i
 I finished working through Ted Gioia's list of 2024 albums. A few favorites from the bottom of the list: 
 
 > • **Songs of my land**, Chiyomi Yamada and baobab
+> 
 > • **Echoes of Becoming**, Canberk Ulaş 
+> 
 > • **Riley**, Riley Mulherkar
+> 
 > • **Banjo Mantras**, Kendl Winter
 
 
