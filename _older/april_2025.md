@@ -38,10 +38,8 @@ The rest of my year is coming together:
 
 **December**: Still up in the air, but we're planning a few ambitious trips. I'm hoping to meet a penguin. 
 
-A lot of the above depends on My Wonderful Girlfriend's doings. She is constantly motivating me to be more ambitious with all of the pots she keeps on the fire. I've been applying to more things — fellowships, summer schools, research grants — because of her 
+A lot of the above depends on My Wonderful Girlfriend's doings. She is constantly motivating me to be more ambitious with all of the pots she keeps on the fire. I've been applying to more things — fellowships, summer schools, research grants — because of her. A PhD is a great excuse for cowardice. Not everyone has this problem: I use my PhD as a reason not to apply for things; my friend DB uses "applying to things" as a reason not to work on his PhD. I think his approach is probably more promising!
 
-The only new post on my blog tab was at the beginning of last month, on labor and AI. I've been developing some research ideas on this topic with LH 
-Otherwise, I drafted some goofy posts on inflation in the star wars universe and 
 
 ## Reading
 
