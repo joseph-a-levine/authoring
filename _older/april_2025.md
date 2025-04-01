@@ -45,11 +45,13 @@ I've been coming up against a problem for this section recently: all of the book
 
 Maybe some of these will end up on my blog tab in the next month!
 
-One thing that does fit nicely here is this [*monster* profile of William Vollmann](https://www.metropolitanreview.org/p/the-last-contract). I've only read a bit of Vollmann, primarily *AFGHAN PIC*, the abridged *Rising Up and Rising Down*, and excerpts from his book on climate. 
+One thing that does fit nicely here is this [*monster* profile of William T. Vollmann](https://www.metropolitanreview.org/p/the-last-contract), the Californian writer who only writes in blocks of one-thousand pages. His new novel, a history of the CIA, is three thousand pages long; when his publisher asked him to cut it down a bit, he agreed, and came back a few months later having *added* four hunded pages. So he found a new publisher. 
 
-A *monster* profile of [[William Vollmann]]
-https://www.metropolitanreview.org/p/the-last-contract
-the [[FBI]] thought he was the Unabomber! 
+I've found Vollmann fascinating for a while. The FBI thought that he was the Unabomber. His visual art is weird; his defining series of novels, *Seven Dreams*, is on the history of Native American conflict. He loves traveling to warzones. What more could I ask for in a modern writer? 
+
+The problem has always been the page count. I've only read a bit of Vollmann, primarily *An Afghanistan Picture Show, or, How I Saved the World*, the abridged *Rising Up and Rising Down*,{% sidenote "adbid-id" "Abridged down to only 700 pages." %} and excerpts from his book on climate. The profile highlights a few completionists, who intend to read every word he publishes for eternity. That will never be me. I'll buy the new CIA novel when it's published; he deserves that much regard. But I'm not optimistic about me and a novel whose "protagonist remained unborn [...] after seven hundred pages". 
+
+Vollmann is a test of attention span; not for public consumption. His lack of self-restraint costs him some audience. He doesn't care. Some people can't stop themselves from writing (most people-who-write well, in fact). I don't think Bill Vollmann cares if we read his books.
 
 
 ## Links
@@ -107,9 +109,7 @@ Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choos
 I've been going to weekly life drawing sessions in Oxford with LT; I finished my first sketchbook in January. I am Bad at drawing, but that's not the point. Drawing makes me enjoy things more. Alice Gribbin recently wrote about [the nude](https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin) and how it's been devalued. I found it valuable in the context of going to my first nude life drawing sessions.
 > In public and private life today, a person’s primary visual encounters with imagery of the naked or semi-naked human figure are through neither art nor worship but advertising, entertainment, and porn. It’s pathetic that this is true. We choose another way.
 
-I watched one great movie this month, *The Battle of Algiers*.
-
-I also watched two peak Kevin Costner movies, *Bull Durham* and *No Way Out*. Both feel like 
+I watched one great movie this month, *The Battle of Algiers*. I avoid great movies; an hour with a great book somehow is still more worth it than an hour with a great movie. *Algiers* has a really strong documentary feel, and the soundtrack and sound design were excellent. I was surprised to hear how strongly it influenced American counter-insurgency doctrine in Iraq and Afghanistan; on the doctrine spectrum from Afghanistan to Vietnam, *Algiers* would have pushed us toward Vietnam. The acting was excellent. I also watched two peak Kevin Costner movies, *Bull Durham* and *No Way Out*. Both were fun; *Bull Durham* is the best baseball movie. 
 
 In poetry, I read William Carlos Williams' *Spring and All* after I got to DC; it goes well with the cherry blossoms blooming. Whenever I read Williams or Whitman, I wish I could see in NYC what they saw. 
 
