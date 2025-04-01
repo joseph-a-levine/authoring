@@ -19,13 +19,21 @@ title: What am I up to now?
 ## Updates
 
 I'm in DC for all of April; please say hi! The rest of my year is coming together: 
+
 **May**: Oxford for Trinity term, UK baseball national championships, meetings with funders
+
 **June**: Oxford (Summer VIIIs, end of the school year) to Alaska for LB's wedding
+
 **July**: Up for grabs; probably a trip to West Africa
+
 **August**: Bay Area for a summer school
+
 **September**: 
+
 **October**: Back to Oxford for the new school year
+
 **November**: 
+
 **December**: Still up in the air, but a few ambitious trips are being conceived. I'm hoping to meet a penguin. 
 
 A lot of the above depends on My Wonderful Girlfriend's doings. She is constantly motivating me to be more ambitious with all of the pots she keeps on the fire. I've been applying to more things — fellowships, summer schools, research grants — because of her 
@@ -40,7 +48,9 @@ Otherwise, I drafted some goofy posts on inflation in the star wars universe and
 I've been coming up against a problem for this section recently: all of the book reviews and paper reviews I start writing feel like they deserve their own posts. Here are a few "Reading" sections I've started recently, which then moved to my drafts section: 
 
 > • Books and papers I read when I want to believe in the EMH less
+> 
 > • Monetary policy and fixed income securities in the Star Wars universe 
+> 
 > • Reading with AI *only* works if the book is in context (contra [Cowen and Perrell](https://howiwrite.substack.com/p/tyler-cowen-will-ai-kill-writing))
 
 Maybe some of these will end up on my blog tab in the next month!
