@@ -18,30 +18,30 @@ title: What am I up to now?
   
 ## Updates
 
-I'm in DC for all of April; please say hi! The rest of my year is coming together: 
+I'm in DC for all of April! I'm thinking deeply about the bureaucracy of very poor governments and how these institutions will change in the next decade. I'm learning about the culture and politics around sovereign debt in poor African countries. I'm reading Márquez, Braudel, and Ibbotson. If any of this sounds interesting, please say hi! 
 
-**May**: Oxford for Trinity term, UK baseball national championships, meetings with funders
+The rest of my year is coming together: 
 
-**June**: Oxford (Summer VIIIs, end of the school year) to Alaska for LB's wedding
+**May**: Oxford for Trinity term, the UK baseball national championships, meetings with funders
 
-**July**: Up for grabs; probably a trip to West Africa
+**June**: Oxford (Summer VIIIs, end of the school year), then to Alaska for LB's wedding
+
+**July**: Up for grabs; possibly a trip to West Africa
 
 **August**: Bay Area for a summer school
 
-**September**: 
+**September**: Possibly staying in the Bay Area! Maybe some mountains
 
 **October**: Back to Oxford for the new school year
 
-**November**: 
+**November**: A quiet Oxford autumn
 
-**December**: Still up in the air, but a few ambitious trips are being conceived. I'm hoping to meet a penguin. 
+**December**: Still up in the air, but we're planning a few ambitious trips. I'm hoping to meet a penguin. 
 
 A lot of the above depends on My Wonderful Girlfriend's doings. She is constantly motivating me to be more ambitious with all of the pots she keeps on the fire. I've been applying to more things — fellowships, summer schools, research grants — because of her 
 
 The only new post on my blog tab was at the beginning of last month, on labor and AI. I've been developing some research ideas on this topic with LH 
 Otherwise, I drafted some goofy posts on inflation in the star wars universe and 
-
-
 
 ## Reading
 
@@ -69,6 +69,7 @@ Vollmann is a test of attention span; not for public consumption. His lack of se
 
 {% newthought "We found Cleo, the" %} magic integral solver. Famous for finding [elegant and unexpected](https://math.stackexchange.com/questions/562694/integral-int-11-frac1x-sqrt-frac1x1-x-ln-left-frac2-x22-x1) solutions to terrifying looking integrals, Cleo was [a sockpuppet account of a well-intentioned Uzbek programmer](https://www.youtube.com/watch?v=7gQ9DnSYsXg). Why did he do it? 
 > I was frustrated that when I posted questions about integrals on math stack exchange, I often received comments like "why is this interesting" or, "what makes you think that it might have a closed form solution?"
+> 
 And he took that personally.
 
 {% newthought "The names of all of the" %} [snowplows of Wichita](https://www.wichita.gov/DocumentCenter/View/22826/PWSnowPlowNames-PDF).
@@ -112,7 +113,7 @@ He is now a Staff Engineer at Google.
 {% newthought "If you define your" %} least favorite book as: 
 > All that prose talent, spent on a book about bad people doing nothing in a world the author hated. Two or three lines so beautiful they linger for me even now, trapped inside a profoundly cynical, empty book.
 
-Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choose Gatsby or "[One Hunded Years of Solitude](https://thezvi.substack.com/p/monthly-roundup-28-march-2025)". I would defend Márquez, as that was what he was trying to do. Maybe Houellebecq's *Whatever*? I don't know his early biography enough to say if he hated that world even then. 
+Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choose *Gatsby* or [*One Hunded Years of Solitude*](https://thezvi.substack.com/p/monthly-roundup-28-march-2025). I would defend Márquez, as that was what he was trying to do. Maybe Houellebecq's *Whatever*? I don't know his early biography enough to say if he hated that world even then. 
 
 ## Other art
 
