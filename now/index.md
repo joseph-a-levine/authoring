@@ -4,136 +4,95 @@ title: What am I up to now?
 ---
 
 <!-- omit in toc -->
-## April, 2025
+## May, 2025
 
 <!-- omit in toc -->
 ## Contents
 - [Updates](#updates)
 - [Reading](#reading)
 - [Links](#links)
-- [Other art](#other-art)
 - [Previously](#previously)
 
 <br>
   
 ## Updates
 
-I'm in DC for all of April! I'm thinking deeply about the bureaucracy of very poor governments and how these institutions will change in the next decade. I'm learning about the culture and politics around sovereign debt in poor African countries. I'm reading Márquez, Braudel, and Ibbotson. If any of this sounds interesting, please say hi! 
+Hello! I'll be here in Oxford for most of May, other than a short trip to Arizona for a conference on "AI for Work," organized by Schmidt Sciences. They've been supporting a project JB and I are developing on AI usage among very poor workers in very poor West African countries.{% sidenote "sidnth-id" "Think farmers-in-Sierra Leone, not entrepreneurs-in-Kenya." %} I know how that sounds, but the level is not zero!
 
-The rest of my year is coming together: 
+Other than that one trip, this is going to be a quiet month. I'm working on developing those projects, and writing the pre-analysis plan for the ongoing work in The Gambia. There is a long list of books I want to read and friends I want to catch up with. I want to understand what interest rates were doing during the industrial revolution (going down?). I want to translate a couple more Tagore poems, and memorize at least a bit of Chesterton's "Ballad of the White Horse." I want to play with Google's new Agent Development Kit. I want to choose the perfect case for my new phone.{% sidenote "argphdenote-id" "The choice is between Klimt's _Garden Path with Chickens_, El Greco's _View of Toledo_, and Schiele's _Seated Woman with Legs Drawn Up_." %} Maybe I won't get around to any of that. It's nice to have dreams.
 
-**May**: Oxford for Trinity term, the UK baseball national championships, meetings with funders
-
-**June**: Oxford (Summer VIIIs, end of the school year), then to Alaska for LB's wedding
-
-**July**: Up for grabs; possibly a trip to West Africa
-
-**August**: Bay Area for a summer school
-
-**September**: Possibly staying in the Bay Area! Maybe some mountains
-
-**October**: Back to Oxford for the new school year
-
-**November**: A quiet Oxford autumn
-
-**December**: Still up in the air, but we're planning a few ambitious trips. I'm hoping to meet a penguin. 
-
-A lot of the above depends on My Wonderful Girlfriend's doings. She is constantly motivating me to be more ambitious with all of the pots she keeps on the fire. I've been applying to more things — fellowships, summer schools, research grants — because of her. A PhD is a great excuse for cowardice. Not everyone has this problem: I use my PhD as a reason not to apply for things; my friend DB uses "applying to things" as a reason not to work on his PhD. I think his approach is probably more promising!
+Other upcoming highlights include the UK national baseball championships the first weekend of the month and [Summer VIIIs](https://en.wikipedia.org/wiki/Eights_Week) the last week. Sunrise is now before 5:30am, and sunset is closing in on 9pm. May in the home counties is ridiculously pleasant, and I'm excited to have excuses to spend so much time outdoors. 
 
 
 ## Reading
 
-I've been coming up against a problem for this section recently: all of the book reviews and paper reviews I start writing feel like they deserve their own posts. Here are a few "Reading" sections I've started recently, which then moved to my drafts section: 
 
-> • Books and papers I read when I want to believe in the EMH less
+> Thoreau would catch a bee and carry it to a place with a clear view of the landscape. There he would release it. He watched closely as the bee flew off. Then, once he lost track of it, he walked to the spot where it disappeared, and waited for a new bee to catch. Repeated enough times, this process would bring him to the nest.
 > 
-> • Monetary policy and fixed income securities in the Star Wars universe 
-> 
-> • Reading with AI *only* works if the book is in context (contra [Cowen and Perrell](https://howiwrite.substack.com/p/tyler-cowen-will-ai-kill-writing))
+> This is how I think about finding new books to read, and new people to hang out with (or, increasingly—new aspects of people I already know).
 
-Maybe some of these will end up on my blog tab in the next month!
+[Henrik Karlsson](https://www.henrikkarlsson.xyz/p/the-newness-of-depth)
 
-One thing that does fit nicely here is this [*monster* profile of William T. Vollmann](https://www.metropolitanreview.org/p/the-last-contract), the Californian writer who only writes in blocks of one-thousand pages. His new novel, a history of the CIA, is three thousand pages long; when his publisher asked him to cut it down a bit, he agreed, and came back a few months later having *added* four hunded pages. So he found a new publisher. 
+### The Novelist Laureate of Peru
 
-I've found Vollmann fascinating for a while. The FBI thought that he was the Unabomber. His visual art is weird; his defining series of novels, *Seven Dreams*, is on the history of Native American conflict. He loves traveling to warzones. What more could I ask for in a modern writer? 
+Mario Vargas Llosa, the Peruvian Nobel Prize winner, died earlier this month. Vargas Llosa was probably the most famous living Peruvian, for his cutting novels, essays on liberalism, and [punching out Gabriel Garcia Márquez](https://jablevine.com/older/april_2025). Besides his non-fiction, I best remember "Tune in Tomorrow," "Aunt Julia and the Scriptwriter", and the short stories.
 
-The problem has always been the page count. I've only read a bit of Vollmann, primarily *An Afghanistan Picture Show, or, How I Saved the World*, the abridged *Rising Up and Rising Down*,{% sidenote "adbid-id" "Abridged down to only 700 pages." %} and excerpts from his book on climate. The profile highlights a few completionists, who intend to read every word he publishes for eternity. That will never be me. I'll buy the new CIA novel when it's published; he deserves that much regard. But I'm not optimistic about me and a novel whose "protagonist remained unborn [...] after seven hundred pages". 
+I was staying with MWG when Vargas Llosa died, at her apartment on Scott Circle in DC. The Peruvian embassy was across the street, and we stopped by in the evening with flowers and a note. There aren't many writers I would go so far out of my way for, but Vargas Llosa was so representative of Peru, it felt appropriate. Whom else would I do this for? Certainly Ngũgĩ wa Thiong’o or Haruki Murakami. Probably Coetzee; maybe Isabel Allende and Margaret Atwood. 
 
-Vollmann is a test of attention span; not for public consumption. His lack of self-restraint costs him some audience. He doesn't care. Some people can't stop themselves from writing (most people-who-write well, in fact). I don't think Bill Vollmann cares if we read his books.
+A national voice, a novelist lareate, isn't guaranteed. Vargas Llosa didn't speak for all Peruvians, nor does Atwood for Canadias, and so on. There is no clear American novelist laureate now (and that's a fault of the novelists, not America); before, we have had Mark Twain and Hemingway and Steinbeck. No one today is as successful at producing widely popular stories which become shorthand for how we see ourselves. 
 
+### The facts of civilization
+
+Volume I of Fernand Braudel's "Civilization & Capitalism, 15th-18th Century" is one of the greatest lists of facts I've come across. It's 500 pages of minutiae; a whole chapter on grains, another on clothing, another on transportation. You'll notice the title is time-bounded; it is not geographically bounded. 
+
+Braudel was of the _Annales_ school of history, a cabal of French historians focused on long-term social change. While the book is much stronger on Europe, and especially France, he makes an effort to include trivialities about Sichuan as well as Picardy. The chapter on grains spends more time on maize and rice than wheat; the chapter on transportation introduced me to "[sailed wheelbarrows](https://en.wikipedia.org/wiki/Wheelbarrow#Chinese_sailing_carriage)."
+
+His love of research is clear. If he is at times too credible (Japanese people do not call sitting in chairs "hanging up the legs"), it is balanced by healthy skepticism. Braudel writes: 
+
+> One economist, Wilhelm Roscher (1817-94) , even maintained, perhaps rather rashly, that the potato was the cause of the population growth in Europe.{% sidenote "pocs-id" "This is cited to R.M. Hartwell's _The Industrial Revolution and Economic Growth_, which I do not have access to." %}
+
+I understand why Braudel calls this rash! And yet -- Nathan Nunn and Nancy Qian, fifty years after Braudel, [found](https://scholar.harvard.edu/files/nunn/files/nunn_qian_qje_2011.pdf) that the potato was responsible for _one-quarter_ of European population growth!{% sidenote "notesq-id" "Notably, Nunn and Qian don't cite Roscher!" %} I love Braudel all the more for being wrong. 
+
+This is just Volume I. Volumes II and III of "Civilization & Capitalism" focus more on the high economy than everyday life. I may read the second, on the development of international commerce, but I'm likely to stay away from the last. Here, Braudel takes on Marxist materialism. I don't need 500 pages of that. 
+
+The other big history book of the month was Barbara Tuchman's "A Distant Mirror," a history of the French 14th century, and more specifically a biography of Enguerrand VII de Coucy. Tuchman is an amazing writer, and while much more narrative than Braudel, there were fun facts aplenty. After I finished, MWG put on "A Knight's Tale" (the Heath Ledger movie), which has many of the same characters as Tuchman's book.{% sidenote "quee-id" "And a few _Queen_ songs." %}
 
 ## Links
 
 
-{% newthought "We found Cleo, the" %} magic integral solver. Famous for finding [elegant and unexpected](https://math.stackexchange.com/questions/562694/integral-int-11-frac1x-sqrt-frac1x1-x-ln-left-frac2-x22-x1) solutions to terrifying looking integrals, Cleo was [a sockpuppet account of a well-intentioned Uzbek programmer](https://www.youtube.com/watch?v=7gQ9DnSYsXg). Why did he do it? 
-> I was frustrated that when I posted questions about integrals on math stack exchange, I often received comments like "why is this interesting" or, "what makes you think that it might have a closed form solution?"
-> 
-And he took that personally.
-
-{% newthought "The names of all of the" %} [snowplows of Wichita](https://www.wichita.gov/DocumentCenter/View/22826/PWSnowPlowNames-PDF).
-
-{% newthought "When Mario Vargas Llosa Punched" %} [Gabriel García Márquez](https://www.theparisreview.org/blog/2019/03/06/when-mario-vargas-llosa-punched-gabriel-garcia-marquez/). An LLM offhandedly mentioned this incident, in a conversation where it had hallucinated character and plot details of *Love in the Time of Cholera*, so I almost assumed it away. But!
-> I know the truth about that fight. I’ll tell you. Look, Mario has been a great womanizer and he’s a very good-looking man. Women die for Mario. So Mario, on a trip he made by ship from Barcelona to El Callao, met a very beautiful woman. They fell in love. He left his wife and went off with her. And the marriage was over and all that. His wife went back to pack up the house and, of course, she began to see friends. Then they got back together and his wife told Vargas Llosa, “Don’t think I’m not attractive. Friends of yours like Gabo were after me … ” One day they met in a theater in Mexico City, and Gabo went toward him with open arms. Vargas Llosa made a fist and said, “For what you tried to do to my wife,” and knocked him to the ground. Then Ms. Gaba said, “What you’re saying can’t be true because my husband likes women, but only very good-looking women.”
+{% newthought "Scott Alexander published" %} his [best essay](https://www.astralcodexten.com/p/the-colors-of-her-coat) in years, replying to Erik Hoel's also-excellent [post](https://www.theintrinsicperspective.com/p/welcome-to-the-semantic-apocalypse) on the OpenAI+Ghibli semantic satiation. Alexander calls this a civilizational skill issue: on-demand art generation will drive us crazy, but no more crazy than the last thing which removed our great sense of wonder. 
 
 
+{% newthought "I've wanted to be more" %} productive before, but never to the [point of hiring people](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me) to sit behind my desk and watch. I'm in awe, I'm afraid, I'm tempted?
 
-{% newthought "A stanford undergrad's" %} [physics homework](https://pages.cs.wisc.edu/~kovar/hall.html) from the late 90s: "Electron Band Structure In Germanium, My Ass". The conclusion: 
-> Going into physics was the biggest mistake of my life. I should've declared CS. I still wouldn't have any women, but at least I'd be rolling in cash.
+{% newthought "A guy in my freshman" %} dorm (Lion M) at William & Mary is a high school teacher, and published a [post on social media use among the kids](https://lucnguyen14.medium.com/gen-z-gen-alpha-social-media-usage-observations-ed7f2558330b) today. I love seeing descriptives like this, and more interesting because this would have been me if born 10 years later.
 
+{% newthought "A [review of the movie](https://www.anarchonomicon.com/p/film-review-india-the-worst-country)" %} "India: The Worst Country on Earth". 
 
-He is now a Staff Engineer at Google. 
-
-
-{% newthought "Gwern is also good at" %} metaphors: 
-> I've speculated that the effect of hyper-speed media like social media is to destroy the multi-level filtering of society, and the different niches wind up separating and becoming self-contained hermetic ecosystems. (Have you ever used a powerful stand mixer to mix batter and set it too high? What happens? Well, if the contents aren't liquid enough to flow completely at high speed, you tend to observe that your contents separate, and shear off into two or three different layers, rotating inside each other, with the inner layer spinning ultra-rapidly while the outer layer possibly becoming completely static and stuck to the sides of the mixing bowl. The inner layer is Tiktok, and the stuck outer layer is places like academia. The big fads and discoveries and trends in Tiktok spin around so rapidly and are forgotten so quickly that none of them ever 'make it out' to elsewhere.)
+{% newthought "The largest benefit I get" %} from LLM chatbots is the ease of asking stupid questions. I remember being impressed and briefly motivated years ago by [this Dan Luu essay](https://danluu.com/look-stupid/#) on the topic. I've changed a bit since then, but still afraid of asking the dumb question.
 
 
-{% newthought "The last thing I intend to read" %} about [Satoshi Nakamoto](https://nymag.com/intelligencer/article/bitcoin-satoshi-nakamoto-benjamin-wallace-book-excerpt.html).We will never know and that's fine.
+{% newthought "[A congress of Robert Reichs.](https://medium.com/@robreich/a-congress-of-robert-reichs-11fd3cba94b9#.j099rhx7h)" %}
 
-{% newthought "Matt Lakeman on the" %} [conquest of the Incas](https://mattlakeman.org/2025/03/24/conquest-of-the-incas/).
+{% newthought "Lanterns burned" %}, and Paul Revere rode, [two hundred and fifty years ago](https://heathercoxrichardson.substack.com/p/april-18-2025).
+> Two hundred and fifty years ago, in April 1775, Boston was on edge. Seven thousand residents of the town shared these streets with more than 13,000 British soldiers and their families. The two groups coexisted uneasily.
 
-{% newthought "Voltaire claimed that the" %} [*Circassians* invented vaccination](https://www.atvbt.com/voltaire-on-vaccines/) because their kids had to be hot for the harems. Also, Benedictines catching strays:
-> Some people maintain that the Circassians originally took this custom from the Arabs, but we leave this historical point to be cleared up by some learned Benedictine, who will doubtless compose several folio volumes on the subject, with proofs.
+I often say I'd have been a Tory...
+> While the town had more of the people who called themselves Patriots than other colonies did—maybe 30 to 40 percent—at least 15% of the people in town were still fiercely loyal to the King and his government. Those who were neither Patriots nor Loyalists just kept their heads down, hoping the growing political crisis would go away and leave them unscathed.
 
-{% newthought "Tyler Cowen has been enormously" %} influential on me, even years after I've stopped reading Marginal Revolution; my social circle and online world sometimes feel like the Tyler Cowen Cinematic Universe. I enjoyed [this profile](https://archive.ph/u8vug#selection-1615.0-1635.39) in The Economist. 
-> Cowen’s emotional life remains a mystery. He told me he did not experience regret. “I don’t know what the function of it is,” he said. “Is it to signal thoughtfulness? To stop you making further mistakes? It’s like revenge. I don’t understand it.” Cowen also said he didn’t understand envy or anger. He didn’t know what he should be envious _of_. He didn’t get lonely, by himself or in company. He actually said, “Why bother?”
->
-> When he told me he had never been depressed, I asked him to clarify what he meant. He had never been clinically depressed? Depressed for a month? For a week? An afternoon? I looked up from my notebook. An enormous smile, one I’d not seen before, had spread across the whole of Cowen’s face.
-> 
-> “Like, for a _whole_ afternoon?” he asked, hugely grinning.
+But of course that's not true. I'd be one of the "heads-down" guys. Even though, wow, the British were on the right side of everything:
+> Almost as soon as the French and Indian War was over, to prevent colonists from stirring up another expensive struggle with Indigenous Americans, King George III prohibited the colonists from crossing the Appalachian Mountains. 
 
 
-{% newthought "Reginald Foster was a" %} Vatican Latinist for 40 years and a passionate Latin teacher. He died in 2020. A [recent profile](https://newcriterion.com/article/the-vaticans-latinist/) and [this older one](https://www.carmelitaniscalzi.com/wp-content/uploads/2021/01/1994-Latin-fanatic.pdf) in The American Scholar were both touching.
-> And in many ways Foster’s resembles the life of a medieval saint: at the age of six, he would play priest, ripping up old sheets as vestments. He entered seminary at thirteen. He said he wanted only three things in life: to be a priest, to be a Carmelite, and to do Latin. He has spent his entire life in great personal poverty. His cell had no mattress: he slept on the tile floor with a thin blanket. His clothes were notorious in Rome: believing that the religious habit no longer reflected the simple garb of the people as it once had, he gave up his cassock and bought his clothes at Sears: blue pants and a blue shirt, with brandless black sneakers. When it was cold he added a zip-up blue polyester jacket. The Vatican’s Swiss guards called him “il benzinaio,” the gas-station attendant. Reporting for work at the Vatican, he looked like someone called to fix one of the washing-machines in the laundry room. His outfit was more like something his own father, a plumber in Milwaukee, would have worn. When people would give him gifts, he would give them to the poor. He owned almost nothing, and his Vatican office was legendarily spare: a typewriter, pens and paper, one chair, one desk, and a Latin dictionary. Nothing mattered to him except Latin.
+{% newthought "How do you fly a rhino?" %} [Upside down.](https://www.zmescience.com/ecology/animals-ecology/why-the-right-way-to-fly-a-rhino-is-upside-down/)
 
-{% newthought "Bhutan has spent half of their" %} foreign reserves on [Bitcoin mining infrastructure](https://asianews.network/bhutans-bitcoin-asset-value-crosses-usd-1b-ranks-fifth-among-countries-holding-btc/) over the past four years. Their currency is pegged to the Indian rupee, so I'm reading this as a highly-leveraged crypto position with sovereign characteristics. 
+{% newthought "[Tintin enters](https://www.collegetowns.org/p/celebrating-the-timeless-allure-of) the public" %} domain this year. I've never seen the TV show!
 
-{% newthought "If you define your" %} least favorite book as: 
-> All that prose talent, spent on a book about bad people doing nothing in a world the author hated. Two or three lines so beautiful they linger for me even now, trapped inside a profoundly cynical, empty book.
-
-Then [one](https://x.com/tracewoodgrains/status/1898892954120462470) might choose *Gatsby* or [*One Hunded Years of Solitude*](https://thezvi.substack.com/p/monthly-roundup-28-march-2025). I would defend Márquez, as that was what he was trying to do. Maybe Houellebecq's *Whatever*? I don't know his early biography enough to say if he hated that world even then. 
-
-## Other art
-
-I've been going to weekly life drawing sessions in Oxford with LT; I finished my first sketchbook in January. I am Bad at drawing, but that's not the point. Drawing makes me enjoy things more. Alice Gribbin recently wrote about [the nude](https://www.clunyjournal.com/p/do-you-want-to-see-alice-gribbin) and how it's been devalued. I found it valuable in the context of going to my first nude life drawing sessions.
-> In public and private life today, a person’s primary visual encounters with imagery of the naked or semi-naked human figure are through neither art nor worship but advertising, entertainment, and porn. It’s pathetic that this is true. We choose another way.
-
-I watched one great movie this month, *The Battle of Algiers*. I avoid great movies; an hour with a great book somehow is still more worth it than an hour with a great movie. *Algiers* has a really strong documentary feel, and the soundtrack and sound design were excellent. I was surprised to hear how strongly it influenced American counter-insurgency doctrine in Iraq and Afghanistan; on the doctrine spectrum from Afghanistan to Vietnam, *Algiers* would have pushed us toward Vietnam. The acting was excellent. I also watched two peak Kevin Costner movies, *Bull Durham* and *No Way Out*. Both were fun; *Bull Durham* is the best baseball movie. 
-
-In poetry, I read William Carlos Williams' *Spring and All* after I got to DC; it goes well with the cherry blossoms blooming. Whenever I read Williams or Whitman, I wish I could see in NYC what they saw. 
-
-I finished working through Ted Gioia's list of 2024 albums. A few favorites from the bottom of the list: 
-
-> • **Songs of my land**, Chiyomi Yamada and baobab
-> 
-> • **Echoes of Becoming**, Canberk Ulaş 
-> 
-> • **Riley**, Riley Mulherkar
-> 
-> • **Banjo Mantras**, Kendl Winter
 
 
 ## Previously
+
+*[April, 2025](https://jablevine.com/older/april_2025)*
 
 *[March, 2025](https://jablevine.com/older/march_2025)*
 
