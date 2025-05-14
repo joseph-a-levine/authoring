@@ -1,0 +1,169 @@
+---
+layout: page
+title: What am I up to now?
+---
+
+<!-- omit in toc -->
+## May, 2025
+
+<!-- omit in toc -->
+## Contents
+- [Updates](#updates)
+- [Reading](#reading)
+- [Links](#links)
+- [Previously](#previously)
+
+<br>
+  
+## Updates
+
+Hello! I'll be here in Oxford for most of May, other than a short trip to Arizona for a conference on "AI for Work," organized by Schmidt Sciences. They've been supporting a project JB and I are developing on AI usage among very poor workers in very poor West African countries.{% sidenote "sidnth-id" "Think farmers-in-Sierra Leone, not entrepreneurs-in-Kenya." %} I know how that sounds, but the level is not zero!
+
+Other than that one trip, this is going to be a quiet month. I'm working on developing those projects, and writing the pre-analysis plan for the ongoing work in The Gambia. There is a long list of books I want to read and friends I want to catch up with. I want to understand what interest rates were doing during the industrial revolution (going down?). I want to translate a couple more Tagore poems, and memorize at least a bit of Chesterton's "Ballad of the White Horse." I want to play with Google's new Agent Development Kit. I want to choose the perfect case for my new phone.{% sidenote "argphdenote-id" "The choice is between Klimt's _Garden Path with Chickens_, El Greco's _View of Toledo_, and Schiele's _Seated Woman with Legs Drawn Up_." %} Maybe I won't get around to any of that. It's nice to have dreams.
+
+Other upcoming highlights include the UK national baseball championships the first weekend of the month and [Summer VIIIs](https://en.wikipedia.org/wiki/Eights_Week) the last week. Sunrise is now before 5:30am, and sunset is closing in on 9pm. May in the home counties is ridiculously pleasant, and I'm excited to have excuses to spend so much time outdoors. 
+
+
+## Reading
+
+
+> Thoreau would catch a bee and carry it to a place with a clear view of the landscape. There he would release it. He watched closely as the bee flew off. Then, once he lost track of it, he walked to the spot where it disappeared, and waited for a new bee to catch. Repeated enough times, this process would bring him to the nest.
+> 
+> This is how I think about finding new books to read, and new people to hang out with (or, increasingly—new aspects of people I already know).
+
+[Henrik Karlsson](https://www.henrikkarlsson.xyz/p/the-newness-of-depth)
+
+### The Novelist Laureate of Peru
+
+Mario Vargas Llosa, the Peruvian Nobel Prize winner, died earlier this month. Vargas Llosa was probably the most famous living Peruvian, for his cutting novels, essays on liberalism, and [punching out Gabriel Garcia Márquez](https://jablevine.com/older/april_2025). Besides his non-fiction, I best remember "Tune in Tomorrow," "Aunt Julia and the Scriptwriter", and the short stories.
+
+I was staying with MWG when Vargas Llosa died, at her apartment on Scott Circle in DC. The Peruvian embassy was across the street, and we stopped by in the evening with flowers and a note. There aren't many writers I would go so far out of my way for, but Vargas Llosa was so representative of Peru, it felt appropriate. Whom else would I do this for? Certainly Ngũgĩ wa Thiong’o or Haruki Murakami. Probably Coetzee; maybe Isabel Allende and Margaret Atwood. 
+
+A national voice, a novelist lareate, isn't guaranteed. Vargas Llosa didn't speak for all Peruvians, nor does Atwood for Canadias, and so on. There is no clear American novelist laureate now (and that's a fault of the novelists, not America); before, we have had Mark Twain and Hemingway and Steinbeck. No one today is as successful at producing widely popular stories which become shorthand for how we see ourselves. 
+
+### The facts of civilization
+
+Volume I of Fernand Braudel's "Civilization & Capitalism, 15th-18th Century" is one of the greatest lists of facts I've come across. It's 500 pages of minutiae; a whole chapter on grains, another on clothing, another on transportation. You'll notice the title is time-bounded; it is not geographically bounded. 
+
+Braudel was of the _Annales_ school of history, a cabal of French historians focused on long-term social change. While the book is much stronger on Europe, and especially France, he makes an effort to include trivialities about Sichuan as well as Picardy. The chapter on grains spends more time on maize and rice than wheat; the chapter on transportation introduced me to "[sailed wheelbarrows](https://en.wikipedia.org/wiki/Wheelbarrow#Chinese_sailing_carriage)."
+
+His love of research is clear. If he is at times too credible (Japanese people do not call sitting in chairs "hanging up the legs"), it is balanced by healthy skepticism. Braudel writes: 
+
+> One economist, Wilhelm Roscher (1817-94) , even maintained, perhaps rather rashly, that the potato was the cause of the population growth in Europe.{% sidenote "pocs-id" "This is cited to R.M. Hartwell's _The Industrial Revolution and Economic Growth_, which I do not have access to." %}
+
+I understand why Braudel calls this rash! And yet -- Nathan Nunn and Nancy Qian, fifty years after Braudel, [found](https://scholar.harvard.edu/files/nunn/files/nunn_qian_qje_2011.pdf) that the potato was responsible for _one-quarter_ of European population growth!{% sidenote "notesq-id" "Notably, Nunn and Qian don't cite Roscher!" %} I love Braudel all the more for being wrong. 
+
+This is just Volume I. Volumes II and III of "Civilization & Capitalism" focus more on the high economy than everyday life. I may read the second, on the development of international commerce, but I'm likely to stay away from the last. Here, Braudel takes on Marxist materialism. I don't need 500 pages of that. 
+
+The other big history book of the month was Barbara Tuchman's "A Distant Mirror," a history of the French 14th century, and more specifically a biography of Enguerrand VII de Coucy. Tuchman is an amazing writer, and while much more narrative than Braudel, there were fun facts aplenty. After I finished, MWG put on "A Knight's Tale" (the Heath Ledger movie), which has many of the same characters as Tuchman's book.{% sidenote "quee-id" "And a few _Queen_ songs." %}
+
+## Links
+
+
+{% newthought "Scott Alexander published" %} his [best essay](https://www.astralcodexten.com/p/the-colors-of-her-coat) in years, replying to Erik Hoel's also-excellent [post](https://www.theintrinsicperspective.com/p/welcome-to-the-semantic-apocalypse) on the OpenAI+Ghibli semantic satiation. Alexander calls this a civilizational skill issue: on-demand art generation will drive us crazy, but no more crazy than the last thing which removed our great sense of wonder. 
+
+
+{% newthought "I've wanted to be more" %} productive before, but never to the [point of hiring people](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me) to sit behind my desk and watch. I'm in awe, I'm afraid, I'm tempted?
+
+{% newthought "A guy in my freshman" %} dorm (Lion M) at William & Mary is a high school teacher, and published a [post on social media use among the kids](https://lucnguyen14.medium.com/gen-z-gen-alpha-social-media-usage-observations-ed7f2558330b) today. I love seeing descriptives like this, and more interesting because this would have been me if born 10 years later.
+
+{% newthought "A [review of the movie](https://www.anarchonomicon.com/p/film-review-india-the-worst-country)" %} "India: The Worst Country on Earth". 
+
+{% newthought "The largest benefit I get" %} from LLM chatbots is the ease of asking stupid questions. I remember being impressed and briefly motivated years ago by [this Dan Luu essay](https://danluu.com/look-stupid/#) on the topic. I've changed a bit since then, but still afraid of asking the dumb question.
+
+
+{% newthought "[A congress of Robert Reichs.](https://medium.com/@robreich/a-congress-of-robert-reichs-11fd3cba94b9#.j099rhx7h)" %}
+
+{% newthought "Lanterns burned" %}, and Paul Revere rode, [two hundred and fifty years ago](https://heathercoxrichardson.substack.com/p/april-18-2025).
+> Two hundred and fifty years ago, in April 1775, Boston was on edge. Seven thousand residents of the town shared these streets with more than 13,000 British soldiers and their families. The two groups coexisted uneasily.
+
+I often say I'd have been a Tory...
+> While the town had more of the people who called themselves Patriots than other colonies did—maybe 30 to 40 percent—at least 15% of the people in town were still fiercely loyal to the King and his government. Those who were neither Patriots nor Loyalists just kept their heads down, hoping the growing political crisis would go away and leave them unscathed.
+
+But of course that's not true. I'd be one of the "heads-down" guys. Even though, wow, the British were on the right side of everything:
+> Almost as soon as the French and Indian War was over, to prevent colonists from stirring up another expensive struggle with Indigenous Americans, King George III prohibited the colonists from crossing the Appalachian Mountains. 
+
+
+{% newthought "How do you fly a rhino?" %} [Upside down.](https://www.zmescience.com/ecology/animals-ecology/why-the-right-way-to-fly-a-rhino-is-upside-down/)
+
+{% newthought "[Tintin enters](https://www.collegetowns.org/p/celebrating-the-timeless-allure-of) the public" %} domain this year. I've never seen the TV show!
+
+
+
+## Previously
+
+*[March, 2025](https://jablevine.com/older/march_2025)*
+
+*[February, 2025](https://jablevine.com/older/february_2025)*
+
+*[January, 2025](https://jablevine.com/older/january_2025)*
+
+*[December, 2024](https://jablevine.com/older/december_2024)*
+
+*[November, 2024](https://jablevine.com/older/november_2024)*
+
+*[October, 2024](https://jablevine.com/older/october_2024)*
+
+*[September, 2024](https://jablevine.com/older/september_2024)*
+
+*[August, 2024](https://jablevine.com/older/August_2024)*
+
+*[July, 2024](https://jablevine.com/older/july_2024)*
+
+*[June, 2024](https://jablevine.com/older/june_2024)*
+
+*[May, 2024](https://jablevine.com/older/may_2024)*
+
+*[April, 2024](https://jablevine.com/older/april_2024)*
+
+*[March, 2024](https://jablevine.com/older/march_2024)*
+
+*[February, 2024](https://jablevine.com/older/february_2024)*
+
+*[January, 2024](https://jablevine.com/older/january_2024)*
+
+*[December, 2023](https://jablevine.com/older/December_2023)*
+
+*[November, 2023](https://jablevine.com/older/November_2023)*
+
+*[October, 2023](https://jablevine.com/older/October_2023)*
+
+*[September, 2023](https://jablevine.com/older/September_2023)*
+
+*[August, 2023](https://jablevine.com/older/August_2023)*
+
+*[July, 2023](https://jablevine.com/older/July_2023)*
+
+*[June, 2023](https://jablevine.com/older/June_2023)*
+
+*[May, 2023](https://jablevine.com/older/May_2023)*
+
+*[April, 2023](https://jablevine.com/older/April_2023)*
+
+*[March, 2023](https://jablevine.com/older/march_2023)*
+
+*[February, 2023](https://jablevine.com/older/february_2023)*
+
+*[December, 2022](https://jablevine.com/older/december_2022)*
+
+*[November, 2022](https://jablevine.com/older/november_2022)*
+
+*[October, 2022](https://jablevine.com/older/october_2022)*
+
+*[September, 2022](https://jablevine.com/older/september_2022)*
+
+*[August, 2022](https://jablevine.com/older/august_2022)*
+
+...
+
+*[November, 2021](https://jablevine.com/older/november_2021)*
+
+*[October, 2021](https://jablevine.com/older/october_2021)*
+
+*[September, 2021](https://jablevine.com/older/september_2021)*
+
+*[July, 2021](https://jablevine.com/older/july_2021)*
+
+*[June, 2021](https://jablevine.com/older/june_2021)*
+
+*[May, 2021](https://jablevine.com/older/may_2021)*
