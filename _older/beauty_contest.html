@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Keynesian Beauty‑Contest Game</title>
+  <!-- external libs -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
@@ -22,16 +23,19 @@
   <section id="instructions">
     <p><strong>How to play</strong></p>
     <ol>
-      <li>Scan the QR code below (one per round).</li>
-      <li>Enter your <em>team name</em>, select the <em>round</em>, and submit a number between 0‑100—integers only.</li>
-      <li>One submission per team per round. No edits.</li>
+      <li>Scan the QR code below (same code works for both rounds).</li>
+      <li>Form asks for <em>Name / Team</em>, <em>Round</em>, and <em>Guess</em>.</li>
+      <li><strong>Round 1:</strong> type <em>your first name</em> in the Name / Team box.<br>
+          <strong>Round 2:</strong> type <em>your team name</em>.</li>
+      <li>Enter a whole number 0‑100. One submission per person (R1) or per team (R2).</li>
     </ol>
   </section>
 
   <section id="qr"></section>
 
-  <section id="results">
-    <h2>Live Results</h2>
+  <!-- RESULTS ARE HIDDEN FROM PLAYERS.  Add ?admin=1 to URL to reveal. -->
+  <section id="results" style="display:none;">
+    <h2>Results (presenter view)</h2>
     <label for="roundSel">Round:</label>
     <select id="roundSel"><option value="1">1</option><option value="2">2</option></select>
     <button id="refreshBtn">Refresh</button>
@@ -41,14 +45,21 @@
   </section>
 
 <script>
-// ==== CONFIGURATION ==== //
+// ===== CONFIGURATION (edit these two lines) =====
 const FORM_URL = 'https://forms.gle/ibsdjNcdiGNWViLq8';
+
 const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQuFwz0UWcMfbKjI07xaJcCenPe4NAuPHbCvqys6cH7v_wJ18rXgylNd7I_w2q2u2wbFZqftdnbf56B/pub?output=csv';
-// Google Form should feed a Google Sheet with columns: Timestamp,Team,Round,Guess
-// ==== QR CODE ==== //
+// ===============================================
+
+// Build QR code
 new QRCode(document.getElementById('qr'), {text: FORM_URL, width: 180, height: 180});
 
-// ==== CHART ==== //
+// Parameter‑gated presenter mode
+const params   = new URLSearchParams(window.location.search);
+const isAdmin  = params.get('admin') === '1';
+if (isAdmin) document.getElementById('results').style.display = 'block';
+
+// ===== Chart helpers =====
 let chart;
 function makeChart(labels, counts) {
   const ctx = document.getElementById('hist');
@@ -60,7 +71,7 @@ function makeChart(labels, counts) {
   });
 }
 
-// ==== DATA LOAD & ANALYSIS ==== //
+// ===== Data utilities =====
 async function loadCSV(url) {
   return new Promise((resolve) => {
     Papa.parse(url, {download: true, header: true, complete: res => resolve(res.data)});
@@ -75,12 +86,10 @@ function analyse(rows, round) {
   const avg = guesses.reduce((a, b) => a + b, 0) / guesses.length;
   const target = (2 / 3) * avg;
 
-  // histogram (10‑point bins)
   const binLabels = Array.from({length: 10}, (_, i) => `${i * 10}‑${i * 10 + 9}`);
   const counts = Array(10).fill(0);
   guesses.forEach(g => counts[Math.min(9, Math.floor(g / 10))]++);
 
-  // closest teams
   const dist = guesses.map((g, i) => ({team: rows[i].Team, guess: g, gap: Math.abs(g - target)}));
   const minGap = Math.min(...dist.map(d => d.gap));
   const winners = dist.filter(d => d.gap === minGap);
@@ -104,10 +113,12 @@ async function refresh() {
   }
 }
 
-// Manual + auto refresh (15 s)
-refresh();
-document.getElementById('refreshBtn').addEventListener('click', refresh);
-setInterval(refresh, 15000);
+// Hook up buttons & auto‑refresh only if admin
+if (isAdmin) {
+  document.getElementById('refreshBtn').addEventListener('click', refresh);
+  refresh();
+  setInterval(refresh, 15000);
+}
 </script>
 </body>
 </html>
