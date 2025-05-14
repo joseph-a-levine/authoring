@@ -1,835 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beauty Contest Game</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            background-color: white;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #2c3e50;
-            text-align: center;
-        }
-        #gameStage {
-            margin-top: 20px;
-        }
-        .input-group {
-            margin-bottom: 15px;
-        }
-        input[type="number"], input[type="text"] {
-            width: 100%;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            font-size: 16px;
-        }
-        button {
-            background-color: #3498db;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-            width: 100%;
-        }
-        button:hover {
-            background-color: #2980b9;
-        }
-        .hidden {
-            display: none;
-        }
-        #results {
-            margin-top: 20px;
-        }
-        .result-box {
-            background-color: #f8f9fa;
-            border: 1px solid #ddd;
-            padding: 15px;
-            border-radius: 4px;
-            margin-bottom: 15px;
-        }
-        #timer {
-            font-size: 24px;
-            text-align: center;
-            margin: 20px 0;
-            font-weight: bold;
-        }
-        .team-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-            gap: 10px;
-            margin: 20px 0;
-        }
-        .team-item {
-            background-color: #f1f1f1;
-            padding: 10px;
-            border-radius: 4px;
-        }
-        .chart-container {
-            height: 300px;
-            margin: 20px 0;
-        }
-        .admin-panel {
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-        }
-        .tab {
-            display: inline-block;
-            padding: 10px 20px;
-            background: #eee;
-            cursor: pointer;
-            border-radius: 4px 4px 0 0;
-        }
-        .tab.active {
-            background: #3498db;
-            color: white;
-        }
-        #adminLoginPanel, #studentPanel {
-            margin-top: 10px;
-        }
-        #histogramChart {
-            width: 100%;
-            height: 300px;
-        }
-        .highlight {
-            font-weight: bold;
-            color: #e74c3c;
-        }
-        #successMessage {
-            background-color: #d4edda;
-            color: #155724;
-            padding: 10px;
-            border-radius: 4px;
-            margin-bottom: 15px;
-            text-align: center;
-        }
-        #errorMessage {
-            background-color: #f8d7da;
-            color: #721c24;
-            padding: 10px;
-            border-radius: 4px;
-            margin-bottom: 15px;
-            text-align: center;
-        }
-        .countdown {
-            font-size: 30px;
-            font-weight: bold;
-            text-align: center;
-            margin: 20px 0;
-            color: #e74c3c;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Keynesian Beauty‑Contest Game</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <style>
+    body {font-family: system-ui, sans-serif; margin: 0; padding: 1rem; line-height: 1.4;}
+    h1 {margin-top: 0;}
+    section {margin-bottom: 2rem;}
+    #chart-container {width: 100%; max-width: 700px; margin: auto;}
+    canvas {max-width: 100%;}
+    #qr {text-align: center;}
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1>PPE Beauty Contest Game</h1>
-        
-        <div class="tabs">
-            <div class="tab active" data-tab="studentPanel">Student</div>
-            <div class="tab" data-tab="adminLoginPanel">Admin</div>
-        </div>
-        
-        <!-- Student Panel -->
-        <div id="studentPanel">
-            <div id="gameStage">
-                <div id="joinGame" class="stage">
-                    <h2>Join the Game</h2>
-                    <div class="input-group">
-                        <label for="studentName">Your Name:</label>
-                        <input type="text" id="studentName" placeholder="Enter your name">
-                    </div>
-                    <div class="input-group">
-                        <label for="teamName">Team Name (if assigned):</label>
-                        <input type="text" id="teamName" placeholder="Enter your team name">
-                    </div>
-                    <button id="joinButton">Join Game</button>
-                </div>
-                
-                <div id="waitingForStart" class="stage hidden">
-                    <h2>Waiting for Game to Start</h2>
-                    <p>Please wait for the administrator to start the game...</p>
-                </div>
-                
-                <div id="round1" class="stage hidden">
-                    <h2>Round 1: Individual Guesses</h2>
-                    <p>Choose a number between 0 and 100.</p>
-                    <p>The winner will be the one closest to 2/3 of the average of all guesses.</p>
-                    
-                    <div id="timer" class="countdown"></div>
-                    
-                    <div class="input-group">
-                        <label for="guess">Your Guess (0-100):</label>
-                        <input type="number" id="guess" min="0" max="100" placeholder="Enter a number">
-                    </div>
-                    <button id="submitGuessButton">Submit Guess</button>
-                </div>
-                
-                <div id="waitingForRound2" class="stage hidden">
-                    <h2>Waiting for Round 2</h2>
-                    <p>First round complete! Please wait for results...</p>
-                </div>
-                
-                <div id="round2" class="stage hidden">
-                    <h2>Round 2: Team Guesses</h2>
-                    <p>Discuss with your team members and choose a number between 0 and 100.</p>
-                    <p>The winner will be the team closest to 2/3 of the average of all team guesses.</p>
-                    
-                    <div id="round1Results" class="result-box">
-                        <h3>Round 1 Results:</h3>
-                        <p>Average of all guesses: <span id="round1Average" class="highlight">--</span></p>
-                        <p>2/3 of the average: <span id="round1Target" class="highlight">--</span></p>
-                        <p>Your guess: <span id="yourGuess" class="highlight">--</span></p>
-                    </div>
-                    
-                    <div id="teamTimer" class="countdown"></div>
-                    
-                    <div class="input-group">
-                        <label for="teamGuess">Team Guess (0-100):</label>
-                        <input type="number" id="teamGuess" min="0" max="100" placeholder="Enter a number">
-                    </div>
-                    <button id="submitTeamGuessButton">Submit Team Guess</button>
-                </div>
-                
-                <div id="gameComplete" class="stage hidden">
-                    <h2>Game Complete!</h2>
-                    <div id="finalResults" class="result-box">
-                        <h3>Final Results:</h3>
-                        <p>Round 1:</p>
-                        <p>Average of all guesses: <span id="finalRound1Average" class="highlight">--</span></p>
-                        <p>2/3 of the average: <span id="finalRound1Target" class="highlight">--</span></p>
-                        
-                        <p>Round 2:</p>
-                        <p>Average of all team guesses: <span id="finalRound2Average" class="highlight">--</span></p>
-                        <p>2/3 of the average: <span id="finalRound2Target" class="highlight">--</span></p>
-                    </div>
-                </div>
-            </div>
-            
-            <div id="successMessage" class="hidden"></div>
-            <div id="errorMessage" class="hidden"></div>
-        </div>
-        
-        <!-- Admin Login Panel -->
-        <div id="adminLoginPanel" class="hidden">
-            <h2>Admin Login</h2>
-            <div class="input-group">
-                <label for="adminPassword">Password:</label>
-                <input type="password" id="adminPassword">
-            </div>
-            <button id="adminLoginButton">Login</button>
-        </div>
-        
-        <!-- Admin Control Panel -->
-        <div id="adminPanel" class="hidden">
-            <h2>Admin Control Panel</h2>
-            
-            <div class="admin-section">
-                <h3>Game Status</h3>
-                <p>Students joined: <span id="studentCount">0</span></p>
-                <p>Current game stage: <span id="currentStage">Not started</span></p>
-            </div>
-            
-            <div class="admin-section">
-                <h3>Game Controls</h3>
-                <button id="startRound1Button">Start Round 1</button>
-                <div class="input-group">
-                    <label for="round1Timer">Round 1 Timer (seconds):</label>
-                    <input type="number" id="round1Timer" value="300">
-                </div>
-                
-                <button id="showRound1ResultsButton" class="hidden">Show Round 1 Results & Start Round 2</button>
-                <div class="input-group">
-                    <label for="round2Timer">Round 2 Timer (seconds):</label>
-                    <input type="number" id="round2Timer" value="600">
-                </div>
-                
-                <button id="endGameButton" class="hidden">End Game & Show Final Results</button>
-            </div>
-            
-            <div class="admin-section">
-                <h3>Results</h3>
-                <div id="adminResults" class="result-box hidden">
-                    <h4>Round 1 Results:</h4>
-                    <p>Total submissions: <span id="round1Count">0</span></p>
-                    <p>Average guess: <span id="adminRound1Average">--</span></p>
-                    <p>2/3 of average: <span id="adminRound1Target">--</span></p>
-                    <div class="chart-container">
-                        <canvas id="round1Chart"></canvas>
-                    </div>
-                    
-                    <h4>Round 2 Results:</h4>
-                    <p>Total team submissions: <span id="round2Count">0</span></p>
-                    <p>Average team guess: <span id="adminRound2Average">--</span></p>
-                    <p>2/3 of average: <span id="adminRound2Target">--</span></p>
-                    <div class="chart-container">
-                        <canvas id="round2Chart"></canvas>
-                    </div>
-                </div>
-                
-                <button id="exportResultsButton" class="hidden">Export Results CSV</button>
-                <button id="resetGameButton">Reset Game</button>
-            </div>
-        </div>
-    </div>
+  <h1>Keynesian Beauty‑Contest Game</h1>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
-    <script>
-        // Firebase configuration - Replace with your own Firebase project details
-        const firebaseConfig = {
-            apiKey: "YOUR_API_KEY",
-            authDomain: "YOUR_AUTH_DOMAIN",
-            projectId: "YOUR_PROJECT_ID",
-            storageBucket: "YOUR_STORAGE_BUCKET",
-            messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-            appId: "YOUR_APP_ID"
-        };
+  <section id="instructions">
+    <p><strong>How to play</strong></p>
+    <ol>
+      <li>Scan the QR code below (one per round).</li>
+      <li>Enter your <em>team name</em>, select the <em>round</em>, and submit a number between 0‑100—integers only.</li>
+      <li>One submission per team per round. No edits.</li>
+    </ol>
+  </section>
 
-        // Mock Firebase for static demo
-        class MockFirebase {
-            constructor() {
-                this.data = {
-                    gameState: {
-                        stage: "waiting",
-                        round1Timer: 300,
-                        round2Timer: 600
-                    },
-                    students: {},
-                    round1Guesses: {},
-                    round2Guesses: {},
-                    results: {
-                        round1: {
-                            average: 0,
-                            target: 0
-                        },
-                        round2: {
-                            average: 0,
-                            target: 0
-                        }
-                    }
-                };
-                
-                // Use localStorage to persist data
-                const savedData = localStorage.getItem('beautyContestData');
-                if (savedData) {
-                    this.data = JSON.parse(savedData);
-                }
-                
-                this.listeners = {};
-            }
-            
-            saveData() {
-                localStorage.setItem('beautyContestData', JSON.stringify(this.data));
-            }
-            
-            collection(path) {
-                return {
-                    doc: (id) => this.doc(path + '/' + id)
-                };
-            }
-            
-            doc(path) {
-                return {
-                    set: (data) => this.set(path, data),
-                    update: (data) => this.update(path, data),
-                    get: () => this.get(path),
-                    onSnapshot: (callback) => this.onSnapshot(path, callback)
-                };
-            }
-            
-            set(path, data) {
-                const pathParts = path.split('/');
-                let current = this.data;
-                
-                for (let i = 0; i < pathParts.length - 1; i++) {
-                    if (!current[pathParts[i]]) {
-                        current[pathParts[i]] = {};
-                    }
-                    current = current[pathParts[i]];
-                }
-                
-                current[pathParts[pathParts.length - 1]] = data;
-                this.saveData();
-                
-                if (this.listeners[path]) {
-                    this.listeners[path].forEach(callback => {
-                        callback({
-                            data: () => data
-                        });
-                    });
-                }
-                
-                return Promise.resolve();
-            }
-            
-            update(path, data) {
-                const pathParts = path.split('/');
-                let current = this.data;
-                
-                for (let i = 0; i < pathParts.length - 1; i++) {
-                    if (!current[pathParts[i]]) {
-                        current[pathParts[i]] = {};
-                    }
-                    current = current[pathParts[i]];
-                }
-                
-                const lastPart = pathParts[pathParts.length - 1];
-                if (!current[lastPart]) {
-                    current[lastPart] = {};
-                }
-                
-                Object.assign(current[lastPart], data);
-                this.saveData();
-                
-                if (this.listeners[path]) {
-                    this.listeners[path].forEach(callback => {
-                        callback({
-                            data: () => current[lastPart]
-                        });
-                    });
-                }
-                
-                return Promise.resolve();
-            }
-            
-            get(path) {
-                const pathParts = path.split('/');
-                let current = this.data;
-                
-                for (let i = 0; i < pathParts.length - 1; i++) {
-                    if (!current[pathParts[i]]) {
-                        return Promise.resolve({
-                            exists: false,
-                            data: () => null
-                        });
-                    }
-                    current = current[pathParts[i]];
-                }
-                
-                const lastPart = pathParts[pathParts.length - 1];
-                const exists = current[lastPart] !== undefined;
-                
-                return Promise.resolve({
-                    exists,
-                    data: () => exists ? current[lastPart] : null
-                });
-            }
-            
-            onSnapshot(path, callback) {
-                if (!this.listeners[path]) {
-                    this.listeners[path] = [];
-                }
-                
-                this.listeners[path].push(callback);
-                
-                // Initial call
-                this.get(path).then(doc => {
-                    callback(doc);
-                });
-                
-                // Return unsubscribe function
-                return () => {
-                    this.listeners[path] = this.listeners[path].filter(cb => cb !== callback);
-                };
-            }
-            
-            // Collection queries
-            getDocs(collection) {
-                const collectionPath = collection._path || '';
-                const pathParts = collectionPath.split('/');
-                let current = this.data;
-                
-                for (const part of pathParts) {
-                    if (!current[part]) {
-                        return Promise.resolve({
-                            docs: [],
-                            size: 0
-                        });
-                    }
-                    current = current[part];
-                }
-                
-                const docs = Object.entries(current).map(([id, data]) => ({
-                    id,
-                    data: () => data
-                }));
-                
-                return Promise.resolve({
-                    docs,
-                    size: docs.length
-                });
-            }
-            
-            collection(path) {
-                return {
-                    _path: path,
-                    doc: (id) => this.doc(`${path}/${id}`),
-                    getDocs: () => this.getDocs({ _path: path })
-                };
-            }
-        }
+  <section id="qr"></section>
 
-        // Initialize Mock Firebase
-        const db = new MockFirebase();
-        const gameStateRef = db.doc('game/state');
-        const studentsRef = db.collection('students');
-        const round1GuessesRef = db.collection('round1Guesses');
-        const round2GuessesRef = db.collection('round2Guesses');
-        const resultsRef = db.doc('game/results');
+  <section id="results">
+    <h2>Live Results</h2>
+    <label for="roundSel">Round:</label>
+    <select id="roundSel"><option value="1">1</option><option value="2">2</option></select>
+    <button id="refreshBtn">Refresh</button>
+    <p id="stats"></p>
+    <div id="chart-container"><canvas id="hist"></canvas></div>
+    <p id="winners"></p>
+  </section>
 
-        // DOM Elements
-        const studentPanel = document.getElementById('studentPanel');
-        const adminLoginPanel = document.getElementById('adminLoginPanel');
-        const adminPanel = document.getElementById('adminPanel');
-        
-        const joinGameStage = document.getElementById('joinGame');
-        const waitingForStartStage = document.getElementById('waitingForStart');
-        const round1Stage = document.getElementById('round1');
-        const waitingForRound2Stage = document.getElementById('waitingForRound2');
-        const round2Stage = document.getElementById('round2');
-        const gameCompleteStage = document.getElementById('gameComplete');
-        
-        const joinButton = document.getElementById('joinButton');
-        const submitGuessButton = document.getElementById('submitGuessButton');
-        const submitTeamGuessButton = document.getElementById('submitTeamGuessButton');
-        
-        const studentNameInput = document.getElementById('studentName');
-        const teamNameInput = document.getElementById('teamName');
-        const guessInput = document.getElementById('guess');
-        const teamGuessInput = document.getElementById('teamGuess');
-        
-        const adminLoginButton = document.getElementById('adminLoginButton');
-        const adminPasswordInput = document.getElementById('adminPassword');
-        const startRound1Button = document.getElementById('startRound1Button');
-        const showRound1ResultsButton = document.getElementById('showRound1ResultsButton');
-        const endGameButton = document.getElementById('endGameButton');
-        const exportResultsButton = document.getElementById('exportResultsButton');
-        const resetGameButton = document.getElementById('resetGameButton');
-        
-        const round1TimerInput = document.getElementById('round1Timer');
-        const round2TimerInput = document.getElementById('round2Timer');
-        
-        const successMessage = document.getElementById('successMessage');
-        const errorMessage = document.getElementById('errorMessage');
-        
-        // Admin display elements
-        const studentCountElement = document.getElementById('studentCount');
-        const currentStageElement = document.getElementById('currentStage');
-        const adminResults = document.getElementById('adminResults');
-        const round1Count = document.getElementById('round1Count');
-        const adminRound1Average = document.getElementById('adminRound1Average');
-        const adminRound1Target = document.getElementById('adminRound1Target');
-        const round2Count = document.getElementById('round2Count');
-        const adminRound2Average = document.getElementById('adminRound2Average');
-        const adminRound2Target = document.getElementById('adminRound2Target');
-        
-        // Student results display
-        const round1Average = document.getElementById('round1Average');
-        const round1Target = document.getElementById('round1Target');
-        const yourGuess = document.getElementById('yourGuess');
-        const finalRound1Average = document.getElementById('finalRound1Average');
-        const finalRound1Target = document.getElementById('finalRound1Target');
-        const finalRound2Average = document.getElementById('finalRound2Average');
-        const finalRound2Target = document.getElementById('finalRound2Target');
-        
-        // Timer elements
-        const timerElement = document.getElementById('timer');
-        const teamTimerElement = document.getElementById('teamTimer');
-        
-        // Chart elements
-        const round1ChartCanvas = document.getElementById('round1Chart');
-        const round2ChartCanvas = document.getElementById('round2Chart');
-        
-        // Tab switching
-        const tabs = document.querySelectorAll('.tab');
-        tabs.forEach(tab => {
-            tab.addEventListener('click', () => {
-                const tabId = tab.getAttribute('data-tab');
-                
-                // Hide all panels
-                studentPanel.classList.add('hidden');
-                adminLoginPanel.classList.add('hidden');
-                adminPanel.classList.add('hidden');
-                
-                // Show selected panel
-                if (tabId === 'studentPanel') {
-                    studentPanel.classList.remove('hidden');
-                } else if (tabId === 'adminLoginPanel') {
-                    adminLoginPanel.classList.remove('hidden');
-                } else if (tabId === 'adminPanel') {
-                    adminPanel.classList.remove('hidden');
-                }
-                
-                // Update active tab
-                tabs.forEach(t => t.classList.remove('active'));
-                tab.classList.add('active');
-            });
-        });
-        
-        // Student variables
-        let studentId = localStorage.getItem('studentId');
-        let studentName = localStorage.getItem('studentName');
-        let teamName = localStorage.getItem('teamName');
-        let hasSubmittedRound1 = localStorage.getItem('hasSubmittedRound1') === 'true';
-        let hasSubmittedRound2 = localStorage.getItem('hasSubmittedRound2') === 'true';
-        let myRound1Guess = localStorage.getItem('myRound1Guess') || '';
-        
-        // Admin password (insecure but works for demo)
-        const ADMIN_PASSWORD = 'oxford123';
-        
-        // Timer variables
-        let timerInterval;
-        let remainingTime = 0;
-        
-        // Bind event listeners
-        joinButton.addEventListener('click', joinGame);
-        submitGuessButton.addEventListener('click', submitRound1Guess);
-        submitTeamGuessButton.addEventListener('click', submitRound2Guess);
-        adminLoginButton.addEventListener('click', adminLogin);
-        startRound1Button.addEventListener('click', startRound1);
-        showRound1ResultsButton.addEventListener('click', showRound1Results);
-        endGameButton.addEventListener('click', endGame);
-        exportResultsButton.addEventListener('click', exportResults);
-        resetGameButton.addEventListener('click', resetGame);
-        
-        // Charts
-        let round1Chart;
-        let round2Chart;
-        
-        // Initialize the app
-        initApp();
-        
-        function initApp() {
-            // Check if student already joined
-            if (studentId && studentName) {
-                studentNameInput.value = studentName;
-                teamNameInput.value = teamName || '';
-                checkGameState();
-            }
-            
-            // Listen for game state changes
-            gameStateRef.onSnapshot(doc => {
-                const gameState = doc.data();
-                if (!gameState) return;
-                
-                updateGameState(gameState);
-            });
-            
-            // Update admin panel
-            updateAdminPanel();
-        }
-        
-        function joinGame() {
-            const name = studentNameInput.value.trim();
-            const team = teamNameInput.value.trim();
-            
-            if (!name) {
-                showError('Please enter your name');
-                return;
-            }
-            
-            // Generate a random ID if student doesn't have one
-            if (!studentId) {
-                studentId = 'student_' + Math.random().toString(36).substring(2, 15);
-            }
-            
-            // Save student info
-            studentName = name;
-            teamName = team;
-            
-            localStorage.setItem('studentId', studentId);
-            localStorage.setItem('studentName', studentName);
-            localStorage.setItem('teamName', teamName);
-            
-            // Save to database
-            studentsRef.doc(studentId).set({
-                name: studentName,
-                team: teamName,
-                joinedAt: new Date().toISOString()
-            })
-            .then(() => {
-                showSuccess('Joined the game successfully!');
-                checkGameState();
-            })
-            .catch(error => {
-                showError('Error joining game: ' + error.message);
-            });
-        }
-        
-        function submitRound1Guess() {
-            const guess = parseFloat(guessInput.value);
-            
-            if (isNaN(guess) || guess < 0 || guess > 100) {
-                showError('Please enter a number between 0 and 100');
-                return;
-            }
-            
-            if (hasSubmittedRound1) {
-                showError('You have already submitted your guess for Round 1');
-                return;
-            }
-            
-            // Save to database
-            round1GuessesRef.doc(studentId).set({
-                studentId,
-                studentName,
-                teamName,
-                guess,
-                submittedAt: new Date().toISOString()
-            })
-            .then(() => {
-                hasSubmittedRound1 = true;
-                myRound1Guess = guess;
-                localStorage.setItem('hasSubmittedRound1', 'true');
-                localStorage.setItem('myRound1Guess', guess);
-                
-                showSuccess('Your guess has been submitted!');
-                showStage('waitingForRound2');
-            })
-            .catch(error => {
-                showError('Error submitting guess: ' + error.message);
-            });
-        }
-        
-        function submitRound2Guess() {
-            const guess = parseFloat(teamGuessInput.value);
-            
-            if (isNaN(guess) || guess < 0 || guess > 100) {
-                showError('Please enter a number between 0 and 100');
-                return;
-            }
-            
-            if (hasSubmittedRound2) {
-                showError('Your team has already submitted your guess for Round 2');
-                return;
-            }
-            
-            // Check if team name exists
-            if (!teamName) {
-                showError('Please set a team name to submit a team guess');
-                return;
-            }
-            
-            // Save to database
-            round2GuessesRef.doc(teamName).set({
-                teamName,
-                guess,
-                submittedAt: new Date().toISOString(),
-                submittedBy: studentId
-            })
-            .then(() => {
-                hasSubmittedRound2 = true;
-                localStorage.setItem('hasSubmittedRound2', 'true');
-                
-                showSuccess('Your team guess has been submitted!');
-                showStage('gameComplete');
-            })
-            .catch(error => {
-                showError('Error submitting team guess: ' + error.message);
-            });
-        }
-        
-        function checkGameState() {
-            gameStateRef.get()
-                .then(doc => {
-                    const gameState = doc.data();
-                    if (!gameState) return;
-                    
-                    updateGameState(gameState);
-                })
-                .catch(error => {
-                    showError('Error checking game state: ' + error.message);
-                });
-        }
-        
-        function updateGameState(gameState) {
-            const stage = gameState.stage;
-            
-            // Update current stage for admin panel
-            if (currentStageElement) {
-                currentStageElement.textContent = stage;
-            }
-            
-            // For students
-            if (studentId && studentName) {
-                if (stage === 'waiting') {
-                    showStage('waitingForStart');
-                } else if (stage === 'round1') {
-                    if (hasSubmittedRound1) {
-                        showStage('waitingForRound2');
-                    } else {
-                        showStage('round1');
-                        startTimer(gameState.round1Timer || 300, timerElement);
-                    }
-                } else if (stage === 'round1Results') {
-                    // Display round 1 results
-                    updateRound1Results();
-                    showStage('round2');
-                    startTimer(gameState.round2Timer || 600, teamTimerElement);
-                } else if (stage === 'gameComplete') {
-                    updateFinalResults();
-                    showStage('gameComplete');
-                }
-            }
-            
-            // For admin panel
-            if (stage === 'waiting') {
-                startRound1Button.classList.remove('hidden');
-                showRound1ResultsButton.classList.add('hidden');
-                endGameButton.classList.add('hidden');
-            } else if (stage === 'round1') {
-                startRound1Button.classList.add('hidden');
-                showRound1ResultsButton.classList.remove('hidden');
-                endGameButton.classList.add('hidden');
-            } else if (stage === 'round1Results') {
-                startRound1Button.classList.add('hidden');
-                showRound1ResultsButton.classList.add('hidden');
-                endGameButton.classList.remove('hidden');
-            } else if (stage === 'gameComplete') {
-                startRound1Button.classList.add('hidden');
-                showRound1ResultsButton.classList.add('hidden');
-                endGameButton.classList.add('hidden');
-                exportResultsButton.classList.remove('hidden');
-            }
-        }
-        
-        function showStage(stageName) {
-            // Hide all stages
-            joinGameStage.classList.add('hidden');
-            waitingForStartStage.classList.add('hidden');
-            round1Stage.classList.add('hidden');
-            waitingForRound2Stage.classList.add('hidden');
-            round2Stage.classList.add('hidden');
-            gameCompleteStage.classList.add('hidden');
-            
-            // Show the requested stage
-            if (stageName === 'joinGame') {
-                joinGameStage.classList.remove('hidden');
-            } else if (stageName === 'waitingForStart') {
-                waitingForStartStage.classList.remove('hidden');
-            } else if (stageName === 'round1') {
-                round1Stage.classList.remove('hidden');
-            } else if (stageName === 'waitingForRound2') {
-                waitingForRound2Stage.classList.remove('hidden');
-            } else if (stageName === 'round2') {
-                round2Stage.classList.remove('hidden');
-            } else if (stageName === 'gameComplete') {
-                gameCompleteStage.classList.remove('hidden');
-            }
-        }
-        
-        function adminLogin() {
-            const password = adminPasswordInput.value;
+<script>
+// ==== CONFIGURATION ==== //
+const FORM_URL = 'https://forms.gle/ibsdjNcdiGNWViLq8';
+const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQuFwz0UWcMfbKjI07xaJcCenPe4NAuPHbCvqys6cH7v_wJ18rXgylNd7I_w2q2u2wbFZqftdnbf56B/pub?output=csv';
+// Google Form should feed a Google Sheet with columns: Timestamp,Team,Round,Guess
+// ==== QR CODE ==== //
+new QRCode(document.getElementById('qr'), {text: FORM_URL, width: 180, height: 180});
+
+// ==== CHART ==== //
+let chart;
+function makeChart(labels, counts) {
+  const ctx = document.getElementById('hist');
+  if (chart) chart.destroy();
+  chart = new Chart(ctx, {
+    type: 'bar',
+    data: {labels: labels, datasets: [{label: 'Frequency', data: counts}]},
+    options: {scales: {y: {beginAtZero: true}}}
+  });
+}
+
+// ==== DATA LOAD & ANALYSIS ==== //
+async function loadCSV(url) {
+  return new Promise((resolve) => {
+    Papa.parse(url, {download: true, header: true, complete: res => resolve(res.data)});
+  });
+}
+
+function analyse(rows, round) {
+  rows = rows.filter(r => r.Round == round && r.Guess !== '');
+  const guesses = rows.map(r => +r.Guess).filter(x => !isNaN(x) && x >= 0 && x <= 100);
+  if (!guesses.length) return null;
+
+  const avg = guesses.reduce((a, b) => a + b, 0) / guesses.length;
+  const target = (2 / 3) * avg;
+
+  // histogram (10‑point bins)
+  const binLabels = Array.from({length: 10}, (_, i) => `${i * 10}‑${i * 10 + 9}`);
+  const counts = Array(10).fill(0);
+  guesses.forEach(g => counts[Math.min(9, Math.floor(g / 10))]++);
+
+  // closest teams
+  const dist = guesses.map((g, i) => ({team: rows[i].Team, guess: g, gap: Math.abs(g - target)}));
+  const minGap = Math.min(...dist.map(d => d.gap));
+  const winners = dist.filter(d => d.gap === minGap);
+
+  return {avg, target, binLabels, counts, winners};
+}
+
+async function refresh() {
+  document.getElementById('stats').textContent = 'Loading…';
+  const round = document.getElementById('roundSel').value;
+  try {
+    const rows = await loadCSV(SHEET_CSV_URL);
+    const res = analyse(rows, round);
+    if (!res) {document.getElementById('stats').textContent = 'No data yet.'; return;}
+    makeChart(res.binLabels, res.counts);
+    document.getElementById('stats').innerHTML = `N = ${res.counts.reduce((a,b)=>a+b,0)}<br>mean = ${res.avg.toFixed(2)}<br>2⁄3·mean = ${res.target.toFixed(2)}`;
+    document.getElementById('winners').textContent = 'Closest team(s): ' + res.winners.map(w => `${w.team} (${w.guess})`).join(', ');
+  } catch (err) {
+    console.error(err);
+    document.getElementById('stats').textContent = 'Error loading data.';
+  }
+}
+
+// Manual + auto refresh (15 s)
+refresh();
+document.getElementById('refreshBtn').addEventListener('click', refresh);
+setInterval(refresh, 15000);
+</script>
+</body>
+</html>
