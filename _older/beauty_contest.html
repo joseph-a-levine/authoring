@@ -116,8 +116,7 @@ async function refresh() {
 // Hook up buttons & auto‑refresh only if admin
 if (isAdmin) {
   document.getElementById('refreshBtn').addEventListener('click', refresh);
-  refresh();
-  setInterval(refresh, 15000);
+  refresh()
 }
 </script>
 </body>
