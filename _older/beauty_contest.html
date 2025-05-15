@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Keynesian Beauty-Contest Game</title>
+  <title>Keynesian Beauty‑Contest Game</title>
   <!-- external libs -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -18,16 +18,16 @@
   </style>
 </head>
 <body>
-  <h1>Keynesian Beauty-Contest Game</h1>
+  <h1>Keynesian Beauty‑Contest Game</h1>
 
   <section id="instructions">
     <p><strong>How to play</strong></p>
     <ol>
       <li>Scan the QR code below (same code works for both rounds).</li>
-      <li>Form asks <em>Name/Team</em>, <em>Round</em>, and <em>Guess</em>.</li>
-      <li><strong>Round 1:</strong> type <em>your first name</em> in the Name / Team box.<br>
-          <strong>Round 2:</strong> type <em>team name</em>.</li>
-      <li>Enter a whole number 0-100. One submission per person (R1) or per team (R2).</li>
+      <li>Form asks for <em>Name / Team</em>, <em>Round</em>, and <em>Guess</em>.</li>
+      <li><strong>Round 1:</strong> type <em>your first name</em> in the Name / Team box.<br>
+          <strong>Round 2:</strong> type <em>your team name</em>.</li>
+      <li>Enter a whole number 0‑100. One submission per person (R1) or per team (R2).</li>
     </ol>
   </section>
 
@@ -45,19 +45,16 @@
   </section>
 
 <script>
-// ===== CONFIGURATION (edit these lines) =====
-const FORM_URL = 'https://forms.gle/REPLACE_WITH_YOUR_FORM';
-const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/REPLACE_WITH_SHEET_ID/pub?output=csv';
-// If you renamed column headings in the Sheet, match them here:
-const COL_TEAM  = 'Your name (Round 1) or Team name (Round 2)';
-const COL_ROUND = 'Round';
-const COL_GUESS = 'Guess';
+// ===== CONFIGURATION (edit these two lines) =====
+const FORM_URL = 'https://forms.gle/ibsdjNcdiGNWViLq8';
+
+const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQuFwz0UWcMfbKjI07xaJcCenPe4NAuPHbCvqys6cH7v_wJ18rXgylNd7I_w2q2u2wbFZqftdnbf56B/pub?output=csv';
 // ===============================================
 
 // Build QR code
 new QRCode(document.getElementById('qr'), {text: FORM_URL, width: 180, height: 180});
 
-// Parameter-gated presenter mode
+// Parameter‑gated presenter mode
 const params   = new URLSearchParams(window.location.search);
 const isAdmin  = params.get('admin') === '1';
 if (isAdmin) document.getElementById('results').style.display = 'block';
@@ -82,18 +79,18 @@ async function loadCSV(url) {
 }
 
 function analyse(rows, round) {
-  rows = rows.filter(r => r[COL_ROUND] == round && r[COL_GUESS] !== '');
-  const guesses = rows.map(r => +r[COL_GUESS]).filter(x => !isNaN(x) && x >= 0 && x <= 100);
+  rows = rows.filter(r => r.Round == round && r.Guess !== '');
+  const guesses = rows.map(r => +r.Guess).filter(x => !isNaN(x) && x >= 0 && x <= 100);
   if (!guesses.length) return null;
 
   const avg = guesses.reduce((a, b) => a + b, 0) / guesses.length;
   const target = (2 / 3) * avg;
 
-  const binLabels = Array.from({length: 10}, (_, i) => `${i * 10}-${i * 10 + 9}`);
+  const binLabels = Array.from({length: 10}, (_, i) => `${i * 10}‑${i * 10 + 9}`);
   const counts = Array(10).fill(0);
   guesses.forEach(g => counts[Math.min(9, Math.floor(g / 10))]++);
 
-  const dist = guesses.map((g, i) => ({team: rows[i][COL_TEAM] || '—', guess: g, gap: Math.abs(g - target)}));
+  const dist = guesses.map((g, i) => ({team: rows[i]['Your name (Round 1) or Team name (Round 2)'], guess: g, gap: Math.abs(g - target)}));
   const minGap = Math.min(...dist.map(d => d.gap));
   const winners = dist.filter(d => d.gap === minGap);
 
@@ -116,10 +113,10 @@ async function refresh() {
   }
 }
 
-// Manual refresh only
+// Hook up buttons & auto‑refresh only if admin
 if (isAdmin) {
   document.getElementById('refreshBtn').addEventListener('click', refresh);
-  refresh(); // initial load
+  refresh()
 }
 </script>
 </body>
